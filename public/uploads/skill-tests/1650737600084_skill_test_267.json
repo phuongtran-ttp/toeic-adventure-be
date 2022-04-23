@@ -1,0 +1,675 @@
+{
+  "name": "Skill Test 267",
+  "questions": [
+    {
+      "question": {
+        "text": "To: employees@simnetsolutions.com <br>From: management@simnetsolutions.com <br>Subject: Seminar Opportunity <br>Date: February 5<br><br>Dear Female Employees, <br>Only one week remains until registration will be closed for the Women’s Leadership Seminar. This seminar is offered free of charge to all of our female employees at Simnet Solutions. To accommodate our female employees’ busy schedules, identical seminars will be held on two different dates—February 21 and February 23. <br>In order to register for this specially designed seminar, you must e-mail James Taylor in human resources by 5:00 P.M. on February 12. This seminar will teach our female employees about how to communicate with confidence and credibility in the workplace. <br>The Simnet Solutions Management Team",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about the seminar?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will feature speaker James Taylor.",
+              "(B) It is held annually.",
+              "(C) Its fee is more expensive than the last one.",
+              "(D) It is designed for women."
+            ]
+          },
+          "answer": {
+            "text": "(D) It is designed for women.",
+            "explanation": "It is mentioned in <i>\"This seminar is offered free of charge to all of our female employees at Simnet Solutions\"</i>. This means the seminar is for women."
+          }
+        },
+        {
+          "question": {
+            "text": "When will the free registration offer end?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On February 5",
+              "(B) On February 12",
+              "(C) On February 21",
+              "(D) On February 23"
+            ]
+          },
+          "answer": {
+            "text": "(B) On February 12",
+            "explanation": "The information of the end date is mentioned in <i>\"In order to register for this specially designed seminar, you must e-mail James Taylor in human resources by 5:00 P.M. on February 12.\"</i><br>\"by 5:00 P.M. on February 12\" means February 12 is when the registration offer end."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a25"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "839493_1562638467283.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/839493_1562638467283.png",
+            "mime": "image/png",
+            "id": "626441c0eccc8cae769c2a28"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely is Nancy?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a conference room",
+              "(B) At the IT department",
+              "(C) In the supply room",
+              "(D) In her office"
+            ]
+          },
+          "answer": {
+            "text": "(C) In the supply room",
+            "explanation": "Because Kyle asked her to search for another projector in the supply room, she was headed there and texted back <i>\"there are no projectors here\"</i>. Here means the supply room so we can understand that Nancy was in the supply room."
+          }
+        },
+        {
+          "question": {
+            "text": "What did Nancy mean when she said “I’m headed there now”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She was going to the location.",
+              "(B) She would lead the presentation.",
+              "(C) She knew where the room was.",
+              "(D) She was going straight to meet him."
+            ]
+          },
+          "answer": {
+            "text": "(A) She was going to the location.",
+            "explanation": "Because Kyle asked Nancy to search for another projector in the supply room then Nancy replied: <i>\"I'm headed there now.\"</i>, that means she was on the way to suppy room."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a2a"
+    },
+    {
+      "question": {
+        "text": "<p align=\"right\">Purchased by:Tim Bailey</p> <p align=\"center\"><strong>Tate Theater</strong></p> <p align=\"center\"><strong>The Kelly Cooper Concert</strong></p> <p><br /> Time: 7:00 P.M.<br /> Date: Friday, May 20<br /> Section: General Admission<br /> Row: F Seat: 26<br /> <br /> - Guests seated in general admission should arrive at least 30 minutes before the concert begins.<br /> - For those coming by car, the location of the theater can be found on our website at www.tatetheater.com,<br /> - All ticket sales are non-refundable.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is Mr. Bailey advised to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Contact the theater for a refund",
+              "(B) Select his preferred seat on a website",
+              "(C) Arrive at the venue in advance",
+              "(D) Post a review later"
+            ]
+          },
+          "answer": {
+            "text": "(C) Arrive at the venue in advance",
+            "explanation": "<i>\"Guests seated in general admission should arrive at least 30 minutes before the concert begins\"</i><br> We can see that they advise guests should arrive at least 30 minutes before the concert begins. So that Mr. Bailey, who received the mail, is one of the guests and that means he was advised to arrive early too."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the ticket, what can be viewed on the theater’s website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A list of past performances",
+              "(B) Driving directions",
+              "(C) Concert reviews",
+              "(D) Pictures of the theater"
+            ]
+          },
+          "answer": {
+            "text": "(B) Driving directions",
+            "explanation": "<i>\"For those coming by car, the location of the theater can be found on our website at www.tatetheater.com\"</i><br> Those people who came by car could find the location of the theaters on website. That means which is viewed on the website is the driving directions."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a2d"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Gilmore Good Buy</strong></p> <p align=\"center\"><strong>Order Confirmation</strong></p> <p>&nbsp;</p> <p><br /> Name: Jenny Collins<br /> <br /> Customer ID: F833J<br /> Address: 808 Columbus Avenue, New York, NY 10025<br /> Order date: August 22</p> <p>&nbsp;</p> <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" width=\"90%\"> <tbody> </tbody> </table> <table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" width=\"90%\"> <tbody> <tr> <td align=\"center\"> <p><b>Item(s)</b></p> </td> <td align=\"center\"> <p><b>Price</b></p> </td> </tr> <tr> <td> <p>Springform pans (5 @ $5.00 each)</p> </td> <td> <p>$25.00</p> </td> </tr> <tr> <td> <p>4 oz. cocoa butter</p> </td> <td> <p>$10.99</p> </td> </tr> <tr> <td> <p>Confectioner&rsquo;s glaze (3 @ $5.90 each)*</p> </td> <td> <p>$17.70</p> </td> </tr> <tr> <td> <p>Cupcake pans (2 @ $4.00 each)</p> </td> <td> <p>$8.00</p> </td> </tr> <tr> <td align=\"right\"> <p>Merchandise Total</p> </td> <td> <p>$61.69</p> </td> </tr> <tr> <td align=\"right\"> <p>Delivery</p> </td> <td> <p>$8.99</p> </td> </tr> <tr> <td> <p>Payment: Credit Card xxxx xxxx xxxx 4026</p> </td> <td> <p>&nbsp;</p> </td> </tr> </tbody> </table><br><br>\n*_Notes: Will be delivered at a quicker speed to prevent melting or damage",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of business are the items most likely intended for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A shopping mall",
+              "(B) A bakery",
+              "(C) An appliance store",
+              "(D) A convenience store"
+            ]
+          },
+          "answer": {
+            "text": "(B) A bakery",
+            "explanation": "Based on the information on the order confirmation, it includes springform pans, cocoa butter, confectioner’s glaze, cupcake pans which are baking ingredients and kitchen utensils. So that we can deduce these items was bought for a bakery."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the order?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will be paid in installments.",
+              "(B) It will be sent separately.",
+              "(C) It has been discounted.",
+              "(D) It will be delivered at no charge."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will be sent separately.",
+            "explanation": "In the note, it can be seen that the product with * will be delivered at a quicker speed to prevent melting or damage. Therefore, the confectioner's glaze which is noted with * will be sent seperately."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a30"
+    },
+    {
+      "question": {
+        "text": "<p style=\"text-align: center;\"><strong>Community Victory</strong></p> <p>After a months-long battle to stop the development of a new shopping mall on the location of the former Rivervalley Courthouse, residents, local businesses, and civic groups are cheering the decision to keep the 150-year-old building intact. - [1] - &ldquo;We&rsquo;re dissappointed,&rdquo; added Branford Construction&#39;s CEO. &ldquo;We felt that the community would benefit and grow, but obviously, residents want to preserve their history and I respect that.&rdquo;<br /> Instead, efforts are being made to restore the old deserted courthouse to its former glory. - [2] - &ldquo;The community is getting together for this and we are collecting donations to have the building renovated,&rdquo; said local resident Enid Tran. &quot;We hope to make a public library or school out of the building.&rdquo;<br /> - [3] - &ldquo;It&rsquo;s been here for as long as I can remember. In fact, my grandfather worked as a clerk there,&rdquo; added a local business owner, Kevin Lamb. &ldquo;It&rsquo;s an iconic symbol of our community and we don&rsquo;t want it destroyed.&rdquo; The community has already raised over $100,000 through an online petition and donations keep pouring in. - [4] - The community hopes that restoration of the building begins within the next couple of months</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about the old courthouse?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Branford Construction wants to renovate the building.",
+              "(B) The residents want to turn the building into a shopping mall.",
+              "(C) It may become a public library or school.",
+              "(D) It may be destroyed."
+            ]
+          },
+          "answer": {
+            "text": "(C) It may become a public library or school.",
+            "explanation": "<i>\"Instead, efforts are being made to restore the old deserted courthouse to its former glory.  “The community is getting together for this and we are collecting donations to have the building renovated,” said local resident Enid Tran. \"We hope to make a public library or school out of the building.”\"</i><br>It can be seen from this passage that thay hope to restore the old deserted courthouse to a public library or school."
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong?<br> “Branford Construction, the development company that originally planned to build the shopping mall, is looking to build the mall outside of the Rivervalley Community.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": "Based on the first sentence of the passage which mentions Rivervalley Courthouse, we can add the sentence to [1]."
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the fundraising efforts?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The community made a lot of money from the land.",
+              "(B) It has been occuring online.",
+              "(C) The city government has been helping",
+              "(D) They haven’t raised enough money"
+            ]
+          },
+          "answer": {
+            "text": "(B) It has been occuring online.",
+            "explanation": "<i>\"The community has already raised over $100,000 through an online petition and donations keep pouring in.\" </i><br> The fundraising was made through an online petition."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a33"
+    },
+    {
+      "question": {
+        "text": "To:  Stacey Johnson <sjohnson@toplineelec.com> <br>From: Josh Fleck <jfleck@toplineelec.com><br>Date: October 22<br>Subject:  Strategic Planning<br><br>Dear Ms. Johnson, <br><br>District Management at Topline Electronics would like to inform you about a new development that will be affecting your store. Another competing consumer electronics store will be opening in the Crayville area on November 12. <br><br>In order to ensure that Topline Electronics does not lose business to this new store, District Management is advising you to run a special sale on our new line of curved UHD televisions. These televisions provide state-of-the-art features at moderate prices. By showing your customers that Topline Electronics offers the best deals in the area, you will be able to maintain customer loyalty. We will be shipping the new televisions to your store within the next week. We suggest you prepare a prominent display space in your store to feature them. You should also update your website to advertise the sale. <br><br>Smooth communication between you and US is vital to effective operational practices. If you have any questions concerning the new televisions or the marketing campaign in general, please don’t hesitate to contact District Management. <br><br>Sincerely, <br><br>Josh Fleck District Manager, <br>Topline Electronics",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is Ms. Johnson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A store manager",
+              "(B) A customer",
+              "(C) A product developer",
+              "(D) A marketing specialist"
+            ]
+          },
+          "answer": {
+            "text": "(A) A store manager",
+            "explanation": "<i>District Management at Topline Electronics would like to inform you about a new development that will be affecting your store.</i> It can be inferred from the passage that Ms. Johnson owns a store."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Topline Electronics?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It recently opened a new store location.",
+              "(B) It will be relocated to the Crayville area.",
+              "(C) It is concerned about market competition.",
+              "(D) It was nominated for an annual award."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is concerned about market competition.",
+            "explanation": "The information is in: <i>\"In order to ensure that Topline Electronics does not lose business to this new store, District Management is advising you to run a special sale on our new line of curved UHD televisions.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is Ms. Johnson NOT instructed to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Add new information to a website",
+              "(B) Hire additional staff",
+              "(C) Contact Management if necessary",
+              "(D) Arrange a sale display area"
+            ]
+          },
+          "answer": {
+            "text": "(B) Hire additional staff",
+            "explanation": "(A) - You should also update your website to advertise the sale.<br> (C) - If you have any questions concerning the new televisions or the marketing campaign in general, please don’t hesitate to contact District Management.<br> (D) - We suggest you prepare a prominent display space in your store to feature them."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a36"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "1723948_1562638470880.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/1723948_1562638470880.png",
+            "mime": "image/png",
+            "id": "626441c0eccc8cae769c2a39"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of business do the online speakers work at?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A law firm",
+              "(B) An office supply company",
+              "(C) A furniture shop",
+              "(D) A moving company"
+            ]
+          },
+          "answer": {
+            "text": "(B) An office supply company",
+            "explanation": "It can be inferred from the messages which mention about the distributors, desk, office chairs and manufacturing sites that the speakers work at an office supply company."
+          }
+        },
+        {
+          "question": {
+            "text": "When will the crew begin work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tuesday",
+              "(B) Wednesday",
+              "(C) Thursday",
+              "(D) Friday"
+            ]
+          },
+          "answer": {
+            "text": "(C) Thursday",
+            "explanation": "<i>\"The desks and chairs will arrrive directly at P&R Industries from the assebly lines on Thursday.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What will Johnny Jordan probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Contact the distributors",
+              "(B) Organize a meeting",
+              "(C) Gather a large crew",
+              "(D) Call the client"
+            ]
+          },
+          "answer": {
+            "text": "(C) Gather a large crew",
+            "explanation": "<i>\"Alright, and I'll get a large crew there so that the work can be finished by Friday as planned.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Monica stein mean by “I’m on it”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She’ll organize the movers.",
+              "(B) She’ll wait until she gets more information.",
+              "(C) She’ll visit the manufacturers.",
+              "(D) She’ll contact the client."
+            ]
+          },
+          "answer": {
+            "text": "(D) She’ll contact the client.",
+            "explanation": "Because Harry asked her to inform Mr.Kline about that."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a3b"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Fulton Stainless steel Products</strong></p> <p>Fulton Stainless steel Products is a large-scale manufacturer making stainless steel industrial kitchen appliances in factories in Germany and France. The company&rsquo;s products are trusted by chefs and bakers around the world to be durable, long-lasting, and of superb quality. The company produces kitchen stoves, ovens, microwaves, refrigerators, food processors, electric kettles, coffee makers, and other products.<br /> <br /> After acquiring the Visor Home Products Company in a deal last month, the company expected its overall profits to increase 20% compared to the last fiscal year. As a result, to meet increased demand, the company will employ more than 300 full-time workers in our six factories and offer good pay with an excellent benefits package. The company considers all of its employees valuable members of the Fulton family. Additionally, the company continues to research and develop new products to satisfy its customers and compete with other companies.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is most likely to be a customer of Fulton Stainless steel Products?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A car manufacturer",
+              "(B) A restaurant",
+              "(C) A real estate agency",
+              "(D) A clothing store"
+            ]
+          },
+          "answer": {
+            "text": "(B) A restaurant",
+            "explanation": "<i>\"Fulton Stainless steel Products is a large-scale manufacturer making stainless steel industrial kitchen appliances in factories in Germany and France.\"</i> We can see they manufacture kitchen appliances which are used in restaurant."
+          }
+        },
+        {
+          "question": {
+            "text": "What did Fulton Stainless steel Products do last month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It held a press conference.",
+              "(B) It opened a new factory.",
+              "(C) It obtained a company.",
+              "(D) It laid off some workers."
+            ]
+          },
+          "answer": {
+            "text": "(C) It obtained a company.",
+            "explanation": "It is mentioned in: <i>\"After acquiring the Visor Home Products Company in a deal last month\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about Fulton Stainless Steel Products?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It recently provided extra funding for research and development.",
+              "(B) It has released a budget proposal for next year.",
+              "(C) It offers a benefits package to its part- time employees.",
+              "(D)  It plans to hire additional employees to work in factories."
+            ]
+          },
+          "answer": {
+            "text": "(D)  It plans to hire additional employees to work in factories.",
+            "explanation": "It can be inferred from:<i>\"...the company will employ more than 300 full-time workers in our six factories and offer good pay with an excellent benefits package.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a3e"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Employee Winner of National Contest</strong></p> <p>One of our employees here at Arrow Design Laboratory, Jennifer Holt, has won first place in a web design contest hosted by the Association of Web Designers. Entrants were judged according to clarity of idea, quality of execution, and aesthetics. Ms. Holt was selected among over 300 different applicants. We applaud her achievement and are so happy to have her as an employee at Arrow Design Laboratory.<br /> <br /> The Association of Web Designers (AWD) is an organization founded in 2002 with the goal ọf emphasizing the importance of web design and protecting the rights of web designers. The AWD has members all over the world and is constantly gaining new members. The AWD hosts a variety of contests in order to promote web design as a professional field. The AWD believes that good design can enhance people&#39;s lives and build better communities.<br /> <br /> As a recipient of the first place for the web design contest, Ms. Holt will receive a cash prize as well as free membership in the Association of Web Designers. In addition, she has been invited to give a speech at the Annual Web Designers&#39; Conference to be held next month in Los Angeles, California. The AWD will be holding more contests in the future, and those interested should visit the website at www.awd.com/contests to find out more information.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why most likely was the article written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To introduce a new employee",
+              "(B) To report on an award winner",
+              "(C) To announce an annual competition",
+              "(D) To describe a change in company policy"
+            ]
+          },
+          "answer": {
+            "text": "(B) To report on an award winner",
+            "explanation": "The information can be inferred from: <i>\"One of our employees here at Arrow Design Laboratory, Jennifer Holt, has won first place in a web design contest hosted by the Association of Web Designers.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “founded” in paragraph 2, line 1, is closest in meaning to:",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) discovered",
+              "(B) learned",
+              "(C) established",
+              "(D) equipped"
+            ]
+          },
+          "answer": {
+            "text": "(C) established",
+            "explanation": "founded is past form of found (to start something, such as an organization or an institution, especially by providing money) which has the same meaning as establish."
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the Association of Web Designers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It holds a conference every year.",
+              "(B) It is based in Los Angeles.",
+              "(C) It currently offers free membership.",
+              "(D) It donates to community projects."
+            ]
+          },
+          "answer": {
+            "text": "(A) It holds a conference every year.",
+            "explanation": "It can be inferred from <i>\"...she has been invited to give a speech at the Annual Web Designers'Conference\" </i> that annual is happening or done once every year."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, what can be found on the website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A transcript of a speech",
+              "(B) An application for an open position",
+              "(C) Details about upcoming contests",
+              "(D) A list of Ms. Holt’s accomplishments"
+            ]
+          },
+          "answer": {
+            "text": "(C) Details about upcoming contests",
+            "explanation": "<i>The AWD will be holding more contests in the future, and those interested should visit the website at www.awd.com/contests to find out more information.</i> "
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a41"
+    },
+    {
+      "question": {
+        "text": "16 July, Newtown—Health Shack is downtown Newtown's hottest new hangout for fitness buffs and corporate employees alike. - [1] - Owners Jill and Barry Baker opened the shop last month to rave reviews and long lines. Getting a seat or table at Health Shack can take as long as 30 minutes on a good day and the place is always crowded no matter the time of day. Health Shack offers only six items on its menu; all are protein shakes including the best sellers, Apple Pie, Peanut Butter Cup, and Tuity Fruity. - [2] - \"We were overwhelmed by the response,\" says Jill Baker. \"In fact, everything spread by word of mouth so we didn't even need to advertise.\" Fitness Instructor Julian Miles said, \"I love coming here for a quick lunch that won't wreck my fitness goals. I even recommend this place to all my patrons.\"- [3] - \"I come here to get a healthy but satisfying meal during my short break with my co-workers,\" added businessman Tim Hammer. \"Without Health Shack, we'd be eating junk food.\" - [4] - Health Shack is open from 7:00 A.M. to 8:00 P.M. from Mondays through Fridays, and from 9:00 A.M. to 7:00 P.M. on Saturdays. It closes on Sundays. The owners hope to add new flavors to the menu in the coming months.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about the shop?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is very successful.",
+              "(B) It only offers take-out.",
+              "(C) It has been open for a longtime.",
+              "(D) Only fitness experts patron the shop."
+            ]
+          },
+          "answer": {
+            "text": "(A) It is very successful.",
+            "explanation": "It can be inferred from <i>\" Getting a seat or table at Health Shack can take as long as 30 minutes on a good day and the place is always crowded no matter the time of day.\"</i> that the shop is always crowded and it takes long time to get a seat."
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested  about Health Shack products?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are very delicious.",
+              "(B) They are healthy.",
+              "(C) They are cheap.",
+              "(D) They are easy to get."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are healthy.",
+            "explanation": "Based on the review of the customers about the products which are healthy but satifying meal and will not wreck the fitness goal."
+          }
+        },
+        {
+          "question": {
+            "text": "Why don’t the owners advertise?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They don’t have enough money.",
+              "(B) They are too busy.",
+              "(C) Their customers recommend the place to others",
+              "(D) They don’t want to."
+            ]
+          },
+          "answer": {
+            "text": "(C) Their customers recommend the place to others",
+            "explanation": "The information can be inferred from: <i>\"\"We were overwhelmed by the response,\" says Jill Baker.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong?<br> “Despite the limited number of products on the menu, customers can’t get enough of the tasty but healthy shakes that are on offer.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1 ]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(B) [2]",
+            "explanation": "Based on the information in <i>\"Health Shack offers only six items on its menu; all are protein shakes including the best sellers, Apple Pie, Peanut Butter Cup, and Tuity Fruity.\"</i>, it can be inferred that the number of the item on menu is limited."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a44"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "EASY",
+  "id": "626441c0eccc8cae769c2a47"
+}

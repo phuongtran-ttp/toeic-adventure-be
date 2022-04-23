@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 116",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "855997391-1487305625596.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/855997391-1487305625596.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05e5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: <strong>Q1&nbsp;This is the registration desk. </strong>May I help you?<br /> M: Hi. <strong>Q2&nbsp;I was calling to reschedule an appointment </strong>I have with Dr. Go to on June 13.<br /> W: Have you been a patient here at the Mara Clinic before, sir?<br /> M: Yes, just once. <strong>Q3&nbsp;I saw Dr. Hanson at the end of last year, I think it was in December.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A doctor",
+              "(B)A university professor",
+              "(C)An office receptionist",
+              "(D)A hotel clerk"
+            ]
+          },
+          "answer": {
+            "text": "(C)An office receptionist",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man want to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Change a doctor’s appointment",
+              "(B) Sign up for a course at a university",
+              "(C) Make a restaurant reservation",
+              "(D) Pay for a hotel room"
+            ]
+          },
+          "answer": {
+            "text": "(A)Change a doctor’s appointment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When did the man see Dr. Hanson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In May",
+              "(B)In June",
+              "(C)In November",
+              "(D)In December"
+            ]
+          },
+          "answer": {
+            "text": "(D)In December",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05e9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "727874531-1578906155152.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/727874531-1578906155152.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05e0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Au: Hitomi, did you know that <b> Q2 Andy Torino, the famous jazz musician, is performing at the Orchestra Hall on June 18th? </b><br>W-Br: I’d love to go and see him. <b> Q2 But that date doesn’t work. Q1 My friend is getting married then, and I’ll be out of town for the wedding. </b><br>M-Au: Wait, let me check. Oh, <b> Q2 it looks like Andy Torino will be back for one more night jazz a few weeks later. Do you want to go then? </b><br>W-Br: Let me see the schedule. <b> Q2 Oh yeah, that’s perfect. Q3 Let’s check if anyone else from our office would like to go and see the concert. I’ll send out an e-mail right now. </b><br><br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely do the men work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a convention center",
+              "(B) At a television station",
+              "(C) At a bookstore",
+              "(D) At a theater"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a convention center",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A photographer",
+              "(B) A musician",
+              "(C) An actress",
+              "(D) An author"
+            ]
+          },
+          "answer": {
+            "text": "(D) An author",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman request?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A film ticket",
+              "(B) A beverage",
+              "(C) A pen",
+              "(D) A parking pass"
+            ]
+          },
+          "answer": {
+            "text": "(C) A pen",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05e3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_364.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_364.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05ef"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M:&nbsp;I need to make 30 copies of this flyer for the book sale on Thursday, but <strong>Q1&nbsp;the copying machine is broken again.</strong><br /> W: Well, <strong>Q2&nbsp;it&rsquo;s only Monday. </strong>Maybe we can get it repaired before then.<br /> M: I think it&rsquo;s beyond repair. I think we need a new one.<br /> W: <strong>Q3&nbsp;How about if I call Tom in the purchasing office</strong> to see if he&rsquo;ll approve a purchase order for a new machine?</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The coffeemaker is broken.",
+              "(B)The man cannot make copies.",
+              "(C)The woman did not approve the flyers.",
+              "(D)The book sale has been canceled."
+            ]
+          },
+          "answer": {
+            "text": "(B)The man cannot make copies.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When does this conversation take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Monday",
+              "(B)On Tuesday",
+              "(C)On Wednesday",
+              "(D)On Thursday"
+            ]
+          },
+          "answer": {
+            "text": "(A) On Monday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest they do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Hire an accountant",
+              "(B)Call a repair person",
+              "(C)Contact Tom",
+              "(D)Purchase the books"
+            ]
+          },
+          "answer": {
+            "text": "(C)Contact Tom",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05f3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_3101.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_3101.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05e7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Susan, <strong>Q1&nbsp;I need a reporter to cover the Middteton Book Festival at the local library this Saturday, and I wonder if you can do it. </strong>You would have to be there by ten o&rsquo;clock for the library director&rsquo;s speech.<br /> W: Sure - I&rsquo;d love to do that. In fact, I know a local author of mystery novels who will be there signing her books. <strong>Q2&nbsp;I hope I&rsquo;ll get a chance to interview her.</strong><br /> M: That would be great. It would make the article more interesting. Oh, and <strong>Q3&nbsp;take NealWilson with you so he can take some pictures of the event.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A store owner",
+              "(B)A news reporter",
+              "(C)A filmmaker",
+              "(D)A librarian"
+            ]
+          },
+          "answer": {
+            "text": "(B)A news reporter",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she would like to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Host a reception",
+              "(B)Take a class",
+              "(C)Raise funds for a project",
+              "(D)Speak with an author"
+            ]
+          },
+          "answer": {
+            "text": "(D)Speak with an author",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Neal Wilson do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Provide transportation",
+              "(B)Approve some expenses",
+              "(C) Take photographs",
+              "(D) Unpack some merchandise"
+            ]
+          },
+          "answer": {
+            "text": "(C) Take photographs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05ed"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_365.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_365.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05f9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: I heard that Fran retired last week. Are they planning to hire anyone to take her place?<br /> W: I hope so. <strong>Q1&amp;2&nbsp;We&rsquo;re already understaffed, and the contract we got yesterday</strong> will mean more work.<br /> M: I agree. Maybe <strong>Q3&nbsp;they can move someone from the merchandising office over here.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The stock of merchandise is running low.",
+              "(B)Someone moved the supplies.",
+              "(C)The machine needs to be repaired.",
+              "(D)There are not enough employees."
+            ]
+          },
+          "answer": {
+            "text": "(D)There are not enough employees.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What happened yesterday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A worker retired.",
+              "(B)A plan was drawn up.",
+              "(C)A contract was received.",
+              "(D) A manager was promoted."
+            ]
+          },
+          "answer": {
+            "text": "(C)A contract was received.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest as a solution?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Contacting a repair person",
+              "(B) Asking the staff to sign new contracts",
+              "(C)Getting help from another department",
+              "(D)Putting new products on sale"
+            ]
+          },
+          "answer": {
+            "text": "(C)Getting help from another department",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05fd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "618769285-1568359148833-065.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/618769285-1568359148833-065.png",
+            "mime": "image/png",
+            "id": "6264416feccc8cae769c05f1"
+          }
+        ],
+        "sound": [
+          {
+            "name": "14413490-1578906217500.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/14413490-1578906217500.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05f7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: Welcome to Miller’s Clothing Shop. May I help you? <br>W-Am: Hi. I was in here last week. Do you remember me? <br>M-Cn: Oh yes. I helped you pick out some clothes for work. Is there a problem? <br>W-Am: Well, <b> Q1 my friend threw me a party yesterday because it was my birthday. And Q2 someone gave me the same sweater I bought here last week! So, I’d like to return that one and get my money back. </b><br>M-Cn: We can do that. But you could also exchange it for something else. We just got a brand-new shipment of pants and skirts in beautiful spring colors. <br>W-Am: No, thanks. <b> Q3 I’d just like a refund for the sweater. </b><br>M-Cn: Sure. Can I see your receipt? <br><br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of event did the woman go to yesterday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A retirement celebration",
+              "(B) A birthday party",
+              "(C) An awards ceremony",
+              "(D) A business conference"
+            ]
+          },
+          "answer": {
+            "text": "(B) A birthday party",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman want to return a piece of clothing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She received the same item as a gift.",
+              "(B) She found a better price in another store.",
+              "(C) The item was damaged.",
+              "(D) The item does not fit well."
+            ]
+          },
+          "answer": {
+            "text": "(A) She received the same item as a gift.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much will be refunded?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $50",
+              "(B) $20",
+              "(C) $45",
+              "(D) $115"
+            ]
+          },
+          "answer": {
+            "text": "(C) $45",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c05ff"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_3102.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_3102.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c05fb"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Excuse me.<strong> Q1&nbsp;I seem to have lost my parking ticket.</strong> I thought I&rsquo;d left it somewhere in my car, but it&rsquo;s not there. I&rsquo;ve been parked in this garage for three hours-can I just pay you for that amount?<br /> W: I&rsquo;m afraid not. Unfortunately, <strong>Q2&nbsp;we have to charge the full-day rate for all lost tickets. </strong>That&rsquo;s $30. I&rsquo;d recommend looking in your car again so you can avoid paying the higher amount.<br /> M: It&rsquo;s definitely not in my car. But I just came from a movie across the Street.<strong> Q3&nbsp;Let me go back and check if I dropped the ticket somewhere in the theater.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the conversation most likely taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a parking garage",
+              "(B) At a movie theater",
+              "(C) At a car rental agency",
+              "(D) At a concert hall"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a parking garage",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the woman, what must the man do if he has lost his ticket?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Speak to a supervisor",
+              "(B) Pay a higher rate",
+              "(C)Show a receipt",
+              "(D)Fill out a report"
+            ]
+          },
+          "answer": {
+            "text": "(B) Pay a higher rate",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Move his vehicle",
+              "(B)Provide a license plate number",
+              "(C)Look in his car",
+              "(D)Return to the theater"
+            ]
+          },
+          "answer": {
+            "text": "(D)Return to the theater",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c0602"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_366.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_366.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c0605"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: <strong>Q1&nbsp;Now that my business is expanding, the office is starting to seem too small. </strong>I&rsquo;ve started looking for a new place to rent.<br /> W: <strong>Q2&nbsp;Have you looked at the area around the train station? </strong>There are some business properties that are being renovated there.<br /> M: That&rsquo;s a good idea, <strong>Q3&nbsp;I&rsquo;ll look over there tomorrow.</strong><br /> W: According to the weather forecast, tomorrow should be a nice day to walk around.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the man’s problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)His business is not growing very fast.",
+              "(B)His office is not big enough.",
+              "(C)He missed his train.",
+              "(D)He just moved into town."
+            ]
+          },
+          "answer": {
+            "text": "(B)His office is not big enough.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Take the train to work",
+              "(B)Check the weather forecast",
+              "(C)Explore the train station area",
+              "(D)Expand his business contacts"
+            ]
+          },
+          "answer": {
+            "text": "(C)Explore the train station area",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man most likely do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Continue his search tomorrow",
+              "(B)Renovate his office",
+              "(C)Try to think of another idea",
+              "(D)Walk home from the office"
+            ]
+          },
+          "answer": {
+            "text": "(A) Continue his search tomorrow",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c060a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_3103.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_3103.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c060c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: <strong>Q1&nbsp;I think we&rsquo;ll need to schedule more wait staff for next Saturday. There&rsquo;s a basketball game in the stadium next door, and we&rsquo;ll have a big lunch crowd after it&rsquo;s over.</strong><br /> M: Definitely,&nbsp;<strong>Q2&nbsp;we should have at least three servers here for lunch.</strong><br /> W: Well, Gabby and Keith are already scheduled. <strong>Q3&nbsp;But Juan is working in the morning - I&rsquo;ll see if he can work an extra shift.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a restaurant",
+              "(B) At a fitness center",
+              "(C)At a sports stadium",
+              "(D)At a hotel"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Watching a game",
+              "(B)Preparing for extra customers",
+              "(C)Planning a renovation",
+              "(D)Opening another location"
+            ]
+          },
+          "answer": {
+            "text": "(B)Preparing for extra customers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman ask Juan to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Provide some directions",
+              "(B)Request a cost estimate",
+              "(C)Work extra hours",
+              "(D)Give a demonstration"
+            ]
+          },
+          "answer": {
+            "text": "(C)Work extra hours",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c0611"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_367.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_367.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c0613"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Excuse me. <strong>Q2&nbsp;Is Kathy Capriola playing in the afternoon show today?</strong><br /> W: Yes, but all tickets for that show are sold out. There are some available for the evening performance, though.<br /> M: Okay. <strong>Q3&nbsp;I&rsquo;ll be back for tonight&rsquo;s show. </strong>Can I buy tickets now?<br /> W: Sure. How many would you like?</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the conversation take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a theater",
+              "(B)At a restaurant",
+              "(C)At a recording studio",
+              "(D)At an airport"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a theater",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Kathy?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A waitress",
+              "(B)A ticket agent",
+              "(C)A performer",
+              "(D)A producer"
+            ]
+          },
+          "answer": {
+            "text": "(C)A performer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man do tonight?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Have dinner with a friend",
+              "(B)Purchase a discount ticket",
+              "(C)Perform in a play",
+              "(D)Watch a show"
+            ]
+          },
+          "answer": {
+            "text": "(D)Watch a show",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c0618"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "EASY",
+  "id": "6264416feccc8cae769c0620"
+}

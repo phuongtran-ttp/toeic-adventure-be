@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 245",
+  "questions": [
+    {
+      "question": {
+        "text": "<p><strong>Beverly Boutique: Sales Assistant Position</strong></p> <p>Our boutique is looking for enthusiastic candidates for our sales assistant position. <b> (1)</b>_____. Previous experience in a similar position is preferred, but not necessary. Organizational skills is also a must, as well as some experience with computer use. Most of all, we need someone who is personable, someone who can make customers feel <b> (2)</b>_____ , and someone who is passionate about fashion. Duties will include serving customers, taking inventory, and minor jobs around the boutique such as sweeping and locking the doors at closing time. Payment will be by sales commission which gives employees more <b> (3)</b>_____ to serve their customers as best they can. Hours will be flexible. For more information, please visit our website.<br /> If you <b> (4)</b>_____ in the position, please send your resume to Rita at rian@bboutique.com</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Our boutique is looking for enthusiastic candidates for our sales assistant position. <b> (1)</b>_____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our boutique is the leader in trendy fashions.",
+              "(B) Hurry before the promotion ends.",
+              "(C) Candidates need to be friendly and able to communicate with customers in all kinds of situations.",
+              "D) Come visit our store to see what our business is about."
+            ]
+          },
+          "answer": {
+            "text": "(C) Candidates need to be friendly and able to communicate with customers in all kinds of situations.",
+            "explanation": "The previous sentence indicates that \"Our boutique is looking for enthusiastic candidates for our sales assistant position\" => this sentence is about \"Candidates\""
+          }
+        },
+        {
+          "question": {
+            "text": "Most of all, we need someone who is personable, someone who can make customers feel  <b> (2)</b>_____ , and someone who is passionate about fashion.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) comfortable",
+              "(B) appropriate",
+              "(C) neglected",
+              "(D) convenient"
+            ]
+          },
+          "answer": {
+            "text": "(A) comfortable",
+            "explanation": "Based on the meaning of words, \"comfortable\" is the most appropriate answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Payment will be by sales commission which gives employees more <b> (3)</b>_____ to serve their customers as best they can.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) influence",
+              "(B) incentive",
+              "(C) insistence",
+              "(D) consideration"
+            ]
+          },
+          "answer": {
+            "text": "(B) incentive",
+            "explanation": "incentive + to infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "If you <b> (4)</b>_____  in the position, please send your resume to Rita at rian@bboutique.com",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) be interesting",
+              "(B) were interesting",
+              "(C) interest",
+              "(D) are interested"
+            ]
+          },
+          "answer": {
+            "text": "(D) are interested",
+            "explanation": "be interested in + something"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c2693"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Handy Maids Home Service</strong></p> <p>Call us at 555-1244<br /> Handy Maids Home Service <b> (1)</b>_____ professional cleaning services for your business or home. We steam vacuum carpeted areas, polish hard-wood flooring, wipe away all traces of dust and dirt in hard-to-find areas, and clean out clutter. Our <b> (2)</b>_____ service is second to none in the tri-state area. We provide a one-day service after estimations are calculated. <b> (3)</b>_____, we provide weekly and monthly services for customers who request it.<br /> The cleaning products we use are environmentally friendly and pet and child safe. <b> (4)</b>_____.<br /> Please visit our website at www.handymaids.com or call US for more information.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Handy Maids Home Service <b> (1)</b>_____  professional cleaning services for your business or home.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) provide",
+              "(B) provides",
+              "(C) provided",
+              "(D) providing"
+            ]
+          },
+          "answer": {
+            "text": "(B) provides",
+            "explanation": "Use present simple to talk about facts, the subject is \"Handy Maids Home Service\""
+          }
+        },
+        {
+          "question": {
+            "text": "Our <b> (2)</b>_____   service is second to none in the tri-state area. We provide a one-day service after estimations are calculated.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) unusual",
+              "(B) peculiar",
+              "(C) best",
+              "(D) exceptional"
+            ]
+          },
+          "answer": {
+            "text": "(D) exceptional",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3)</b>_____, we  provide weekly and monthly services for customers who request it.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In addition",
+              "(B) Because",
+              "(C) On the other hand",
+              "(D) As a result"
+            ]
+          },
+          "answer": {
+            "text": "(A) In addition",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "The cleaning products we use are environmentally friendly and pet and child safe. <b> (4)</b>_____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We make sure that your pets and children don’t go near the chemicals.",
+              "(B) In fact, we aim to make the home and business a safe and clean place without the use of harsh chemicals.",
+              "(C) The all-natural cleaning agents may not be as effective, but they are safe.",
+              "(D) Pets and children will be asked to leave the premises during cleaning."
+            ]
+          },
+          "answer": {
+            "text": "(B) In fact, we aim to make the home and business a safe and clean place without the use of harsh chemicals.",
+            "explanation": "The previous sentence mentions \"environmentally friendly\" => B is the right answer"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c2696"
+    },
+    {
+      "question": {
+        "text": "October 09 <br> Bob Prosser <br>342 Winkler Ave<br> Fairbanks, AK 20037<br><br>Dear Mr. Prosser, <br> The information that you <b> (1)</b>_____ about changes to the hunting permit scheme has been enclosed. Please note that each permit must be filled out and applied for separately. When filling out your application, you must mark all answers clearly and with a black or blue pen. <br>Please do not use cursive script, print only. Each application <b> (2)</b>_____ enclosed in its own envelope and received before the applicable deadline. <b> (3)</b>_____. Because of this, you must plan your submissions in a timely fashion to make sure that you receive your permit while the applicable season is still open. I hope that the information <b> (4)</b>_____answers all of your questions. Take care and happy hunting. <br><br>Sincerely, <br>Shirley Horn <br>Executive Secretary <br>Department of Wildlife <br>Fairbanks, Alaska 31009",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The information that you <b> (1)</b>_____ about changes to the hunting permit scheme has been enclosed.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) provided",
+              "(B) supply",
+              "(C) request",
+              "(D) requested"
+            ]
+          },
+          "answer": {
+            "text": "(D) requested",
+            "explanation": "Based on the meaning of words\n"
+          }
+        },
+        {
+          "question": {
+            "text": "Each application <b> (2)</b>_____ enclosed in its own envelope and received before the applicable deadline.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) won’t be",
+              "(B) would be",
+              "(C) must be",
+              "(D) couldn’t be"
+            ]
+          },
+          "answer": {
+            "text": "(B) would be",
+            "explanation": "Use \"would be\" to refer to what is very likely"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3)</b>_____. Because of this, you must plan your submissions in a timely fashion to make sure that you receive your permit while the applicable season is still open.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Received applications can take up to 5 weeks to process.",
+              "(B) Applications are never approved before the season is over.",
+              "(C) Sometimes applications get lost.",
+              "(D) Never make an application in person."
+            ]
+          },
+          "answer": {
+            "text": "(A) Received applications can take up to 5 weeks to process.",
+            "explanation": "Based on the following sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "I hope that the information <b> (4)</b>_____answers all of your questions. Take care and happy hunting.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) enclose",
+              "(B) enclosing",
+              "(C) inclose",
+              "(D) enclosed"
+            ]
+          },
+          "answer": {
+            "text": "(D) enclosed",
+            "explanation": "Reduced relative clause with passive form: \"the information enclosed\" = the information which is enclosed"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c2699"
+    },
+    {
+      "question": {
+        "text": "Date: August 22 <br> To: All Sales Team Members<br>From:  Melinda Lackey,Sales Manager<br> Subject: Rental Policy<br><br> For some <b> (1)</b>_____, we allowed sales reps to pay for their car rentals up front with their personal cards or cash and then be reimbursed later. This is no longer the policy. It has not been the policy for over two months now. As of June 15, all payments for rentals were supposed to have <b> (2)</b>_____  with the company card that was assigned to each of you. Larry in accounting has informed me that he has received 6 different reimbursement forms since then. I have gone ahead and allowed Larry to process those 6 forms.<b> (3)</b>_____.  I’m sorry for the <b> (4)</b>_____  tone, but everyone was asked to do this in July. If you have any questions, please contact me directly.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "For some <b> (1)</b>_____, we allowed sales reps to pay for their car rentals up front with their personal cards or cash and then be reimbursed later.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) distances",
+              "(B) place",
+              "(C) event",
+              "(D) time"
+            ]
+          },
+          "answer": {
+            "text": "(D) time",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "As of June 15, all payments for rentals were supposed to have <b> (2)</b>_____  with the company card that was assigned to each of you",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) making",
+              "(B) to be made",
+              "(C) makes",
+              "(D) been made"
+            ]
+          },
+          "answer": {
+            "text": "(D) been made",
+            "explanation": "The subject is \"all payments\" and the verb is \"make\"=> use passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "I have gone ahead and allowed Larry to process those 6 forms. <b> (3)</b>_____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Only Fonitna Rental should be used to book cars in the future.",
+              "(B) But, as of tomorrow, no one will be reimbursed.",
+              "(C) He will redesign the form by the beginning of next week.",
+              "(D) Everyone is required to turn in their cards as soon as possible."
+            ]
+          },
+          "answer": {
+            "text": "(B) But, as of tomorrow, no one will be reimbursed.",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "I’m sorry for the <b> (4)</b>_____  tone, but everyone was asked to do this in July.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) overreaching",
+              "(B) gracious",
+              "(D) harsh",
+              "(c) benevolent"
+            ]
+          },
+          "answer": {
+            "text": "(D) harsh",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c269c"
+    },
+    {
+      "question": {
+        "text": "From: Young Ho Woo, Office of Professional Development <br>To: All employees<br>Subject: Lecture series<br>Date: Tuesday, October 1<br><br>Dear Colleagues, <br>The first of our Surveying the Field lectures will be held on October 3. This  <b>(1)</b> ______ lecture will, be led by Roberto Colon, founder of the successful start-up Radio Dedicate. Mr. Colon  <b>(2)</b> ______  what established technology companies can learn from start-up businesses. Mr. Colon's talk is the only one in the series that addresses start-ups. <b>(3)</b> ______ . <br>As you know, Mr. Colon is a great leader in the industry, we hope all staff will be present. Nevertheless, you must seek  <b>(4)</b> ______  your manager before attending. <br><br>Thank you, <br>Young Ho Woo",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This  <b>(1)</b> ______ lecture will, be led by Roberto Colon, founder of the successful start-up Radio Dedicate.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) final",
+              "(B) daily",
+              "(C) revised",
+              "(D) upcoming"
+            ]
+          },
+          "answer": {
+            "text": "(D) upcoming",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Mr. Colon  <b>(2)</b> ______  what established technology companies can learn from start-up businesses.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) discussed",
+              "(B) will discuss",
+              "(C) has discussed",
+              "(D) will have discussed"
+            ]
+          },
+          "answer": {
+            "text": "(B) will discuss",
+            "explanation": "This email is about \"Surveying the Field lectures will be held on October 3\" => use future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "Mr. Colon's talk is the only one in the series that addresses start-ups. <b>(3)</b> ______ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Many large technology companies are privately owned.",
+              "(B) Corporate lecture series are gaining popularity in the field of technology.",
+              "(C) As a student, Mr. Colon published an article in a prestigious business journal",
+              "(D) The rest will deal with various other topics, including marketing and customer service."
+            ]
+          },
+          "answer": {
+            "text": "(D) The rest will deal with various other topics, including marketing and customer service.",
+            "explanation": "Based on the previous sentence indicating \"Mr. Colon's talk is the only one in the series that addresses start-ups\" => The rest of the series is about \"other topics, including marketing and customer service\""
+          }
+        },
+        {
+          "question": {
+            "text": "Nevertheless, you must seek  <b>(4)</b> ______  your manager before attending.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) approving",
+              "(B) who approves",
+              "(C) the approval of",
+              "(D) having approved"
+            ]
+          },
+          "answer": {
+            "text": "(C) the approval of",
+            "explanation": "The blank comes after the verb \"seek\" => need a noun as an object"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c269f"
+    },
+    {
+      "question": {
+        "text": "January 28<br>Ojas Ramachandran <br>Sawat Clothing Company <br>Bengaluru 560 001 <br>Karnataka, India<br><br>Dear Mr. Ramachandran: <br>We are writing to let you know about a temporary <b>(1)</b> ______   in our order fulfillment service. On March 20, we will begin moving all of our inventory to a new warehouse in Kyoto. <b>(2)</b> ______  . The move will take up to two weeks,  <b>(3)</b> ______  which time we will be unable to ship overseas orders. <b>(4)</b> ______   any delays, please place your next order by March 14. If you have any questions, please don’t hesitate to contact me. <br><br>Sincerely, <br>Aiko Oba<br>Customer Service Director",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We are writing to let you know about a temporary <b>(1)</b> ______   in our order fulfillment service.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) extension",
+              "(B) solution",
+              "(C) improvement",
+              "(D) disruption"
+            ]
+          },
+          "answer": {
+            "text": "(D) disruption",
+            "explanation": "Based on the following sentence mentioning their movement to a new warehouse in Kyoto => a temporary disruption"
+          }
+        },
+        {
+          "question": {
+            "text": "On March 20, we will begin moving all of our inventory to a new warehouse in Kyoto. <b>(2)</b> ______   .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This will allow us to keep a larger variety of items in stock.",
+              "(B) These will be available at a special price for a limited time.",
+              "(C) Warehousing has become an important industry in the region.",
+              "(D) You can track the status of your order on our Web site."
+            ]
+          },
+          "answer": {
+            "text": "(A) This will allow us to keep a larger variety of items in stock.",
+            "explanation": "Based on the previous sentence, \"moving to a new warehouse' => \"will allow us to keep a larger variety of items in stock\""
+          }
+        },
+        {
+          "question": {
+            "text": "The move will take up to two weeks,  <b>(3)</b> ______  which time we will be unable to ship overseas orders.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) rather than",
+              "(B) due to",
+              "(C) during",
+              "(D) above"
+            ]
+          },
+          "answer": {
+            "text": "(C) during",
+            "explanation": "during + time period"
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(4)</b> ______   any delays, please place your next order by March 14. If you have any questions, please don’t hesitate to contact me.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To avoid",
+              "(B) Having avoided",
+              "(C) Avoids",
+              "(D) Avoided"
+            ]
+          },
+          "answer": {
+            "text": "(A) To avoid",
+            "explanation": "\"To infinitive\" indicates a purpsoe"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c26a2"
+    },
+    {
+      "question": {
+        "text": "From: Vice President Donna Johnson <br>To: Helio Tech Employees<br>Date: July 5th<br>Subject: Lobby Renovation<br><br> Receiving the federal grant money last month <b> (1) </b> _____  us to invest in upgrading a few areas of our building.<b> (2) </b> _____ . We will be remodeling the lobby starting July 12th. It should take approximately two weeks. <b> (3) </b> _____  that time, if you have a meeting with anyone from outside of the company, please schedule to have it at the Rose street Café on the corner. We have set up a special account that anyone from the company can use over those two weeks. <br> Please, just sign and date your check and return it to your server. We are <b> (4) </b> _____  that this is a bit of an inconvenience, and we thank you for your cooperation.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Receiving the federal grant money last month <b> (1) </b> _____  us to invest in upgrading a few areas  of our building.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) did allow",
+              "(B) has allowed",
+              "(C) allows",
+              "(D) are allowing"
+            ]
+          },
+          "answer": {
+            "text": "(B) has allowed",
+            "explanation": "The subject of this sentence is \"Receiving the federal grant money last month\" => since \"last month\" => use present perfect"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2) </b> _____ . We will be remodeling the lobby starting July 12th. It should take approximately two weeks.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Construction will begin when the building permits are received.",
+              "(B) This celebration will last for most of the month of July.",
+              "(C) Considering the cost, the renovation might be postponed.",
+              "(D) The first area that will benefit from this is the lobby."
+            ]
+          },
+          "answer": {
+            "text": "(D) The first area that will benefit from this is the lobby.",
+            "explanation": "Based on the previous sentence \".........has allowed us to invest in upgrading a few areas of our building.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> _____  that time, if you have a meeting with anyone from outside of the company, please schedule to have it at the Rose street Café on the corner.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Upon",
+              "(B) During",
+              "(D) Until",
+              "(c) Around"
+            ]
+          },
+          "answer": {
+            "text": "(B) During",
+            "explanation": "During + a time period"
+          }
+        },
+        {
+          "question": {
+            "text": "We are <b> (4) </b> _____  that this is a bit of an inconvenience, and we thank you for your cooperation.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) aware",
+              "(B) disciplined",
+              "(C) reluctant",
+              "(D) content"
+            ]
+          },
+          "answer": {
+            "text": "(A) aware",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c26a4"
+    },
+    {
+      "question": {
+        "text": "<p><strong>GTC Public Meeting May 7</strong></p> <p><i>By Josip Kovach</i><br /> The Greenville Transportation Commission (GTC) will hold a public meeting at City Hall on Thursday, May 15, at 7 P.M., to discuss its proposal to extend light rail service to Greenville Industrial Park. <b>(1)</b> ______ .Residents of the neighborhood have complained that the extension will generate too much noise during peak commuting hours. <b>(2)</b> ______ , the GTC has been studying the feasibility of installing noise barriers along the tracks. At the meeting, Leora Kelman, CEO of Acoustic Engineering, will explain how much noise reduction the GTC can <b>(3)</b> ______ to achieve with the barriers. A <b>(4)</b> ______ by Mayor Joe Rowan will follow.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The Greenville Transportation Commission (GTC) will hold a public meeting at City Hall on Thursday, May 15, at 7 P.M., to discuss its proposal to extend light rail service to Greenville Industrial Park. <b>(1)</b> ______  .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The GTC completed the project ahead of schedule.",
+              "(B) The rail line will run through a residential area.",
+              "(C) The commission chair will run for mayor next year.",
+              "(D) The GTC has decided to hold monthly meetings."
+            ]
+          },
+          "answer": {
+            "text": "(B) The rail line will run through a residential area.",
+            "explanation": "The previous sentence indicates \"its proposal to extend light rail service\" => B is the right answer. "
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(2)</b> ______ , the GTC has been studying the feasibility of installing noise barriers along the tracks",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In addition",
+              "(B) In time",
+              "(C) In response",
+              "(D) In conclusion"
+            ]
+          },
+          "answer": {
+            "text": "(C) In response",
+            "explanation": "The previous sentence mentions \"Residents of the neighborhood have complained that the extension will generate too much noise during peak commuting hours\" so the GTC needs to study \"the feasibility of installing noise barriers along the tracks\""
+          }
+        },
+        {
+          "question": {
+            "text": "At the meeting, Leora Kelman, CEO of Acoustic Engineering, will explain how much noise reduction the GTC can <b>(3)</b> ______   to achieve with the barriers.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) remind",
+              "(B) accept",
+              "(C) persuade",
+              "(D) expect"
+            ]
+          },
+          "answer": {
+            "text": "(D) expect",
+            "explanation": "expect + to infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "A <b>(4)</b> ______   by Mayor Joe Rowan will follow.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) present",
+              "(B) presenting",
+              "(C) presenter",
+              "(D) presentation"
+            ]
+          },
+          "answer": {
+            "text": "(D) presentation",
+            "explanation": "The blank comes after an article => need a noun"
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c26a8"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Part-time Cook Needed</strong></p> <p>Paradise Caf&eacute; is looking<b> (1) </b> _____ a part-time line cook. Applicants must be able to work in a fast-paced environment and be familiar with all standard breakfast fare . <b> (2) </b> _____ . This weekend schedule could change in the future. Ideally we are looking for an applicant that has <b> (3) </b> _____ one year of experience working as a short-order cook. Paradise Caf&eacute; is located right next to the post office in downtown Millstown. Please apply in person with a resume and be prepared to cook an egg dish to order. We <b> (4) </b> _____ forward to welcoming you to our team!</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Paradise Café is looking<b> (1) </b> _____  a part-time line cook.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) hiring",
+              "(B) hire",
+              "(C) to hire",
+              "(D) to hiring"
+            ]
+          },
+          "answer": {
+            "text": "(C) to hire",
+            "explanation": "be looking to do sth: be planning to do something"
+          }
+        },
+        {
+          "question": {
+            "text": "Applicants must be able to work in a fast-paced environment and be familiar with all standard breakfast fare . <b> (2) </b> _____  .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Applicants should know how to make scrambled eggs.",
+              "(B) People applying should know how to wash dishes.",
+              "(C) Anyone applying should be able to work nights.",
+              "(D) Currently, we can only offer weekday shifts but the applicant must be willing to work weekends if required."
+            ]
+          },
+          "answer": {
+            "text": "(D) Currently, we can only offer weekday shifts but the applicant must be willing to work weekends if required.",
+            "explanation": "The following sentence mentions \"This weekend schedule\" so this sentence is about working schedule"
+          }
+        },
+        {
+          "question": {
+            "text": "This weekend schedule could change in the future. Ideally we are looking for an applicant that has <b> (3) </b> _____  one year of experience working as a short-order cook.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) at most",
+              "(B) below",
+              "(C) at least",
+              "(D) the least"
+            ]
+          },
+          "answer": {
+            "text": "(C) at least",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We <b> (4) </b> _____  forward to welcoming you to our team!",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) look",
+              "(B) looking",
+              "(C) looked",
+              "(D) looks"
+            ]
+          },
+          "answer": {
+            "text": "(A) look",
+            "explanation": "use present simple tense with subject \"we\""
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c26aa"
+    },
+    {
+      "question": {
+        "text": "From, rosgrove@lavilli.com <br>To: henriksson@skanenursery.se <br>Subject: Svenska Yellow <br>Date: April 2<br><br>Dear Mr. Henriksson, <br>I represent the Lavilli Garden Stores chain, which is now in the process of  <b>(1)</b> ______   its product range to include newly developed kinds of trees. We are interested in carrying Svenska Yellow apple saplings in our stores. Since this<b>(2)</b> ______ originated in Sweden, we contacted the Association of Swedish Fruit Producers, which recommended your apple nursery to us. On your Web site, it appears you do <b>(3)</b> ______   have the product in stock. Initially, we would be interested in buying a small sample of saplings. <b>(4)</b> ______. Do you offer discounts for bulk purchases? <br>I look forward to hearing from you. <br><br>Sincerely, <br>Roger Osgrove <br>Lavilli Garden Stores",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I represent the Lavilli Garden Stores chain, which is now in the process of  <b>(1)</b> ______   its product range to include newly developed kinds of trees.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) expanding",
+              "(B) expanded",
+              "(C) expands",
+              "(D) expand"
+            ]
+          },
+          "answer": {
+            "text": "(A) expanding",
+            "explanation": "The blank comes after a preposition \"of\" => + Ving"
+          }
+        },
+        {
+          "question": {
+            "text": "Since this <b>(2)</b> ______ originated in Sweden, we contacted the Association of Swedish Fruit Producers, which recommended your apple nursery to us.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) response",
+              "(B) method",
+              "(C) ability",
+              "(D) variety"
+            ]
+          },
+          "answer": {
+            "text": "(D) variety",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "On your Web site, it appears you do <b>(3)</b> ______   have the product in stock",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) indeed",
+              "(B) alone",
+              "(C) quite",
+              "(D) ever"
+            ]
+          },
+          "answer": {
+            "text": "(A) indeed",
+            "explanation": "Based on the meaning of adverbs"
+          }
+        },
+        {
+          "question": {
+            "text": "Initially, we would be interested in buying a small sample of saplings. <b>(4)</b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our nursery has been family-owned for over 100 years.",
+              "(B) Unfortunately, they are no longer in stock at this point.",
+              "(C) However, we want to place a larger order in the future.",
+              "(D) If you do, please visit our Web site for more information on our offer."
+            ]
+          },
+          "answer": {
+            "text": "(C) However, we want to place a larger order in the future.",
+            "explanation": "Based on the previous sentence with the hint \"buying a small sample of saplings\""
+          }
+        }
+      ],
+      "id": "626441a7eccc8cae769c26ae"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441a7eccc8cae769c26b4"
+}

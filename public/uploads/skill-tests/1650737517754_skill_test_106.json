@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 106",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "88815409.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/88815409.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02a0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Hi, Swapna. <strong>Q1 I&rsquo;m calling about our annual fund-raising event in December. I was wondering if you&rsquo;d join the other two people helping at the ticket counter this year.</strong><br /> W: <strong>Q2 I know we&rsquo;ve always had three people collecting tickets, but I actually think two is plenty. Do you really need my help?</strong><br /> M:&nbsp;You&rsquo;re probably right about the ticket counter, <strong>Q3 but we can still use your help, though. We need a lot of volunteers to pass out brochures as people come in. </strong>Maybe you could help with that instead.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the man calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To recruit a volunteer",
+              "(B) To sell tickets",
+              "(C) To request funding",
+              "(D) To offer a membership"
+            ]
+          },
+          "answer": {
+            "text": "(A) To recruit a volunteer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Whether she has enough experience",
+              "(B) Whether her help is needed",
+              "(C)  Whether a location is suitable",
+              "(D Whether an event will begin on time"
+            ]
+          },
+          "answer": {
+            "text": "(B) Whether her help is needed",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest the woman do instead?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Work during another time slot",
+              "(B) Find additional volunteers",
+              "(C) Work on a different task",
+              "(D) Collect donations"
+            ]
+          },
+          "answer": {
+            "text": "(C) Work on a different task",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02a4"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_3110.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_3110.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02a6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Cn: Dr. Adams, this is Justin McBride from the Foundation for Health Research. I&#39;m pleased to tell you <strong>Q1&nbsp;that your article about the benefits of a low-fat diet has been accepted for our journal.</strong><br /> W-Am: That&#39;s wonderful news. <strong>Q2&nbsp;I actually just presented my research at a symposium and it was well received. </strong>When will the article be published?<br /> M-Cn: Well,<strong> Q3&nbsp;we&#39;ve made some editorial suggestions, so revisions will have to be made first. </strong>Once you&#39;ve done that, we can let you know the exact date the article will appear in the journal.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the man calling to tell the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Her article has been accepted for publication.",
+              "(B)She has been selected to receive a grant.",
+              "(C)Research assistants have been hired.",
+              "(D)A deadline has been extended."
+            ]
+          },
+          "answer": {
+            "text": "(A)Her article has been accepted for publication.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has the woman recently done?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Expanded her laboratory",
+              "(B)Interviewed for a job",
+              "(C)Presented her research",
+              "(D)Organized a conference"
+            ]
+          },
+          "answer": {
+            "text": "(C)Presented her research",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Check some data",
+              "(B)Sign a contract",
+              "(C)Submit letters of reference",
+              "(D)Revise a submission"
+            ]
+          },
+          "answer": {
+            "text": "(D)Revise a submission",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02a9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "3383075.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/3383075.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02ab"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: Excuse me, sir. <strong>Q1&amp;2&nbsp;Did you request a vegetarian meal for this flight?</strong> We&#39;re serving the special meal orders now,<br /> M: No, I didn&#39;t. But I don&#39;t mind having a vegetarian meal if you don&#39;t have any more of the regular meals.<br /> W: Oh, for some reason, we have this seat number -24A-down for a special meal request, sorry about the mixup. We have plenty of the regular beef or chicken meals, but <strong>Q3&nbsp;you&#39;ll have to wait just a little while for those to be served.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a hotel",
+              "(B) On an airplane",
+              "(C) In a grocery store",
+              "(D) At a restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(B) On an airplane",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A seating arrangement",
+              "(B) A delayed flight",
+              "(C) A change to a reservation",
+              "(D) A food order"
+            ]
+          },
+          "answer": {
+            "text": "(D) A food order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say the man will have to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wait a bit longer",
+              "(B) Pay in advance",
+              "(C) Move to a different seat",
+              "(D) Fill out a form"
+            ]
+          },
+          "answer": {
+            "text": "(A) Wait a bit longer",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02ae"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_315.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_315.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02b0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Br: Daniel, I know how much you love to cook. <strong>Q1&nbsp;Did you hear that the chef from the Spontaneous Gourmet show on TV will be teaching a class at the culinary institute this summer?</strong><br /> M-Au: Really? <strong>Q2&nbsp;Steven Okada? I&#39;ve been a fan of his show for years!</strong> I learned how to make some of my favorite dishes from watching him cook.<br /> W-Br: Well, Q3&nbsp;<strong>if you&#39;re interested in the class, you should sign up right away&nbsp;T</strong>here are only a few spots available to the general public.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the woman, what will happen this summer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A cooking course will be offered.",
+              "(B)A line of cookware will be launched.",
+              "(C)A cafe will open.",
+              "(D)A documentary will be filmed."
+            ]
+          },
+          "answer": {
+            "text": "(A)A cooking course will be offered.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is Steven Okada known for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Owning a chain of stores",
+              "(B)Writing a magazine column",
+              "(C)Founding a cooking school",
+              "(D)Hosting a television show"
+            ]
+          },
+          "answer": {
+            "text": "(D)Hosting a television show",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman recommend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Requesting an interview",
+              "(B)Registering soon",
+              "(C)Subscribing to a newsletter",
+              "(D)Asking about cancellations"
+            ]
+          },
+          "answer": {
+            "text": "(B)Registering soon",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02b3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_318.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_318.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02b6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: Good evening, I&#39;m calling from the Mountain View City Council office. <strong>Q1&nbsp;We&#39;re surveying local residents to get their opinions about the recent proposal to expand highway 1.</strong> Would you be willing to answer a few questions?<br /> W-Br: I&#39;m sorry, I&#39;m just leaving to go out. <strong>Q2&nbsp;But I&#39;ve been reading the articles in the newspaper - the ones about all the plans to improve our local roads, </strong>and I&#39;d very much like to respond to the survey. Could you call back at another time?<br /> M-Au: <strong>Q3&nbsp;If it would be more convenient, you can take the survey online</strong>. All you have to do is go to the city council&#39;s Web site and click on the button that says &quot;Roadway survey.&quot; It&#39;ll only take you about five minutes to fill out the form.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the telephone call?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To describe a service",
+              "(B)To publicize an event",
+              "(C)To conduct a survey",
+              "(D)To request a proposal"
+            ]
+          },
+          "answer": {
+            "text": "(C)To conduct a survey",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she has done?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Used public transportation",
+              "(B)Organized a neighborhood group",
+              "(C)Followed news reports",
+              "(D)Contacted city officials"
+            ]
+          },
+          "answer": {
+            "text": "(C)Followed news reports",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest the woman do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Write a newspaper article",
+              "(B)Complete a form online",
+              "(C)Speak with an expert",
+              "(D)Order a free sample"
+            ]
+          },
+          "answer": {
+            "text": "(B)Complete a form online",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02b8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_317.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_317.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02bb"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: Wasn&#39;t that surprising news about the budget? <strong>Q1&nbsp;We actually have money left over this year.</strong><br /> W-Am: Yes, but if we don&#39;t spend the money, we lose it. <strong>Q2&nbsp;That&#39;s why Ms. Han has asked everyone to come up with some ideas for special projects </strong>- things that can be done before the end of the year.<br /> M-Au: But projects take time to plan and there&#39;s only a month left.&nbsp;<strong>Q3 What if we just buy new videoconferencing equipment instead? </strong>It would be really useful for all those conference calls with colleagues in branch offices.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A budget surplus",
+              "(B)A news report",
+              "(C)A conference agenda",
+              "(D)A software upgrade"
+            ]
+          },
+          "answer": {
+            "text": "(A)A budget surplus",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has Ms. Han asked employees to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sign up for training",
+              "(B)Update their calendars",
+              "(C)Review some invoices",
+              "(D)Recommend projects"
+            ]
+          },
+          "answer": {
+            "text": "(D)Recommend projects",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Purchasing equipment",
+              "(B)Consulting colleagues",
+              "(C)Holding monthly meetings",
+              "(D)Reducing spending"
+            ]
+          },
+          "answer": {
+            "text": "(A)Purchasing equipment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02bd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_311.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_311.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02c0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: Good morning. <strong>Q1&nbsp;I have a reservation at this hotel.</strong> My name&#39;s Clara Dawson.<br /> M-Au: Hello, Ms. Dawson, and welcome to the San Sebastian Inn. Unfortunately, your room won&#39;t be available until noon, but <strong>Q2&nbsp;I&#39;d be happy to keep your luggage behind the counter until then.</strong></p> <p>W-Am: Oh, that&#39;s fine. I just flew in from New York, and I&rsquo;d like to get a late breakfast. Do you have any recommendations for restaurants in the area?<br /> M-Au: <strong>Q3&nbsp;Here&#39;s a city restaurant guide </strong>- breakfast places are listed at the beginning.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely does the conversation take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a grocery store",
+              "(B)At a hotel",
+              "(C)At a travel agency",
+              "(D)At an airport"
+            ]
+          },
+          "answer": {
+            "text": "(B)At a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he can do for the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Store her luggage",
+              "(B)Make a reservation",
+              "(C)Arrange transportation",
+              "(D)Print out a receipt"
+            ]
+          },
+          "answer": {
+            "text": "(A)Store her luggage",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man give the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A parking pass",
+              "(B)A list of restaurants",
+              "(C)A city map",
+              "(D)A travel brochure"
+            ]
+          },
+          "answer": {
+            "text": "(B)A list of restaurants",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02c2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_313.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02c5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: Ms. Patel? This is Eric from facilities. We&rsquo;re replacing the carpeting on the second floor, and <strong>Q1&nbsp;we&#39;d like to replace the carpet in your office on Friday.</strong><br /> W-Am: That&#39;s not a problem. <strong>Q2&nbsp;But I need a computer that day so I can access my files on the server. </strong>Will that be possible?<br /> M-Au: Well, Room 203 has a computer you could probably use. <strong>Q3&nbsp;I&#39;ll get in touch with technical support </strong>to make sure you&#39;ll have access to your files there.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What will take place on Friday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An office will be painted.",
+              "(B)A carpet will be replaced.",
+              "(C)Computers will be upgraded.",
+              "(D)Work assignments will be distributed."
+            ]
+          },
+          "answer": {
+            "text": "(B)A carpet will be replaced.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The availability of a staff member",
+              "(B)The size of a meeting space",
+              "(C)The accessibility of some files",
+              "(D)The deadline for a project"
+            ]
+          },
+          "answer": {
+            "text": "(C)The accessibility of some files",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will the man contact?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The training coordinator",
+              "(B)The security office",
+              "(C)The maintenance supervisor",
+              "(D)The technical support department"
+            ]
+          },
+          "answer": {
+            "text": "(D)The technical support department",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02c7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_312.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_312.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02ca"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Cn: Nancy, <strong>Q1&nbsp;I heard that you&#39;re transferring to our office in Hong Kong. </strong>What will you be doing there?<br /> W-Br: Oh, it&#39;ll be the same thing I&#39;ve been doing here. The company&#39;s ready to start marketing our new speech recognition software in Asia - and <strong>Q2&nbsp;since my team&#39;s had a lot of success selling the product here</strong>, they&#39;ve asked me to move to Hong Kong to head up the sales efforts there.<br /> M-Cn: That sounds like a great opportunity. You know, my cousin works in Hong Kong for a big retailer. <strong>Q3&nbsp;I&#39;ll give you her e-mail address in case you want to contact her. </strong>I&#39;m sure she&#39;d be happy to help you find an apartment there.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A job transfer",
+              "(B)A trip itinerary",
+              "(C)A store opening",
+              "(D)An advertising campaign"
+            ]
+          },
+          "answer": {
+            "text": "(A)A job transfer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely is the woman's job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Human resources manager",
+              "(B)Real estate agent",
+              "(C)Sales team leader",
+              "(D)Computer programmer"
+            ]
+          },
+          "answer": {
+            "text": "(C)Sales team leader",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man give the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A business card",
+              "(B)An e-mail address",
+              "(C)A rental agreement",
+              "(D)A resume"
+            ]
+          },
+          "answer": {
+            "text": "(B)An e-mail address",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02cc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "17248992.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/27/17248992.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c02cf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: <strong>Q1&nbsp;Here&#39;s your receipt, Ms. Peters. I hope you&#39;ve enjoyed your stay at the Redburn Hotel. Is there anything else we can do for you?</strong><br /> W-Br: Well, <strong>Q2&nbsp;I have a flight later this evening, but I&#39;d like to see some of the city&#39;s attractions before I go</strong>. Could I leave my luggage here at the hotel?<br /> M-Au: Of course. <strong>Q3&nbsp;Just write down your room number and name on this identification tag.&nbsp;</strong>We&#39;ll put it on your luggage so we&#39;ll know it&#39;s yours when you come back for it.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the conversation take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a taxi stand",
+              "(B)At an airport",
+              "(C)At a market",
+              "(D)At a hotel"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman plan to do this afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Attend a concert",
+              "(A)Attend a concert",
+              "(B)Go sightseeing",
+              "(D)Get a meal"
+            ]
+          },
+          "answer": {
+            "text": "(B)Go sightseeing",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Fill out an identification tag",
+              "(B)Pick up a package",
+              "(C)Exchange a ticket",
+              "(D)Pay for a suitcase"
+            ]
+          },
+          "answer": {
+            "text": "(A)Fill out an identification tag",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c02d1"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264416deccc8cae769c02d4"
+}

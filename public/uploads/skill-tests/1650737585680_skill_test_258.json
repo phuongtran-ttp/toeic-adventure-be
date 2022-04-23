@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 258",
+  "questions": [
+    {
+      "question": {
+        "text": "<i>refer to the following memo.</i><br><br>To: All Employees From: Jennifer Prasad<br>Subject: Updated Password Policy Date: Tuesday, February 8<br><br>Dear Employees, <br>As an enhanced security measure, you will now be required to change the password you use to access the company network on the first workday of each month. ---1---, your log-in ID will remain the same. <br>Each password must be at least twelve characters long and include one capital letter, one lowercase letter, one number, and one special character. <br>An e-mail ---2--- on the last workday of each month reminding you to set a new password on the next workday---3--- to do so will result in your being locked out of your account, and you will have to contact our platform provider, Securities Services, for assistance. <br> We are doing our best to ensure that our employees and our clients have the highest possible level of security---4---.<br><br>Jennifer Prasad, CEO",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "---1---, your log-in ID will remain the same.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However",
+              "(B) Therefore",
+              "(C) In addition",
+              "(D) For example"
+            ]
+          },
+          "answer": {
+            "text": "(A) However",
+            "explanation": "The previous sentence mentions \"be required to change the password\" but \"your log-in ID will remain the same\" => choose \"However\""
+          }
+        },
+        {
+          "question": {
+            "text": "An e-mail ---2--- on the last workday of each month reminding you to set a new password on the next workday",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) sent",
+              "(B) will be sent",
+              "(C) will have sent",
+              "(D) had been sent"
+            ]
+          },
+          "answer": {
+            "text": "(B) will be sent",
+            "explanation": "This sentence is about upcoming action => use future simple tense"
+          }
+        },
+        {
+          "question": {
+            "text": "---3--- to do so will result in your being locked out of your account, and you will have to contact our platform provider,",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Support",
+              "(B) Absence",
+              "(C) Failure",
+              "(D) Approval"
+            ]
+          },
+          "answer": {
+            "text": "(C) Failure",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We are doing our best to ensure that our employees and our clients have the highest possible level of security---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I will see you at the meeting.",
+              "(B) Write down your new log-in ID.",
+              "(C) Let me know when this is done.",
+              "(D) Thank you for your cooperation."
+            ]
+          },
+          "answer": {
+            "text": "(D) Thank you for your cooperation.",
+            "explanation": "Based on the meaning of sentences"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28ce"
+    },
+    {
+      "question": {
+        "text": "<b>You are Cordially Invited</b><br> Dogorail would like to invite its business associates to the 25th Dogorail Transport and Logistics Exhibition scheduled for November 9 to 11 in Prague. Dogorail will be displaying its products and services on the main floor of the Zidenic Convention Center ---1--- the three-day event. And there will be a special presentation by Dogorail CEO Miroslav Sergeyev on the final night. ---2---Representatives from Dogorail will be in attendance to assist visitors with their queries. Private ---3--- on any of our offerings are welcome if you wish to obtain advice about your particular requirements.<br> To confirm your attendance to this event, please return the enclosed form, ---4--- filled out and with your signature appended, on or before April 30.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) onto",
+              "(B) upon",
+              "(C) throughout",
+              "(D) outside"
+            ]
+          },
+          "answer": {
+            "text": "(C) throughout",
+            "explanation": "Based on the meaning of words. \"throughout the three-day event\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Dogorail products will be unveiled to event invitees once he has finished.",
+              "(B) He will be discussing the recent rail projects in Moldova, Bulgaria, and Greece.",
+              "(C) Requests to use a meeting room at the event must be submitted in advance.",
+              "(D) His special address has been arranged to begin at 9:00 a.m."
+            ]
+          },
+          "answer": {
+            "text": "(B) He will be discussing the recent rail projects in Moldova, Bulgaria, and Greece.",
+            "explanation": "Based on the previous sentence \"And there will be a special presentation by Dogorail CEO Miroslav Sergeyev on the final night.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) occupations",
+              "(B) consultations",
+              "(C) dominions",
+              "(D) possessions"
+            ]
+          },
+          "answer": {
+            "text": "(B) consultations",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) primarily",
+              "(B) fluently",
+              "(C) fully",
+              "(D) temporarily"
+            ]
+          },
+          "answer": {
+            "text": "(C) fully",
+            "explanation": "the enclosed form => fully filled out <br> Choose C is correct"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28d1"
+    },
+    {
+      "question": {
+        "text": "<br>Southwestern Residences<br><b>IMPORTANT ANNOUNCEMENT</b><br>The building's ---1--- will perform maintenance checks on the condominium's electrical circuits and switch boxes on Monday between 10 a.m. and 1 p.m. During this time, the power supply will be ---2---. We apologize for any inconvenience this may cause. ---3---. However, repair work may need to be carried out if any problems are detected. ---4---, the shutdown may be extended to accommodate repairs.<br>For details regarding this and other related matters, please contact the building superintendent, Ms. Jena Gordon, at 555-2124. Thank you for your patience and understanding.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) administer",
+              "(B) administrative",
+              "(C) administration",
+              "(D) administratively"
+            ]
+          },
+          "answer": {
+            "text": "(C) administration",
+            "explanation": "Use possessive form \" The building's administration\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) motivated",
+              "(B) pressured",
+              "(C) interrupted",
+              "(D) dismissed"
+            ]
+          },
+          "answer": {
+            "text": "(C) interrupted",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A realtor will be showing people around the building during this time.",
+              "(B) The maintenance check lasted through the weekend.",
+              "(C) We are sorry that we were unable to complete the inspection.",
+              "(D) We intend to restore electricity immediately following the inspection."
+            ]
+          },
+          "answer": {
+            "text": "(D) We intend to restore electricity immediately following the inspection.",
+            "explanation": "Based on the previous sentence \" We apologize for any inconvenience this may cause.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In this case",
+              "(B) Above all",
+              "(C) By far",
+              "(D) On the contrary"
+            ]
+          },
+          "answer": {
+            "text": "(A) In this case",
+            "explanation": "\"In this case\" when referring to the situation if it happened or did happen, in case \"repair work may need to be carried out ...\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28d3"
+    },
+    {
+      "question": {
+        "text": "<br> April 28<br> The Missourian<br> 438 East St. Louis Street<br> Springfield, MO 65806<br> <br> To the Editor:<br> I wish to point out an error in a recent article in your newspaper. Last week, it ---1--- that over a thousand workers could lose their jobs if Liberty Medical Group merges with Midland Health Services. This is untrue.<br> I would like to emphasize that ---2--- have not been completed. I can say this because I am involved in the talks on behalf of Liberty Medical Group. In addition, if these two organizations merge, they would be in a better position to create new employment opportunities. This is because a consolidated firm can ---3--- jobs that each of the companies would have been unable to offer on their own.<br> It is our expectation that you will print a retraction. ---4---I am hoping for your immediate response.<br> Sincerely,<br> Andrew Sweet<br> Company spokesperson",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) was reported",
+              "(B) is reported",
+              "(C) will report",
+              "(D) will be reported"
+            ]
+          },
+          "answer": {
+            "text": "(A) was reported",
+            "explanation": "\"last week\" is the signal of simple past"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) evaluations",
+              "(B) acquisitions",
+              "(C) assignments",
+              "(D) negotiations"
+            ]
+          },
+          "answer": {
+            "text": "(D) negotiations",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) review",
+              "(B) generate",
+              "(C) perfect",
+              "(D) monitor"
+            ]
+          },
+          "answer": {
+            "text": "(B) generate",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We will be holding a press conference regarding the recent merger.",
+              "(B) Midland Health Services will be closing its doors this month.",
+              "(C) This will correct any misunderstanding caused by your earlier article.",
+              "(D) This will reduce the number of employees in our establishment."
+            ]
+          },
+          "answer": {
+            "text": "(C) This will correct any misunderstanding caused by your earlier article.",
+            "explanation": "Based on the previous sentence \"It is our expectation that you will print a retraction.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28d7"
+    },
+    {
+      "question": {
+        "text": "<br />\nPARNOPIUS REOPENS IN SEPTEMBER!<br />\n<br />\nThe newly renovated Parnopius Museum of the Arts will officially reopen its doors to the public on September 1 at 10 a.m. The ribbon-cutting ceremony will be led by City Mayor Adam Warren, and other ---1---- officials are expected to attend.<br />\nChief curator Minerva Hughes said the renovation focused on the construction of a south wing with 25 thousand square feet of exhibition space. The space allows for 20 galleries and will ---2--- the works of European and Asian artists. In addition, it has facilities not found in the rest of the building. ---3---.<br />\nThe first exhibit in the new wing ---4-- contemporary Greek sculpture. It will run from September 15 to October 31. For more information, visit www.parnopiusmuseum.org.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) prominent",
+              "(B) thorough",
+              "(C) casual",
+              "(D) precise"
+            ]
+          },
+          "answer": {
+            "text": "(A) prominent",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) generate",
+              "(B) portray",
+              "(C) house",
+              "(D) restore"
+            ]
+          },
+          "answer": {
+            "text": "(C) house",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) These unique artifacts had made the museum very popular.",
+              "(B) These include a lecture hall, gift shop, and cafe on the ground floor.",
+              "(C) The decision to renovate on the south wing was suspended.",
+              "(D) Museum visitors found the opening exhibit to be a complete success."
+            ]
+          },
+          "answer": {
+            "text": "(B) These include a lecture hall, gift shop, and cafe on the ground floor.",
+            "explanation": "Based on the previous sentence \"In addition, it has facilities not found in the rest of the building.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) feature",
+              "(B) featuring",
+              "(C) featured",
+              "(D) will feature"
+            ]
+          },
+          "answer": {
+            "text": "(D) will feature",
+            "explanation": "Use simple future"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28d9"
+    },
+    {
+      "question": {
+        "text": "<br> To: Margo Sloane [msloane@bowenassociates.com]<br> From: Jan Fitch [jfitch@bowenassociates.com]<br> Subject: Equipment delivery<br> Date: October 11<br> <br> Mr. Jurgens at the new branch called to say that the office equipment we ordered from Filepros arrived on October 9. He and the technicians are now busy installing the machinery.<br> Unfortunately, I learned that the shipment of other items from Draper ---1--- longer. The earliest they can guarantee delivery is after October 16, which could force us to delay our opening to October 25. If management prefers, we can --2--- the order. I have asked Mr. Sampson, one of our suppliers, ---3--- if he can get the needed items at short notice. He understands the situation and has confirmed that he can obtain the materials immediately. ---4---. I will wait for Word from you regarding the Draper order and will keep sending you updates.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) took",
+              "(B) takes",
+              "(C) had taken",
+              "(D) will take"
+            ]
+          },
+          "answer": {
+            "text": "(D) will take",
+            "explanation": "Use the simple future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) dispatch",
+              "(B) refund",
+              "(C) process",
+              "(D) cancel"
+            ]
+          },
+          "answer": {
+            "text": "(D) cancel",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to check",
+              "(B) checking",
+              "(C) checks",
+              "(D) checked"
+            ]
+          },
+          "answer": {
+            "text": "(A) to check",
+            "explanation": "ask sb to do sth"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Meanwhile, we will order the equipment from another supplier.",
+              "(B) As a result, we had no choice but to announce a new opening date.",
+              "(C) Unfortunately, the items from Mr. Sampson will be delayed again.",
+              "(D) In other words, we will be able to get what we need on time."
+            ]
+          },
+          "answer": {
+            "text": "(D) In other words, we will be able to get what we need on time.",
+            "explanation": "Based on the previous sentence \"He understands the situation and has confirmed that he can obtain the materials immediately.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28dd"
+    },
+    {
+      "question": {
+        "text": "<br> Charles Nave<br>3739 Dale Avenue<br>Seattle, WA 98161<br>Dear Mr. Nave,<br>This is in reply to your inquiry about discounts for regular clients. Our company ---1--- offers them, but they are not applicable in all cases. ---2---. Only headquarters has the authority to further reduce the price of your order. Therefore, we ---3--- your request to our staff there and we are waiting to hear back from them. If they provide an estimate, we will send it to you and wait for your approval. It should take just three business days to complete the order after obtaining your ----4--- to proceed. The invoice will be mailed to you separately. We appreciate your understanding.<br>Sincerely,<br>Edie Harris",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) usually",
+              "(B) safely",
+              "(C) deliberately",
+              "(D) accurately"
+            ]
+          },
+          "answer": {
+            "text": "(A) usually",
+            "explanation": "It describes an event that happens frequently => Use adverb \"usually\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You should consider placing a bulk order to get a free gift.",
+              "(B) Due to an error, the discount wasn't applied to the quote we sent you.",
+              "(C) We are only permitted to offer refunds to our regular customers.",
+              "(D) The items you ordered have already been heavily marked down."
+            ]
+          },
+          "answer": {
+            "text": "(D) The items you ordered have already been heavily marked down.",
+            "explanation": "Based on the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) forward",
+              "(B) forwarding",
+              "(C) have forwarded",
+              "(D) will be forwarded"
+            ]
+          },
+          "answer": {
+            "text": "(C) have forwarded",
+            "explanation": "Use perfect present tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) advantage",
+              "(B) confirmation",
+              "(C) reimbursement",
+              "(D) recommendation"
+            ]
+          },
+          "answer": {
+            "text": "(B) confirmation",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28df"
+    },
+    {
+      "question": {
+        "text": "<br> Goldline Staffing is seeking payroll clerks for its rapidly expanding head office in Minneapolis. Candidates will be responsible for maintaining payroll data for up to 2,000 employees. As a result, they must be highly organized and able to perform ---1--- tasks at a proficient level. In addition, they must have working knowledge of word processing and accounting software ---2---<br> Newly hired employees will be placed in positions best suited to their educational background and experience. We have noted that most applicants ask if there are opportunities to gain new skills. ---3---. In fact, employee development is one of our key programs. --- 4---, appropriate training will be provided to all successful applicants. <br> To apply, send your resume and other required documents to jobs@goldline.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) delegated",
+              "(B) devoted",
+              "(C) outdated",
+              "(D) confused"
+            ]
+          },
+          "answer": {
+            "text": "(A) delegated",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) just",
+              "(B) complete",
+              "(C) equal",
+              "(D) alike"
+            ]
+          },
+          "answer": {
+            "text": "(D) alike",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We appreciate this attitude and wish to provide the needed support.",
+              "(B) Pleasing our customers is just one of the company’s many goals.",
+              "(C) The number of employees on our payroll is likely to decrease.",
+              "(D) There is an increasing need for staff who have already had training."
+            ]
+          },
+          "answer": {
+            "text": "(A) We appreciate this attitude and wish to provide the needed support.",
+            "explanation": "Based on the previous sentence \"We have noted that most applicants ask if there are opportunities to gain new skills.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In short",
+              "(B) Furthermore",
+              "(C) Consequently",
+              "(D) On the other hand"
+            ]
+          },
+          "answer": {
+            "text": "(C) Consequently",
+            "explanation": "Use an adverbs of result."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28e3"
+    },
+    {
+      "question": {
+        "text": "<br> The Robinson Library offers complimentary alerts to members who have registered an e-mail address or mobile phone number. These alerts remind them when materials, including books, audiovisual selections, and periodicals, are ---1--- their due date. However, failing to receive a reminder does not excuse borrowers from their responsibility to return materials on time.<br> ---2---, It’s essential that borrowers always take note of the due date. This is stamped on the return card attached to the book or other ---3---. Should anything borrowed from the library be returned late, a notice will be sent after the due date. ---4---. Please follow our regulations so that other users may have access to these materials within an appropriate period of time.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) across",
+              "(B) near",
+              "(C) inside",
+              "(D) above"
+            ]
+          },
+          "answer": {
+            "text": "(B) near",
+            "explanation": "Based on the meaning of words \"near due date\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Nevertheless",
+              "(B) Instead",
+              "(C) Otherwise",
+              "(D) Therefore"
+            ]
+          },
+          "answer": {
+            "text": "(D) Therefore",
+            "explanation": "It shows cause and effect relationships."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) envelope",
+              "(B) item",
+              "(C) term",
+              "(D) check"
+            ]
+          },
+          "answer": {
+            "text": "(B) item",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The library has stopped renting our periodical and tapes.",
+              "(B) The library will add up the cost of the books that are purchased.",
+              "(C) Upon return of the material, the borrower will have to pay a late fee",
+              "(D) As per the decision of the library management, lerts will be canceled"
+            ]
+          },
+          "answer": {
+            "text": "(C) Upon return of the material, the borrower will have to pay a late fee",
+            "explanation": "Based on the previous sentence \"Should anything borrowed from the library be returned late, a notice will be sent after the due date.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28e5"
+    },
+    {
+      "question": {
+        "text": "To: Collin McCabe (cmccabe1 @ncmail.com)<br>From: Virginia Payton (virginiapayton@clarkstel.com)<br>Date: February 22<br>Subject: Your Clarks Telecom bill<br>Dear Mr. McCabe,<br>Please be informed that your monthly Internet bill ---1---- $48.25 should have been paid <br>February 15. Payment is due immediately. Otherwise, a fee worth 5 percent of the amount owed will be added every month until your outstanding balance has been \"igg\"------2<br>At this time, we would like to recommend that you use our automatic payment system. ----3--- I du.<br>Simply log into your account, go to \"Payment Settings,\" select “Automatic,” and click “Submit.” If you feel that there has been a billing error, you ---4---- to contact us and we will gladly review your payment history.<br>Virginia Payton<br>Clarks Telecom.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) totaled",
+              "(B) totally",
+              "(C) totaling",
+              "(D) totals"
+            ]
+          },
+          "answer": {
+            "text": "(C) totaling",
+            "explanation": "By phrase \"bill totaling\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) canceled",
+              "(B) settled",
+              "(C) insured",
+              "(D) forgotten"
+            ]
+          },
+          "answer": {
+            "text": "(B) settled",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This may affect when you start receiving high-speed service.",
+              "(B) The money you owe will be paid on the scheduled date through this means.",
+              "(C) We have sent a receipt confirming payment of the charges.",
+              "(D) Your service will be restored once you send the amount that is due."
+            ]
+          },
+          "answer": {
+            "text": "(B) The money you owe will be paid on the scheduled date through this means.",
+            "explanation": "Based on the previous sentence \"At this time, we would like to recommend that you use our automatic payment system.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) encourage",
+              "(B) encouraging",
+              "(C) are encouraged",
+              "(D) will encourage"
+            ]
+          },
+          "answer": {
+            "text": "(C) are encouraged",
+            "explanation": "Use the passive form of the present simple"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28e9"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "EASY",
+  "id": "626441b1eccc8cae769c28ec"
+}

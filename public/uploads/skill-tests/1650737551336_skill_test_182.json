@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 182",
+  "questions": [
+    {
+      "question": {
+        "text": "Ancient Chitimacha baskets are ------- featured in Louisiana Museum of Archeology.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)prominent",
+          "(B)prominently",
+          "(C)prominence",
+          "(D)prominences"
+        ]
+      },
+      "answer": {
+        "text": "(B)prominently",
+        "explanation": "be + adverb + V3/ed"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16f7"
+    },
+    {
+      "question": {
+        "text": "While our representatives try to reply to all e-mails ___ , responses may be delayed by weekends and public holidays.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)prompting",
+          "(B)promptly",
+          "(C)prompts",
+          "(D)prompt"
+        ]
+      },
+      "answer": {
+        "text": "(B)promptly",
+        "explanation": "We are giving more information on the verb \"to reply\" so we use an adverb. <br> Promptly = Immediately = Quickly"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16f5"
+    },
+    {
+      "question": {
+        "text": "Maria Vega's keynote address at next month's Entrepreneurs Symposium in Singapore ___ by a short video.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)was preceded",
+          "(B)will be preceded",
+          "(C)would precede",
+          "(D)were to precede"
+        ]
+      },
+      "answer": {
+        "text": "(B)will be preceded",
+        "explanation": "The action is in the future so we use future tense.  <br> Precede = Follow"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16f3"
+    },
+    {
+      "question": {
+        "text": "The university's vision is to increase graduates'   ------- in the global workplace.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) succeed",
+          "(B) successful",
+          "(C) successfully",
+          "(D) success"
+        ]
+      },
+      "answer": {
+        "text": "(D) success",
+        "explanation": "('s or ') + noun + preposituon (in)"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16f1"
+    },
+    {
+      "question": {
+        "text": "The full report on the company's budget decisions will not be available until the end of the week, but a ___ memo will be issued sometime today.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)constant",
+          "(B)momentary",
+          "(C)brief",
+          "(D)free"
+        ]
+      },
+      "answer": {
+        "text": "(C)brief",
+        "explanation": "Brief = Short <br> Memo = Note"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16eb"
+    },
+    {
+      "question": {
+        "text": "According to the catalog description, the Stenko lawn mower comes equipped ___ a removable grass catcher.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)of",
+          "(B)to",
+          "(C)with",
+          "(D)at"
+        ]
+      },
+      "answer": {
+        "text": "(C)with",
+        "explanation": "Come equipped with st = Have"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1701"
+    },
+    {
+      "question": {
+        "text": "Two candidates were recently interviewed for the marketing position, and ------- were impressive.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) some",
+          "(B) both",
+          "(C) any",
+          "(D) either"
+        ]
+      },
+      "answer": {
+        "text": "(B) both",
+        "explanation": "Because the subject of the sentence is referring to two people and the main verb after the comma is \"were\", goes with a plural noun, so only the pronoun \"both\" can be used"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c16f9"
+    },
+    {
+      "question": {
+        "text": "Former seasonal employees seeking to be rehired must ------- a new application.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) observe",
+          "(B) submit",
+          "(C) familiarize",
+          "(D) inform"
+        ]
+      },
+      "answer": {
+        "text": "(B) submit",
+        "explanation": "Based on the meaning of words."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c170f"
+    },
+    {
+      "question": {
+        "text": "Osaka Box Company specializes in ___ packaging for long-distance transport of perishable foods.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)absolute",
+          "(B)savory",
+          "(C)protective",
+          "(D)expired"
+        ]
+      },
+      "answer": {
+        "text": "(C)protective",
+        "explanation": "\"Protective\" means providing protection."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c170d"
+    },
+    {
+      "question": {
+        "text": "Flash photography is not permitted ___ the Sakura Museum of Art.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)onto",
+          "(B)among",
+          "(C)inside",
+          "(D)toward"
+        ]
+      },
+      "answer": {
+        "text": "(C)inside",
+        "explanation": "\"Among\" does not go with a place. <br>  \"Onto\" and \"toward\" go with specific verbs. <br>Therefore, we choose \"inside\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1705"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264418feccc8cae769c1723"
+}

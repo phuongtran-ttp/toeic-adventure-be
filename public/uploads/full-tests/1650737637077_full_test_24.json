@@ -1,0 +1,679 @@
+{
+  "name": "Full Test 24",
+  "questions": [
+    {
+      "question": {
+        "text": "<br>From: Kira Takamatsu<br>To: Eric Sutherland<br>Subject: Meeting follow-up<br>Date: March 8<br>Dear Eric,<br>Thank you for sharing your concerns about your workload. — [1] —. We do our best to distribute projects so that employees can complete them during the regular workweek.— [2] —. Since we recently added book-cover design to your already full list of responsibilities, we have decided to assign an assistant to you, a new team member named Hugo Rynkowski. — [3] —. You will oversee his work, including all poster, logo, and catalog layout projects.<br>When Mr. Rynkowski arrives next Monday, you will need to share with him all of your clients’ information, including general descriptions and specific requirements. You will be responsible for instructing him on our design software as well as all other systems that you are using.<br>If you have any other concerns, please do not hesitate to share them with me. — [4] —<br> Kind regards,<br>Kira Takamatsu",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is Mr. Sutherland?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A computer programmer",
+              "(B)A graphic designer",
+              "(C)A company manager",
+              "(D)A writer"
+            ]
+          },
+          "answer": {
+            "text": "(B)A graphic designer",
+            "explanation": "Paragraph 1:&nbsp; <strong>book-cover design, poster, logo, catalog layout projects.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What problem did Mr. Sutherland report?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Inconvenient scheduling",
+              "(B)Outdated software",
+              "(C)Long commutes",
+              "(D)Too much work"
+            ]
+          },
+          "answer": {
+            "text": "(D)Too much work",
+            "explanation": "Paragraph 1, sentence 1: <strong>Thank you for sharing your concerns about your workload.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is Mr. Sutherland asked to do next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Prepare a report",
+              "(B)Meet a potential client",
+              "(C)Train a new employee",
+              "(D)Create a job description"
+            ]
+          },
+          "answer": {
+            "text": "(C)Train a new employee",
+            "explanation": "Paragraph 2, sentence 2: <strong>You will be responsible for instructing him on our design software as well as all other systems that you are using.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?<br>“This new hire will support you in most of your tasks.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Based on the meaning of the preceding &amp; following sentences to determine the correct position.<br />\r\n&ldquo;Since we recently added to your very busy list of vein work with a book cover design, we decided to appoint an assistant for you, a new member named Hugo.Rynkowski. <strong>This new employee will assist him with most of his duties. &quot;</strong>"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c5894"
+    },
+    {
+      "question": {
+        "text": "<br><b>Beneath  the Bright Blue Sea</b><br>(2 November)—If you are looking for advanced underwater cameras. To deal Sara Nannup, start by checking under the sea. That’s where she has captured all the images in her latest book of photography, Beneath the Bright Blue Sea.<br>Ms. Nannup began taking pictures when her father gave her an easy-to-use instant camera for her fifth birthday. When she went to university, however, she put the camera down to pursue a career in print journalism.<br>After she graduated, Ms. Nannup was hired as a staff writer by the Perth Daily Tribune and had little time for taking pictures. That changed when she attended an underwater photography workshop while on vacation in Bali, Indonesia.There her interest in photography was renewed, and she eventually left her job at the newspaper to devote herself to photography full-time.<br>Although she started with a child’s instant camera, Ms. Nannup now works with advanced underwater cameras. To deal with wear and tear, she updates her equipment every few years. “Salt water and sand pose challenges for underwater photography equipment beyond those that an everyday camera would face,” she said.<br> After years now of diving and taking pictures, she has yet to tire of her profession. “I still love being able to show people images of creatures and places that they have never seen,” says Ms. Nannup.<br>Most of Ms. Nannup’s work, including her latest release, focuses on the ocean around Australia. In May, however, she will travel to Greece to photograph underwater ruins in the Mediterranean for her next book.<br>Visit www.saranannup.com.au for more information on Ms. Nannup and her work.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To profile a former newspaper employee",
+              "(B)To offer photography advice",
+              "(C)To promote an online newspaper column",
+              "(D)To advertise a photography exhibition"
+            ]
+          },
+          "answer": {
+            "text": "(A)To profile a former newspaper employee",
+            "explanation": "The article is about Ms. Nannup, who used to be a journalist. Paragraph 3, last sentence:<br />\r\n.....and <strong>she eventually left her job at the newspaper to devote herself to photography full-time.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What inspired Ms. Nannup to take underwater photographs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Advice from her father",
+              "(B)A job in Indonesia",
+              "(C)A special workshop",
+              "(D)A journalism class"
+            ]
+          },
+          "answer": {
+            "text": "(C)A special workshop",
+            "explanation": "Paragraph 3, sentence 2:<br />\r\n<strong>That changed when she attended an underwater photography workshop ....</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “pose” in paragraph 4, line 6, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)model",
+              "(B)check",
+              "(C)ask",
+              "(D)present"
+            ]
+          },
+          "answer": {
+            "text": "(D)present",
+            "explanation": "Based on the meaning of the sentence to choose the correct answer: <strong>Saltwater and sand pose challenges for underwater photography equipment</strong> ..."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Nannup?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She is an experienced diver.",
+              "(B)She will soon publish her first book.",
+              "(C)She has taken photographs in Greece.",
+              "(D)She has used the same camera for many years."
+            ]
+          },
+          "answer": {
+            "text": "(A)She is an experienced diver.",
+            "explanation": "Paragraph 4, sentence 1: <strong>After years now of diving</strong>........"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c5898"
+    },
+    {
+      "question": {
+        "text": "<div style=\"text-align: center;\"><strong>WESTWOOD PROPERTIES, INC</strong><br />\r\n&nbsp;Residential Communities<br />\r\nWestwood Properties, Inc. (WPI), has two residential apartment communities in the city of Kentville.</div>\r\n\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:319px;\"><strong>HILLSIDE MANOR</strong><br />\r\n\t\t\t<strong>222 Jackson Rd.</strong><br />\r\n\t\t\t&nbsp;F<u>eatures:</u><br />\r\n\t\t\t&bull;&nbsp; 2- and 3-bedroom units with washer and dryer<br />\r\n\t\t\t&bull;&nbsp; Swimming pool plus basketball and tennis courts<br />\r\n\t\t\t&bull;&nbsp; Children&rsquo;s park nearby<br />\r\n\t\t\t&bull;&nbsp; Top-rated schools in the area<br />\r\n\t\t\t&bull;&nbsp; &nbsp;Five minutes from the<br />\r\n\t\t\tbusiness distric​​​​​​t<br />\r\n\t\t\t&bull;&nbsp; &nbsp;Pet-friendly environment</td>\r\n\t\t\t<td style=\"width:319px;\"><strong>LAKEVIEW OAKS</strong><br />\r\n\t\t\t<strong>119 E. Corfu St.</strong><br />\r\n\t\t\t<u>Features:</u><br />\r\n\t\t\t&bull;&nbsp; 1-bedroom units with large&nbsp;kitchens and baths<br />\r\n\t\t\t&bull;&nbsp; Hardwood floors<br />\r\n\t\t\t&bull;&nbsp; Community laundry room on each floor<br />\r\n\t\t\t&bull;&nbsp; &nbsp;Fitness center and outdoor swimming pool<br />\r\n\t\t\t&bull;&nbsp; &nbsp;Ten minutes from business district<br />\r\n\t\t\t&bull;&nbsp; &nbsp;Access to multiple bus lines right outside your door<br />\r\n\t\t\t&bull;&nbsp; Pet-friendly environment</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n&nbsp;<br />\r\nVisit our Web site at www.westwoodproperties.com to view floor plans or to schedule a personal tour. Sales agents are available at our offices to answer your questions Monday through Friday from 9:00 A.M. to 5:00 P.M, and on Saturday and Sunday from 12:00 noon to 5:00 P.M<br />\r\n<br />\r\n=========================<br />\r\n<b>WPI Announces Expansion</b><br />\r\n<br />\r\nKENTVILLE (March 16)&mdash;Westwood Properties, Inc. (WPI), in partneivship with the Kentville city government, will be constructing its third residential development in Kentville. The new development, Green Valley Court, will consist of 150 freestanding homes.<br />\r\nWork will begin in April and is expected to be completed in eighteen months. WPI will bear 60 percent of the costs, while the remainder will be borne by the city government.<br />\r\nWPI has built a reputation for providing comfortable living at affordable prices. Its current residential developments, Hillside Manor and Lakeview Oaks, were built five years ago and are much in demand, with long waiting lists.<br />\r\nAccording to Helen Hart, a marketing executive for WPI, Green Valley Court will be located twenty minutes front the business district. Ms. Hart went on to say that &ldquo;Green Valley Court will be ideal for retirees and those longing for some rest and relaxation after a hard day&rsquo;s work.&rdquo;",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is stated about Westwood Properties, Inc.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Its offices are open daily.",
+              "(B)It lists available units online.",
+              "(C)It offers hourly personal tours.",
+              "(D)Its headquarters are located in Kentville."
+            ]
+          },
+          "answer": {
+            "text": "(A)Its offices are open daily.",
+            "explanation": "Table, last sentence: <strong>Sales agents are available at our offices to answer your questions Monday through Friday from 9:00 AM to 5:00 PM, and on Saturday and Sunday from 12:00 noon to 5:00 PM.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT listed as a feature of the units at Lakeview Oaks?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Recreational facilities",
+              "(B)Laundry facilities",
+              "(C)Covered parking",
+              "(D)Hardwood flooring"
+            ]
+          },
+          "answer": {
+            "text": "(C)Covered parking",
+            "explanation": "<p><font><font>-&nbsp;</font></font><font><font>Recreational facilities:</font></font>&nbsp;<strong><font><font>Fitness center and outdoor swimming pool</font></font></strong></p>\r\n\r\n<p><font><font>-&nbsp;</font></font><font><font>Laundry facilities:</font></font>&nbsp;<strong><font><font>Community laundry room on each floor</font></font></strong></p>\r\n\r\n<p><font><font>-&nbsp;</font></font><font><font>Hardwood flooring:</font></font>&nbsp;<strong><font><font>Hardwood floors</font></font></strong></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article suggest about the units at Hillside Manor and Lakeview Oaks?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They were built in eighteen months.",
+              "(B)They were completed in April.",
+              "(C)Many people find them expensive.",
+              "(D)Many people want to live in them."
+            ]
+          },
+          "answer": {
+            "text": "(D)Many people want to live in them.",
+            "explanation": "Article, paragraph 3, last sentence: <strong>Hillside Manor and Lakeview Oaks, were built five years ago and are much in demand, with long waiting lists.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article mention about Green Valley Court?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It will contain two apartment buildings.",
+              "(B)It will be managed by Ms. Hart.",
+              "(C)Its construction costs will be partly paid for by the government.",
+              "(D)It is restricted to people who have retired."
+            ]
+          },
+          "answer": {
+            "text": "(C)Its construction costs will be partly paid for by the government.",
+            "explanation": "The article, paragraph 2, last sentence: <strong>WPI will bear 60% of the costs, while the remainder will be borne by the city government.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "How will Green Valley Court differ from the other two developments?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It will allow residents to have pets.",
+              "(B)It will be farther from the business district.",
+              "(C)It will include special features for elderly residents",
+              "(D)It will allow people to buy homes as well as rent them"
+            ]
+          },
+          "answer": {
+            "text": "(B)It will be farther from the business district.",
+            "explanation": "<p><font><font>+Table:</font></font></p>\r\n\r\n<p><font><font>-&nbsp;</font></font><font><font>Hillside Manor:&nbsp;</font><strong><font>Five minutes from the business districts</font></strong></font><strong>&nbsp;</strong></p>\r\n\r\n<p><font><font>-&nbsp;</font></font><font><font>Lakeview Oaks:&nbsp;</font><strong><font>Ten minutes from business districts</font></strong></font><strong>&nbsp;</strong></p>\r\n\r\n<p><font><font>+ Article, last paragraph, sentence 1:&nbsp;</font></font><font><font>.... <strong>Green Valley&nbsp;</strong></font></font><strong><font><font>Court will be located twenty minutes from the business district.</font></font></strong></p>"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c589b"
+    },
+    {
+      "question": {
+        "text": "<br> <strong>To</strong>: Dennis Maki<br /><strong>From:</strong> Nigella Smith<br /><strong>Date:</strong> Thursday, November 8,2:15 P.M.<br /><strong>Subject</strong>: Update<br />Dennis:<br /><br />The heads of accounting and sales have chosen the finalists for the job openings in their departments here at Plumsted Aynes. Susan Tsai would like to invite Marco Garcia and Danielle Jenkins to return for second interviews for the accounting position, and Rajesh Kapoor wants to invite Melanie Yu for a second interview for the medical sales position.<br />&nbsp;<br />I would like you to call the finalists, schedule interviews with them, and then make lunch arrangements accordingly. Keep in mind that Susan will be out of the office next week for&nbsp; a conference.<br />&nbsp;<br />Thank you for your assistance with this search so far. I&rsquo;m especially grateful that you were able to work on a short deadline when I asked you to set up the initial interviews.<br />Regards,<br />Nigella Smith<br />Human Resources Director<br />&nbsp;<br><br>=========================<br> <strong>To</strong>: Nigella Smith<br /><strong>From:</strong> Dennis Maki&nbsp;<br /><strong>Date:</strong> Thursday, November 8,3:52 P.M.<br /><strong>Subject</strong>: RE: Update<br /><br />Nigella:<br /><br />I called the three finalists. As it turns out, this afternoon Melanie Yu accepted a job offer with another pharmaceutical firm&mdash;our competitor Granquist. I informed Rajesh about this development and he said he hopes to find a suitable replacement.<br />&nbsp;<br />I have confirmed an interview for Mr. Garcia on Tuesday, November 20. I also made arrangements with our regular catering company for lunch here. Unfortunately, Ms. Jenkins was recently hospitalized, so I&rsquo;m leaving any further decision&nbsp; about her interview&nbsp; with you.<br />&nbsp;<br />Dennis Maki<br />Administrative Associate<br />&nbsp;",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is one purpose of the first e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To announce a job opening",
+              "(B)To make an offer to a job applicant",
+              "(C)To request that applicants be contacted",
+              "(D)To check a job candidate’s references"
+            ]
+          },
+          "answer": {
+            "text": "(C)To request that applicants be contacted",
+            "explanation": "The first email, paragraph 2: <strong>I would like you to call the finalists, </strong>..."
+          }
+        },
+        {
+          "question": {
+            "text": "What type of company most likely is Plumsted Aynes?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)      An accounting firm",
+              "(B)A medical clinic",
+              "(C)A caterer",
+              "(D)A pharmaceutical company"
+            ]
+          },
+          "answer": {
+            "text": "(D)A pharmaceutical company",
+            "explanation": "The second email, paragraph 1, line 1: .... <strong>a job offer with ANOTHER pharmaceutical firm - our COMPETITOR Granquist</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Jenkins?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has visited Plumsted Aynes before.",
+              "(B)She will be interviewed by Ms. Smith.",
+              "(C)She previously worked for Granquist.",
+              "(D)She is interested in a sales position."
+            ]
+          },
+          "answer": {
+            "text": "(A)She has visited Plumsted Aynes before.",
+            "explanation": "<p><font><font>1&nbsp;</font></font><font><font>st&nbsp;</font></font><font><font>email, paragraph 1, line&nbsp;</font></font><font><font>3: ....&nbsp;</font></font><font><font>big Danielle Jenkins&nbsp;</font></font><font><font>RETURN for second&nbsp;</font></font>interviews...</p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What will Mr. Kapoor most likely do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Meet with Mr. Garcia",
+              "(B)Attend a conference",
+              "(C)Make reservations at a restaurant",
+              "(D)Select a new candidate to interview"
+            ]
+          },
+          "answer": {
+            "text": "(D)Select a new candidate to interview",
+            "explanation": "2 nd email, paragraph 1, last sentence: ..he said he hopes to find a suitable replacement."
+          }
+        },
+        {
+          "question": {
+            "text": "What was Mr. Maki NOT able to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Order food to be delivered",
+              "(B)Schedule all the appointments within a given time frame",
+              "(C)Have a conversation with Ms. Yu",
+              "(D)Assist Ms. Smith with setting up the initial interviews"
+            ]
+          },
+          "answer": {
+            "text": "(B)Schedule all the appointments within a given time frame",
+            "explanation": "<p><font><font>2&nbsp;</font></font><font><font>nd&nbsp;</font></font><font><font>email, paragraph 2:</font></font></p>\r\n\r\n<p><strong><font><font>-&nbsp;</font></font><font><font>Mr.&nbsp;</font><font>Garcia: Tuesday November 20</font></font>&nbsp;</strong></p>\r\n\r\n<p><strong><font><font>-&nbsp;</font></font><font><font>Catering company for lunch</font></font>&nbsp;</strong></p>\r\n\r\n<p><strong><font><font>-&nbsp;</font></font></strong><font><strong><font>Ms.&nbsp;</font><font>Jenkins: hospitalized&nbsp;</font></strong><font>=&gt;&nbsp;</font><font>unable to &#39;close&#39; all appointments on 1 time frame</font></font>&nbsp;</p>"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c589e"
+    },
+    {
+      "question": {
+        "text": "<br />\r\nKELOWNA (2 June)&mdash;A new enterprise is revolutionizing mealtime in Kelowna. Fine Fresh Foods is a meal-delivery service that was founded one year ago by Kathryn Mishra. The service allows users to go online and browse hundreds of recipes. They select the recipes they like and have the ingredients, with cooking instructionsshipped to them on a weekly basis. Ms. Mishra first thought of the idea she observed her friends&rsquo; hectic lives. &ldquo;My friends were too busy to plan, shop, and cook for themselves,&rdquo; she explained. &ldquo;Most nights they would go to a restaurant and get takeout food. Some wanted to cook at home in their kitchens but didn&rsquo;t feel confident in their abilities.&rdquo; Ms. Mishra has found a way to streamline the whole process. Fine Fresh Foods works with local suppliers&mdash;often small farms&mdash;that are required to be organic. The focus on working with local partners, as well as the convenience and reasonable price of the service, has made the business extremely popular. At the moment, Fine when Fresh Foods delivers only within Kelowna but expansion to other areas is planned in the coming year.<br />\r\n<strong>=========================</strong>\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:638px;\">Pennington Farm is teaming up with Fine Fresh Foods! Since our founding over 30 years ago, we have always produced high-quality&nbsp; fruits and&nbsp; vegetables. We look forward to helping Fine Fresh Foods in its mission to provide delicious culinary creations sourced from local farms like ours.<br />\r\n\t\t\tPennington Farm&rsquo;s fruits and vegetables can also be purchased at our farm stand seven days a week from 9:00 A.M. Ulltil 2:00 P.M. In addition, we sell our produce at the Hardy Street Farmers Market each Saturday morning and at Russell&rsquo;s Grocery Store throughout the week.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\n<strong>=========================</strong><br />\r\n@PS@/kstoeic/images/7106590_1584927674836.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the article mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)How a food-service company got started",
+              "(B)What recipes a cooking class will cover",
+              "(C)Why a local restaurant is popular",
+              "(D)Where to buy inexpensive kitchen equipment"
+            ]
+          },
+          "answer": {
+            "text": "(A)How a food-service company got started",
+            "explanation": "Paragraph 2, line 1: <strong>Ms. Mishra first thought of the idea when she observed her friends&#39; hectic lives</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, what is one reason customers like Fine Fresh Foods?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Its hours are convenient.",
+              "(B)Its prices are affordable.",
+              "(C)It has several locations.",
+              "(D)It offers free delivery"
+            ]
+          },
+          "answer": {
+            "text": "(B)Its prices are affordable.",
+            "explanation": "Paragraph 3, line 5: .... <strong>convenience and reasonable price of the service, has made the business extremely popular.</strong>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is announced on the Pennington Farm Web page?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A job opportunity",
+              "(B) An upcoming sale",
+              "(C) A business partnership",
+              "(D) An anniversary celebration"
+            ]
+          },
+          "answer": {
+            "text": "(C) A business partnership",
+            "explanation": "Sentence 1: Pennington Farm is teaming up with Fine Fresh Foods!"
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely is true about Pennington Farm?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is a family-run business",
+              "(B) It recently opened a second farm stand",
+              "(C) It sells exclusively to Russell’s Grocery Store",
+              "(D) It is an organic farm"
+            ]
+          },
+          "answer": {
+            "text": "(D) It is an organic farm",
+            "explanation": "<p><font><font>-&nbsp;</font></font><font><font>Article, paragraph 3, sentence 2:&nbsp;</font><strong><font>Fine Fresh Foods works with local suppliers - often small farms - that are required to be organic</font></strong></font><strong>&nbsp;</strong></p>\r\n\r\n<p><font><font>-&nbsp;</font></font><font><font>Web page, sentence 1:&nbsp;</font><strong><font>Pennington Farm is teaming up with Fine Fresh Foods!</font></strong></font><strong>&nbsp;</strong></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Mr. Soun?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He does not eat meat.",
+              "(B) He lives in Kelowma",
+              "(C) He is having a diner party on June 12",
+              "(D) He is one of Ms. Mishra’s friends"
+            ]
+          },
+          "answer": {
+            "text": "(B) He lives in Kelowma",
+            "explanation": "Article, last paragraph, last sentence: <strong>At the moment, Fine Fresh Foods delivers only within Kelowna ....</strong>"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c58a1"
+    },
+    {
+      "question": {
+        "text": "&nbsp;\r\n<div style=\"text-align: center;\"><strong>**E-mail**</strong></div>\r\n\r\n<div><strong>To: </strong>Kate Millerson<br />\r\n<strong>From</strong>: Daniel Friedman<br />\r\n<strong>Date</strong>: January 25<br />\r\n<strong>Subject</strong>: Upcoming focus group<br />\r\n&nbsp;</div>\r\nHi, Kate,<br />\r\n&nbsp;<br />\r\nThe next focus group to test the new fruit-flavored beverage ideas will be held on February 1 in the Greenville office. Mari Kobayashi will be leading it.<br />\r\n&nbsp;<br />\r\nPlease design a questionnaire to collect the group&rsquo;s feedback using the one you created last month as a template and send it over to Mari. After the focus group takes place, please tally the results in the form of a chart. I need to incorporate this information into my monthly report to the chief marketing officer.<br />\r\n&nbsp;<br />\r\nThanks,<br />\r\n&nbsp;<br />\r\nDaniel<br />\r\n&nbsp;<br />\r\n&nbsp;\r\n<div style=\"text-align: center;\"><br />\r\n<strong>=========================<br />\r\n***E-mail***</strong></div>\r\n\r\n<div><strong>To:&nbsp; &nbsp; &nbsp;</strong>Daniel&nbsp;Friedman<br />\r\n<strong>From</strong>: Kate Millerson&nbsp;<br />\r\n<strong>Date</strong>: February 3<br />\r\n<strong>Subject</strong>: Results of Greenville focus group<br />\r\n<strong>Attachment</strong>: Greenville Results</div>\r\n\r\n<p>Hi, Daniel,</p>\r\n\r\n<p>According to Mari Kobayashi, 25 of the 30 registered participants for Greenville took the taste test and completed the questionnaire. The results are mostly in line with the results from last month&rsquo;s focus group. However, Mari did note that the Greenville group&rsquo;s most popular flavor was unexpected.</p>\r\n\r\n<p>Per your request, the tabulated results are attached. Please let me know if you will need additional information for your report to Ms. Acosta or if&nbsp; she wants&nbsp; to see the comments on the questionnaires.</p>\r\n\r\n<p>Kate</p>\r\n\r\n<div style=\"text-align: center;\"><strong>=========================</strong></div>\r\n<br />\r\n@PS@/kstoeic/images/8880552_1584927675688.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "In the first e-mail, what is indicated about Ms. Millerson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has designed questionnaires before.",
+              "(B)She will lead a focus group on February 1.",
+              "(C)She will interview Ms. Kobayashi.",
+              "(D)She has been transferred to the"
+            ]
+          },
+          "answer": {
+            "text": "(A)She has designed questionnaires before.",
+            "explanation": "<p><font><font>Email&nbsp;</font></font><font><font>sent by&nbsp;</font><font>Friedman</font></font></p>\r\n\r\n<p><font><font>Millerson:</font></font></p>\r\n\r\n<p><font><font>Please design a questionnaire to collect the&nbsp;group&#39;s feedback&nbsp;</font></font><strong><font><font>using the one you created&nbsp;</font></font></strong><font><font>last month as a template and send it over to Mari.</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Friedman say he will do with Ms. Millerson’s data?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Distribute it to his staff",
+              "(B)Show it to a new client",
+              "(C)Include it in a report",
+              "(D)Write an article based on it"
+            ]
+          },
+          "answer": {
+            "text": "(C)Include it in a report",
+            "explanation": "Email 1: I need to <strong>incorporate this information into my monthly report </strong>to the chief marketing officer."
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Ms. Acosta?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The director of Human Resources",
+              "(B)The chief marketing officer",
+              "(C)A focus group leader",
+              "(D)An information technology expert"
+            ]
+          },
+          "answer": {
+            "text": "(B)The chief marketing officer",
+            "explanation": "<p><font><font>Email 1:</font></font></p>\r\n\r\n<p><font><font>I need to incorporate this information into my monthly report&nbsp;</font></font><font><font><strong>to the chief marketing officer</strong>&nbsp;</font></font><font><font>.</font></font></p>\r\n\r\n<p><font><font>Email 2:</font></font></p>\r\n\r\n<p><font><font>Please let me know if you will need additional information for&nbsp;</font></font><font><strong><font>your report to Ms.&nbsp;</font></strong><font><strong>Acosta</strong>&nbsp;</font></font><font><font>or if she wants to see the comments on the questionnaires.</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Millerson suggest about the Greenville focus group?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Some people arrived late.",
+              "(B)The group will meet again soon.",
+              "(C)Each attendee received a payment.",
+              "(D) There were fewer participants than expected"
+            ]
+          },
+          "answer": {
+            "text": "(D) There were fewer participants than expected",
+            "explanation": "<p><font><font>Email 2:</font></font></p>\r\n\r\n<p><font><font>According to Mari Kobayashi,&nbsp;</font></font><font><font><strong>25 of the 30 registered participants</strong>&nbsp;</font></font><font><font>for&nbsp;</font></font><font><font>Greenville took the taste test and completed the questionnaire.</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "Which flavor preference surprised Ms. Kobayashi?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Cherry",
+              "(B)Lemon",
+              "(C)Lime",
+              "(D)Orange"
+            ]
+          },
+          "answer": {
+            "text": "(C)Lime",
+            "explanation": "Look at the figures Flavor lines at the result board. The tallest lemon."
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c58a4"
+    },
+    {
+      "question": {
+        "text": "<br><p align=\"center\"><strong>Zaboka Guesthouse<br />99 rue Hibbert, P&eacute;tion-ViIle, Haiti</strong></p><p>The Zaboka Guesthouse, situated in the hills above Haiti&rsquo;s capital city of Port-au-Prince, occupies the top four floors of a gorgeous building in a historic district. Our guesthouse is centrally located and just a short walls to markets, restaurants, art galleries, and nightclubs.<br />Details:<br />&bull;&nbsp; Amenities include wireless Internet, kitchen facilities, and luggage storage.<br />&bull;&nbsp; All guests are also entitled to a free Haitian-style breakfast including locally grown coffee.<br />&bull;&nbsp; The room rate is $45 per night per guest ($15 is charged up front to secure each reservation; the remainder must be paid upon arrival).<br />&bull;&nbsp; Check-in starts at 1:00 P.M.; checkout is no later than 11:30 A.M.<br />&bull;&nbsp; A minimum stay of two nights is required.<br />&bull;&nbsp; Parties arriving after 7:00 P. i. will be charged a late-night check-in fee of $5.00 per reservation.&nbsp;</p><br><br> <p><strong>Petion-Ville, Haiti: Zaboka Guesthouse</strong><br />Posted by Milford Gaines on October 7<br />I stayed at the Zahol&lsaquo;a Guesthouse for three nights in April. There are several other hotels in the area, but in my view, this is certainly the nicest option within the price range. The lively courtyard and huge communal kitchen both present a great environment for meeting other guests. That was without a doubt my favorite aspect. If you plan to arrive in the evening, make sure you get the code to enter into the electronic keypad at the cloor, as the street level entrance is locked after 7 P.M. This isn&#39;t&nbsp;something&nbsp;I was wade aware of, so I had to wait a short while to be let in. Other than that, I really enjoyed my stay!</p><br>-----------------------------<br><br> <p>Thank you for your reservation! Please print a copy of these details for your records.<br /><strong>Guest Name</strong>: Melinda Le<br /><strong>Number of Guests:&nbsp;</strong>1<br /><strong>Booking Reference Number: </strong>167642<br /><strong>Date and Time of Check-in: </strong>2 June at 8:00 PM.<br /><strong>Date and Time of Checkout: </strong>3 June at 11:00 A.M.<br /><strong>Amount Paid: </strong>$15.00 deposit<span style=\"font-size:12px;\">+</span><span style=\"font-size:14px;\"> $5.00 late-night check-in fee&nbsp;</span>= $20.00 total paid via card ending in -8990<br /><strong>Amount Due on Arrival: </strong>$30.00<br /><strong>Total: </strong>$50.00<br />Send a message to reception@zabokahaiti.ht or call + 509 2555 0161 if you have any questions prior to your arrival. We look forward to hosting you!</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the Zaboka Guesthouse located?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Next to a history museum",
+              "(B)Near an urban transit center",
+              "(C)In an old area of the town",
+              "(D)In a new residential area"
+            ]
+          },
+          "answer": {
+            "text": "(C)In an old area of the town",
+            "explanation": "<p><font><font>Email&nbsp;</font></font><font><font>1 paragraph 1:</font></font></p>\n\n<p><font><font>The Zaboka Guesthouse, situated in the hills above Haiti&#39;s capital city of Port-au- Prince, occupies the top four floors of a gorgeous building in<strong>&nbsp;</strong></font></font><strong><font><font>a historic district&nbsp;</font></font></strong><font><font>.</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the Web site mention about the Zaboka Guesthouse?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It provides a complimentary breakfast.",
+              "(B) It can be reserved for special evening events.",
+              "(C)It offers tours to local attractions.",
+              "(D)it requires full payment in advance."
+            ]
+          },
+          "answer": {
+            "text": "(A) It provides a complimentary breakfast.",
+            "explanation": "Line 2, paragraph detail: All guests are also entitled to a <strong>free</strong> Hailian-style <strong>breakfast </strong>including locally grown coffee."
+          }
+        },
+        {
+          "question": {
+            "text": "What did Mr. Gaines like most about the Zaboka Guesthouse?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Its friendly staff",
+              "(B)Its spacious rooms",
+              "(C)Its social atmosphere",
+              "(D)Its attractive architecture"
+            ]
+          },
+          "answer": {
+            "text": "(C)Its social atmosphere",
+            "explanation": "<p><font><font>Email 2&nbsp;</font></font><font><font>sentence&nbsp;</font></font><font><font>3:</font></font></p>\n\n<p><font><font>The lively courtyard and huge communal kitchen both present a&nbsp;</font></font><font><font><strong>great environment for mecting other guests</strong>&nbsp;</font></font><font><font>, that was without a doubt my favorite aspect.</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "How did the Zaboka Guesthouse make an exception for Ms. Le?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By extending her checkout time",
+              "(B) By waiving a nighttime check-in fee",
+              "(C) By charging a lower price for her room",
+              "(D) By allowing her to stay only one night"
+            ]
+          },
+          "answer": {
+            "text": "(D) By allowing her to stay only one night",
+            "explanation": "<p><font><font>Email 3:</font></font></p>\n\n<p><font><font>Date and Time of Check-in: 2&nbsp;</font></font><font><font>June at&nbsp;</font></font><font><font>8:00 PM</font></font></p>\n\n<p><font><font>Date and Time of Checkout:&nbsp;</font></font><font><font>3 June at 11:00 AM</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Le?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She made her reservation over the phone.",
+              "(B) She will need a code to enter the guesthouse.",
+              "(C) She will be traveling with extra luggage.",
+              "(D) She requested a room that overlooks the courtyard"
+            ]
+          },
+          "answer": {
+            "text": "(B) She will need a code to enter the guesthouse.",
+            "explanation": "Email 3:\n\nBooking reference number: 167642"
+          }
+        }
+      ],
+      "id": "626441e5eccc8cae769c58a7"
+    }
+  ],
+  "id": "626441e5eccc8cae769c58aa"
+}

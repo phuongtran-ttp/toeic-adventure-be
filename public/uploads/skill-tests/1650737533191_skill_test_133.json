@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 133",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_416.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_416.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b0b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): You&#39;re listening to KLX, your favorite folk music station. Next up, <strong>Q1&nbsp;you&#39;ll hear an exclusive interview with songwriter and singer Robert Vega.</strong> I&#39;m particularly pleased to have Robert on the show as <strong>Q2&nbsp;we&#39;ve been friends ever since we met in a music class at Coast University. </strong>Robert will be talking about his new album, Total Vega, which was recorded live at the famous Willingboro Festival. When we come back from the break, <strong>Q3&nbsp;we&#39;ll let you know how you can win a pair of tickets to his upcoming concert at Midland Arena</strong> &mdash; so, stay tuned.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is Robert Vega?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A program host",
+              "(B)A stage manager",
+              "(C)A musician",
+              "(D)A teacher"
+            ]
+          },
+          "answer": {
+            "text": "(C)A musician",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where did the speaker first meet Robert Vega?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In a store",
+              "(B)In a class",
+              "(C)At a friend's home",
+              "(D)At a festival"
+            ]
+          },
+          "answer": {
+            "text": "(B)In a class",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners have a chance to win?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Music lessons",
+              "(B)An autographed poster",
+              "(C)A backstage tour",
+              "(D)Concert tickets"
+            ]
+          },
+          "answer": {
+            "text": "(D)Concert tickets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b10"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4410.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b06"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Thank you for coming to this afternoon&#39;s press conference. We&#39;re happy to announce that <strong>Q1&amp;2&nbsp;Meadowbrook Hospital has completed the first phase of a 50-million-dollar expansion project.We&#39;ve doubled the number of our patient rooms, </strong>which means that we&#39;re now equipped to provide medical care to significantly more people. But our work is only half completed. Construction is already underway on a state-of-the-art medical training facility, the second phase of our expansion project. <strong>Q3&nbsp;When that facility opens next year, we&#39;ll be able to offer cutting-edge training programs for all types of medical professionals.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To recognize a staff member",
+              "(B)To discuss a construction project",
+              "(C)To welcome professionals to a training seminar",
+              "(D)To request funding for medical equipment"
+            ]
+          },
+          "answer": {
+            "text": "(B)To discuss a construction project",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what has changed at Meadowbrook Hospital?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The duties of medical staff",
+              "(B)The budget for a research project",
+              "(C)The admissions procedure",
+              "(D)The number of patient rooms"
+            ]
+          },
+          "answer": {
+            "text": "(D)The number of patient rooms",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the hospital plan to do next year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Open a training center",
+              "(B)Start a fund-raising campaign",
+              "(C)Expand a parking area",
+              "(D)Hire more physicians"
+            ]
+          },
+          "answer": {
+            "text": "(A)Open a training center",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b12"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_493.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_493.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b16"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Hi, this message is for Jim Brenner. <strong>Q1&nbsp;This is Anthony from Anthony&#39;s Dry Cleaners.</strong> I&#39;m calling to let you know <strong>Q2&nbsp;I found a credit card in the pocket of the brown suit jacket you brought in yesterday. </strong>Your clothes won&#39;t be ready until next week, but I thought you might want to get your card back sooner than that. <strong>Q3&nbsp;When you come in, please have your suit claim check with you so that we know we&#39;re giving the card to the right person. </strong>Thanks.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a dry cleaners",
+              "(B) At a bank",
+              "(C) At a hotel",
+              "(D) At a clothing shop"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a dry cleaners",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What was found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A set of keys",
+              "(B) A digital camera",
+              "(C) A mobile phone",
+              "(D) A credit card"
+            ]
+          },
+          "answer": {
+            "text": "(D) A credit card",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the listener have to show to pick up the item?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A hotel receipt",
+              "(B) A claim check",
+              "(C) A business card",
+              "(D) A passport"
+            ]
+          },
+          "answer": {
+            "text": "(B) A claim check",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b1c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_429.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_429.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b14"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): Good morning and welcome to this orientation session for new employees. My name&#39;s Marilyn Carter, and I&#39;m the head of the human resources group. <strong>Q1&nbsp;Our first topic today is the company&#39;s payroll process</strong>&nbsp;and I&#39;m sure you&#39;re all eager to know how and when you&#39;ll be paid. Paychecks are issued weekly, and <strong>Q2&nbsp;I&#39;m going to be handing out forms with the information we&#39;ll need to get you set up in the payroll system. Make sure that you write clearly and that all the information is accurate before you give them back to me. Q3&nbsp;One thing you should be aware of is that it takes about a week to process this paperwork, so that means there&#39;ll be a delay before you receive your first paycheck.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the speaker explaining?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A payroll process",
+              "(B)A corporate travel policy",
+              "(C)Job responsibilities",
+              "(D)Interviewing procedures"
+            ]
+          },
+          "answer": {
+            "text": "(A)A payroll process",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker emphasize that listeners should do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Consult a manual",
+              "(B)Complete forms carefully",
+              "(C)Meet with supervisors weekly",
+              "(D)Monitor expenses"
+            ]
+          },
+          "answer": {
+            "text": "(B)Complete forms carefully",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners told to expect?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A change in a company policy",
+              "(B)An upgrade of some software",
+              "(C)A delay in a payment",
+              "(D)A revision to a work schedule"
+            ]
+          },
+          "answer": {
+            "text": "(C)A delay in a payment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b1e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_417.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_417.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b20"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): <strong>Q1&amp;2&nbsp;want to remind you to tell patrons about a new service we&#39;re offering on the library&#39;s Web site. Patrons can now access the library&#39;s catalog and their accounts online, so they can put titles on hold, search other libraries for an interlibrary loan, and review checkouts </strong>&mdash; all from their home computers. <strong>Q3&nbsp;We&#39;ve had magnets made that have our Web site printed on them. Please offer them to people as they check out at the circulation desk.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker probably work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a car rental agency",
+              "(B)At a fitness center",
+              "(C)At a library",
+              "(D)At a bank"
+            ]
+          },
+          "answer": {
+            "text": "(C)At a library",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What change does the speaker announce?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A new wing has opened.",
+              "(B)Online services have been added.",
+              "(C)Hours have been extended.",
+              "(D)Fees have increased."
+            ]
+          },
+          "answer": {
+            "text": "(B)Online services have been added.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners asked to distribute?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Magnets",
+              "(B)Calendars",
+              "(C)Flyers",
+              "(D)Business cards"
+            ]
+          },
+          "answer": {
+            "text": "(A)Magnets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b25"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4104.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4104.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b0d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): <strong>Q1&nbsp;Do you wish you could fix your leaky roof or repaint your living room, but don&#39;t know where to start? Garcia&#39;s Home Center can help. </strong>Every Saturday morning, we offer free instruction on everything from building a shed to tiling your bathroom. <strong>Q2&nbsp;This Saturday&#39;s workshop will focus on laying carpet in your home.</strong> Come and learn about buying the right carpeting and using the best tools. <strong>Q3&nbsp;Anyone who attends the workshop will also receive a comprehensive folder full of information</strong> - our step-by-step guides are sure to make your project a success. So stop by the store to register today!</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An interior design firm",
+              "(B) An art supply store",
+              "(C) A real estate agency",
+              "(D) A home improvement store"
+            ]
+          },
+          "answer": {
+            "text": "(D) A home improvement store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the topic of this Saturday's workshop?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Choosing a decorating style",
+              "(B) Installing carpet",
+              "(C) Remodeling a bathroom",
+              "(D) Framing artwork"
+            ]
+          },
+          "answer": {
+            "text": "(B) Installing carpet",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will be distributed at the workshop?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Information packets",
+              "(B) Coupons",
+              "(C) Supply kits",
+              "(D) Color samples"
+            ]
+          },
+          "answer": {
+            "text": "(A) Information packets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b1a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_443.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_443.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b22"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Attention, <strong>Q1&nbsp;manufacturing staff. </strong>As you know, we&#39;re expanding our popular line of glass display cases. <strong>Q2&nbsp;Our newest model will be larger in size than any of our existing cases.</strong> But before we start making it, we&#39;ll have to modify our equipment to handle the larger panes of glass. While the technicians are doing this on Monday morning, <strong>Q3&nbsp;you&#39;ll be helping to take inventory in the warehouse</strong>. This will allow us to get a head start on our annual inventory count.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Factory employees",
+              "(B)Construction workers",
+              "(C)Sales representatives",
+              "(D)Repair technicians"
+            ]
+          },
+          "answer": {
+            "text": "(A)Factory employees",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is different about the new model?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is easier to use.",
+              "(B)It is bigger.",
+              "(C)It costs less to produce.",
+              "(D)It is made from a new material."
+            ]
+          },
+          "answer": {
+            "text": "(B)It is bigger.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners asked to do on Monday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Install new machinery",
+              "(B)Work an evening shift",
+              "(C)Take inventory",
+              "(D)Rearrange a display"
+            ]
+          },
+          "answer": {
+            "text": "(C)Take inventory",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b2a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_498.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_498.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b2c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn) I&#39;m so glad you could all join me this evening in honoring Ms. Aviva Rozen. After twenty-five years of working with us at Crown Software, <strong>Q1&nbsp;Aviva is retiring from her position as chief software developer our healthcare applications group was established by Aviva.</strong>&nbsp;<strong>Q2 Under her strong leadership, that division has become one of our most profitable areas.</strong> We&#39;re sorry to lose her, but we know she&#39;ll enjoy the years ahead. In fact, <strong>Q3&nbsp;she says she&#39;ll be found in her home studio, where she&#39;ll finally have the time she wants to devote to her watercolor painting.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is Aviva Rozen's position?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Software executive",
+              "(B) Financial advisor",
+              "(C) Marketing director",
+              "(D) Chief scientist"
+            ]
+          },
+          "answer": {
+            "text": "(A) Software executive",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what did Ms. Rozen accomplish?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She negotiated a complicated merger.",
+              "(B) She implemented a global sales strategy.",
+              "(C) She developed the company's training plan.",
+              "(D) She started a successful division."
+            ]
+          },
+          "answer": {
+            "text": "(D) She started a successful division.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Ms. Rozen do after she retires?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Volunteer at a museum",
+              "(B) Start a new business",
+              "(C) Pursue a hobby",
+              "(D) Consult for the company"
+            ]
+          },
+          "answer": {
+            "text": "(C) Pursue a hobby",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b30"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_419.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_419.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b33"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): It&#39;s time to start planning the fall travel section that we publish every September. And, <strong>Q1&nbsp;this year, we&#39;ve decided to have the summer interns write most of it.&nbsp;</strong>It&#39;s a good long-term project for them, and it will solve our biggest problem from last summer. That was the first time that we&#39;d used interns to work on news articles for the weekday editions &mdash; which seemed like a good idea, but I&#39;m sure you all remember how time-consuming it was giving the interns daily feedback on their articles. And, unfortunately, <strong>Q2&nbsp;some of us missed important deadlines for our own pieces</strong>. So, this summer, everyone will have mentoring assignments just once a week, rather than daily. <strong>Q3&nbsp;Please take a look at your calendars and then e-mail me the days when you&#39;re free to mentor someone.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is mainly being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A required training course",
+              "(B)A competing publication",
+              "(C)Corporate travel policies",
+              "(D)An internship program"
+            ]
+          },
+          "answer": {
+            "text": "(D)An internship program",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what was the problem last summer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Deadlines were missed.",
+              "(B)Articles were inaccurate.",
+              "(C)Projects went over budget.",
+              "(D)Feedback was not given."
+            ]
+          },
+          "answer": {
+            "text": "(A)Deadlines were missed.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker want listeners to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Submit expense reports",
+              "(B)Suggest new article topics",
+              "(C)Provide their availability",
+              "(D)Review applications"
+            ]
+          },
+          "answer": {
+            "text": "(C)Provide their availability",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b38"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_424.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_424.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b2e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Attention Central Museum patrons: it is now 4:45 and <strong>Q1&nbsp;the museum will be closing in fifteen minutes.</strong> We hope you&#39;ve enjoyed your visit today and that you&#39;ll be back soon.&nbsp;<strong>Q2 Next month we&#39;re starting a new program specifically for children.</strong><strong> </strong>Our staff has created special activities using the museum&#39;s collection that help children to explore their creative abilities. Details about the program are available at the information desk. Again, we&#39;ll be closing in fifteen minutes. As you exit, please <strong>Q3&nbsp;don&#39;t forget to pick up your coat and any personal items you may have checked in the coatroom.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "When will the museum close?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In 10 minutes",
+              "(B)In 15 minutes",
+              "(C)In 45 minutes",
+              "(D)In one hour"
+            ]
+          },
+          "answer": {
+            "text": "(B)In 15 minutes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will begin at the museum next month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Self-guided tours",
+              "(B)A lecture series",
+              "(C)A special exhibit",
+              "(D)A children's program"
+            ]
+          },
+          "answer": {
+            "text": "(D)A children's program",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners reminded to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Collect personal belongings",
+              "(B)Return audio equipment",
+              "(C)Use a side exit",
+              "(D)Renew their memberships"
+            ]
+          },
+          "answer": {
+            "text": "(A)Collect personal belongings",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b3a"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264417deccc8cae769c0b4d"
+}

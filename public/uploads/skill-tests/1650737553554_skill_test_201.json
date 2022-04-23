@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 201",
+  "questions": [
+    {
+      "question": {
+        "text": "Conference participants interested in industrial development should ___ schedule a visit to Bridgeville’s factories.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)practically",
+          "(B)definitely",
+          "(C)recently",
+          "(D)fortunately"
+        ]
+      },
+      "answer": {
+        "text": "(B)definitely",
+        "explanation": "Definitely = Certainly"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c92"
+    },
+    {
+      "question": {
+        "text": "The meteorological agency recommended that tourists to the region be ___ dressed for frigid conditions.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)suitable",
+          "(B)suitably",
+          "(C)suitability",
+          "(D)suitableness"
+        ]
+      },
+      "answer": {
+        "text": "(B)suitably",
+        "explanation": "We are giving more information on the adjective \"dressed\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c8c"
+    },
+    {
+      "question": {
+        "text": "Aliflora, Inc,, grows fifty varieties of roses ___ and is now the second largest exporter in the region.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)commerce",
+          "(B)commercial",
+          "(C)commercially",
+          "(D)commercials"
+        ]
+      },
+      "answer": {
+        "text": "(C)commercially",
+        "explanation": "We are giving more information on the verb \"grows\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c99"
+    },
+    {
+      "question": {
+        "text": "All members of the sales team are grateful for Michael Drey man's substantial ___ to the project over the last six months.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)assurance",
+          "(B)dependence",
+          "(C)obligations",
+          "(D)contributions"
+        ]
+      },
+      "answer": {
+        "text": "(D)contributions",
+        "explanation": "Contribution to st = Giving help/money to st <br> Substantial = Great"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c94"
+    },
+    {
+      "question": {
+        "text": "Yokohama-based Shinohara Industries ___ has a satellite office in Bangkok.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)and",
+          "(B)plus",
+          "(C)else",
+          "(D)also"
+        ]
+      },
+      "answer": {
+        "text": "(D)also",
+        "explanation": "\"And\" requires at least two items/actions. <br> \"Plus\" goes with a comma. <br> Else only goes with nouns.  <br> Therefore, we choose \"also\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c9d"
+    },
+    {
+      "question": {
+        "text": "The gift shop in the hotel lobby specializes in handcrafted gift items, each one of them unique and ___..",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)memory",
+          "(B)memorize",
+          "(C)memories",
+          "(D)memorable"
+        ]
+      },
+      "answer": {
+        "text": "(D)memorable",
+        "explanation": "\"Unique\" is an adjective so the answer is also an adjective."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1ca1"
+    },
+    {
+      "question": {
+        "text": "Manager Tony Lopez is in charge of unloading the merchandise ___ the supply trucks  arrive at the supermarket.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)when",
+          "(B)hardly",
+          "(C)just",
+          "(D)soon"
+        ]
+      },
+      "answer": {
+        "text": "(A)when",
+        "explanation": "\"When\" is the only answer that can connect two clauses."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c9b"
+    },
+    {
+      "question": {
+        "text": "Researchers at Gasnite Company have developed an improved method of ___ fuel from industrial waste materials.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)extraction",
+          "(B)extracts",
+          "(C)extracted",
+          "(D)extracting"
+        ]
+      },
+      "answer": {
+        "text": "(D)extracting",
+        "explanation": "Method of doing st = Way to do st <br>Extract = Remove"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1ca8"
+    },
+    {
+      "question": {
+        "text": "Please___ the bottom portion for your records.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)retain",
+          "(B)retaining",
+          "(C)retains",
+          "(D)retained"
+        ]
+      },
+      "answer": {
+        "text": "(A)retain",
+        "explanation": "This is an instruction so we use the verb in its original form. <br> Retain = Keep"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1ca3"
+    },
+    {
+      "question": {
+        "text": "Training for our new processors will take place ___ a three-day period in July.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)among",
+          "(B)over",
+          "(C)beyond",
+          "(D)behind"
+        ]
+      },
+      "answer": {
+        "text": "(B)over",
+        "explanation": "Over + time period"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1cb0"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644191eccc8cae769c1cbd"
+}

@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 248",
+  "questions": [
+    {
+      "question": {
+        "text": "From: Vice President Jordan Smith <br>To: K Group Employees<br>Subject: Company Renovations<br>Date: February 26<br><br>To all employees, <br> This weekend the renovations to our second-floor offices <b> (1) </b> _____ .  We ask that you take home all important documents and file away any loose materials on your desks. All electronic devices should be turned off and unplugged.  <b> (2) </b> _____ , all cabinets and drawers should be locked. <br>The renovations will take approximately 5 days.  <b> (3) </b> _____   . If you have any meetings schedule with clients next week, please schedule to meet them outside the company premises due to the noise. We apologize for the inconvenience but we ask for your  <b> (4) </b> _____ . Thank you",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This weekend the renovations to our second-floor offices <b> (1) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) has began",
+              "(B) will begin",
+              "(C) beginning",
+              "(D begun"
+            ]
+          },
+          "answer": {
+            "text": "(B) will begin",
+            "explanation": "This sentence mentions time \"This weekend\" => use future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2) </b> _____ , all cabinets and drawers should be locked.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Furthermore",
+              "(B) As a consequence",
+              "(C) Because",
+              "(D) Therefore"
+            ]
+          },
+          "answer": {
+            "text": "(A) Furthermore",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "The renovations will take approximately 5 days.  <b> (3) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) If it takes  longer, we will notify you.",
+              "(B) All business will be suspended until the renovations end.",
+              "(C) During this time, your temporary workspace will be the first-floor conference room.",
+              "(D) Your office space will look new and improved after the renovations."
+            ]
+          },
+          "answer": {
+            "text": "(C) During this time, your temporary workspace will be the first-floor conference room.",
+            "explanation": "The previous sentence mentions \"The renovations will take approximately 5 days\" => \"during this time...\" "
+          }
+        },
+        {
+          "question": {
+            "text": "We apologize for the inconvenience but we ask for your  <b> (4) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) service",
+              "(B) association",
+              "(C) connection",
+              "(D) cooperation"
+            ]
+          },
+          "answer": {
+            "text": "(D) cooperation",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c2717"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Attorney Opening</strong></p> <p>Johnson, Johnson, and Kindness PLC have an immediate position available for a contract attorney. The ideal candidate would have at least three years of experience <b> (1) </b> _____ with complex business transactions. <b> (2) </b> _____. The types of contract work that we <b> (3) </b> _____ at Johnson, Johnson, and Kindness deal exclusively with business relationships between private companies and the government. If <b> (4) </b> _____ feel that you would be qualified to join our team, please e-mail our HR manager at JJC@law.com.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The ideal candidate would have at least three years of experience <b> (1) </b> _____ with  complex business transactions.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) working",
+              "(B) work",
+              "(C) to work",
+              "(D) worked"
+            ]
+          },
+          "answer": {
+            "text": "(A) working",
+            "explanation": "have ..... experience doing something"
+          }
+        },
+        {
+          "question": {
+            "text": "The ideal candidate would have at least three years of experience _____ with  complex business transactions. <b> (2) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Government experience would also be a plus.",
+              "(B) Working with children would help your resume.",
+              "(C) Experience with animals is essential.",
+              "(D) Working with disabled people is a bonus."
+            ]
+          },
+          "answer": {
+            "text": "(A) Government experience would also be a plus.",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "The types of contract work that we <b> (3) </b> _____ at  Johnson, Johnson, and Kindness deal exclusively with business relationships between private companies and the government.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) perform",
+              "(B) achieve",
+              "(C) allow",
+              "(D) transform"
+            ]
+          },
+          "answer": {
+            "text": "(A) perform",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "If <b> (4) </b> _____ feel that you would be qualified to join our team, please e-mail our HR manager at JJC@law.com.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) you",
+              "(B) I",
+              "(C) us",
+              "(D) they"
+            ]
+          },
+          "answer": {
+            "text": "(A) you",
+            "explanation": "\"you\" refers to the email receiver"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c271a"
+    },
+    {
+      "question": {
+        "text": "To: bobsaget@Bob’sJob’s.com <br>From: HarrisonG@gmail.com<br>Date: September 20<br>Subject: Business Proposal<br><br>Dear Mr. Saget, <br>My name is Harrison Goodbody.  I am <b> (1) </b> _____   in response to the advertisement you placed in the Times about a new human resources manager. I have year’s  <b> (2) </b> _____  working in a fast- paced corporate environment. I understand that your firm employs upwards of 300 employees and many them are Spanish speaking. <b> (3) </b> _____.  I have attached my resume and would be happy <b> (4) </b> _____   provide excellent references should you request them. Thank you for short time. <br>Sincerely, <br>Harrison Goodbody",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I am <b> (1) </b> _____   in response to the advertisement you placed in the Times about a new human resources manager.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) message",
+              "(B) to write",
+              "(C) writing",
+              "(D) looking"
+            ]
+          },
+          "answer": {
+            "text": "(C) writing",
+            "explanation": "Be + Ving: present continuous and based on the meaning of words =>choose \"writing\""
+          }
+        },
+        {
+          "question": {
+            "text": "I have year’s  <b> (2) </b> _____  working in a fast- paced corporate environment.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) experience",
+              "(B) knowledge",
+              "(C) working",
+              "(D) knowing"
+            ]
+          },
+          "answer": {
+            "text": "(A) experience",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "I understand that your firm employs upwards of 300 employees and many them are Spanish speaking. <b> (3) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I am a certified level-5 speaker of Spanish.",
+              "(B) Spanish people can be hard to work with.",
+              "(C) I don’t know any Spanish, but I could study.",
+              "(D) Spanish speakers are good workers."
+            ]
+          },
+          "answer": {
+            "text": "(A) I am a certified level-5 speaker of Spanish.",
+            "explanation": "The previous sentence mentions \"your firm employs upwards of 300 employees and many them are Spanish speaking\" => A is related"
+          }
+        },
+        {
+          "question": {
+            "text": "I have attached my resume and would be happy <b> (4) </b> _____   provide excellent references should you request them.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) in",
+              "(B) to",
+              "(C) for",
+              "(D) will"
+            ]
+          },
+          "answer": {
+            "text": "(B) to",
+            "explanation": "be adj + to infinitive"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c271d"
+    },
+    {
+      "question": {
+        "text": "With Global Strength Gym's 30-day trial period , you get the opportunity to try out our classes, equipment, and facilities. ----1--- . It's completely risk-free! To sign up, we require your contact information and payment details, but you will only be charged if you are a member for ---2-- 30 days. If you decide within this time that you no longer want to be a member of Global Strength,--- 3---- visit our Web site at www.gsgym .com. On the Membership page, elect to ---4--- your membership and enter the necessary information. It's that easy!",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Throughout the trial, you pay nothing and sign no contract.",
+              "(B) Weight-lifting classes are not currently available.",
+              "(C) A cash deposit is required when you sign up for membership.",
+              "(D) All questions should be e-mailed to customerservice@gsgym.com."
+            ]
+          },
+          "answer": {
+            "text": "(A) Throughout the trial, you pay nothing and sign no contract.",
+            "explanation": "Select (A) since the previous sentence has the phrase trialperiod means the trial period."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) not even",
+              "(B)almost",
+              "(C)over",
+              "(D)less than"
+            ]
+          },
+          "answer": {
+            "text": "(C)over",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) justly",
+              "(B) regularly",
+              "(C) evenly",
+              "(D) simply"
+            ]
+          },
+          "answer": {
+            "text": "(D) simply",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) extend",
+              "(B) renew",
+              "(C)cancel",
+              "(D)initiate"
+            ]
+          },
+          "answer": {
+            "text": "(C)cancel",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2720"
+    },
+    {
+      "question": {
+        "text": "As a Hanson-Roves employee, you are entitled to sick absences, during which you will be paid for time off work for health ---1---- . To avoid deductions to your pay you --- 2---- to provide a physician signed note as documentation of your illness . ---3---- should include the date you were seen by the doctor, a statement certifying that you are unable to perform the duties of your position, and your expected date of return . Your supervisor will then forward the documentation to Human Resources. ---4---- . Employee health records can be accessed only by those with a valid business reason for reviewing them.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) reasons",
+              "(B) origins",
+              "(C) senses",
+              "(D) contributions"
+            ]
+          },
+          "answer": {
+            "text": "(A) reasons",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) were required",
+              "(B) require",
+              "(C) are required",
+              "(D) are requiring"
+            ]
+          },
+          "answer": {
+            "text": "(C) are required",
+            "explanation": "Select (C) since the require verb is not the object => can be implied this is the passive voice and this passage is a directed text so the verb must divide the simple present tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Those",
+              "(B) They",
+              "(C) I",
+              "(D) It"
+            ]
+          },
+          "answer": {
+            "text": "(D) It",
+            "explanation": "Choose (D) because spaces require a pronoun can be substituted for singular nouns a physician-signed note in the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Hanson-Roves ensures the privacy of your health information.",
+              "(B) Absences may be caused by a number of factors.",
+              "(C) You should then explain why a physician's note is not available.",
+              "(D) Take note of the duties you were originally assigned."
+            ]
+          },
+          "answer": {
+            "text": "(A) Hanson-Roves ensures the privacy of your health information.",
+            "explanation": "Select (A) since the following sentence has the phrase employee heath records means the health record's Staff."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2723"
+    },
+    {
+      "question": {
+        "text": "To: fcontini@attmail.com<br>  From: btakemoto@arolischems.co.uk<br> Date: 15 July<br> Subject: Your first day at Arolis<br> Dear Mr. Contini,<br> Welcome to Arolis Chemicals! Thank you for---1---- the full-time, permanent position of laboratory assistant. We look forward to your arrival on 1 August in the Harris Building. Please report to the front desk and ask for Jack McNolan. He ---2---- you to the Human Resources office. There, you will obtain your employee badge ---3---- all documents necessary to start work. Note that because of its large size, the Leicester campus of Arolis can be difficult to navigate . Studying a campus map will help orient you to the location of the different buildings . ---4---- .<br> Should you have any questions, please do not hesitate to contact me.<br> Sincerely,<br> Brandon Takemoto<br> HR Administrative Officer",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) offering",
+              "(B) accepting",
+              "(C) discussing",
+              "(D) advertising"
+            ]
+          },
+          "answer": {
+            "text": "(B) accepting",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) accompany",
+              "(B) did accompany",
+              "(C) accompanies",
+              "(D) will accompany"
+            ]
+          },
+          "answer": {
+            "text": "(D) will accompany",
+            "explanation": "Choose (D) because the sentence after the main verb divides the future simple tense “will obtain” so the previous sentence will also divide likewise"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) too",
+              "(B) also",
+              "(C) as well as",
+              "(D) additionally"
+            ]
+          },
+          "answer": {
+            "text": "(C) as well as",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Please sign all the documents.",
+              "(B) I will provide you with a replacement.",
+              "(C) Construction will be completed next year.",
+              "(D) You can download one from our Website."
+            ]
+          },
+          "answer": {
+            "text": "(C) Construction will be completed next year.",
+            "explanation": "Choose (D) by the pronoun one to replace the noun a campus map in the previous sentence"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2726"
+    },
+    {
+      "question": {
+        "text": "(18 April)-MKZ Foods, Inc., the region's largest exporter of pecans, expects its outgoing shipments to increase significantly over the next few months . This ---1---- is based on the fact that the region's pecan farmers expanded their land area by 20 percent last year. According to spokesperson Katharina Seiler, MKZ's exports could reach a colossal 50,000 metric tons this year. --2---- .<br> MKZ buys most of the yield from the region's pecan farms and processes it ---3----  export throughout the world. \"The availability of new land for ---4---- in the region is creating opportunities for growth,\" said Ms. Seiler. \"I believe MKZ is going to have a truly outstanding year. \"",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) cost",
+              "(B) delay",
+              "(C) decision",
+              "(D) forecast"
+            ]
+          },
+          "answer": {
+            "text": "(D) forecast",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Such a figure is unprecedented in the company's history.",
+              "(B) Moreover, Ms. Seiler holds an advanced degree in economics.",
+              "(C) Pecans are high in vitamins and minerals.",
+              "(D) Still, MKZ shares have been profitable in recent years."
+            ]
+          },
+          "answer": {
+            "text": "(A) Such a figure is unprecedented in the company's history.",
+            "explanation": "Select (A) because the previous sentence mentioned numbers 50,000 tons."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) on",
+              "(B) for",
+              "(C) in",
+              "(D) by"
+            ]
+          },
+          "answer": {
+            "text": "(B) for",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) farming",
+              "(B) farmer",
+              "(C) farmed",
+              "(D) farm"
+            ]
+          },
+          "answer": {
+            "text": "(A) farming",
+            "explanation": "Choose (A) meaning cultivated and due to the prepositionfor needs to enter a suitable noun"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2729"
+    },
+    {
+      "question": {
+        "text": "We are pleased to announce that the installation of the new manufacturing equipment in our main plant has been completed. The new machines ---1---- work flow by allowing for flexibility in production. With six mixing tanks of---2---- sizes, we expect to be able to fill a wider range of orders, from small to very large. This ---3---- is an important way to ensure that Balm Manufacturing continues to be a leader in the fragrance industry. <br> ---4--- . Jim Martel, who is organizing this effort, will contact each of you soon with details.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) have been improved",
+              "(B) were improving",
+              "(C) will improve",
+              "(D) Improved"
+            ]
+          },
+          "answer": {
+            "text": "(C) will improve",
+            "explanation": "Select (C) because there is the object \"workflow\" behind, and considering the context of the installation of the machine, the following things can only happen in the future."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) varying",
+              "(B) varies",
+              "(C) vary",
+              "(D) variation"
+            ]
+          },
+          "answer": {
+            "text": "(A) varying",
+            "explanation": "Select (A) according to the structure: preposition (of) + adjective (varying = various) + noun."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) proposal",
+              "(B) contract",
+              "(C) impression",
+              "(D) upgrade"
+            ]
+          },
+          "answer": {
+            "text": "(D) upgrade",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Supervisors completed a tour of the plant yesterday.",
+              "(B) Unfortunately, the installation cost more than we had anticipated.",
+              "(C) As you are aware, our industry is increasingly competitive.",
+              "(D) All personnel must be trained on the new equipment by the end of the month."
+            ]
+          },
+          "answer": {
+            "text": "(D) All personnel must be trained on the new equipment by the end of the month.",
+            "explanation": "Choosing (D) because the following sentence says that Jim Martel is working on this attempt may imply that the previous sentence must cover a specific job."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c272c"
+    },
+    {
+      "question": {
+        "text": "<u>www.kateweicommunications.com</u><br />\nMarketing your business can be confusing. Newspapers and magazines are ---1---- useful venues for advertising. ----2--- , social media platforms have become even more critical marketing outlets. Kate Wei Communications utilizes both traditional outlets and the latest communication platforms. ----3---. In addition to exceptional print services, Kate Wei Communications has the expertise to help you ---4--- your online presence. Why wait? Choose our award-winning firm to strengthen your company&#39;s image today!",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) still",
+              "(B) nowhere",
+              "(C) soon",
+              "(D) evenly"
+            ]
+          },
+          "answer": {
+            "text": "(A) still",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) As a result",
+              "(B) To demonstrate",
+              "(C) Otherwise",
+              "(D) However"
+            ]
+          },
+          "answer": {
+            "text": "(D) However",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Marketing professionals give conflicting advice.",
+              "(B) Traditional methods have the best impact.",
+              "(C) We will develop a diverse plan for your business.",
+              "(D) We have recently changed our terms of service."
+            ]
+          },
+          "answer": {
+            "text": "(C) We will develop a diverse plan for your business.",
+            "explanation": "Select (C) because the previous sentence said that this company uses traditional and modern methods, it can be implied that they have diversified ways to promote their business."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) optimal",
+              "(B) optimize",
+              "(C) optimization",
+              "(D) optimum"
+            ]
+          },
+          "answer": {
+            "text": "(B) optimize",
+            "explanation": "Select (B) according to the structure: help somebody (you) + to-V / the prototype verb."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c272f"
+    },
+    {
+      "question": {
+        "text": "<b></b><b>Bakery Gets Technological</b><br></h4>MOMBASA (June 10) - Incredible Cravings, a nationwide bakery and pastry chain with more than 28 store locations, (1) ------- a new way to use technology to better serve its customers. During the last quarter, the company began using an infrared-sensor system that (2) ------- monitors products in the store as they are added ad removed from shelves. <br><br>Personnel from each bakery can see (3) ------- in real time as it is analyzed and updated by the computer. (4) -------. For example, when many customers purchase a certain type of bread, employees who are monitoring the screen can immediately restock the popular item.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Incredible Cravings, a nationwide bakery and pastry chain with more than 28 store locations, (1) ------- a new way to use technology to better serve its customers.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is to introduce",
+              "(B) was introducing",
+              "(C) has introduced",
+              "(D) would have introduced"
+            ]
+          },
+          "answer": {
+            "text": "(C) has introduced",
+            "explanation": "This sentence is about a recent action => use present perfect"
+          }
+        },
+        {
+          "question": {
+            "text": "During the last quarter, the company began using an infrared-sensor system that (2) ------- monitors products in the store as they are added ad removed from shelves.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) precise",
+              "(B) precisely",
+              "(C) precision",
+              "(D) preciseness"
+            ]
+          },
+          "answer": {
+            "text": "(B) precisely",
+            "explanation": "The blank precedes a verb => need an adverb to modify it"
+          }
+        },
+        {
+          "question": {
+            "text": "Personnel from each bakery can see (3) ------- in real time as it is analyzed and updated by the computer.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) inventory",
+              "(B) scheduling",
+              "(C) vendors",
+              "(D) ingredients"
+            ]
+          },
+          "answer": {
+            "text": "(A) inventory",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "(4) -------. For example, when many customers purchase a certain type of bread, employees who are monitoring the screen can immediately restock the popular item.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This system ensures that shoppers can always find what they want.",
+              "(B) This computer sends data to store security staff.",
+              "(C) The Mombasa store is gaining more and more customers.",
+              "(D) The most popular item at Incredible Cravings is the chocolate croissant"
+            ]
+          },
+          "answer": {
+            "text": "(A) This system ensures that shoppers can always find what they want.",
+            "explanation": "The previous sentence mentions \"as it is analyzed and updated by the computer\" => A is correct"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2731"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441aaeccc8cae769c2737"
+}

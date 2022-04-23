@@ -1,0 +1,644 @@
+{
+  "name": "Skill Test 289",
+  "questions": [
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <h3 style=\"text-align: center;\"> Appointment calendar </h3> <p align =\"center\"><b>Name: Johnathan Biedler </b></p> <tr>  <td> Monday September 26 </td> <td> 8:30 A.M. Teleconference (Arnold White-A&F Consulting) <br>10:00-11:30 A.M. Brand Launch Team meeting (Room 2A)<br>1:00-2:30 P.M. Interview administrative assistant (Helen Maeda) Room 102<tr> <td> Tuesday September 27 </td><td>  8:00-10:30 A.M. Brand Launch Team meeting (Room 2A)<br>4:00-5:30 P.M. Meeting Roland Patterson (Finance Department) Room 220</td></tr> <tr> <td> Wednesday September 28 </td><td> 9:00 A.M. Teleconference (Asia Pacific Marketing Group)<br>11:00 A.M. Teleconference (Martin Ricciardo-Wexford Consulting)<br> 1:00-2:30 P.M. Interview administrative assistant (Walter Krauter) Room 102 </td></tr> <tr> <td> Thursday September 29 </td><td> 10:30 A.M. Teleconference (Arnold White-A&F Consulting)<br>12:00-1:00 P.M. Working lunch with Brand Launch Team (Room 235) </td></tr> <tr> <td> Friday September 30  </td><td> 1:00-2:30 P.M. Interview administrative assistant (Flora Suarez) Room 102 4:00-5:00 P.M. Administrative assistant hiring meeting with Brenda Cho (Human Resources) Room 415 </td></tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Mr. Biedler?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He does not work over lunch breaks.",
+              "(B) He reports to Brenda Cho.",
+              "(C) He is planning to hire an administrative assistant.",
+              "(D) He has an appointment scheduled on Friday morning."
+            ]
+          },
+          "answer": {
+            "text": "(C) He is planning to hire an administrative assistant.",
+            "explanation": "Information in the sentence: \"1:00-2:30 P.M. Interview administrative assistant (Helen Maeda) Room 102\""
+          }
+        },
+        {
+          "question": {
+            "text": "When does Mr. Biedler NOT have a teleconference?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Monday",
+              "(B) On Tuesday",
+              "(C) On Wednesday",
+              "(D) On Thursday"
+            ]
+          },
+          "answer": {
+            "text": "(B) On Tuesday",
+            "explanation": "You can clearly see that  Mr. Biedler has a teleconference on Monday, Wednesday and Thursday. Hence, option B is correct. "
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dd9"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Ashland Foods to Enter <br> Frozen-Foods Market</h3>March 12—Snack-food giant Ashland Foods announced yesterday that it is acquiring frozen-foods maker Addison May. Ashland Foods was the highest bidder in a two-month¬long bidding war in which Belltown Foods was the other major contender. Hugh Tran, CEO of Addison May, said in a statement to Business Daily, “We are confident in the vision Ashland Foods has for our company and are sure that the integrity of our products will remain intact.” <br><br>Ashland Foods CEO Anna Baum said that “with the acquisition of Addison May, Ashland Foods expects to become an even' bigger global competitor in emerging markets such as Latin America and China.” <br><br>Addison May was founded 75 years ago. In the past 5 years, it has undergone two restructurings and has downsized its product line to 18 core products. The company is known for its Meals for Two line of frozen dinners, as well as for its Bakery Delights line of frozen pastries. Because of its strong brand recognition, the Addison May name and logo will still appear on the front of its packaging. On the back, the labels will read “Produced and distributed by Ashland Foods.” <br><br>The acquisition is set to take place on May 1. There has been no statement regarding the impact the acquisition will have on Addison May’s 17,000 employees worldwide. <br><br>In response to the news of the acquisition, Ashland Foods’ stock rose 5 percent yesterday.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does Ms. Baum say about Ashland Foods?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will discontinue the Bakery Delights line of products.",
+              "(B) It Is currently not profitable.",
+              "(C) It plans to open new production sites.",
+              "(D) It expects to expand its business internationally."
+            ]
+          },
+          "answer": {
+            "text": "(D) It expects to expand its business internationally.",
+            "explanation": "Information in the sentence: \"Ashland Foods CEO Anna Baum said that “with the acquisition of Addison May, Ashland Foods expects to become an even' bigger global competitor in emerging markets such as Latin America and China.”"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned about Addison May?.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its products will carry the Ashland Foods logo.",
+              "(B) It is an international company.",
+              "(C) It produces desserts.",
+              "(D) It has reduced its product line"
+            ]
+          },
+          "answer": {
+            "text": "(A) Its products will carry the Ashland Foods logo.",
+            "explanation": "Ashland Foods CEO Anna Baum said that “with the acquisition of Addison May, Ashland Foods expects to become an even' bigger global competitor in emerging markets such as Latin America and China.” => Eliminate B<br>The company is known for its Meals for Two line of frozen dinners, as well as for its Bakery Delights line of frozen pastries.=> Eliminate C<br> In the past 5 years, it has undergone two restructurings and has downsized its product line to 18 core products.  => Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "When was Addison May established?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Two months ago",
+              "(B) Eighteen months ago",
+              "(C) Five years ago",
+              "(D) Seventy-five years ago"
+            ]
+          },
+          "answer": {
+            "text": "(D) Seventy-five years ago",
+            "explanation": "Information in the sentence: \"Addison May was founded 75 years ago\""
+          }
+        },
+        {
+          "question": {
+            "text": "What happened as a result of the announcement by Ashland Foods?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The price of Ashland Foods' stock increased.",
+              "(B) Some employees of Addison May resigned.",
+              "(C) Some frozen-foods products became unavailable.",
+              "(D) Belltown Foods entered into new negotiations with Addison May."
+            ]
+          },
+          "answer": {
+            "text": "(A) The price of Ashland Foods' stock increased.",
+            "explanation": "Information in the sentence: \"In response to the news of the acquisition, Ashland Foods’ stock rose 5 percent yesterday.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ddc"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Theater Comes Back to Life </h3> <br>(September 1 marks the beginning of the twentieth theatrical season at Shoreline Playhouse in Meadow Lakes, an event that just one year ago few thought would ever take place. <br><br>Over the past three years the Playhouse has seen its share of troubles. The opening of Field Theater in nearby Mooreland City meant that Shoreline Playhouse was no longer the only destination for area theatergoers. In addition, the generous grants given to Field Theater by the Walters Foundation meant larger-scale productions there that had a broader appeal. Shoreline Playhouse found itself operating at a loss, with little idea of what the future would hold. <br><br>Proud of its long theater heritage, the town of Meadow Lakes decided it would not be outdone by Mooreland City. The town stepped in and purchased the Lake Drive property on which the Playhouse stands. The town leased the property back to the Playhouse for the next 25 years as a hands-off landlord. In addition, town residents <u>raised</u>  a significant amount of money in donations through their Save Our Playhouse campaign. <br><br>These efforts have paid off enormously. Milton Shaffer, executive director of Shoreline Playhouse, says that “because of what the town has done for us, we are now able to offer our best season yet, We have big names in theater who will grace our stage this season, including actors William Farr, Eva Johnson, and Clyde Wells, and musical theater luminaries Mary Noda and Henry Formann.” Shaffer goes on to add, “We have a great lineup of theatrical productions with broad intergenerational appeal, such as Angela DiFalco’s classic play <i>Two Floors Down</i>, Beth Heard’s <i>Windswept Lane</i>, Blanca Flores’ <i>Far Away Home</i>, and Anthony Ward’s new musical <i>Stepping Out of Time</i>, which will make its debut here at Shoreline Playhouse.” <br><br>The sigh of relief around Meadow Lakes is almost audible. The Shoreline Playhouse can now concentrate on what it does best, enriching the area with firstclass theater productions. As resident May Gramercy puts it, “Art, whether it’s visual art, music, or theater, is necessary for a good life. We’d never let our town be without it.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is one purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce the closing of a theater",
+              "(B) To announce the hiring of an executive director",
+              "(C) To describe an upcoming theatrical season",
+              "(D) To describe a potential real estate investment"
+            ]
+          },
+          "answer": {
+            "text": "(C) To describe an upcoming theatrical season",
+            "explanation": "Based on the information in the fourth paragraph."
+          }
+        },
+        {
+          "question": {
+            "text": "What is true about Field Theater?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It specializes in musical theater.",
+              "(B) Its plays are directed by Milton Shaffer,",
+              "(C) It has been given a significant amount of money.",
+              "(D) It is located on Lake Drive."
+            ]
+          },
+          "answer": {
+            "text": "(C) It has been given a significant amount of money.",
+            "explanation": "Information in the sentence: \" In addition, the generous grants given to Field Theater by the Walters Foundation meant larger-scale productions there that had a broader appeal.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned about the town of Meadow Lakes?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has experienced financial difficulty.",
+              "(B) It is close to Mooreland City.",
+              "(C) Its residents support its theater.",
+              "(D) It has had a theater for almost twenty years."
+            ]
+          },
+          "answer": {
+            "text": "(A) It has experienced financial difficulty.",
+            "explanation": " The town of Meadow Lakes decided it would not be outdone by Mooreland City. => Eliminate B<br>In addition, town residents raised a significant amount of money in donations through their Save Our Playhouse campaign. => Eliminate C<br>September 1 marks the beginning of the twentieth theatrical season at Shoreline Playhouse in Meadow Lakes => Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"raised\", is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) awakened",
+              "(B) collected",
+              "(C) mentioned",
+              "(D)  lifted"
+            ]
+          },
+          "answer": {
+            "text": "(B) collected",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Who wrote the musical play mentioned in the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Clyde Wells",
+              "(B) Angela DiFalco",
+              "(C) Mary Noda",
+              "(D) Anthony Ward"
+            ]
+          },
+          "answer": {
+            "text": "(D) Anthony Ward",
+            "explanation": "Information in the sentence: \"Anthony Ward’s new musical Stepping Out of Time, which will make its debut here at Shoreline Playhouse.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ddf"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> <b>The Business Initiative Society of Greater San Marino</b></p><p align =\"center\">invites you to our regularly held Social Hour.</p> <br><p align =\"center\">This is an open forum for owners of small companies to meet and discuss issues affecting our area.</p><p align =\"center\">San Marino Botanical Gardens</p><p align =\"center\">Every Friday evening 6:30-7:30 P.M.</p><p align =\"center\">Light refreshments will be served.</p><p align =\"center\"> <i>Upcoming speakers</i></p><p align =\"center\">April 1: Alfredo Rojas, San Marino Mayor<br>April 8: Alexis Lin, San Marino Chamber of Commerce President<br>April 15: Dana O’Leary, owner, Pinewood Grill  </p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the invitation intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Government officials",
+              "(B)Expert gardeners",
+              "(C)New residents",
+              "(D)Local businesspeople"
+            ]
+          },
+          "answer": {
+            "text": "(D)Local businesspeople",
+            "explanation": "Information in the sentences \"The Business Initiative Society of Greater San Marino invites you to our regularly held Social Hour.\" and \"This is an open forum for owners of small companies to meet and discuss issues affecting our area.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How often is the event held?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Once a day",
+              "(B)Once a week",
+              "(C)Once a month",
+              "(D)Once a year"
+            ]
+          },
+          "answer": {
+            "text": "(B)Once a week",
+            "explanation": "Information in the sentence \"Every Friday evening 6:30-7:30 P.M.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2de2"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>You are invited to attend<br><br>The 7th Annual<br> European Household Appliances Exhibition</b><br><br>Lucien Pernet Hall, Geneva, Switzerland <br>October 19-23<br><br><b><i>”New Solutions in Home Equipment”</i></b></p><br>A wide range of products, from kitchen appliances to air conditioning equipment, will be displayed throughout the five days of the exhibition. This year’s focus will be on cleaning systems, with laundry appliances representing over half of the exhibits.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When does the event start?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On October 5",
+              "(B) On October 7",
+              "(C) On October 19",
+              "(D) On October 23"
+            ]
+          },
+          "answer": {
+            "text": "(C) On October 19",
+            "explanation": "Information in the line: \"Lucien Pernet Hall, Geneva, Switzerland\nOctober 19-23\""
+          }
+        },
+        {
+          "question": {
+            "text": "What type of products will be emphasized?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Refrigerators",
+              "(B)Cooking ranges",
+              "(C)Air conditioners",
+              "(D)Washing machines"
+            ]
+          },
+          "answer": {
+            "text": "(D)Washing machines",
+            "explanation": "Information in the sentence: \"This year’s focus will be on cleaning systems, with laundry appliances representing over half of the exhibits.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2de5"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Get away from it all... with Getaway Tours!<br><i>Visit Niagara Fall!</i></p></b><b><p align=\"center\"> We offer two fantastic tour packages: choose the one thafs right for you and your family!</p></b><p align=\"center\">Packet 1</p>-  Boat tour of Niagara Falls(morning or afternoon)<br>- 2-day, 1-night accommodations at nearby Hotel Niagara<br>- 15% discount on rental car<br>- 20% discount at the Niagara Falls souvenir shop<br>Adults 18-64 ...120 dollars Adults 65+ ...100 dollars<br> Teens 13-17 ... 80 dollars Children 5-12 ... 60 dollars<bR><p align=\"center\">Packet 2</p> Includes everything from Package 1 PLUS:<br>- 25% discount at Niagara Viewing Tower Restaurant <br>- Free admission to nightly fireworks show<br>Adults 18-64 ...140 dollars Adults 65+ ...120 dollars<br>Teens 13—17 ...100 dollars Children 5—12 ... 80 dollars<bR><br>For more information, call 877-555-1600 or visit us on the Web at www.getaway_tours.com",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What discount is offered on the cost of renting a car?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 10 percent",
+              "(B) 15 percent",
+              "(C) 20 percent",
+              "(D) 25 percent"
+            ]
+          },
+          "answer": {
+            "text": "(B) 15 percent",
+            "explanation": "Information in the line: \"15% discount on rental car\""
+          }
+        },
+        {
+          "question": {
+            "text": "How much would a seventy-year-old person pay for the package that includes a firework display?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $80",
+              "(B) $100",
+              "(C) $120",
+              "(D) $140"
+            ]
+          },
+          "answer": {
+            "text": "(C) $120",
+            "explanation": "Information in the line: \"Adults 65+ ...120 dollars\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2de7"
+    },
+    {
+      "question": {
+        "text": "<i><b><p align=\"center\"> The Perfect Gift</p></b></i><br>Imagine sharing a new, special picture every day of the year with friends and loved ones! Gold Coast Imagination, Inc., will use images that you provide to create a personalized daily calendar using images of special people, memorable places, or important events.<bR><br>Just go through your photo album and select the pictures you want to include. We will use your digital images or traditional print photographs to create a personalized gift. Birthdays, anniversaries, and the dates of special events can be indicated for no additional fee!<bR><Br>One of our consultants will help you choose from dozens of formats and styles. For more information, give us a call at (07) 7010 2390 or visit us online at www.gci.co.au.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Travel postcards",
+              "(B)Photograph albums",
+              "(C)Birthday cards",
+              "(D)Personalized calendars"
+            ]
+          },
+          "answer": {
+            "text": "(D)Personalized calendars",
+            "explanation": "Information can be inferred from: \"Imagine sharing a new, special picture every day of the year with friends and loved ones! Gold Coast Imagination, Inc., will use images that you provide to create a personalized daily calendar using images of special people, memorable places, or important events.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the advertisement, what will the consultant do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Provide free price estimates",
+              "(B)Give advice about design options",
+              "(C)Photograph family members",
+              "(D)Create an online gallery of photographs"
+            ]
+          },
+          "answer": {
+            "text": "(B)Give advice about design options",
+            "explanation": "Information in the sentence: \"One of our consultants will help you choose from dozens of formats and styles.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2deb"
+    },
+    {
+      "question": {
+        "text": "Ms. Kayla Jackson<br> 820 NE 96th St.<br>Seattle, WA 98115<p align=\"right\"> October 2</p>Dear Ms. Jackson:<br><br>I am happy to confirm your employment as a full-time Network Systems Specialist with International Investments, Inc., effective Monday, October 17. In this position, you will be reporting to Steve Warrick, the head of our technology department, and your responsibilities will include maintenance and upgrades to the company’s computer network.<br><br>As an employee, you will be eligible for salary increases based upon your performance and length of service. You are eligible for paid sick leave, paid vacation, and participation in the company retirement plan. Details will be provided by Greg Kimoto from Human Resources in an orientation meeting for new employees scheduled for Thursday, October 20.<br><br>We look forward to working with you here at International Investments, Inc., and we are pleased to welcome you to our team.<br><br>Sincerely,<br>Carla Chan <br>Personnel Manager<br>International Investments, Inc.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To give driving directions to a job İnterview",
+              "(B) To announce a job opening",
+              "(C) To provide details about a job",
+              "(D) To recommend someone for a job"
+            ]
+          },
+          "answer": {
+            "text": "(C) To provide details about a job",
+            "explanation": "Information can be inferred from: \"I am happy to confirm your employment as a full-time Network Systems Specialist with International Investments, Inc., effective Monday, October 17. In this position, you will be reporting to Steve Warrick, the head of our technology department, and your responsibilities will include maintenance and upgrades to the company’s computer network.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who supervises the technology department?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(B) Steve Warrick",
+              "(C) Greg Kimoto",
+              "(D) Carla Chan",
+              "A Kayla Jackson"
+            ]
+          },
+          "answer": {
+            "text": "(B) Steve Warrick",
+            "explanation": "Information in the sentence: \"In this position, you will be reporting to Steve Warrick, the head of our technology department\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the meeting on October 20?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To improve employees' computer skills",
+              "(B) To introduce new employees to the management team",
+              "(C) To give employees feedback on their performance",
+              "(D) To inform new employees of their job benefits"
+            ]
+          },
+          "answer": {
+            "text": "(D) To inform new employees of their job benefits",
+            "explanation": "Information in the paragraph: \"As an employee, you will be eligible for salary increases based upon your performance and length of service. You are eligible for paid sick leave, paid vacation, and participation in the company retirement plan. Details will be provided by Greg Kimoto from Human Resources in an orientation meeting for new employees scheduled for Thursday, October 20.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2ded"
+    },
+    {
+      "question": {
+        "text": "From: aviera@e-last.com<br>To: hrniyakawa@e-last.com<br>Subjiect: Repair crews<br>Date: May 10<bR><BR>Dear Mr. Miyakawa,<bR><br>The executive committee met this morning to discuss some complaints from our residential Internet subscribers. More and more of them are being asked to wait a week or longer for service from a repair crew. It seems that our customer base has expanded more quickly than projected, and technical support requests have increased by about 30 percent. This means that the number of technicians available to assist customers is now insuffcient.<bR><bR>The committee feels an expansion of the repair team is necessary to restore customer satisfaction. We are expecting even more customers to have our equipment installed in their homes, and with the present number of technical crews, we may not be able to handle their service needs. The committee has authorized you to recruit five more people who have the appropriate training.<bR><br>Best regards,<br>Adelina Viera, Personnel Director<br> E-last Internet, Inc.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is this message probably intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A repair technician",
+              "(B)A hiring supervisor",
+              "(C)An Internet subscriber",
+              "(D)A customer service representative"
+            ]
+          },
+          "answer": {
+            "text": "(B)A hiring supervisor",
+            "explanation": "Based on some information like: \"The executive committee met this morning to discuss some complaints from our residential Internet subscribers.\", \"The committee has authorized you to recruit five more people who have the appropriate training.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem have customers been reporting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Frequent disconnections",
+              "(B) A high subscription charge",
+              "(C) Low speeds on the Internet",
+              "(D) A long wait for repairs"
+            ]
+          },
+          "answer": {
+            "text": "(D) A long wait for repairs",
+            "explanation": "Information in the sentence: \"More and more of them are being asked to wait a week or longer for service from a repair crew.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2df1"
+    },
+    {
+      "question": {
+        "text": "Dear Jean. <br><br>I wanted to write you a note to thank you. I am sorry that you felt disappointed that your work responsibilities were not what you expected. I have enjoyed having your assistance with my projects.<br><br>Although the tasks we handled were not as varied as you would have liked, just think about what you and I have accomplished since September. We organized the annual small business conference, updated the association's Web site, and answered scores of inquiries, many in great detail, from business owners who needed advice on a range of topics: loans, benefits, licensing, etc.<br><br>I feel the year has been very productive for both of us. You've been a congenial and conscientious assistant and all of us have the highest regard for your abilities. Please feel free to call upon for a recommendation if you require one for future employment.<br><br> Best of luck,<br>Thomas",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What can be inferred about Jean?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She was unhappy in her job.",
+              "(B) She asked for a promotion.",
+              "(C) She started a new business.",
+              "(D). She lent money to Thomas."
+            ]
+          },
+          "answer": {
+            "text": "(A) She was unhappy in her job.",
+            "explanation": "Information can be inferred from \"I am sorry that you felt disappointed that your work responsibilities were not what you expected.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT cited as part of Jean's work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Organizing conferences",
+              "(B) Processing business loans",
+              "(C) Comes ponding with clients",
+              "(D) Maintaining a Web site"
+            ]
+          },
+          "answer": {
+            "text": "(B) Processing business loans",
+            "explanation": "\"We organized the annual small business conference, updated the association's web site, and answered scores of inquiries, many in great detail, from business owners who needed advice on a range of topics: loans, benefits, licensing, etc.\" => Eliminate A, C & D"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Thomas say about Jean?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is a skillful writer.",
+              "(B) She is a diligent worker.",
+              "(C). She is an excellent teacher.",
+              "(D). She is an experienced supervisor."
+            ]
+          },
+          "answer": {
+            "text": "(B) She is a diligent worker.",
+            "explanation": "Information in the sentence: \"I feel the year has been very productive for both of us. You've been a congenial and conscientious assistant and all of us have the highest regard for your abilities.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Thomas offer to do for Jean?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Raise her salary",
+              "(B) Reduce her hours",
+              "(C) Decrease her workload",
+              "(D) Recommend her for a job"
+            ]
+          },
+          "answer": {
+            "text": "(D) Recommend her for a job",
+            "explanation": "Information in the sentence: \"Please feel free to call upon for a recommendation if you require one for future employment.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2df3"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c8eccc8cae769c2df9"
+}

@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 131",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_476.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_476.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a61"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): I&#39;m pleased to <strong>Q1&nbsp;welcome everyone to the Journalism Today conference. We&#39;re happy to have reporters joining us from a variety of different fields. </strong>But before I introduce the keynote speaker,<strong> Q2&nbsp;I have a note about a change to one of today&#39;s programs. The Medical Journalism panel has been rescheduled to start later in the day. </strong>It will be held at 3 P.M. and will still be in the Parkview Room. <strong>Q3&nbsp;More information about today&#39;s programs is available at the registration desk.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the conference intended for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Advertising professionals",
+              "(B)Software developers",
+              "(C)Physicians",
+              "(D)Journalists"
+            ]
+          },
+          "answer": {
+            "text": "(D)Journalists",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say has changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The title of a presentation",
+              "(B)The starting time of a session",
+              "(C)The location of dining facilities",
+              "(D)The keynote speaker"
+            ]
+          },
+          "answer": {
+            "text": "(B)The starting time of a session",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, where is more information available?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)On a Web site",
+              "(B)In a brochure",
+              "(C)On a notice board",
+              "(D)At a registration desk"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a registration desk",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a65"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4310.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4310.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a69"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(M-Cn):  Before we end the meeting, <u>I have some news involving the recent changes in the company's security policy for visitors.</u> After they check in at the security desk, visitors are now required to wait in the lobby for an employee to escort them wherever they need to go in the building. We want our visitors to be as comfortable as possible while they wait, so we've decided to expand the seating area in the lobby. <u> A construction crew will begin renovations next week.</u> <u>We won't be able to use the main entrance during the construction period, so please use the rear doors to the building.</u> The work should only take a few days, and things will be back to normal quickly."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What company policy has recently changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The rules for business trips",
+              "(B)The requirements for employment",
+              "(C)The procedures for office visitors",
+              "(D)The process of reserving meeting rooms"
+            ]
+          },
+          "answer": {
+            "text": "(C)The procedures for office visitors",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A construction project will begin.",
+              "(B)A new security system will be installed.",
+              "(C)Employees will change office locations.",
+              "(D)Clients will visit the office."
+            ]
+          },
+          "answer": {
+            "text": "(A)A construction project will begin.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are employees advised to do next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Arrive at work early",
+              "(B)Use a different entrance",
+              "(C)Meet with clients off-site",
+              "(D)Submit an estimate of expenses"
+            ]
+          },
+          "answer": {
+            "text": "(B)Use a different entrance",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a6d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4710.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4710.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a6b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): <strong>Q1&nbsp;Now, I&#39;ve been asked to go over the process for getting budgets approved for our corporate social events.</strong> Here&#39;s the new form you&#39;ll need to fill out with your contact information, the date of the party, and how many people will be attending. You&#39;ll also need to provide the details of your expenses, such as food or decorations. <strong>Q2&nbsp;Please be as thorough as possible when filling out these forms. </strong>All requests will be reviewed by <strong>Q3&nbsp;the budget committee, which meets every Monday</strong> at two-thirty.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of company events is the speaker discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Board meetings",
+              "(B)Social functions",
+              "(C)Training sessions",
+              "(D)Client presentations"
+            ]
+          },
+          "answer": {
+            "text": "(B)Social functions",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker emphasize about the new forms?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are due this week.",
+              "(B)They should be filled out carefully.",
+              "(C)Copies should be kept on file.",
+              "(D)A manager's signature is required."
+            ]
+          },
+          "answer": {
+            "text": "(B)They should be filled out carefully.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How often does the budget committee meet?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Every week",
+              "(B)Once a month",
+              "(C)Twice a year",
+              "(D)Once a year"
+            ]
+          },
+          "answer": {
+            "text": "(A)Every week",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a6f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_439.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_439.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a73"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(W-Br):  In other business news,<u>AgroDrive Incorporated, one of the leading manufacturers of agricultural machinery,</u> announced today that95 <u>it will release a new line of fuel-efficient tractors early next year.</u> The new tractors' engines will consume about twenty-five percent less fuel than the older models. The company's leadership says that this decision reflects <u>their corporate philosophy of minimizing environmental impact and conserving natural resources.</u>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the company manufacture?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Home appliances",
+              "(B)Farm machinery",
+              "(C)Medical supplies",
+              "(D)Office equipment"
+            ]
+          },
+          "answer": {
+            "text": "(B)Farm machinery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the company do next year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Open a new plant",
+              "(B)Introduce a product line",
+              "(C)Acquire another company",
+              "(D)Relocate a manufacturing facility"
+            ]
+          },
+          "answer": {
+            "text": "(B)Introduce a product line",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the company's corporate philosophy?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To offer affordable prices",
+              "(B)To create durable products",
+              "(C)To simplify manufacturing processes",
+              "(D)To protect the environment"
+            ]
+          },
+          "answer": {
+            "text": "(D)To protect the environment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a77"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_479.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_479.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a75"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): <strong>Q1&nbsp;Thank you for inviting me to your directors&#39; meeting.</strong> Mr. Shin has asked me to report on the construction project I&#39;m supervising in the West Tower building. At my last review session with this board, <strong>Q2&nbsp;you asked that we include an employee cafeteria in the plans, </strong>and you can see here in the blueprints that we&#39;ve done that. The cafeteria will be on the first floor, along with the two conference rooms and auditorium. However, <strong>Q3&nbsp;with that change, the construction firm we&#39;re using says the project will take a month longer than originally expected.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Maintenance workers",
+              "(B)Conference planners",
+              "(C)Cafeteria employees",
+              "(D)Company directors"
+            ]
+          },
+          "answer": {
+            "text": "(D)Company directors",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What change has been made to the construction plans?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An auditorium has been redesigned.",
+              "(B)A parking area has been expanded.",
+              "(C)A cafeteria has been added.",
+              "(D)A storage area has been enlarged."
+            ]
+          },
+          "answer": {
+            "text": "(C)A cafeteria has been added.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what does the construction firm require as a result of the change?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A larger deposit",
+              "(B)Additional time",
+              "(C)New blueprints",
+              "(D)A revised contract"
+            ]
+          },
+          "answer": {
+            "text": "(B)Additional time",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a79"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_433.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_433.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a7d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(W-Br):  Our meeting today is about updating the image of <u>Margate kitchen appliances.</u> Consumers have a lot of confidence in our stoves and refrigerators, and we've done a great job making Margate a familiar name. But now senior management has asked us to develop a marketing campaign that emphasizes the modern look of our latest appliances. <u>Next week we'll need to present our plans for the new campaign</u> to the executive team, so today <u>I'd like all of us to begin coming up with ideas</u> for promoting our contemporary-looking product line."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business is Margate?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An appliance manufacturer",
+              "(B)A food distributor",
+              "(C)An interior design firm",
+              "(D)A real estate agency"
+            ]
+          },
+          "answer": {
+            "text": "(A)An appliance manufacturer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An applicant will be interviewed.",
+              "(B)A new product will be launched.",
+              "(C)A plan will be presented.",
+              "(D)A catalog will be released."
+            ]
+          },
+          "answer": {
+            "text": "(C)A plan will be presented.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker ask the listeners to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Redesign a product",
+              "(B)Create a customer survey",
+              "(C)Review some resumes",
+              "(D)Brainstorm marketing ideas"
+            ]
+          },
+          "answer": {
+            "text": "(D)Brainstorm marketing ideas",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a81"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_473.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_473.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a7f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): Good evening, <strong>Q1&nbsp;library patrons. </strong>We&#39;ll be closing in 30 minutes. If you&#39;re working on a public computer, we ask that you shut it down before you leave. <strong>Q2&nbsp;If you would like to check out any books, please proceed to the service desk near the front entrance. </strong>Also, we&#39;d like to remind you that <strong>Q3&nbsp;we will be showing a free movie tomorrow evening at six o&#39;clock called <i>Life in Tuscany.</i> </strong>Please join us for this wonderful film.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the announcement being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In a school",
+              "(B)In a library",
+              "(C)In a movie theater",
+              "(D)In a concert hall"
+            ]
+          },
+          "answer": {
+            "text": "(B)In a library",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What can listeners do at the service desk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Check out materials",
+              "(B)Sign up to use computers",
+              "(C)Purchase tickets",
+              "(D)Pick up a schedule"
+            ]
+          },
+          "answer": {
+            "text": "(A)Check out materials",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When will Life in Tuscany be shown?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In 30 minutes",
+              "(B)Tomorrow morning",
+              "(C)Tomorrow evening",
+              "(D)Next week"
+            ]
+          },
+          "answer": {
+            "text": "(C)Tomorrow evening",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a83"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_431.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_431.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a87"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(M-Au): <u>You have reached the voice mail of Dr. Robert Lewis</u>.<u>I am currently attending a medical conference and will not return to my office until Monday,</u> March fifteenth. <u>My associate, Dr. Satomi Mori, is available to see patients while I'm away.</u> To schedule an appointment with her, please call 555-2021. Thank you."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a medical office",
+              "(B)At a design studio",
+              "(C)At a convention center",
+              "(D)At an accounting firm"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a medical office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the speaker currently unavailable?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He is meeting with clients.",
+              "(B)He is on vacation",
+              "(C)He is at a conference.",
+              "(D)He is not feeling well."
+            ]
+          },
+          "answer": {
+            "text": "(C)He is at a conference.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners instructed to do if they need assistance?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Leave a detailed message",
+              "(B)Contact another professional",
+              "(C)Send an e-mail",
+              "(D)Check a Web site"
+            ]
+          },
+          "answer": {
+            "text": "(B)Contact another professional",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a8b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_475.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_475.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a89"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): Next, <strong>Q1&amp;2&nbsp;we&#39;d like to congratulate the employee with the highest customer service ratings at the car dealership this quarter &mdash; Jessica Brenner.</strong> Many customers have said that Jessica&#39;s the most helpful car salesperson they&#39;ve ever encountered. And not only does Jessica keep the customers happy, but her positive attitude makes her a wonderful colleague as well. As a token of our appreciation, <strong>Q3&nbsp;we&#39;re giving Jessica a 200-dollar gift certificate to Pierre&#39;s Bistro. </strong>Let&#39;s give a round of applause for Jessica.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a car dealership",
+              "(B)At an advertising firm",
+              "(C)At an electronics manufacturer",
+              "(D)At a television station"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a car dealership",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Jessica Brenner being recognized?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She had the top sales figures in the company.",
+              "(B)She received the best ratings for customer service.",
+              "(C)She developed a successful advertising campaign.",
+              "(D)She has done volunteer work in the community."
+            ]
+          },
+          "answer": {
+            "text": "(B)She received the best ratings for customer service.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Jessica Brenner receive?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An engraved trophy",
+              "(B)An extra vacation day",
+              "(C)A job promotion",
+              "(D)A gift certificate"
+            ]
+          },
+          "answer": {
+            "text": "(D)A gift certificate",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a8d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_477.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_477.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a91"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): Do you own a small business? Are you too busy to clean your office or store every night? <strong>Q1&nbsp;If you want to make sure your business is kept immaculately clean, call Hartford Cleaners.&nbsp;Q2&nbsp;What sets us apart from other cleaning services is our commitment to the environment. </strong>We use only safe, non-toxic, and biodegradable cleaning products. Call us at 555-0115 to make an appointment. <strong>Q3 And visit our Web site, hartfordcleaners.net, to print out a discount coupon to use for your first cleaning.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A health food shop",
+              "(B)A recycling company",
+              "(C)A cleaning service",
+              "(D)An office supply store"
+            ]
+          },
+          "answer": {
+            "text": "(C)A cleaning service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker emphasize about the business?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is environmentally friendly.",
+              "(B)It is in a convenient location.",
+              "(C)It has the lowest prices in the area.",
+              "(D)Its customers are large corporations."
+            ]
+          },
+          "answer": {
+            "text": "(A)It is environmentally friendly.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is available on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A discount coupon",
+              "(B)A newsletter",
+              "(C)Product information",
+              "(D)Customer recommendations"
+            ]
+          },
+          "answer": {
+            "text": "(A)A discount coupon",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a93"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417ceccc8cae769c0a96"
+}

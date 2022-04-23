@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 262",
+  "questions": [
+    {
+      "question": {
+        "text": "<br>March 15<br><br>Dear Mr. Weber,<br><br>I would like to thank you for your comprehensive. ---1---. Your talk on creative problem-solving was informative and very enjoyable, not only for me but for all my ---2--- students. I especially appreciated that you incorporated problem-solving examples applicable to several different fields of learning into your session. My students, ---3--- major in various disciplines, all rated the session highly as they were able to gain something from your Insights. ---4---. Accordingly, I would like to invite you back next month. If you’re available, please let me know so we can discuss the details.<br><br>Thank you again.<br><br>Mila Hyatt, Ph.D.<br>Rappieton University Professor",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) discovery",
+              "(B) examination",
+              "(C) submission",
+              "(D) lecture"
+            ]
+          },
+          "answer": {
+            "text": "(D) lecture",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) attend",
+              "(B) attended",
+              "(C) attending",
+              "(D) attendance"
+            ]
+          },
+          "answer": {
+            "text": "(C) attending",
+            "explanation": "Based on the meaning of words. \"all my atteding students\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) who",
+              "(B) their",
+              "(C) whose",
+              "(D) they"
+            ]
+          },
+          "answer": {
+            "text": "(A) who",
+            "explanation": "\"who\" is relative pronoun substitute for \" my students\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our online rating system is of vital importance to the university.",
+              "(B) I honestly believe you are my most successful guest speaker to date.",
+              "(C) My sessions lasted longer than the last ones.",
+              "(D) There were some points that I took issue with."
+            ]
+          },
+          "answer": {
+            "text": "(B) I honestly believe you are my most successful guest speaker to date.",
+            "explanation": "Based on the previous sentence \"My students, who major in various disciplines, all rated the session highly as they were able to gain something from your Insights.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2965"
+    },
+    {
+      "question": {
+        "text": "<br> <h4 align=\"center\"> <b> NOTICE TO EMPLOYEES </b></h4><br><br>---1---. This is required for the upcoming painting work on August 1. ---2--- the work crew only has the weekend to complete the task, we want to do as much advance preparation as possible. Anything left on the wall after 5 P.M. on Friday will be ---3--- abandoned. In that case, the cleaning staff will have to dispose of these items. To avoid this unnecessary ---4---, please be responsible for your own belongings. Please direct all questions to your immediate supervisor.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Staff members can vote on their favorite colors.",
+              "(B) All signs and posters should be removed from the hallways.",
+              "(C) Funds have been allocated for some renovation work at the office.",
+              "(D) Work requests should be sent directly to the maintenance team."
+            ]
+          },
+          "answer": {
+            "text": "(B) All signs and posters should be removed from the hallways.",
+            "explanation": "Based on the following sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In addition",
+              "(B) As a result",
+              "(C) Given that",
+              "(D) Even though"
+            ]
+          },
+          "answer": {
+            "text": "(C) Given that",
+            "explanation": "The blank need to a conjunction used to explain the things mentioned in the next sentence \"Anything left on the wall after 5 P.M ...\" => Choose C."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) considered",
+              "(B) anticipated",
+              "(C) disputed",
+              "(D) finalized"
+            ]
+          },
+          "answer": {
+            "text": "(A) considered",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) risk",
+              "(B) burden",
+              "(C) treatment",
+              "(D) precaution"
+            ]
+          },
+          "answer": {
+            "text": "(B) burden",
+            "explanation": "Based on the meaning of words \"To avoid this unnecessary <b> burden </b> \""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2967"
+    },
+    {
+      "question": {
+        "text": "<br>To: All deans of Mount Westerly University<br>From: Patricia Griffin, Chief academic officer<br>Date: April 29<br>Subject: Promotions for next semester<br><br>The time has come for US to determine which faculty members will be promoted. ---1---. Therefore, please consider the potential candidates carefully. We advise you to keep in mind their ---2--- teaching performance and academic accomplishments before writing letters of recommendation for the board to take into account. You will also need to submit some evaluative documents. Please answer all of the questions as ---3--- as possible. I will forward the requisite paperwork to you later today with some instructions. These should ---4--- the decision-making process.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The criteria for recruitment will be modified by the manager.",
+              "(B) We have received your applications and will let you know the results soon.",
+              "(C) The choices we make will have a significant impact on the university.",
+              "(D) Some of you failed to fully complete the recommendation form."
+            ]
+          },
+          "answer": {
+            "text": "(C) The choices we make will have a significant impact on the university.",
+            "explanation": "Based on the previous sentence \"The time has come for US to determine which faculty members will be promoted.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) courteous",
+              "(B) infamous",
+              "(C) descriptive",
+              "(D) previous"
+            ]
+          },
+          "answer": {
+            "text": "(D) previous",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) specific",
+              "(B) specifically",
+              "(C) specify",
+              "(D) specification"
+            ]
+          },
+          "answer": {
+            "text": "(B) specifically",
+            "explanation": "Based on structure \"as + adv + as\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) impede",
+              "(B) negotiate",
+              "(C) prolong",
+              "(D) guide"
+            ]
+          },
+          "answer": {
+            "text": "(D) guide",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c296b"
+    },
+    {
+      "question": {
+        "text": "<br> <h4 align=\"center\"> www.bellinghamshelter.org/about_us <br><b> Bellingham Animal Shelter </b></h4> <br><br>We have been in ---1--- for about two years, providing veterinarian care, adoption services, and emergency housing for abandoned and unwanted pets. In addition to monetary donations, we need pet food, blankets, cleaning products, and pet toys. ---2--- donations are tax deductible, as we are a registered charity.<br><br>Even if you do not have items or money to donate, you can make a difference at the shelter. We need help with cleaning cages, exercising the pets, and providing obedience training. ---3---. To find out more about volunteering at the shelter, ---4--- us at 555-0176.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) operation",
+              "(B) attraction",
+              "(C) publication",
+              "(D) investigation"
+            ]
+          },
+          "answer": {
+            "text": "(A) operation",
+            "explanation": "in operation = working"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) One",
+              "(B) Both",
+              "(C) All",
+              "(D) Each"
+            ]
+          },
+          "answer": {
+            "text": "(C) All",
+            "explanation": "\"donations\" is a plural noun => Use \"all donations\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Let’s work together to achieve our fundraising goal.",
+              "(B) You can use your free time to assist with these tasks.",
+              "(C) We can accept new and gently used items at this time.",
+              "(D) Our staff is happy to find a pet that is right for you."
+            ]
+          },
+          "answer": {
+            "text": "(B) You can use your free time to assist with these tasks.",
+            "explanation": "Based on the meaning of previous sentence \"We need help with cleaning cages, exercising the pets, and providing obedience training.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) contacted",
+              "(B) contact",
+              "(C) to contact",
+              "(D) contacting"
+            ]
+          },
+          "answer": {
+            "text": "(B) contact",
+            "explanation": "Based on structure \"Contact sb at (phone number)\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c296d"
+    },
+    {
+      "question": {
+        "text": "<br><b>Farmer’s Market Rules of Operation for All Vendors</b> <br><br>The market opens to the public at 8:30 A.M. but will be accessible to vendors at 6:00 A.M. Vendors should arrive ---1--- than 30 minutes before opening time in order to set up their stalls. <br><br>Also, please be reminded that vendors must adhere to the state regulations on food safety and customer protection listed on our Web site. It is the vendor’s responsibility to stay informed about these guidelines. ---2--- <br><br>Furthermore, any applicable fees should be paid on time. The amount will depend on your stall’s ---3---. Those closer to the entrance will be charged more. <br><br>Finally, it is illegal to leave any litter in your sales area. ---4---, all vendors should have a receptacle on hand to dispose of any refuse.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) shortly",
+              "(B) no more",
+              "(C) already",
+              "(D) no later"
+            ]
+          },
+          "answer": {
+            "text": "(D) no later",
+            "explanation": "\"No later than\" is a set expression, and is used with a movement verb and time.  => Choose D."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Those who do not comply with them may lose their vending license.",
+              "(B) You may request an application form if you are interested.",
+              "(C) Some of the food items have been identified as top sellers.",
+              "(D) We believe the status of our regular vendors has changed."
+            ]
+          },
+          "answer": {
+            "text": "(A) Those who do not comply with them may lose their vending license.",
+            "explanation": "Based on the previous sentence \"It is the vendor’s responsibility to stay informed about these guidelines.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) design",
+              "(B) location",
+              "(C) merchandise",
+              "(D) dimension"
+            ]
+          },
+          "answer": {
+            "text": "(B) location",
+            "explanation": "Based on the meaning of words \"stall’s location\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Meanwhile",
+              "(B) Fortunately",
+              "(C) Therefore",
+              "(D) Regardless"
+            ]
+          },
+          "answer": {
+            "text": "(C) Therefore",
+            "explanation": "Use a conjunction to show cause-and-effect relationship => Choose C"
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2971"
+    },
+    {
+      "question": {
+        "text": "<br> To: Karen Jankowski (kjankowski@metromail.net)<br>From: Selma Arcuri (selma@boonerentals.com)<br>Date: January 4<br>Subject: Unit 208<br><br>Dear Ms. Jankowski,<br><br>Thank you for giving written notice about your plans ---1--- your lease agreement on January 31. I have attached information about the process. ---2--- we visit your apartment for a final inspection, you should have all of your personal belongings removed from the property. Be sure to leave ---3--- time to thoroughly clean the apartment. It should be in the same condition in which you received it, with all surfaces dusted, carpets vacuumed, and countertops scrubbed. ---4---. <br><br>Should you have any questions, please feel free to e-mail me at any time.<br><br>Sincerely,<br><br>Selma Arcuri<br>Property Manager, Boone Rentals",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) terminate",
+              "(B) terminating",
+              "(C) terminated",
+              "(D) to terminate"
+            ]
+          },
+          "answer": {
+            "text": "(D) to terminate",
+            "explanation": "Use \"to + Vinfi\" to the purpose of the action."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Now that",
+              "(B) As long as",
+              "(C) Before",
+              "(D) Even if"
+            ]
+          },
+          "answer": {
+            "text": "(C) Before",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) imperative",
+              "(B) complete",
+              "(C) dependable",
+              "(D) adequate"
+            ]
+          },
+          "answer": {
+            "text": "(D) adequate",
+            "explanation": "Based on the meaning of words \"adequate time\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You can enjoy a tidy living environment.",
+              "(B) Therefore, the final rent payment will be in January.",
+              "(C) Our staff will attempt to fix it for you, if possible.",
+              "(D) We charge a housekeeping fee if this is not done"
+            ]
+          },
+          "answer": {
+            "text": "(D) We charge a housekeeping fee if this is not done",
+            "explanation": "Based on the previous sentence \"It should be in the same condition in which you received it, with all surfaces dusted, carpets vacuumed, and countertops scrubbed.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2973"
+    },
+    {
+      "question": {
+        "text": "<br><h4 align=\"center\"> <b> Sports Complex Put to a Vote</b></h4> <br><br>Gainesburg, June 3—Gainesburg residents ---1--- on whether a sports complex should be built in town. It was concluded that 82 percent are ---2--- of the project. In consideration of the results, the city approved its construction, and development plans are expected to commence in the coming months.<br><br>Gainesburg’s one existing fitness club was ---3--- last year after 30 years of use. This left the area without any functional leisure facilities at all, and residents had been pushing for a sports complex ever since.<br><br>---4---. \"Having a fitness center will make athletic resources readily accessible to a wider range of people. It will also help unite the community in a fun and healthy way,\" said council member Claire Faukes.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will vote",
+              "(B) are voting",
+              "(C) have been voting",
+              "(D) voted"
+            ]
+          },
+          "answer": {
+            "text": "(D) voted",
+            "explanation": "Use simple past tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) supportive",
+              "(B) support",
+              "(C) supportable",
+              "(D) supports"
+            ]
+          },
+          "answer": {
+            "text": "(A) supportive",
+            "explanation": "Be + adj => Choose \" supportive\" is suitable."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) looked over",
+              "(B) paid for",
+              "(C) fixed up",
+              "(D) shut down"
+            ]
+          },
+          "answer": {
+            "text": "(D) shut down",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Opposition to the plan remains prevalent at this point in time.",
+              "(B) Most believe such facilities will be highly beneficial for Gainesburg.",
+              "(C) The mayor delivered an inspiring opening speech.",
+              "(D) Some modifications were required before the decision was made."
+            ]
+          },
+          "answer": {
+            "text": "(B) Most believe such facilities will be highly beneficial for Gainesburg.",
+            "explanation": "Based on the previous sentence \"This left the area without any functional leisure facilities at all, and residents had been pushing for a sports complex ever since.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2977"
+    },
+    {
+      "question": {
+        "text": "<br>Wilson Sporting Goods <br>1901 Echo Lane<br>White Plains, NY 10601<br><br>To Whom It May Concern:<br><br>I recently visited your store to purchase a wetsuit and some other surfing gear. I was assisted by Ken in the Water Sports department, and I was impressed with his patience and ---1--- behavior. He took the time to ask me about my preferences and intended usage. Taking these ---2--- into consideration, he recommended a few products. I can’t tell you how much I ---3--- this personal attention. At most stores of your size, it is impossible to find someone to answer questions. ---4---. I will definitely recommend Wilson Sporting Goods to my friends and family.<br><br>Warmest regards,<br><br>Holy Mackenzie",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) respects",
+              "(B) respectful",
+              "(C) respectfully",
+              "(D) respect"
+            ]
+          },
+          "answer": {
+            "text": "(B) respectful",
+            "explanation": "The blank need to fill an adjective because of followed by a noun (behavior) => Choose \"respectful\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) amounts",
+              "(B) complaints",
+              "(C) assets",
+              "(D) needs"
+            ]
+          },
+          "answer": {
+            "text": "(D) needs",
+            "explanation": "Based on the meaning of words \" Taking these needs into consideration\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) celebrated",
+              "(B) satisfied",
+              "(C) appreciated",
+              "(D) promoted"
+            ]
+          },
+          "answer": {
+            "text": "(C) appreciated",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The item I purchased seems to be of high quality",
+              "(B) Let’s hope some of them will be resolved through this letter.",
+              "(C) I’m glad this is not the case at your establishment.",
+              "(D) The selection of seasonal goods was better than expected."
+            ]
+          },
+          "answer": {
+            "text": "(C) I’m glad this is not the case at your establishment.",
+            "explanation": "Based on the previous sentence \"At most stores of your size, it is impossible to find someone to answer questions.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2979"
+    },
+    {
+      "question": {
+        "text": "refer to the following e-mail. <br> <br><b> To: </b> (jordan.bartlett@sweettree.com) <br><b> From: </b> (linhbui@critespackaging.com ) <br> <b> Date: </b>May 4 <br> <b>Subject:</b>Packaging solutions<br><br>Dear Mr. Bartlett, <br><br>Thank you again for calling this morning to discuss our packaging solutions. Learning about Sweet Tree Catering's needs was very interesting. As promised, I (1) on the information to our design team. They responded that creating suitable packaging would not be (2).  In fact, they could probably have samples ready for you in as little as one week. (3). If you are interested, the next step is to set up an in-person meeting (4) which you would describe your requirements in greater detail directly to the Design Team. Please call me or reply to this email to confirm that is what you would like to do. <br>Sincerely,<br>Linh Bui<br>Crites Packaging",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) passed",
+              "(B) pass",
+              "(C) will pass",
+              "(D) would have passed"
+            ]
+          },
+          "answer": {
+            "text": "(A) passed",
+            "explanation": "Based on \"As promised\" => Use past simple "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) responsible",
+              "(B) challenging",
+              "(C) proportional",
+              "(D) inaccurate"
+            ]
+          },
+          "answer": {
+            "text": "(B) challenging",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Do you know where they are being displayed?",
+              "(B) Are you certain that schedule is correct?",
+              "(C) Have you noticed any problems with them?",
+              "(D) Would you like to move ahead with this process?"
+            ]
+          },
+          "answer": {
+            "text": "(D) Would you like to move ahead with this process?",
+            "explanation": "Based on the previous sentence \"In fact, they could probably have samples ready for you in as little as one week.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) at",
+              "(B) on",
+              "(C) toward",
+              "(D) between"
+            ]
+          },
+          "answer": {
+            "text": "(A) at",
+            "explanation": "at which = where"
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c297d"
+    },
+    {
+      "question": {
+        "text": "refer to the following article. <br><br>CHICAGO (March 19) - Popular singer Kurt Glaize revealed this morning that the second single from his current album will be a remake of Stan Weber's classic \"Sighs of Glass.\" (1). <br>Mr. Weber rose to fame upon releasing the (2) version of the song thirty years ago. It has been remade several times since then, in musical genres as diverse as jazz and rock. None of these (3) suit Mr. Glaize, however. The young singer describes his single as \"actually pretty similar\" to Mr. Weber's, (4) his love for traditional ballads. \"It's already such a beautiful song,\" he explained. \"All I did was update it a little bit for modern audiences.\"",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tickets may still be available for some of the April performances.",
+              "(B) The announcement was made during an interview on WLV Radio.",
+              "(C) The two musicians are expected to begin separate solo careers.",
+              "(D) Each song deals with a different aspect of young adulthood."
+            ]
+          },
+          "answer": {
+            "text": "(B) The announcement was made during an interview on WLV Radio.",
+            "explanation": "Based on the previous sentence \"March 19) - Popular singer Kurt Glaize revealed this morning that the second single from his current album will be a remake of Stan Weber's classic \"Sighs of Glass.\"\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) newest",
+              "(B) adverse",
+              "(C) clarified",
+              "(D) original"
+            ]
+          },
+          "answer": {
+            "text": "(D) original",
+            "explanation": "Based on the meaning of words and phare \" thirty years ago\" => \"the <b> original </b> version of the song\" "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) styles",
+              "(B) coupons",
+              "(C) instruments",
+              "(D) designs"
+            ]
+          },
+          "answer": {
+            "text": "(A) styles",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) has reflected",
+              "(B) reflecting",
+              "(C) reflects",
+              "(D) will reflect"
+            ]
+          },
+          "answer": {
+            "text": "(B) reflecting",
+            "explanation": "Use active reduction structure. "
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c2980"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441b4eccc8cae769c2983"
+}

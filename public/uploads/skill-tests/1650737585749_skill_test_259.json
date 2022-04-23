@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 259",
+  "questions": [
+    {
+      "question": {
+        "text": "<br> TO: Randy Huffington [r.huffington@megadelta.com]<br> FROM: Olivia Cottrell [o_cottrell@edicare.com]<br> SUBJECT: Machine issues<br> DATE: June 20<br> I his is my second correspondence regarding the factory equipment that ---1--- at our Denver plant recently. As I stated in my first e-mail, a factory worker said a machine was making a lot of noise and shaking ---2---. Because there was a risk of danger, we shut the machine down to prevent it from causing serious injury to any of our workers.<br> The machine was delivered to our plant by your company just one week ago. ---3---. Could you please send an engineer to our plant to examine the equipment? Hopefully, your technician will be able to determine why the machine failed soon after its ---4---.<br> We will wait for your response and anticipate that it will be speedy.<br> Sincerely,<br> Olivia Cottrell<br> Senior administrator<br> Edicare Industrials",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) malfunctioning",
+              "(B) to malfunction",
+              "(C) malfunctions",
+              "(D) malfunctioned"
+            ]
+          },
+          "answer": {
+            "text": "(D) malfunctioned",
+            "explanation": "In the blank, you need to fill in the main verb, <b>that</b> replaces <b>equipment</b>, the thing happened recently (recently) => choose D (the simple past tense)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) boldly",
+              "(B) violently",
+              "(C) effortlessly",
+              "(D) instantly"
+            ]
+          },
+          "answer": {
+            "text": "(B) violently",
+            "explanation": "Adverb \"violently\" added meaning to the word <b>shaking</b>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We have decided to return the machine at your expense.",
+              "(B) However, fixing the machine may require more time.",
+              "(C) Therefore, the equipment we purchased is still under warranty.",
+              "(D) (t was already repaired at least once in the past year."
+            ]
+          },
+          "answer": {
+            "text": "(C) Therefore, the equipment we purchased is still under warranty.",
+            "explanation": "Based on the previous sentence \"The machine was delivered to our plant by your company just one week ago.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) modification",
+              "(B) installation",
+              "(C) appreciation",
+              "(D) restoration"
+            ]
+          },
+          "answer": {
+            "text": "(B) installation",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28f6"
+    },
+    {
+      "question": {
+        "text": "Waterview Valley Ranch is the perfect place to take a horse-riding holiday. Discover the beauty of the surrounding area and ---1---- about its past as our knowledgeable guides delight you with interesting stories of its history. ---2----- you like riding horses for relaxation or prefer a challenging ride in the open country, we have all the equipment you’ll need to fulfill your requirements. --3----. In addition, should you choose to bring your own horses, we can --4---- them during your stay with US. This is because our stables have ample space, where they will be well cared for. Simply let US know what your party needs when you call US at 555-7823 to book your spot.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) learned",
+              "(B) learns",
+              "(C) learn",
+              "(D) to learn"
+            ]
+          },
+          "answer": {
+            "text": "(C) learn",
+            "explanation": "Use parallel structure. <br> Verb + Object and Verb + Object => Choose \"learn\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Even",
+              "(B) Although",
+              "(C) Only if",
+              "(D) Whether"
+            ]
+          },
+          "answer": {
+            "text": "(D) Whether",
+            "explanation": "Based on the meaning of words => Choose a suitable conjunction: Whether = If"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our regularly scheduled guided tours mi have been overbooked.",
+              "(B) This ensures your experience with us is both safe and satisfactory.",
+              "(C) The livestock we raise is renowned for its exceptionally high quality.",
+              "(D) Your horse-riding gear must meet the strict standards of the ranch."
+            ]
+          },
+          "answer": {
+            "text": "(B) This ensures your experience with us is both safe and satisfactory.",
+            "explanation": "Based on the previous sentence "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) switch",
+              "(B) race",
+              "(C) house",
+              "(D) auction"
+            ]
+          },
+          "answer": {
+            "text": "(C) house",
+            "explanation": "can + verb => C is correct"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28f8"
+    },
+    {
+      "question": {
+        "text": "<br> DiMaggiano's Frozen Pizzas<br> <b>Cooking Instructions</b><br> Remove the pizza from the packaging, but do not defrost it. If it has thawed, reduce the cooking time ---1--- approximately three minutes.<br> Preheat your oven to 230 degrees Celsius, For a softer crust, put the pizza on the middle oven rack and bake it for 10 to 12 minutes. ---2--- And for a crispier crust, bake the pizza on the top rack at a ---3--- temperature. Set the dial to 280 degrees for a perfectly crunchy crust!<br> Remove the pizza from your oven carefully so as not to burn your fingers. Allow it ---4--- for three to four minutes before eating. Then simply slice the pizza and enjoy a delicious DiMaggiano's meal with your favorite beverage.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) across",
+              "(B) as",
+              "(C) by",
+              "(D) of"
+            ]
+          },
+          "answer": {
+            "text": "(C) by",
+            "explanation": "By phrase <b> reduce by (time) </b>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Store uncooked pizzas in your refrigerator's freezer compartment.",
+              "(B) Order our pizzas online or buy them at any supermarket.",
+              "(C) Do not cook it if the pizza is still frozen.",
+              "(D) Take it out when the crust is golden and the cheese has melted."
+            ]
+          },
+          "answer": {
+            "text": "(D) Take it out when the crust is golden and the cheese has melted.",
+            "explanation": "Based on the previous sentence \"Preheat your oven to 230 degrees Celsius, For a softer crust, put the pizza on the middle oven rack and bake it for 10 to 12 minutes.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) wooden",
+              "(B) clean",
+              "(C) smaller",
+              "(D) hotter"
+            ]
+          },
+          "answer": {
+            "text": "(D) hotter",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) cool",
+              "(B) cools",
+              "(C) to cool",
+              "(D) cooling"
+            ]
+          },
+          "answer": {
+            "text": "(C) to cool",
+            "explanation": "allow (object) to do sth"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28fc"
+    },
+    {
+      "question": {
+        "text": "Important Announcement<br>Beaumont Hall announces with --1----- that the August 17 concert featuring the pianist Sophia Kaminsky has been canceled. Ms. Kaminsky has suddenly taken ill, and organizers have deemed it best to ---2--- the event until further notice. If you purchased your ticket using cash, you will receive an immediate refund. On the other hand, those who paid for tickets with a credit card will not get a ---3---- refund. This is due to card processing regulations. In addition to being fully refunded, everyone who purchased a ticket will receive a 20 percent discount when they make a future reservation. -----4----Hopefully, the discount makes up for the inconvenience. Please accept our sincerest apologies.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) regrettable",
+              "(B) regret",
+              "(C) regrettably",
+              "(D) regretful"
+            ]
+          },
+          "answer": {
+            "text": "(B) regret",
+            "explanation": "The blank need to fill a noun. => B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) sponsor",
+              "(B) evaluate",
+              "(C) confirm",
+              "(D) postpone"
+            ]
+          },
+          "answer": {
+            "text": "(D) postpone",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) previous",
+              "(B) formal",
+              "(C) prompt",
+              "(D) dependent"
+            ]
+          },
+          "answer": {
+            "text": "(C) prompt",
+            "explanation": "By phrase \"prompt refund\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We can no longer offer group rates to those without valid memberships.",
+              "(B) We cannot combine this price reduction with any other special promotion or discount.",
+              "(C) We are committed to starting each of our productions in a punctual manner.",
+              "(D) We have posted the dates and times for this performance on our Web site."
+            ]
+          },
+          "answer": {
+            "text": "(B) We cannot combine this price reduction with any other special promotion or discount.",
+            "explanation": "Based on the previous sentence \"In addition to being fully refunded, everyone who purchased a ticket will receive a 20 percent discount when they make a future reservation.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c28fe"
+    },
+    {
+      "question": {
+        "text": "<br> TO: Tara Fanning [ethan12@beautydeep.com]<br> FROM: Sarah Monaco [monaco2323@litmail.net]<br> DATE: January 30<br> SUBJECT: E-mail order request<br> <br> Dear Ms. Fanning,<br> A colleague of mine gave me some samples of your lotion and cream, and after trying them, I realized that your products are just what I need.<br> I understand that you ---1--- your Beauty Deep skin care products door-to-door. However, I'd like to know if they're available any other way. Specifically, I'd like to purchase your deep moisturizing lotion online and have it delivered to my home.---2--- I'd like a tube of your exceptional eye cream. This cream put ---3--- back into the skin around my eyes. The other creams I've used do not do that. ---4---<br> Please let me know if you process online orders. If you do, I will send a complete order with my billing and shipping information. Thank you!<br> Best Regards,<br> Sarah Monaco",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) report",
+              "(B) market",
+              "(C) label",
+              "(D) gather"
+            ]
+          },
+          "answer": {
+            "text": "(B) market",
+            "explanation": "Based on the meaning of words. <br> Beauty Deep skin care products => Choose <b>market</b>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Additionally",
+              "(B) Meanwhile",
+              "(C) Nonetheless",
+              "(D) Consequently"
+            ]
+          },
+          "answer": {
+            "text": "(A) Additionally",
+            "explanation": "Need a linking adverb to supplement the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) enjoyment",
+              "(B) freedom",
+              "(C) humor",
+              "(D) vitality"
+            ]
+          },
+          "answer": {
+            "text": "(D) vitality",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) So I was surprised at how young my skin looked, using your cream.",
+              "(B) But I am not sure if you received my order in my previous e-mail.",
+              "(C) First, I'd like to know when your representative can visit my home.",
+              "(D) Actually, the itching was caused by an ingredient in your product."
+            ]
+          },
+          "answer": {
+            "text": "(A) So I was surprised at how young my skin looked, using your cream.",
+            "explanation": "Based on the previous sentence \"The other creams I've used do not do that.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2902"
+    },
+    {
+      "question": {
+        "text": "<br>Emma Florins<br>1119 Parrish Drive<br>Rockville, MD 20851<br>Dear Ms. Florins,<br>You are cordially invited to Speaking Poetry, a recital with three of the literary world’s most-----1---- Poets' Adalbert0 Marte, Marceline Fontes, and Lawrence Faucher will be reading their recently published works.<br>Our past ---2--- have mainly featured works adhering to a more traditional style. However, we are pleased that the diversity of the genre will be able to shine through this time. Our invited writers discard regular forms and rhyming patterns characteristic of conventional poetry.<br>---3----Focusing on such topics as our rapidly changing society and the impact of technology,----4------Poems are sure t0 resonate witb audience members.<br>The recital will take place on October 10 at the Rocheport Arts Center. We hope to see you there.<br>Sincerely,<br>Abraham Schlitz<br>Rocheport Arts Center",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) imminent",
+              "(B) crowded",
+              "(C) widespread",
+              "(D) promising"
+            ]
+          },
+          "answer": {
+            "text": "(D) promising",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) performances",
+              "(B) publications",
+              "(C) communications",
+              "(D) competitions"
+            ]
+          },
+          "answer": {
+            "text": "(A) performances",
+            "explanation": "Based on the meaning of words. \"Our past performances\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(B) There are similarities between traditional and contemporary works.",
+              "(C) Instead, they rely on expressive writing to address modern issues.",
+              "(D) Many guests have much preferred the themes of our earlier recitals.",
+              "A)  With the right publicity, these poets will ỊỆỊ be able to become well known."
+            ]
+          },
+          "answer": {
+            "text": "(C) Instead, they rely on expressive writing to address modern issues.",
+            "explanation": "Based on the previous sentence \"Our invited writers discard regular forms and rhyming patterns characteristic of conventional poetry.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) his",
+              "(B) its",
+              "(C) your",
+              "(D) their"
+            ]
+          },
+          "answer": {
+            "text": "(D) their",
+            "explanation": "\"their\" = writer's poems"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2904"
+    },
+    {
+      "question": {
+        "text": "<br> To: Christine Lata [clata2@consumermail.com]<br> From: Dr. Miles Hamilton [mhamilton@hamiltonmedical.com]<br> Date: March 15<br> Subject: Retirement<br> <br> Dear Ms. Lata,<br> My 40-year career as a physician is coming to an end as I plan to ---1--- from my position on June 1. Although I look forward to enjoying my golden years, I will miss my work helping patients.<br> As your doctor, I believe I should suggest an appropriate replacement. ---2--- I'd like to recommend Dr. Jennifer Jana. She is an excellent physician whose clinic is ---3--- to my current office. With your consent, your medical records will be transferred to her on June 2. ---4---I wish you good health and a happy future.<br> Best regards,<br> Dr. Miles Hamilton<br> Hamilton Medical Clinic",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) step down",
+              "(B) move out",
+              "(C) take over",
+              "(D) hold off"
+            ]
+          },
+          "answer": {
+            "text": "(A) step down",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Therefore",
+              "(B) Likewise",
+              "(C) Afterward",
+              "(D) Conversely"
+            ]
+          },
+          "answer": {
+            "text": "(A) Therefore",
+            "explanation": "Use a conjunctive adverb to show an effect of an action. => Choose \"Therefore\" is correct."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) addressable",
+              "(B) straight",
+              "(C) divided",
+              "(D) close"
+            ]
+          },
+          "answer": {
+            "text": "(D) close",
+            "explanation": "Based on the meaning of words \"close to ...\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Your chart shows a marked milk improvement since her last visit.",
+              "(B) Of course, I am glad that you have decided to remain with me.",
+              "(C) Otherwise, you may retrieve them from my staff before that date.",
+              "(D) There are many forms of treatment for your condition."
+            ]
+          },
+          "answer": {
+            "text": "(C) Otherwise, you may retrieve them from my staff before that date.",
+            "explanation": "Based on the meaning of previous sentence \"With your consent, your medical records will be transferred to her on June 2.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2908"
+    },
+    {
+      "question": {
+        "text": "<br> April 7<br> William Randell<br> 118 West Ocean Boulevard<br> Oceanside, California 92049<br> <br> Dear Mr. Randell,<br> Your application has been ---1---<br>  We are pleased to welcome you to West Coast State University. In the coming weeks, we will be sending more information about how you should prepare for your first semester.--- 2---  you meet the enrollment deadline, you will be allowed to sign up for a full course load and pay your tuition in the last week of July. We will also issue you a student ID card then.---3---<br>  Should you wish to have a dormitory room at that point, we will assign you one a week prior to the start of classes. You will be authorized to move in shortly ---4---<br> Once again, congratulations on your successful application, and we hope to see you this fall,<br> Sincerely,<br> Admissions and Financial Aid<br> West Coast State University",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) rejected",
+              "(B) deferred",
+              "(C) replaced",
+              "(D) accepted"
+            ]
+          },
+          "answer": {
+            "text": "(D) accepted",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Up until",
+              "(B) On condition that",
+              "(C) Though",
+              "(D) Rather than"
+            ]
+          },
+          "answer": {
+            "text": "(B) On condition that",
+            "explanation": "Basd on structure: On condition that + S + V and the meaning of words. <br> => Choose B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Now that you have sent the amount, please wait for confirmation,",
+              "(B) We hope that you found your classes to be both fun and informative.",
+              "(C) Once you receive it, you may access all of the facilities on campus.",
+              "(D) The additional charge to your account is for the card you lost."
+            ]
+          },
+          "answer": {
+            "text": "(C) Once you receive it, you may access all of the facilities on campus.",
+            "explanation": "Based on the previous sentence \"We will also issue you a student ID card then.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) before",
+              "(B)soon",
+              "(C) thereafter",
+              "(D) now"
+            ]
+          },
+          "answer": {
+            "text": "(C) thereafter",
+            "explanation": "By phrase \"shortly thereafter\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c290b"
+    },
+    {
+      "question": {
+        "text": "<br> New Transit Options Coming!<br> City Council yesterday ---1--- to approve the proposed subway extension into the Glostrup zone of Copenhagen.---2---. This has encouraged developers to build more apartments there. Moreover, the creation of the nearby Albertslund Technology Park has added thousands of new jobs. These ---3---opportunities have been the key to attracting more people to the district. Since development began, however, it ---4--- the area's transit capacity to its limits, causing local residents and businesses to campaign for a subway extension. A few council members opposed the proposal, pointing out the high expense of underground transit. Nevertheless, the building of the subway extension will proceed at an estimated cost of €650 million and should be operational within five years.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) failed",
+              "(B) reacted",
+              "(C) voted",
+              "(D) hesitated"
+            ]
+          },
+          "answer": {
+            "text": "(C) voted",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tourism to the area has grown in recent years thanks to a popular campaign.",
+              "(B) The population in this area has been increasing because of low property costs.",
+              "(C) The district's transportation costs are increasing at an unprecedented rate.",
+              "(D) The closure of the Glostrup line was announced just two months earlier."
+            ]
+          },
+          "answer": {
+            "text": "(B) The population in this area has been increasing because of low property costs.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) education",
+              "(B) employment",
+              "(C) volunteer",
+              "(D) sponsorship"
+            ]
+          },
+          "answer": {
+            "text": "(B) employment",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will stretch",
+              "(B) stretches",
+              "(C) will be stretched",
+              "(D) has stretched"
+            ]
+          },
+          "answer": {
+            "text": "(D) has stretched",
+            "explanation": "Use the perfect present tense."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c290e"
+    },
+    {
+      "question": {
+        "text": "<br> To: All staff<br> From: Louise Nixon, Director of operations<br> Subject: VIP event<br> Date: September 6<br> We have confirmed a booking for over 200 guests from September 27 to 30. Many of ---1---are important people from respected organizations who anticipate a high level of service from us.<br> They will be our only guests over the entire four-day period. For privacy reasons, you are expected to cooperate with requests from their security personnel and ---2---from discussing the event outside the hotel. ---3---. We've also agreed that guests will be allowed complimentary use of the spa, gym, and business center. –-4---, they should be billed if they order room service or make long-distance calls.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) whom",
+              "(B) them",
+              "(C) their",
+              "(D) which"
+            ]
+          },
+          "answer": {
+            "text": "(B) them",
+            "explanation": "By phrase \"many of them\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to refrain",
+              "(B) refraining",
+              "(C) refrained",
+              "(D) refrains"
+            ]
+          },
+          "answer": {
+            "text": "(A) to refrain",
+            "explanation": "Based on the parallel structure of the verbs in the sentence => A is correct."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The guests were very pleased with the service we provided.",
+              "(B) Another group needs to use our small meeting room on the 28th.",
+              "(C) The contract states that their meals should be provided free of charge.",
+              "(D) Event participants will be entitled to a discount upon booking."
+            ]
+          },
+          "answer": {
+            "text": "(C) The contract states that their meals should be provided free of charge.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Specifically",
+              "(B) Sometimes",
+              "(C) Otherwise",
+              "(D) On the other hand"
+            ]
+          },
+          "answer": {
+            "text": "(D) On the other hand",
+            "explanation": "Use a suitable conjunction to to express two different ideas."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2911"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441b1eccc8cae769c2914"
+}

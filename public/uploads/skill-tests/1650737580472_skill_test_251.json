@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 251",
+  "questions": [
+    {
+      "question": {
+        "text": "<b>Purchase Order Guidelines</b><br> Mapleshades Medical Center authorizes certain employees to purchase goods and services for company-related business. To purchase a---1---- item or service, fill out the online request form . Use the form to----2--- a description of the item needed. Also, briefly explain why the purchase is necessary. Note that your----3--- may affect subsequent decisions. If the request entails replacing a device that is out of order, bring the matter to the attention of Mr. Rowen, head of the Maintenance Division, before submitting the request. ---4---- . Please direct any questions you may have related to the purchase of office supplies and equipment to the Purchasing Department.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) specify",
+              "(B) specific",
+              "(C) specifics",
+              "(D) specifically"
+            ]
+          },
+          "answer": {
+            "text": "(B) specific",
+            "explanation": "Select (B) according to the structure: article (a) + adjective + noun (item or service)."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) view",
+              "(B) change",
+              "(C) provide",
+              "(D) find"
+            ]
+          },
+          "answer": {
+            "text": "(C) provide",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) retirement",
+              "(B) score",
+              "(C) experience",
+              "(D) justification"
+            ]
+          },
+          "answer": {
+            "text": "(D) justification",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has studied all possible options in detail.",
+              "(B) He will determine whether such action is warranted.",
+              "(C) It has a staff of six who service our two office buildings.",
+              "(D) It is usually maintained on a monthly basis."
+            ]
+          },
+          "answer": {
+            "text": "(B) He will determine whether such action is warranted.",
+            "explanation": "Select (B) because the previous sentence mentioned Mr. Rowen and the request."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2795"
+    },
+    {
+      "question": {
+        "text": "12 December<br />\nLenny Howe<br />\n222 Easton Boulevard<br />\nPort Douglas QLD 4877<br />\n<br />\nDear Mr. Howe,<br />\n<br />\nThe Irwin Neighbourhood Association is proud to ----1--- a summer event called Park Fest, to be held at Fern Park on 10 January, from 1 P.M . to 8 P.M. Park Fest will feature numerous family-friendly activities and a delicious picnic dinner to be served at 6 P.M. A per person fee of ten dollars will be collected. The proceeds will----2--- go towards a park enhancement project. The plan is to hire a contractor to landscape the park grounds, while a smaller portion will be spent on an advertising campaign. This event----3--- to be great fun. ---4---- .<br />\nRegards,<br />\nFaye Mason-Jones<br />\nDirector, Irwin Neighbourhood Association",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) announce",
+              "(B) admit",
+              "(C) recall",
+              "(D) state"
+            ]
+          },
+          "answer": {
+            "text": "(A) announce",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) entirely",
+              "(B) often",
+              "(C) primarily",
+              "(D) together"
+            ]
+          },
+          "answer": {
+            "text": "(C) primarily",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) promise",
+              "(B) promises",
+              "(C) promising",
+              "(D) promised"
+            ]
+          },
+          "answer": {
+            "text": "(B) promises",
+            "explanation": "Select (B) since this event subject is singular noun and due to the main verb in previous sentence present, future tense should fill the corresponding present tense conjugation."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You can help by disposing of all rubbish.",
+              "(B) The park was established 75 years ago.",
+              "(C) We hope you will be able to attend.",
+              "(D) Fern Park attracts over 20,000 visitors a year."
+            ]
+          },
+          "answer": {
+            "text": "(C) We hope you will be able to attend.",
+            "explanation": "Select (C) because the previous sentence said the event will be very happy, so the following sentence is intended to invite"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c2797"
+    },
+    {
+      "question": {
+        "text": "From: Hong Kong Princess Center Administration<br> To : All Princess Center residents<br> Date : 17 October<br> Subject: Higwam workers to maintain C-level elevators<br> <br> ---1--- the past week you may have experienced increased wait times for our C-level elevators, which service floors 25 through 36. We have contacted Higwam, our elevator maintenance contractor, who ----2--- repairs in the elevator shafts.<br> This is to alert all residents that beginning tomorrow and through the end of the week, you are likely to see Higwam technicians working in the lobby. They are planning to work on one unit at a time in order to keep the others operational while repairs are in progress, so for the next few ---3---- , there may continue to be prolonged wait times. ---4---- .<br> For any questions, please contact our office. We apologize for the inconvenience and appreciate your patience.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Between",
+              "(B) After",
+              "(C) Over",
+              "(D) Inside"
+            ]
+          },
+          "answer": {
+            "text": "(C) Over",
+            "explanation": "Select (C) according to the phrase 'in / over the past ...'"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) was conducting",
+              "(B) will be conducting",
+              "(C) would conduct",
+              "(D) is now conducting"
+            ]
+          },
+          "answer": {
+            "text": "(B) will be conducting",
+            "explanation": "Select (B) because the Higwam contractor was newly contacted, so the lift has not been done yet is a sign of the future tense."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) hours",
+              "(B) days",
+              "(C) weeks",
+              "(D) months"
+            ]
+          },
+          "answer": {
+            "text": "(B) days",
+            "explanation": "Select (B) since the following sentence implies that the maintenance will last this week, considering the context must choose 'for the next few days'"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Alternatively, you may use the service elevator in the rear of the building.",
+              "(B) Complimentary refreshments will be available to the workers in the lobby.",
+              "(C) Elevator repairs can be costly, which is why we request your collaboration.",
+              "(D) Our B-level elevators suffered a service disruption last month as well."
+            ]
+          },
+          "answer": {
+            "text": "(A) Alternatively, you may use the service elevator in the rear of the building.",
+            "explanation": "Select (A) because the previous sentence said that the wait is still going on so the following sentence can only give one solution."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c279b"
+    },
+    {
+      "question": {
+        "text": "DAKAR (August 4)- Nentique Laboratories, Inc., announced today the development of a new variety of organic wheat that ---1---- heat. Dozens of plants were cross-pollinated over many years to produce this variety, known as GR-712. It joins a growing list of ---2--- that can withstand high temperatures during extended dry periods. \"Some farmers in regions close to the equator focus ---3--- on rice production because rice grows well in hot climates. But in the Sahara, it is too dry for much of the year,\" explains company spokesman Ahmad Niang. \"But for a small investment in GR-712 seeds, farmers will now be able to grow wheat in our region. \"---4----. This added income can, in turn, be reinvested in better machinery, which will encourage more environmentally friendly farming practices.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) tolerates",
+              "(B) tolerable",
+              "(C) tolerate",
+              "(D) tolerating"
+            ]
+          },
+          "answer": {
+            "text": "(A) tolerates",
+            "explanation": "Select (A) because 'that' replaces the noun 'organic wheat' as the subject => needs to enter the main verb with tense."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) fuels",
+              "(B) materials",
+              "(C) vehicles",
+              "(D) crops"
+            ]
+          },
+          "answer": {
+            "text": "(D) crops",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) exclude",
+              "(B) exclusion",
+              "(C) exclusive",
+              "(D) exclusively"
+            ]
+          },
+          "answer": {
+            "text": "(D) exclusively",
+            "explanation": "Choose D because after the verb “focus” need to fill an adverb."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) There is more rainfall in the region in August and September.",
+              "(B) Nentique believes diversification of this kind will lead to greater profits.",
+              "(C) A common name for the new species is yet to be determined.",
+              "(D) This merger will also help streamline Nentique's production process."
+            ]
+          },
+          "answer": {
+            "text": "(B) Nentique believes diversification of this kind will lead to greater profits.",
+            "explanation": "Select (B) because the answer has the phrase 'this kind' to replace the word 'wheat' in the previous sentence."
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c279e"
+    },
+    {
+      "question": {
+        "text": "<br> To: All Staff<br> From: George Ruiz<br> Date: Wednesday, 18 July<br> Subject: Important guests<br> Food critics from two ---1---- newspapers, the Toronto Day and Toronto Rising, are expected to dine here this week. Let's make a special effort to do our work flawlessly.<br> Photographs of the critics will be placed at our welcome station. Using these ---2---- , hosts will be responsible for identifying the critics and telling the wait staff, who should alert the kitchen .<br> Servers must strive to be prompt. They should also recommend our daily specials.<br> ---3---<br> I am confident that everyone ---4---- these critics with our great food and service.<br> Thank you,<br> George Ruiz<br> General Manager",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) local",
+              "(B) locals",
+              "(C) locally",
+              "(D) more locally"
+            ]
+          },
+          "answer": {
+            "text": "(A) local",
+            "explanation": "” Select (A) since the noun newspapers requires an adjective.”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) reviews",
+              "(B) issues",
+              "(C) menus",
+              "(D) images"
+            ]
+          },
+          "answer": {
+            "text": "(D) images",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) These are the most creative dishes we offer.",
+              "(B) We have already placed an advertisement.",
+              "(C) Work schedules are posted by the rear entrance.",
+              "(D) One of them was unhappy with the timing."
+            ]
+          },
+          "answer": {
+            "text": "(A) These are the most creative dishes we offer.",
+            "explanation": "” Select (A) since the previous sentence has the phrase 'daily specials' ”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) impressed",
+              "(B) will impress",
+              "(C) is impressing",
+              "(D) has impressed"
+            ]
+          },
+          "answer": {
+            "text": "(B) will impress",
+            "explanation": "” Select (B) because the critics have not appeared, so the verb needs to be divided into future tenses.”"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c27a1"
+    },
+    {
+      "question": {
+        "text": "<br><b> Cherville Simplifies Local Tourism</b><br> 10 May- The city of Cherville boasts charming architecture and a breathtaking countryside that has long been appreciated by residents. Thanks to the recent introduction of a train service, tourists are now able to ---1---- the city as well. As a result of Cherville's rise in popularity, existing tourism-related businesses are booming. ---2----.<br> To help tourists and businesses, the Cherville Commerce Bureau has debuted the Citycard . When swiped, the card automatically applies ---3---- at local businesses and attractions. The Bureau believes that the Citycard will please tourists, who will benefit from lower prices. ----4---, the card should encourage retail traffic, leading to increased profits for businesses.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) revisit",
+              "(B) enjoy",
+              "(C) depart",
+              "(D) by pass"
+            ]
+          },
+          "answer": {
+            "text": "(B) enjoy",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Furthermore, the architect will be building a tower.",
+              "(B) The mayor will be giving a welcome speech.",
+              "(C) The train allows locals to travel more easily.",
+              "(D) In fact, restaurants and hotels keep opening."
+            ]
+          },
+          "answer": {
+            "text": "(D) In fact, restaurants and hotels keep opening.",
+            "explanation": "” Select (A) since the previous sentence mentions the benefits of Cherville tourism as it becomes more popular, so the space can only add more information about this.”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) discounts",
+              "(B) discounted",
+              "(C) to discount",
+              "(D) discounting"
+            ]
+          },
+          "answer": {
+            "text": "(A) discounts",
+            "explanation": "” Select (A) since the verb 'apply' requires a noun.”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Instead",
+              "(B) Until then",
+              "(C) At the same time",
+              "(D) Despite that"
+            ]
+          },
+          "answer": {
+            "text": "(C) At the same time",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c27a4"
+    },
+    {
+      "question": {
+        "text": "<br> To: All Macaw Store Managers<br> From: Mary Van Vliet, Chief Technology Officer<br> Date: 22 May<br> Re: Payment system upgrade<br> <br> Next week new payment processing terminals will be installed at each sales register in Macaw stores located in St. Thomas. Payment System 4.0 ----1--- in our stores in Puerto Rico for several months.<br> So far, no issues with the system have been reported by ----2--- customers or managers there.<br> --3---. It is faster and handles more transaction types than the current payment system. It also eliminates the need for ----4--- verification of transactions under $25.00 .<br> Please feel free to contact me with any questions about the installation.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to operate",
+              "(B) will operate",
+              "(C) is operating",
+              "(D) has operated"
+            ]
+          },
+          "answer": {
+            "text": "(D) has operated",
+            "explanation": "” Select (D) from behind the preposition 'for / since' a sign of the present perfect.”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) like",
+              "(B) extra",
+              "(C) either",
+              "(D) total"
+            ]
+          },
+          "answer": {
+            "text": "(C) either",
+            "explanation": "” Choose (C): either ... or ...”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Payment System 4.0 offers a variety of benefits.",
+              "(B) New payroll software will be released soon.",
+              "(C) We are having a special sale in June.",
+              "(D) I will e-mail each of you the exact installation date."
+            ]
+          },
+          "answer": {
+            "text": "(A) Payment System 4.0 offers a variety of benefits.",
+            "explanation": "”Select (A) since the preceding and following sentences both contain the word 'system' (Payment System 4.0).”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) available",
+              "(B) additional",
+              "(C) reserved",
+              "(D) economical"
+            ]
+          },
+          "answer": {
+            "text": "(B) additional",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c27a7"
+    },
+    {
+      "question": {
+        "text": "<br> <b>App Review: Forward Path</b><br> In the world of----1--- apps, those developed by Arvedlon, Inc., stand out for their innovation and ease of use. The newly released Forward Path app ---2---- tablets and smartphones is no exception. Forward Path connects with home exercise equipment such as stationary bicycles and rowing machines. Users can select video footage of dozens of real-world routes. Then they can choose from several speed options ---3---- the video to the pace of their workouts.---4---. While nothing can replace an outdoor workout, Forward Path comes closer than any other app currently on the market. Our testers highly recommend it.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) translation",
+              "(B) fitness",
+              "(C) landscaping",
+              "(D) navigation"
+            ]
+          },
+          "answer": {
+            "text": "(B) fitness",
+            "explanation": "” Based on meaning to choose the correct answer”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) into",
+              "(B) by",
+              "(C) near",
+              "(D) for"
+            ]
+          },
+          "answer": {
+            "text": "(D) for",
+            "explanation": "” Based on meaning to choose the correct answer”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to time",
+              "(B) time",
+              "(C) are timing",
+              "(D) timed"
+            ]
+          },
+          "answer": {
+            "text": "(A) to time",
+            "explanation": "” Choose (A) because after \"choose\" requires to-V.”"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They can even specify the weather conditions and season.",
+              "(B) The choices are somewhat limited compared to other apps.",
+              "(C) At this price, it should be very popular.",
+              "(D) The minimum is 30 minutes a day."
+            ]
+          },
+          "answer": {
+            "text": "(A) They can even specify the weather conditions and season.",
+            "explanation": "” Select (A) because the previous paragraph mentions some special features of the application \"Forward Path\", so the space should continue to mention other features.”"
+          }
+        }
+      ],
+      "id": "626441aaeccc8cae769c27aa"
+    },
+    {
+      "question": {
+        "text": "<br><b>Power Outage Scheduled at City Hall</b><br>On Friday, April 14, the city hall's electricity is scheduled to be shut down at 7A.M and restored at 6 P.M. The building---1----for the day. During the power outage, the emergency lighting system will be upgraded.-----2.----, all circuit panels will be replaced to bring them into compliance with current safety codes.<br>....3…..exiting city hall offices on Thursday, please disconnect all desktop computers, wireless servers, and other computer- related equipment. Furthermore, employees are asked to remove any personal contents from the kitchenette. —4.-—. Please direct questions or concerns to the director of building maintenance.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)has closed",
+              "(B)closing",
+              "(C)will close",
+              "(D)was closing"
+            ]
+          },
+          "answer": {
+            "text": "(C)will close",
+            "explanation": "<p><font><font>Based on information around the sentence</font></font></p>\n\n<p><font><font>=&gt;verbs are needed in&nbsp;</font></font><font><font>the future tense</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In that case",
+              "(B)Regularly",
+              "(C)Rather than",
+              "(D)Specifically"
+            ]
+          },
+          "answer": {
+            "text": "(D)Specifically",
+            "explanation": "The sentence plays a role as a more detailed explanation for the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Inside",
+              "(B)Beyond",
+              "(C)Without",
+              "(D)Before"
+            ]
+          },
+          "answer": {
+            "text": "(D)Before",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Any items left behind will be discarded.",
+              "(B)Thecontents of each refrigerator must be labeled.",
+              "(C)Employees should report to work as usual.",
+              "(D)Emergency lighting will allow each department to remain operational."
+            ]
+          },
+          "answer": {
+            "text": "(A)Any items left behind will be discarded.",
+            "explanation": "Need to choose a sentence related to the 'previous' and the general content of the whole paragraph"
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27ad"
+    },
+    {
+      "question": {
+        "text": "Lakeview Railway Onboard Bicycle Policy<br>Would you like to use your bicycle to explore the Lakeview Corridor Scenic Area? Our trains have the —1—- you need to safely transport your bike. When booking your ticket, just remember that reservations —2—- for both you and your bicycle. Reserve your bicycle spot —3—There are a limited number of storage racks on each train. You are responsible for stowing your bike securely. —4—. Lakeview Railway does nottake responsibility for bicycles lost or damaged aboard our trains.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)stock",
+              "(B)equipment",
+              "(C)property",
+              "(D)revenue"
+            ]
+          },
+          "answer": {
+            "text": "(B)equipment",
+            "explanation": "Need an appropriate adjective."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)require",
+              "(B)requiring",
+              "(C)are required",
+              "(D)were required"
+            ]
+          },
+          "answer": {
+            "text": "(C)are required",
+            "explanation": "Sentences lack verbs, do not specify time-space + passive voice (the due subject is the object -reservations)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)early",
+              "(B)again",
+              "(C)more",
+              "(D)instead"
+            ]
+          },
+          "answer": {
+            "text": "(A)early",
+            "explanation": "<br>Based on the meaning of the word to choose correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Folding bicycles have become more common.",
+              "(B)Additional service fees may apply.",
+              "(C)You can obtain route maps at most stations.",
+              "(D)You must also supply your own bike lock."
+            ]
+          },
+          "answer": {
+            "text": "(D)You must also supply your own bike lock.",
+            "explanation": "Based on the meaning of the sentence, choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27b1"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441aceccc8cae769c27b8"
+}

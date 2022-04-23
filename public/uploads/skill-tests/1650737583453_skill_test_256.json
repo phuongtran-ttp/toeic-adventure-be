@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 256",
+  "questions": [
+    {
+      "question": {
+        "text": "<br />\nTo: Anthony Lilly [AnthonyLilly@ hotline.com]<br />\nFrom: Customer Service [CS@ComprehensiveAutolns.com]<br />\nDate: November 14<br />\nSubject: Name Change<br />\nOur records show that you ---1--- an automobile policy with us. We pride ourselves on keeping customers up-to-date on company business, so we are writing to ----2-- you that we are changing the name of our company from Comprehensive Auto Insurance to Complete Auto and Life Insurance.<br />\nAll of our communications will be labeled with the new name beginning next month. You&#39;ll find our new name on bills, e-mails, letters, claim forms, and on our Web site. ---3---.<br />\nAt this time, you may also want to take the opportunity to renew your life insurance ---4--- an appointment, please reply to this e-mail, and you will be contacted by a representative.<br />\nBest Regards,<br />\nCustomer Service<br />\nComprehensive Auto Insurance.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) had held",
+              "(B) will hold",
+              "(C) hold",
+              "(D) were holding"
+            ]
+          },
+          "answer": {
+            "text": "(C) hold",
+            "explanation": "Use simple past tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) invite",
+              "(B) extend",
+              "(C) offer",
+              "(D) inform"
+            ]
+          },
+          "answer": {
+            "text": "(D) inform",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They have been sent to the name provided on the form.",
+              "(B) We will mail them to your residence on a monthly basis.",
+              "(C) They must be submitted in person to one of our staff.",
+              "(D) We will modify our name on our policy documents as well."
+            ]
+          },
+          "answer": {
+            "text": "(D) We will modify our name on our policy documents as well.",
+            "explanation": "Based on the previous  sentence \" You'll find our new name on bills, e-mails, letters, claim forms, and on our web site.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Makes",
+              "(B) Making",
+              "(C) To make",
+              "(D) Having made"
+            ]
+          },
+          "answer": {
+            "text": "(C) To make",
+            "explanation": "By phare \"to make an appointment\""
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2884"
+    },
+    {
+      "question": {
+        "text": "<b>ATTENTION ALL TENANTS</b><br> Wimberley Group will ---1--- its rent collection system to electronic one. This change will apply to all apartments effective February 1. ---2---. Cash and personal checks will no longer be accepted.<br>Every tenant needs to create a user profile at www.wimberlygroup.com. After logging in, tenants will be able to ---3--- a payment. You can do this by selecting the unpaid bill and then clicking on the button at the bottom of the screen. ---4--- you hit “Pay”, the amount you designate will be deducted from your registered credit card or bank account. If you wish to arrange automatic payments, please click the button labeled “Pay this amount every month.”<br>Thank you for your cooperation. If you have any questions, e-mail US at help@wimberlygroup.com",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Wimberley Group will ---1--- its rent collection system to electronic one.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) induce",
+              "(B) fluctuate",
+              "(C) convert",
+              "(D) recover"
+            ]
+          },
+          "answer": {
+            "text": "(C) convert",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "This change will apply to all apartments effective February 1. ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tenants had found the new system easy to use.",
+              "(B) From that day on, tenants must pay their rental fees online.",
+              "(C) The new system allowed for a greater variety of payment options.",
+              "(D) Only certain Wimberley Group occupants will be affected."
+            ]
+          },
+          "answer": {
+            "text": "(B) From that day on, tenants must pay their rental fees online.",
+            "explanation": "The previous sentence mentions a day when the change will apply to all apartments => B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "After logging in, tenants will be able to ---3--- a payment. You can do this by selecting the unpaid bill and then clicking on the button at the bottom of the screen.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) postpone",
+              "(B) cancel",
+              "(C) oppose",
+              "(D) make"
+            ]
+          },
+          "answer": {
+            "text": "(D) make",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "---4--- you hit “Pay”, the amount you designate will be deducted from your registered credit card or bank account.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Even though",
+              "(B) During",
+              "(C) Since",
+              "(D) As soon as"
+            ]
+          },
+          "answer": {
+            "text": "(D) As soon as",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2887"
+    },
+    {
+      "question": {
+        "text": "To: Angela Thornberry [athornberry@fastmail.com]<br />\nFrom: Vincent Nakamura [vnakamura@traxcomputers.com]<br />\nSubject: Your laptop<br />\nDate: June 18<br />\nDear Ms. Thornberry,<br />\nI am writing about the Trax 2700 laptop you dropped off at our store on June 15 because of problems with its screen. After sending it to our ---1---for examination, we discovered that it contained a faulty component. At present, your laptop is being ---2---. As requested, we are also thoroughly testing the device to see if there are any other issues.<br />\nAs this problem appears to have been entirely our fault, we will provide you with a $50 voucher to use at our retail store. ---3---, e-coupons for our Web site are also available. Just let us know which you&#39;d prefer.<br />\n---4---. If you have not received it by then, please call customer service.<br />\nBest wishes,<br />\nVincent Nakamura<br />\nCustomer Satisfaction Department",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "After sending it to our ---1---for examination, we discovered that it contained a faulty component.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) technicality",
+              "(B) technical",
+              "(C) technicians",
+              "(D) technology"
+            ]
+          },
+          "answer": {
+            "text": "(C) technicians",
+            "explanation": "send something to somebody => choose C"
+          }
+        },
+        {
+          "question": {
+            "text": "At present, your laptop is being ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) replaced",
+              "(B) repaired",
+              "(C) shipped",
+              "(D) recalled"
+            ]
+          },
+          "answer": {
+            "text": "(B) repaired",
+            "explanation": "Based on the meaning of verbs"
+          }
+        },
+        {
+          "question": {
+            "text": "As this problem appears to have been entirely our fault, we will provide you with a $50 voucher to use at our retail store. ---3---, e-coupons for our Web site are also available.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Regrettably",
+              "(B) Subsequently",
+              "(C) Approximately",
+              "(D) Alternatively"
+            ]
+          },
+          "answer": {
+            "text": "(D) Alternatively",
+            "explanation": "Based on the meaning of adverbs"
+          }
+        },
+        {
+          "question": {
+            "text": "---4---. If you have not received it by then, please call customer service.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The model you inquired about is no longer available at this location.",
+              "(B) We will send the computer back to you within three days.",
+              "(C) You are not covered under the warranty as it has expired.",
+              "(D) We have been receiving a number of complaints about our service."
+            ]
+          },
+          "answer": {
+            "text": "(B) We will send the computer back to you within three days.",
+            "explanation": "The following sentence mentions \"If you have not received it by then\" => B is correct"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c288a"
+    },
+    {
+      "question": {
+        "text": "<br />\n<b>Notice for All Staff</b><br />\nThe shopping mall our store is located in will be closed from December 24 to 26. ---1---, some of you will be coming in on December 24 to set up for our post-holiday sale. The guard who usually opens the mall doors in the morning is off duty during this time. ---2---. Daniel Monahan is the most senior staff member, so I will give it to him, and he will let everyone inside.<br />\nIt is vital that you ---3--- Daniel at the entrance at exactly 10 a.m. We don&#39;t want to waste time making him go back and forth to open the doors, so please be considerate and arrive as ---4---",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The shopping mall our store is located in will be closed from December 24 to 26. ---1---, some of you will be coming in on December 24 to set up for our post-holiday sale.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Besides",
+              "(B) Otherwise",
+              "(C) Accordingly",
+              "(D) However"
+            ]
+          },
+          "answer": {
+            "text": "(D) However",
+            "explanation": "The previous sentence indicates that the shopping mall our store is located in will be closed from December 24 to 26 while this sentence says ome of you will be coming in on December 24... => \"However\" is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "The guard who usually opens the mall doors in the morning is off duty during this time. ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Making sure we answer customer inquiries in a timely manner is our priority.",
+              "(B) You should be able to use your employee pass to access the mall.",
+              "(C) A security code will therefore be required to enter the building.",
+              "(D) You will need to handle backorders caused by his absence."
+            ]
+          },
+          "answer": {
+            "text": "(C) A security code will therefore be required to enter the building.",
+            "explanation": "It's mentioned that the guard who usually opens the mall doors in the morning is off duty so a security code will therefore be required to enter the building."
+          }
+        },
+        {
+          "question": {
+            "text": "It is vital that you ---3--- Daniel at the entrance at exactly 10 a.m.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) are meeting",
+              "(B) meet",
+              "(C) had met",
+              "D) met"
+            ]
+          },
+          "answer": {
+            "text": "(B) meet",
+            "explanation": "It is + adjective + S + V-infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "We don&#39;t want to waste time making him go back and forth to open the doors, so please be considerate and arrive as ---4---",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) punctually",
+              "(B) regularly",
+              "(C) politely",
+              "(D) impressively"
+            ]
+          },
+          "answer": {
+            "text": "(A) punctually",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c288d"
+    },
+    {
+      "question": {
+        "text": "To: Rajesh Singh [rajesh.singh@indiaclothing.in]<br />\nFrom: Faria Deveraj [f.deveraj@mumbai.gov.in]<br />\nSubject:Scheduled Inspection<br />\nDate: October 12<br />\nDear Mr. Singh,<br />\nOn October 17, your clothing factory will face its yearly government inspection. This annual ---1--- will verify that all labor laws are being followed. Your factory passed the ---2--- evaluation with no major problems, so our inspectors hope to see a similar level of compliance this time around.<br />\nYou are ---3--- obliged to provide access to any part of the factory that the inspectors may wish to see. Failure to comply in this regard may result in fines and further investigation. Also, the inspectors need to confirm that workers are being properly compensated. ---4---.<br />\nThank you for your attention to this matter.<br />\nFaria Deveraj<br />\nInspection Team Leader<br />\nCity Government of Mumbai",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This annual ---1--- will verify that all labor laws are being followed. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) meeting",
+              "(B) investment",
+              "(C) commemoration",
+              "(D) assessment"
+            ]
+          },
+          "answer": {
+            "text": "(D) assessment",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Your factory passed the ---2--- evaluation with no major problems, so our inspectors hope to see a similar level of compliance this time around.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) decided",
+              "(B) forthcoming",
+              "(C) previous",
+              "(D) ultimate"
+            ]
+          },
+          "answer": {
+            "text": "(C) previous",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "You are ---3--- obliged to provide access to any part of the factory that the inspectors may wish to see. Failure to comply in this regard may result in fines and further investigation.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) legally",
+              "(B) legality",
+              "(C) legal",
+              "(D) legitimate"
+            ]
+          },
+          "answer": {
+            "text": "(A) legally",
+            "explanation": "The blank is between \"is\" and \"obliged\" => use adverb "
+          }
+        },
+        {
+          "question": {
+            "text": "Also, the inspectors need to confirm that workers are being properly compensated. ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A copy of the receipt for your recent payment has been sent to you in the mail",
+              "(B) The human resources department will need to prepare the relevant documents.",
+              "(C) Consequently, the company wishes to avoid paying any such penalties.",
+              "(D) We are interested in hearing about certain products that were recalled."
+            ]
+          },
+          "answer": {
+            "text": "(B) The human resources department will need to prepare the relevant documents.",
+            "explanation": "B makes most sense among the answers. The relevant documents for the compensation. "
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2890"
+    },
+    {
+      "question": {
+        "text": "<br>Pro Unis is now hiring for positions in our production, human resources, and accounting departments. As one of the region's largest employers, Pro Unis—-1.— workforces with uniforms for over 70 years. Since our founding, Pro Unis has been committed to employee retention and—-2.—. We offer competitive wages, job training, and regular opportunities for promotion. To learn more about—-3.— , visit prounis.com/careers. Interested job- seekers will be directed to fill out an online application and upload a resume.-— 4.—.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)outfitted",
+              "(B)will outfit",
+              "(C)is outfitting",
+              "(D)has been outfitting"
+            ]
+          },
+          "answer": {
+            "text": "(D)has been outfitting",
+            "explanation": "Sign: \"For over 70 years\"\n=> The Present Perfect Tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)advanced",
+              "(B)an advance",
+              "(C)they advance",
+              "(D)advancement"
+            ]
+          },
+          "answer": {
+            "text": "(D)advancement",
+            "explanation": "Parallel structure\n\n- Retention and ...         \n\n- Noun \"and\" = -> noun \n=>  Answer: advancement"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)issues",
+              "(B)events",
+              "(C)openings",
+              "(D)investments"
+            ]
+          },
+          "answer": {
+            "text": "(C)openings",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They must also pass a background check to be eligible for employment.",
+              "(B)Let Pro Unis design work uniforms for your company.",
+              "(C)You can now follow us on social media.",
+              "(D)We recently hired a new director of human resources."
+            ]
+          },
+          "answer": {
+            "text": "(A)They must also pass a background check to be eligible for employment.",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2893"
+    },
+    {
+      "question": {
+        "text": "<br>WS Dental is pleased to announce that our practice is—1—. Our second office is now open at 242 Union Street in Lambton, offering greater—-2.— for patients living on the north side of the city. Our original clinic will continue to operate at 12 Finn Place. Dr. Walbeck and Dr. Steiner are committed to providing -—3. — care at both locations.<br>ws Dental provides a full range of dental services at both offices. They are both open from 8 A.M. to 5 P.M., Monday through Friday. —-4.—. Extended evening hours will be considered in the coming season.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)training",
+              "(B)expanding",
+              "(C)calling",
+              "(D)moving"
+            ]
+          },
+          "answer": {
+            "text": "(B)expanding",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)collection",
+              "(B)production",
+              "(C)performance",
+              "(D)convenience"
+            ]
+          },
+          "answer": {
+            "text": "(D)convenience",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)exception",
+              "(B)exceptions",
+              "(C)exceptional",
+              "(D)exceptionally"
+            ]
+          },
+          "answer": {
+            "text": "(C)exceptional",
+            "explanation": "Need adjectives before nouns\n\n<br> Exceptional care (=special care)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Our Finn Place office is also open on Saturday mornings.",
+              "(B)This area has a rich history and a vibrant downtown.",
+              "(C)The facility is comfortable, clean, and bright.",
+              "(D)Once there, take a right onto Mountain View Road."
+            ]
+          },
+          "answer": {
+            "text": "(A)Our Finn Place office is also open on Saturday mornings.",
+            "explanation": "Based on the meaning of the word to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2896"
+    },
+    {
+      "question": {
+        "text": "<br />\n<em>To: HYPERLINK &quot;mailto.jroux@xmail.com<br />\nFrom: josephbelle@perilleuxrealestate.com<br />\nDate: March 2<br />\nSubject: Your job inquiry</em><br />\nDear Ms. Roux,<br />\nYour resume&mdash;1. &mdash;- to me by a colleague. -&mdash;2.&mdash;. We appreciate your interest in Perilleux Real Estate and will keep your&mdash;3.&mdash;- on file in case a full-time position opens up in the future.<br />\n&mdash;4.&mdash;, would you consider working for us part-time on a special project? Our CEO needs administrative support on an ambitious advertising campaign. The project should last until the end of July.<br />\nKindly let me know if this opportunity interests you.<br />\nSincerely,<br />\nJoseph Belle, Vice President<br />\nHuman Resources",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)to pass on",
+              "(B)will pass on",
+              "(C)is passing on",
+              "(D)was passed on"
+            ]
+          },
+          "answer": {
+            "text": "(D)was passed on",
+            "explanation": "In this case, use passive form => was passed on"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It was nice to meet you at the networking event.",
+              "(B)Our firm is now six years old.",
+              "(C)We are happy to have you as part of our team.",
+              "(D)Unfortunately, we do not have an open receptionist position."
+            ]
+          },
+          "answer": {
+            "text": "(D)Unfortunately, we do not have an open receptionist position.",
+            "explanation": "Select the correct answer based on around sentences."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)documents",
+              "(B)analysis",
+              "(C)descriptions",
+              "(D)reports"
+            ]
+          },
+          "answer": {
+            "text": "(A)documents",
+            "explanation": "Based on the meaning of the words to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)First of all",
+              "(B)As mentioned",
+              "(C)In the meantime",
+              "(D)In order that"
+            ]
+          },
+          "answer": {
+            "text": "(C)In the meantime",
+            "explanation": "Based on the meaning of the words to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2899"
+    },
+    {
+      "question": {
+        "text": "<br><b>Hurst Airlines Improves its Customer Service Offerings</b><br>LOS ANGELES (September 22) - Hurst Airlines has started installing self-check-in kiosks where passengers can scan their identification, print their own boarding passes, and tag their own luggage to be loaded onto the aircraft. These new -1.-- are already in place at two airports in California.— 2.-— will soon be available at all airports where Hurst Airlines flies. According to Hurst Airlines CEO Roxana Ghazi, the company aims for all its service areas —3.— equipped with kiosks by the end of the summer.<br>The intent of these kiosks is to make the check-in process run more quickly. Said Ms. Ghazi, \"We have limited staff, and lines can often be quite long.— 4.—. These new kiosks are expected to significantly reduce the amount of time spent in line.\"",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)devices",
+              "(B)positions",
+              "(C)materials",
+              "(D)regulations"
+            ]
+          },
+          "answer": {
+            "text": "(A)devices",
+            "explanation": "Based on the meaning of the word to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It",
+              "(B)She",
+              "(C)They",
+              "(D)Either"
+            ]
+          },
+          "answer": {
+            "text": "(C)They",
+            "explanation": "<br>Use the previous sentence to judge what the subject being repeated\n\n<br>- Devices (in the previous sentence) - plural noun         \n\n<br> - The answer is they"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)to be",
+              "(B)that are",
+              "(C)they were",
+              "(D)having been"
+            ]
+          },
+          "answer": {
+            "text": "(A)to be",
+            "explanation": "To be equipped with ...\n=> use passive voice"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Unfortunately, we are changing our routes.",
+              "(B)Passengers should arrive two hours before a flight.",
+              "(C)We expect to hire more staff soon.",
+              "(D)This is especially true during peak operating times."
+            ]
+          },
+          "answer": {
+            "text": "(D)This is especially true during peak operating times.",
+            "explanation": "Based on the meaning of the sentence to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c289c"
+    },
+    {
+      "question": {
+        "text": "<br>The next time you're in downtown Houston and would like a taste of Asia, visit Sensasia on the second floor of Cheviston Center. Sensasia offers authentic ---1--- from China, Japan, India, Thailand, Korea, and Vietnam.<br>---2---.From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious Korean bibimbap, and tasty Vietnamese pho. On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, ---3--- along with our regular menu items. And once a month, our chefs introduce something new for diners to try. ---4---, only Sensasia can give you such a wide variety of meals in one location.<br>For group reservations, please call 555-4272. To view our menu, please visit our Web site at www.sensasia.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Sensasia offers authentic ---1--- from China, Japan, India, Thailand, Korea, and Vietnam.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) dishes",
+              "(B) materials",
+              "(C) components",
+              "(D) directions"
+            ]
+          },
+          "answer": {
+            "text": "(A) dishes",
+            "explanation": "The previous sentence mentions \"a taste\" => Sensasia is a restaurant"
+          }
+        },
+        {
+          "question": {
+            "text": "---2---.From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious Korean bibimbap, and tasty Vietnamese pho.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our chefs use exotic seasonings in all of our grilled food.",
+              "(B) Some parts of our restaurant are now being refurbished.",
+              "(C) We serve a wide range of popular Asian cuisine every day.",
+              "(D) Our food is delicious but limited to seafood selections."
+            ]
+          },
+          "answer": {
+            "text": "(C) We serve a wide range of popular Asian cuisine every day.",
+            "explanation": "Sensasia  offers dishes from China, Japan, India, Thailand, Korea, and Vietnam which are Asian countries => C is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, ---3--- along with our regular menu items.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) prepares",
+              "(B) prepared",
+              "(C) is prepared",
+              "(D) preparing"
+            ]
+          },
+          "answer": {
+            "text": "(C) is prepared",
+            "explanation": "The subject is a dish => use passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "And once a month, our chefs introduce something new for diners to try. ---4---, only Sensasia can give you such a wide variety of meals in one location.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Conversely",
+              "(B) In short",
+              "(C) To that end",
+              "(D) Not to mention"
+            ]
+          },
+          "answer": {
+            "text": "(B) In short",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c289f"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441afeccc8cae769c28a2"
+}

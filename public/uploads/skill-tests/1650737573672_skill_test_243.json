@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 243",
+  "questions": [
+    {
+      "question": {
+        "text": "To: samsmith@digitallT.com <br>From: sharronb@email.com<br>Date: September 24<br>Subject:  Business Contract<br><br>Dear Mr. Smith, <br>I am Sharron Biggs, CEO and founder of BiggsGraphics. I recently came across your advertisement <b> (1)</b>  _____  partnership of a graphic design company for a number of your projects. BiggsGraphics has  <b> (2)</b>  _____   experience working with various small businesses and companies in designing advertising campaigns, logos, and websites. <b> (3)</b>  _____  Our website www.biggs-graphics.com also has some information about our company. <br><br>I’m interested in working with your company on your projects and hope we can build a beneficial partnership. I look forward <b> (4)</b>  _____  your reply. <br><br>Sincerely, Sharron Biggs <br>CEO, BiggsGraphics",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I recently came across your advertisement <b> (1)</b>  _____  partnership of a graphic design company for a number of your projects.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) seek",
+              "(B) to seek",
+              "(C) seeking",
+              "(D) are seeking"
+            ]
+          },
+          "answer": {
+            "text": "(C) seeking",
+            "explanation": "This is a reduced relative clause. The original sentence is \"I recently came across your advertisement which sought partnership of a graphic company for a number of your projects. "
+          }
+        },
+        {
+          "question": {
+            "text": "BiggsGraphics has  <b> (2)</b>  _____   experience working with various small businesses and companies in designing advertising campaigns, logos, and websites.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) extensive",
+              "(B) restricted",
+              "(C) generous",
+              "(D) limitless"
+            ]
+          },
+          "answer": {
+            "text": "(A) extensive",
+            "explanation": "Based on the meaning of words <br> => extensive experience "
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3)</b>  _____  Our website www.biggs-graphics.com also has some information about our company.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I would really appreciate the opportunity to work with you.",
+              "(B) I heard that Digital lT is a great company.",
+              "(C) In fact, our designs are often copied by other companies.",
+              "(D) I have attached a number of our past designs to illustrate what we specialize in."
+            ]
+          },
+          "answer": {
+            "text": "(D) I have attached a number of our past designs to illustrate what we specialize in.",
+            "explanation": "Based on the previous sentence: \"BiggsGraphics has (2) _____  experience working with various small businesses and companies <b>in designing advertising campaigns, logos, and websites.</b>\""
+          }
+        },
+        {
+          "question": {
+            "text": "I look forward  <b> (4)</b>  _____  your reply.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) at",
+              "(B) to",
+              "(C) with",
+              "(D) from"
+            ]
+          },
+          "answer": {
+            "text": "(B) to",
+            "explanation": "look forward to something/ Ving"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c263d"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Employee Spring Training</strong></p>\n\n<p>Lawrence Paper is dedicated to helping all of its employees fulfill their potential. That is why we have once again organized 2 days of spring training. Human Resources has put together a wide range of topics for this year&rsquo;s workshops, <b> (1) </b> _____ sales techniques, computer skills, communication strategies, and goal setting. We still have two workshop time slots available, so if there is something you&rsquo;ve been dying to learn about, please let us know. It&rsquo;s quite possible we <b> (2) </b> _____ it into this year&rsquo;s spring training.<b> (3) </b> _____ Feel free to <b> (4) </b> _____ any ideas you might have to Nancy Kensington in the human resources department.<br />\nNLKensington@lawrencepaper.com</p>\n",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Human Resources has put together a wide range of topics for this year’s workshops, <b>(1)</b> _____ sales techniques, computer skills, communication strategies, and goal setting.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) distributing",
+              "(B) locating",
+              "(C) including",
+              "(D) advancing"
+            ]
+          },
+          "answer": {
+            "text": "(C) including",
+            "explanation": "Based on the meaning of words. The hint is \"a wide range of topics for this year’s workshops\" => use \"including\" to list those topics"
+          }
+        },
+        {
+          "question": {
+            "text": "It’s quite possible we <b> (2) </b> _____ it into this year’s spring training.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) were incorporating",
+              "(B) should incorporate",
+              "(C) are incorporating",
+              "(D) could incorporate"
+            ]
+          },
+          "answer": {
+            "text": "(D) could incorporate",
+            "explanation": "The hint is \"It’s quite possible\" => use modal verb"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> _____ Feel free to  _____ any ideas you might have to Nancy Kensington in the human resources department.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) If we get many suggestions, we could also hold a workshop on the following weekend, December 4th.",
+              "(B) We’ll be finalizing our choices by the end of the week.",
+              "(C) A large amount of time and energy has gone into organizing this conference.",
+              "(D) Inviting friends and family to these events is always encouraged."
+            ]
+          },
+          "answer": {
+            "text": "(B) We’ll be finalizing our choices by the end of the week.",
+            "explanation": "Based on the following sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "_____ Feel free to  <b> (4) </b> _____ any ideas you might have to Nancy Kensington in the human resources department.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) create",
+              "(B) request",
+              "(C) submit",
+              "(D) transfer"
+            ]
+          },
+          "answer": {
+            "text": "(C) submit",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c263f"
+    },
+    {
+      "question": {
+        "text": "Thank you for shopping at Larson’s China. Our products are known for their modern and unique patterns and color combinations, as well as <b> (1)</b>  _____ and strength. <b> (2)</b>  _____  Please note, however, that repeated drops and rough handling will  <b> (3)</b>  _____  eventual breakage. We suggest you store them carefully and that you don’t use harsh chemicals, steel sponges, or   <b> (4)</b>  _____  scrubbing when cleaning them. Please visit our website at www.larsonchina.com for information about handling and care or call US at 555-1234 if you have any questions or concerns.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Our products are known for their modern and unique patterns and color combinations, as well as <b> (1)</b>  _____ and strength",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) durable",
+              "(B) durability",
+              "(C) durableness",
+              "(D) durable"
+            ]
+          },
+          "answer": {
+            "text": "(B) durability",
+            "explanation": "as well as ..... and strength => need a noun for word agreement."
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2)</b>  _____  Please note, however, that repeated drops and rough handling will _____  eventual breakage.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Larson’s utensils and silverware go great with the dinnerware.",
+              "(B) Our most popular line, the Spring Flower China is sold out at most locations,",
+              "(C) Visit our store to check out our other beautiful products.",
+              "(D) They are dishwasher- and microwave-safe and we’re confident that you’ll be using them for years to come."
+            ]
+          },
+          "answer": {
+            "text": "(D) They are dishwasher- and microwave-safe and we’re confident that you’ll be using them for years to come.",
+            "explanation": "Based on the previous sentence: \"<b>Our products</b> are known for their modern and unique patterns and color combinations...\" mentioning \"products\" so D is the right answer."
+          }
+        },
+        {
+          "question": {
+            "text": "_____  Please note, however, that repeated drops and rough handling will  <b>(3)</b>  _____  eventual breakage.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) result in",
+              "(B) occur to",
+              "(C) ending at",
+              "(D) stop with"
+            ]
+          },
+          "answer": {
+            "text": "(A) result in",
+            "explanation": "Based on the meaning of verbs"
+          }
+        },
+        {
+          "question": {
+            "text": "We suggest you store them carefully and that you don’t use harsh chemicals, steel sponges, or <b>(4)</b>  _____  scrubbing when cleaning them.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) ambitious",
+              "(B) combative",
+              "(C) aggressive",
+              "(D) complacent"
+            ]
+          },
+          "answer": {
+            "text": "(C) aggressive",
+            "explanation": "Based on the meaning of words => \"aggressive scrubbing\" is compatible to things mentioned such as \"harsh chemicals, steel sponges\""
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2643"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Vander Properties</strong></p> <p>Vander Properties has been serving Houston for over 29 years. It is through our commitment to providing the highest degree of expertise market knowledge and <b> (1) </b> _____ are service that we recognized as an industry leader. We specialize in <b> (2) </b> _____ and corporate real estate here in the Denver area.<b> (3) </b> _____ you are looking to buy a new home or start a new business, we are the people you should be talking with. With our office centrally located downtown, we have our eyes on the whole city. Browse our site for listing, or give us a call today <b> (4) </b> _____.<br /> www.vanderproperties.com<br /> Phone: (313) 782-9919<br /> Address: 834 Walton St.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "It is through our commitment to providing the highest degree of expertise market knowledge and <b> (1) </b> _____  are service that we recognized as an industry leader.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) personalize",
+              "(B) personalizes",
+              "(C) personalizing",
+              "(D) personalized"
+            ]
+          },
+          "answer": {
+            "text": "(D) personalized",
+            "explanation": "We need a word that can modify the noun \"service\". \"Personalizing\" and \"personalized\" can both be adjectives to modify the noun, but in terms of meaning, \"personalized service\" is more reasonable than \"personalizing service\""
+          }
+        },
+        {
+          "question": {
+            "text": "We specialize in <b> (2) </b> _____ and corporate real estate here in the Denver area.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) productive",
+              "(B) promoted",
+              "(D) residential",
+              "(c) relevant"
+            ]
+          },
+          "answer": {
+            "text": "(D) residential",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> _____ you are looking to buy a new home or start a new business, we are the people you should be talking with.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Whether",
+              "(B) Even if",
+              "(C) Even though",
+              "(D) Whenever"
+            ]
+          },
+          "answer": {
+            "text": "(A) Whether",
+            "explanation": "Based on the meaning of conjunctions."
+          }
+        },
+        {
+          "question": {
+            "text": "Browse our site for listing, or give US a call today <b> (4) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Take a drive out of town and come see us today.",
+              "(B) We appreciate your assistance.",
+              "(C) Of course, drop-ins are always welcome.",
+              "(D) Our kitchen is open from eight to five daily."
+            ]
+          },
+          "answer": {
+            "text": "(C) Of course, drop-ins are always welcome.",
+            "explanation": "Based on the previous sentence: \"Browse our site for listing, or give us a call today (4) _____.\""
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2645"
+    },
+    {
+      "question": {
+        "text": "Entry Position: Gold & Slide Accounting Firm<br><br> We are looking for enthusiastic candidates with an educational background in finance or <b> (1)</b>   _____. All candidates should have some computer experience. Job experience is not <b> (2)</b>   _____ but preferred. Candidates with a bilingual language ability  <b> (3)</b>  _____ favored. Positions include jobs in accounting, statistics, and general office assistant. If you are interested, please visit our website at www.G&Saccountingfirm.com/employment for more information. You can send your cover letters and resumes to Karen Hill at khill@G&S.com. We will begin interviewing candidates on Monday, November 5. <b> (4)</b>  _____",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We are looking for enthusiastic candidates with an educational background in finance or <b> (1)</b>   _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) account",
+              "(B) accountant",
+              "(C) accounting",
+              "(D) accounted"
+            ]
+          },
+          "answer": {
+            "text": "(C) accounting",
+            "explanation": "With the hint \"in finance or (1) _____.\" => need a noun for agreement"
+          }
+        },
+        {
+          "question": {
+            "text": "Job experience is not <b>(2)</b>   _____ but preferred.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) basic",
+              "(B) decisive",
+              "(C) additional",
+              "(D) necessary"
+            ]
+          },
+          "answer": {
+            "text": "(D) necessary",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Candidates with a bilingual language ability  <b> (3)</b>  _____ favored.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is being",
+              "(B) will be",
+              "(C) has been",
+              "(D) were being"
+            ]
+          },
+          "answer": {
+            "text": "(B) will be",
+            "explanation": "The firm is looking for candidates => use future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "We will begin interviewing candidates on Monday, November 5. <b> (4)</b>  _____",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We sincerely thank you for your interest.",
+              "(B) The positions begin the following month.",
+              "(C) Please call us for more information.",
+              "(D) We apologize for any inconvenience"
+            ]
+          },
+          "answer": {
+            "text": "(B) The positions begin the following month.",
+            "explanation": "Based on the previous sentence: \"We are looking for enthusiastic candidates with an educational background in finance or (1) _____.\""
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2649"
+    },
+    {
+      "question": {
+        "text": "Pizza Chef Wanted<br>Papa Gino’s is hiring, and all <b> (1) </b> _____ applicants will be considered. <b> (2) </b> _____ Even if you have no experience, training will be provided if you meet our requirements. To meet our requirements, you must have a <b> (3) </b> _____ health card, reliable transportation, and be able to work evenings and weekends. Please apply in person at Papa Gino’s on state and Pine, <b> (4) </b> _____ look forward to meeting you.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Papa Gino’s is hiring, and all <b> (1) </b> _____ applicants will be considered.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) qualify",
+              "(B) qualifying",
+              "(C) qualified",
+              "(D) to qualify"
+            ]
+          },
+          "answer": {
+            "text": "(C) qualified",
+            "explanation": "In the clause \"all _____ applicants will be considered\" the subject is the noun phrase \"all _____ applicants\". In this noun phrase, the main noun of the phrase is \"applicants\", so a modifier should be filled in the blank for this main noun => choose the adjective \"qualified\""
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2) </b> _____ Even if you have no experience, training will be provided if you meet our requirements.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We are looking for candidates that have some experience in Italian food.",
+              "(B) We are looking for candidates that have experience fishing.",
+              "(C) We are looking for people who can fish.",
+              "(D) We are looking for people who want to practice."
+            ]
+          },
+          "answer": {
+            "text": "(A) We are looking for candidates that have some experience in Italian food.",
+            "explanation": "This job posting is hiring a pizza chef and pizza is an Italian food, so it makes the most sense for them to find a candidate with experience in Italian food.\n"
+          }
+        },
+        {
+          "question": {
+            "text": "To meet our requirements, you must have a<b> (3) </b> _____ health card, reliable transportation, and be able to work evenings and weekends.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) valid",
+              "(B) working",
+              "(C) effective",
+              "(D) strong"
+            ]
+          },
+          "answer": {
+            "text": "(A) valid",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Please apply in person at Papa Gino’s on state and Pine, <b> (4) </b> _____ to look forward meeting you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She",
+              "(B) They",
+              "(C) We",
+              "(D) He"
+            ]
+          },
+          "answer": {
+            "text": "(C) We",
+            "explanation": "Based on the meaning of pronouns."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c264b"
+    },
+    {
+      "question": {
+        "text": "To:Kitchen staff,office employees<br>From:Manager, LarryPark<br>Date:March 23<br>Subject: Renovations<br><br>To all kitchen staff and Harmon employees, <br><br>From Sunday, March 23 to Thursday, March 27, the employee cafeteria kitchens will undergo renovations as new appliances and equipment <b> (1)</b>   _____ in to replace the old ones. <b> (2)</b>   _____ Instead, the convenience shops will carry more sandwiches, prepared lunch boxes,and snacks for the employees during this time. <br><br>The renovations will increase the number of sinks, ovens, and stove tops so that a larger volume of meals can be provided <b> (3)</b>   _____  the lunch and dinner rushes. We apologize for the inconvenience but we hope that the changes will <b> (4)</b>  _____ the services in the cafeteria.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "From Sunday, March 23 to Thursday, March 27, the employee cafeteria kitchens will undergo renovations as new appliances and equipment <b> (1)</b>   _____ in to replace the old ones. <b>",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) are bringing",
+              "(B) have brought",
+              "(C) bring",
+              "(D) are brought"
+            ]
+          },
+          "answer": {
+            "text": "(D) are brought",
+            "explanation": "The subject is \"new appliances and equipment\" and the verb is \"bring\" => use passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2)</b>   _____ Instead, the convenience shops will carry more sandwiches, prepared lunch boxes,and snacks for the employees during this time.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This will take a lot of work.",
+              "(B) As a result, the convenience shops will be closed.",
+              "(C) Because of this, hot meals will not be available for the patrons.",
+              "(D) There will be noise and chaos as a result."
+            ]
+          },
+          "answer": {
+            "text": "(C) Because of this, hot meals will not be available for the patrons.",
+            "explanation": "Based on the following sentence: \"Instead, the convenience shops will carry more sandwiches, prepared lunch boxes,and snacks for the employees during this time.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The renovations will increase the number of sinks, ovens, and stove tops so that a larger volume of meals can be provided <b> (3)</b>   _____  the lunch and dinner rushes.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) before",
+              "(B) after",
+              "(C) during",
+              "(D) within"
+            ]
+          },
+          "answer": {
+            "text": "(C) during",
+            "explanation": "\"....a larger volume of meals can be provided (3) _____  the lunch and dinner rushes.\" => during is suitable"
+          }
+        },
+        {
+          "question": {
+            "text": "We apologize for the inconvenience but we hope that the changes will <b> (4)</b>  _____ the services in the cafeteria.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) develop",
+              "(B) improve",
+              "(C) rectify",
+              "(D) recover"
+            ]
+          },
+          "answer": {
+            "text": "(B) improve",
+            "explanation": "Based on the hint that \"We apologize for the inconvenience\" => use \"improve\" "
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c264f"
+    },
+    {
+      "question": {
+        "text": "November 11 <br> John Adams <br>Tri-State, Apt 408 <br>New York, NY <br>10873<br><br>Dear Mr. Adams, <br>I am pleased to inform you that you <b> (1) </b> _____ as one of the finalists for the position of sales director at Goldie Saks. Over 100 applicants applied for the <b> (2) </b> _____  but we have narrowed down our list to 8 candidates. You will be called in for an interview on November 15 from 1:00 P.M. to 6:00 P.M.<b> (3) </b> _____  The location will be the company headquarters. Our assistant, Miss Lane, will meet you at the main lobby and take you to the interview room. <br><br>For the candidates that do well in these interviews, there will be a second interview. We will let you know as soon as possible whether you <b> (4) </b> _____.<br><br>Please call US at 555-1234 if you have any further questions. <br>We hope to see you soon. <br>Sincerely, <br>Jennifer Law Executive Manager",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I am pleased to inform you that you <b> (1) </b> _____ as one of the finalists for the position of sales director at Goldie Saks.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) were choosing",
+              "(B) had chosen",
+              "(C) have been chosen",
+              "(D) chose"
+            ]
+          },
+          "answer": {
+            "text": "(C) have been chosen",
+            "explanation": "In terms of meaning, use passive voice because Mr.Adams is the chosen one \"as one of the finalists for the position of sales director at Goldie Saks.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Over 100 applicants applied for the <b> (2) </b> _____  but we have narrowed down our list to 8 candidates.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) position",
+              "(B) location",
+              "(C) career",
+              "(D) appointment"
+            ]
+          },
+          "answer": {
+            "text": "(A) position",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": ". <b> (3) </b> _____  The location will be the company headquarters.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The building is easy to locate.",
+              "(B) We would like you to come in at 1:00 P.M.",
+              "(C) Our interviewers will ask you several questions.",
+              "(D) You will be given a specific schedule."
+            ]
+          },
+          "answer": {
+            "text": "(B) We would like you to come in at 1:00 P.M.",
+            "explanation": "Based on the previous sentence: \"You will be called in for an interview on November 15 from 1:00 P.M. to 6:00 P.M.\""
+          }
+        },
+        {
+          "question": {
+            "text": "We will let you know as soon as possible whether you <b> (4) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) enable",
+              "(B) approve",
+              "(C) refuse",
+              "(D) qualify"
+            ]
+          },
+          "answer": {
+            "text": "(D) qualify",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2651"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Employee Workshop</strong></p> <p>T&amp;R Group strives to help employees reach their potential by offering leadership retreats, employee training, and various workshops. This month, we <b> (1) </b> _____ workshops for those interested in <b> (2) </b> _____ their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app. We have a couple of other slots that are currently<b> (3) </b> _____ and will accept suggestions from employees. <b> (4) </b> _____ Please email Jonas at jsmith@TRgroup.com if you are interested in attending any of the workshops.<br /> We hope you take advantage of the programs offered.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This month, we <b> (1) </b> _____ workshops for those interested in  _____  their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) offers",
+              "(B) were offering",
+              "(C) are offering",
+              "(D) have offered"
+            ]
+          },
+          "answer": {
+            "text": "(C) are offering",
+            "explanation": "With the hint of time \"this month\" => use present continuous to talk about actions happening in the future. "
+          }
+        },
+        {
+          "question": {
+            "text": "This month, we _____ workshops for those interested in <b> (2) </b> _____  their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) correcting",
+              "(B) diminishing",
+              "(D) improving",
+              "(c) elaborating"
+            ]
+          },
+          "answer": {
+            "text": "(D) improving",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We have a couple of other slots that are currently <b> (3) </b> _____ and will accept suggestions from employees.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) dependent",
+              "(B) independent",
+              "(C) free",
+              "(D) obtainable"
+            ]
+          },
+          "answer": {
+            "text": "(C) free",
+            "explanation": "This sentence has the information that the company \"will accept suggestions from employees\" => \"free slots\" is suitable."
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (4) </b> _____ Please email Jonas at jsmith@TRgroup.com if you are interested in attending any of the workshops.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Suggestions related to gaming and entertainment will not be accepted.",
+              "(B) The most popular requests will be considered for the workshops.",
+              "(C) We ask all managers to make a suggestion.",
+              "(D) We hope the workshop is a success and wish you the very best."
+            ]
+          },
+          "answer": {
+            "text": "(B) The most popular requests will be considered for the workshops.",
+            "explanation": "Based on the previous sentence."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2655"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Citrusine: Total Flu for Night-time</strong></p> <p>Get ready for cold and flu season with Citrusine. Citrusine is a <b> (1) </b> _____ medicated night-time tea that can treat symptoms of the flu including fever, aches and pains, nasal congestion, cough, and sore throat. Wake up feeling <b> (2) </b> _____ and ready to conquer another day. Citrusine should not be taken if you&rsquo;re planning to operate machinery or drive a vehicle. Keep out of the reach of children <b> (3) </b> _____.</p> <p>Citrusine is the number-one-selling medication <b> (4) </b> _____ the flu and is guaranteed to provide results if taken as directed. Visit our website for more information. www.citrusine.com</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Citrusine is a <b> (1) </b> _____ medicated night-time tea that can treat symptoms of the flu including fever, aches and pains, nasal congestion, cough, and sore throat.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) easing",
+              "(B) stimulating",
+              "(C) soothing",
+              "(D) consoling"
+            ]
+          },
+          "answer": {
+            "text": "(C) soothing",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "Wake up feeling <b> (2) </b> _____  and ready to conquer another day.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) refreshing",
+              "(B) refreshed",
+              "(C) refreshes",
+              "(D) refresh"
+            ]
+          },
+          "answer": {
+            "text": "(B) refreshed",
+            "explanation": "feel + adjectives describing emotions and feelings."
+          }
+        },
+        {
+          "question": {
+            "text": "Keep out of the reach of children <b> (3) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "A. The medication may cause serious side effects if not taken properly.",
+              "B. Children should take Citrusine for Kids instead.",
+              "C. The packets look like candy and may pose problems.",
+              "D. And if symptoms persist for more than ten days, consult a physician."
+            ]
+          },
+          "answer": {
+            "text": "D. And if symptoms persist for more than ten days, consult a physician.",
+            "explanation": "C is incorrect because \"packets\" is not mentioned previously. B doesn't match the previous sentence \"Keep out of the reach of children\" and \"Citrusine for Kids\" is not mentioned. => D is the most appropriate answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Citrusine is the number-one-selling medication <b> (4) </b> _____ the flu and is guaranteed to provide results if taken as directed.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) for",
+              "(B) during",
+              "(C) with",
+              "(D) after"
+            ]
+          },
+          "answer": {
+            "text": "(A) for",
+            "explanation": "medication + for sth"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2658"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441a5eccc8cae769c265b"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 237",
+  "questions": [
+    {
+      "question": {
+        "text": "Very few people showed___for the conference.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)up",
+          "(B)to",
+          "(C)off",
+          "(D)down"
+        ]
+      },
+      "answer": {
+        "text": "(A)up",
+        "explanation": "(A) “Show up” means “appear”. Choices (B), (C), and (D) can all be used after show but have meanings that don’t fit the context."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2558"
+    },
+    {
+      "question": {
+        "text": "The___of this business is a result of a lot of hard work and some solid.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)success",
+          "(B)successful",
+          "(C)succeed",
+          "(D)successfully"
+        ]
+      },
+      "answer": {
+        "text": "(A)success",
+        "explanation": "(A) “Success” is a noun and acts as the subject of this sentence. Choice (B) is an adjective. Choice (C) is a verb. Choice (D) is an adverb."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c255b"
+    },
+    {
+      "question": {
+        "text": "The ship’s restaurant is located___thesun deck.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)on",
+          "(B)under",
+          "(C)in",
+          "(D)over"
+        ]
+      },
+      "answer": {
+        "text": "(A)on",
+        "explanation": "(A) “On” is used for building, floor, or ship deck locations. Choice (B) means “below”. Choice (C) means “inside”. Choice (D) means “above”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c255e"
+    },
+    {
+      "question": {
+        "text": "What ___ will the delay have on the contract?",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)effect",
+          "(B)effective",
+          "(C)effectively",
+          "(D)effectiveness"
+        ]
+      },
+      "answer": {
+        "text": "(A)effect",
+        "explanation": "(A) “Effect” is a logical noun. Choice (A) is an adjective. Choice (C) is an adverb. Choice (D) is a noun but doesn’t fit here."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2561"
+    },
+    {
+      "question": {
+        "text": "Mr. Dimitri has a ___ for the Palace Hotel.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)rumination",
+          "(B)reservation",
+          "(C)trepidation",
+          "(D)motivation"
+        ]
+      },
+      "answer": {
+        "text": "(B)reservation",
+        "explanation": "(B) “Reservation” is the only noun among the options that matches a hotel context. Choices (A), (C), and (D) do not fit the context of the sentence."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2564"
+    },
+    {
+      "question": {
+        "text": "Our latest advertising package includes videos ___ brochures.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)but",
+          "(B)or",
+          "(C)and",
+          "(D)either"
+        ]
+      },
+      "answer": {
+        "text": "(C)and",
+        "explanation": "(C) “And” joins equal terms. Choice (A) implies a contrast. Choice (B) implies a choice. Choice (D) is used with “or”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2567"
+    },
+    {
+      "question": {
+        "text": "The merger, ___ will be announced today, should be extremely profitable.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)when",
+          "(B)whose",
+          "(C)it",
+          "(D)which"
+        ]
+      },
+      "answer": {
+        "text": "(D)which",
+        "explanation": "(D) “Which” refers to “merger”. Choice (A) refers to time. Choice (B) is possessive. Choice (C) repeats the subject “merger”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c256a"
+    },
+    {
+      "question": {
+        "text": "The receptionist ___ a message if you do not answer your phone.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)takes",
+          "(B)took",
+          "(C)take",
+          "(D)taken"
+        ]
+      },
+      "answer": {
+        "text": "(A)takes",
+        "explanation": "(A) Habitual action is expressed by the present tense. Choice (B) is past tense. Choice (C) is the simple form of the verb. Choice (D) is the past participle."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c256d"
+    },
+    {
+      "question": {
+        "text": "The secretary ___ a letter when the computer crashed.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)composed",
+          "(B)is composing",
+          "(C)was composing",
+          "(D)composes"
+        ]
+      },
+      "answer": {
+        "text": "(C)was composing",
+        "explanation": "(C) Implies a past continuing action; use the past progressive. Choice (A) is the simple past and is not logical; she could not compose (type) if the computer crashed (became inoperative). Choice (B) is the present progressive. Choice (D) is present."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2570"
+    },
+    {
+      "question": {
+        "text": "Tomorrow we ___ the letter by overnight mail.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)will send",
+          "(B)sent",
+          "(C)had sent",
+          "(D)is sending"
+        ]
+      },
+      "answer": {
+        "text": "(A)will send",
+        "explanation": "(A) “Tomorrow” uses the future tense. Choice (B) is past tense. Choice (C) is past perfect. Choice (D) is the present progressive."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2573"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644197eccc8cae769c2576"
+}

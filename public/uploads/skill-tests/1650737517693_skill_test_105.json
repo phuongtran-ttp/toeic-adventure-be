@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 105",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_345.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_345.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0247"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Sorry that I couldn&rsquo;t go to lunch today with you, Beth. When I got to the office this morning, there was an e-mail from my supervisor about a special staff meeting at 11:30. WB: That&rsquo;s OK, Jack. <strong>Q1&nbsp;I just went and got a sandwich from the cafeteria and ate it in the park.</strong> So &hellip; what was the meeting about?<br /> M: Well, they <strong>Q2&nbsp;announced a contract</strong> with Yoon Corporation to develop a new software program. But, because of the deadline, we&rsquo;ll probably have to work a lot of overtime to finish up the work by January first.<br /> W: <strong>Q3&nbsp;You should be happy to get the contract.</strong> Lots of companies around here have had to lay off employees recently because they don&rsquo;t have enough work for them to do.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "How did Beth spend her lunch hour?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She had a meeting with a customer.",
+              "(B)She went shopping.",
+              "(C) She visited her friend at Yoon Corporation.",
+              "(D) She ate a sandwich in the park."
+            ]
+          },
+          "answer": {
+            "text": "(D) She ate a sandwich in the park.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the speakers mainly talking about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A new contract",
+              "(B)The cafeteria menu",
+              "(C)A story in the newspaper",
+              "(D)Technical training for staff"
+            ]
+          },
+          "answer": {
+            "text": "(A)A new contract",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How does Beth say Jack should feel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Worried",
+              "(B)Happy",
+              "(C)Excited",
+              "(D) Uncertain"
+            ]
+          },
+          "answer": {
+            "text": "(B)Happy",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c024b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_3310.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_3310.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c024f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: <strong>Q1&amp;2&nbsp;Could I get some information about the interest rates on student loans?</strong><br /> W: The rates depend on your income and the amount of the loan. This brochure explains how to fill out the application forms.<br /> M: I see. And if I send in my application today, how long will it take to be processed? I need to make sure I have money to pay for my classes next month.<br /> W: <strong>Q3&nbsp;It usually takes about four days.</strong> The business office can call you as soon as the loan has been approved.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A student",
+              "(B) A teacher",
+              "(C) A salesperson",
+              "(D) A bank cashier"
+            ]
+          },
+          "answer": {
+            "text": "(A) A student",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Borrowing money",
+              "(B) Buying a book",
+              "(C) Applying to the university",
+              "(D) Getting a new job"
+            ]
+          },
+          "answer": {
+            "text": "(A) Borrowing money",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When will the man probably be contacted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In two days",
+              "(B) In four days",
+              "(C) In one week",
+              "(D) In one month"
+            ]
+          },
+          "answer": {
+            "text": "(B) In four days",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0253"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_346.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_346.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0251"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Hello. Jeffrey Hines speaking.<br /> W: This is Martha Benjamin. I&rsquo;m calling to <strong>Q1&nbsp;let you know I&rsquo;ve put my research report in the interoffice mail. </strong>You should have it this afternoon. I hope you&rsquo;re still willing to review it for me.<br /> M: Of course. I&rsquo;ll be out of town on business for the next few days, but I&rsquo;ll take it with me. I also have your request for additional money to <strong>Q2&nbsp;continue your research.</strong><br /> W: Thanks very much. Don&rsquo;t worry about the typos - I&rsquo;ll be sending the report to an editor. But please make suggestions about the content. <strong>Q3&nbsp;It&rsquo;s only the first draft and I&rsquo;m going to make revisions.</strong> I&rsquo;m really looking forward to your feedback.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of Martha’s call to Jeffrey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To tell him she is going out of town",
+              "(B)To ask him to pay for some additional research",
+              "(C)To thank him for meeting with her",
+              "(D)To tell him she mailed a report to him"
+            ]
+          },
+          "answer": {
+            "text": "(D)To tell him she mailed a report to him",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What department does Martha most likely work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Library services",
+              "(B)Sales",
+              "(C)Research",
+              "(D)Communications"
+            ]
+          },
+          "answer": {
+            "text": "(C)Research",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Martha plan to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Make revisions to her report",
+              "(B) Send Jeffrey more money",
+              "(C)Take some time off work",
+              "(D)Give Jeffrey some advice"
+            ]
+          },
+          "answer": {
+            "text": "(A)Make revisions to her report",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0255"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "14495318.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/14495318.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0259"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: Excuse me, I&#39;ve been coming to this fitness center for a while now, but <strong>Q1&nbsp;I&#39;ll be transferring to my company&#39;s office in London for several months, so I&#39;m going to have to cancel my membership.</strong><br /> M-Au: Did you know <strong>Q2&nbsp;you can suspend your membership for up to six months?</strong> If you do that, you won&#39;t have to pay any new member activation fees when you return.<br /> W-Am: Oh, that&#39;s fabulous - I do like the exercise classes here, and I was planning to enroll again when I get back from London.<br /> M-Au: <strong>Q3&nbsp;All we&#39;ll need is a letter from your company stating how long you&#39;ll be away on assignment. </strong>We&#39;ll keep the letter in your file, and when you return, just call us to reactivate your account.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does the woman want to cancel her membership?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She will be away for an extended period.",
+              "(B) Membership fees are going to be raised.",
+              "(C) Her fitness instructor is leaving.",
+              "(D) Her company has changed its hours of operation."
+            ]
+          },
+          "answer": {
+            "text": "(A) She will be away for an extended period.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Joining a different fitness center",
+              "(B) Taking an evening class",
+              "(C) Speaking to a manager",
+              "(D) Suspending an account"
+            ]
+          },
+          "answer": {
+            "text": "(D) Suspending an account",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Turn in her membership card",
+              "(B) Fill out a customer satisfaction form",
+              "(C) Submit a document from her employer",
+              "(D) Make a payment in advance"
+            ]
+          },
+          "answer": {
+            "text": "(C) Submit a document from her employer",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c025d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_347.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_347.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c025b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W:&nbsp;Hello, are you Maurice Pochon? I&rsquo;m Marie Roland. Housekeeping sent me to help you set up the dining room. <strong>Q1&nbsp;This isn&rsquo;t my usual job at the hotel,</strong> so I&rsquo;m afraid you&rsquo;re going to have to show me what to do.<br /> M: Well, <strong>Q2&nbsp;first we need to clear the dirty dishes and linens from the tables.</strong> We just had 50or 60 people in here for breakfast. After we finish that, then we need to put the clean tablecloths on all of the tables. <strong>Q3&nbsp;Then I&rsquo;ll show you how to do the place settings.</strong><br /> W: OK, sounds simple enough. Why don&rsquo;t you just show me where to put the dirty dishes and tablecloths, and then we can get to work.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does Marie probably work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a hotel",
+              "(B) In a factory",
+              "(C) In a hospital",
+              "(D) In a dormitory"
+            ]
+          },
+          "answer": {
+            "text": "(A) In a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Maurice show Marie?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)How to use the dishwasher",
+              "(B)How to set the tables",
+              "(C)How to fold the clean clothes",
+              "(D)How to arrange the furniture"
+            ]
+          },
+          "answer": {
+            "text": "(B)How to set the tables",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will do first?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wash the dishes",
+              "(B) Serve breakfast",
+              "(C) Put tablecloths on the table",
+              "(D) Remove the dirty dishes"
+            ]
+          },
+          "answer": {
+            "text": "(D) Remove the dirty dishes",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c025f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "33949480.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/33949480.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0263"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Br: Hi, this is Margaret Morelli. I&#39;m scheduled to meet with Mr. Peterson at 8:30 this morning. <strong>Q1&nbsp;I was told a car would pick me up at my hotel and bring me to your office, but it&#39;s already 8:15 and no one has arrived.</strong><br /> M-Au: Hello, Ms. Morelli. We are expecting you this morning, but not until nine. I asked the car service to pick you up at 8:30.<br /> W-Br: Oh, <strong>Q2 I&nbsp;apologize. I must have read my schedule incorrectly.</strong><br /> M-Au: No problem and <strong>Q3 don&#39;t forget to bring some form of identification with a photo.</strong> The security desk at the front of the building will ask for it when you arrive.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask about a delivery",
+              "(B) To reschedule a meeting",
+              "(C) To inquire about transportation",
+              "(D) To request a hotel recommendation"
+            ]
+          },
+          "answer": {
+            "text": "(C) To inquire about transportation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman apologize?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She was late for a seminar.",
+              "(B) She misread a schedule.",
+              "(C) She went to the wrong location.",
+              "(D) She misplaced a file."
+            ]
+          },
+          "answer": {
+            "text": "(B) She misread a schedule.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man remind the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Bring some identification",
+              "(B) Park her car in front of the building",
+              "(C) Sign her name on a guest list",
+              "(D) Arrive a few minutes early"
+            ]
+          },
+          "answer": {
+            "text": "(A) Bring some identification",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0267"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_348.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_348.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0265"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: If it will help, we can reschedule tomorrow&rsquo;s staff meeting to two o&rsquo;clock &ndash; but we&rsquo;d have to meet in the small conference room.<br /> W: <strong>Q1&nbsp;I still won&rsquo;t be able to attend, so don&rsquo;t change your plans for me. I&rsquo;ll be at the board of trustees meeting all day,</strong> presenting our division report.<br /> M: If we postpone the staff meeting until next week, <strong>Q2&nbsp;would you be able to report on the board meeting?</strong> I&rsquo;m sure that would be interesting for the staff.<br /> W: Of course. I&rsquo;d be very happy to. <strong>Q3&nbsp;I&rsquo;ll try to prepare a summary by then.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman unable to attend the staff meeting tomorrow afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She will be meeting with the board of trustees.",
+              "(B)She will be at a conference center.",
+              "(C)She will be at a client meeting.",
+              "(D) She will be writing a report."
+            ]
+          },
+          "answer": {
+            "text": "(A)She will be meeting with the board of trustees.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Reschedule the staff meeting",
+              "(B)  Cancel the staff meeting",
+              "(C)Meet as originally planned with staff",
+              "(D)Find a larger room to meet in"
+            ]
+          },
+          "answer": {
+            "text": "(C)Meet as originally planned with staff",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman do at the next staff meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Talk about the meeting of the trustees",
+              "(B)Ask her colleagues to summarize the conference",
+              "(C)Introduce new staff",
+              "(D)Prepare the staff for a client visit"
+            ]
+          },
+          "answer": {
+            "text": "(A) Talk about the meeting of the trustees",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0269"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "46312162.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/46312162.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c026d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Cn: Lucy, <strong>Q1&nbsp;have you come up with any ideas for the print campaign for The Sawgrass Company&#39;s new line of spring clothing?</strong><br /> W-Br: Well, <strong>Q2&nbsp;from the samples the client sent us, I think what really stands out is the fabric. The material is so lightweight. Plus, it&#39;s washable and wrinkle-resistant.</strong><br /> M-Cn: Then why don&#39;t we market it as travel clothing? When we do the photoshoot we can really showcase how the fabric would make the clothing perfect to pack and wear on your next trip.<br /> W-Br: Good idea - we can come up with a travel-related scenario for each ad. <strong>Q3 I couldn&#39;t book the space for the photo session until the end of the month</strong>, so we still have time to figure out all the details.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Advertising executives",
+              "(B) Apparel salespeople",
+              "(C) Fashion designers",
+              "(D) Magazine editors"
+            ]
+          },
+          "answer": {
+            "text": "(A) Advertising executives",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What aspect of the clothing does the woman want to highlight?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The characteristics of the material",
+              "(B) The innovative designs",
+              "(C) The affordable prices",
+              "(D) The range of colors"
+            ]
+          },
+          "answer": {
+            "text": "(A) The characteristics of the material",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is scheduled for the end of the month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A fashion show",
+              "(B) A photo shoot",
+              "(C) A store opening",
+              "(D) A product launch"
+            ]
+          },
+          "answer": {
+            "text": "(B) A photo shoot",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0271"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_349.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_349.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c026f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Thanks for stopping by, Ms. DeVincenzi. <strong>Q1 Today I&rsquo;m going to give you the specifications for the project, as well as a contract. Q2 You&rsquo;ll receive a confidentiality agreement from our legal department in the mail.</strong> You should return both as soon as possible.<br /> W: <strong>Q1 When is the assignment due?</strong><br /> M: Initially, the schedule is rather tight; we&rsquo;d like the first part by the end of next month.<strong> Q3 The remainder can wait until the end of the year.</strong><br /> W: That should be just fine. I&rsquo;ll get started right away.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The woman’s assignment",
+              "(B)The man’s workload",
+              "(C)The man’s contract",
+              "(D)The woman’s salary"
+            ]
+          },
+          "answer": {
+            "text": "(A)The woman’s assignment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the legal department send?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A job description",
+              "(B)An agreement",
+              "(C)Some guidelines",
+              "(D)A schedule"
+            ]
+          },
+          "answer": {
+            "text": "(B)An agreement",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When should the project be completed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By the end of the day",
+              "(B)By the end of the week",
+              "(C)By the end of next month",
+              "(D)By the end of the year"
+            ]
+          },
+          "answer": {
+            "text": "(D)By the end of the year",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0273"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "10983138.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/10983138.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0277"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Br: Hi, Carl, I&#39;m Helen Klein, the laboratory supervisor. <strong>Q1&nbsp;I&#39;ll give you a brief tour of our research facilities</strong> and then we&#39;ll start your training.<br /> M-Au: It&#39;s nice to meet you, Helen.<strong> Q2&nbsp;Before I came over to the lab, I filled out some paperwork </strong>at human resources. They told me to give the documents to my supervisor.<br /> W-Br: Thanks, I&#39;ll take that paperwork.<strong>&nbsp;Q3 While we tour the lab, you&#39;ll have to wear a lab coat and some safety glasses. Let&#39;s get them from the supply closet now, and then we&#39;ll be on our way.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a doctor's office",
+              "(B) At a construction site",
+              "(C) In a clothing store",
+              "(D) In a laboratory"
+            ]
+          },
+          "answer": {
+            "text": "(D) In a laboratory",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he did before he arrived?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Toured a facility",
+              "(B) Filled out some documents",
+              "(C) Called human resources",
+              "(D) Reviewed a work schedule"
+            ]
+          },
+          "answer": {
+            "text": "(B) Filled out some documents",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speakers do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Get some protective gear",
+              "(B) Conduct an experiment",
+              "(C) Pack up some supplies",
+              "(D) Watch a training video"
+            ]
+          },
+          "answer": {
+            "text": "(A) Get some protective gear",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c027b"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264416deccc8cae769c0281"
+}

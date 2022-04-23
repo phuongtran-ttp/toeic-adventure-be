@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 264",
+  "questions": [
+    {
+      "question": {
+        "text": "<br>Dear Ms. Clark,<br>Thank you very much for your gift to The NewEd Foundation. As you requested, your ---1--- will support the education of children enrolled in public school systems in the local area.<br><br>At NewEd, we work to provide educational institutions with funding for after-school programs, materials, and training for instructors. We also strongly ---2--- salary increases for teachers and specialists employed at educational institutions.<br><br> ---3--- a way of thanking you for supporting our cause, The NewEd Foundation welcomes you to join our annual conference on science education. I have enclosed an invitation for you and a guest. ---4---. <br><br>Thank you again for your ongoing financial support of our organization.<br><br>Kindest regards,<br>Marianne Lexington<br>Program coordinator, The NewEd Foundation",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) expertise",
+              "(B) volunteering",
+              "(C) establishment",
+              "(D) contribution"
+            ]
+          },
+          "answer": {
+            "text": "(D) contribution",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) assess",
+              "(B) restore",
+              "(C) promote",
+              "(D) place"
+            ]
+          },
+          "answer": {
+            "text": "(C) promote",
+            "explanation": "Based on the meaning of words \"strongly promote for ...\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Due to",
+              "(B) As",
+              "(C) By",
+              "(D) Even if"
+            ]
+          },
+          "answer": {
+            "text": "(B) As",
+            "explanation": "As + noun phrase"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Simply present it at the entrance on",
+              "(B) We appreciate your offer to give a talk",
+              "(C) Those who attended agree that the event was a great success.",
+              "(D) Provide the volunteers with instructions when you arrive."
+            ]
+          },
+          "answer": {
+            "text": "(A) Simply present it at the entrance on",
+            "explanation": "Based on the previous \" I have enclosed an invitation for you and a guest.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29af"
+    },
+    {
+      "question": {
+        "text": "<br> To: Andrea Gershon (a.gershon@wwconsult.com) <br> From: Takeshi Miyagi (t.miyagi@wwconsult.com) <br> Date: Friday, October 10<br> Subject: Furniture delivery<br> <br> Hello Andrea, <br><br>I ordered a new chair and desk on October 5 to replace the ones I’ve been using since I started working for the company. A couple of days ago, I received an e-mail from the manufacturer stating that the items ---1---. It said that they had been shipped and delivery was expected within the week. <br><br> ---2---. I have yet to receive a call from the delivery person, I suppose I won’t get my furniture until next week. ---3---. When the delivery comes, could you please sign for me and then call Mike Harrison in the maintenance division? He’s responsible for putting furniture together and removing ---4--- items, so he will get everything set up in my workspace. <br><br>Thanks a lot, <br> <br> Takeshi",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) had arrived",
+              "(B) have arrived",
+              "(C) will be arriving",
+              "(D) arrived"
+            ]
+          },
+          "answer": {
+            "text": "(C) will be arriving",
+            "explanation": "Use future progressive"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Owing to",
+              "(B) As if",
+              "(C) Whereas",
+              "(D) Because"
+            ]
+          },
+          "answer": {
+            "text": "(D) Because",
+            "explanation": "Because + S + V + O => indicate the cause of an action or event"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I didn't expect project to be delayed by as much as one week.",
+              "(B) As soon as the items are ready, send them immediately.",
+              "(C) Unfortunately, I will be out of the office next week due to a conference.",
+              "(D) The new desk and chair are now in the storage room."
+            ]
+          },
+          "answer": {
+            "text": "(C) Unfortunately, I will be out of the office next week due to a conference.",
+            "explanation": "Based on the meaning of previous sentence \"I have yet to receive a call from the delivery person, I suppose I won’t get my furniture until next week.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) immeasurable",
+              "(B) nonessential",
+              "(C) imprecise",
+              "(D) impartial"
+            ]
+          },
+          "answer": {
+            "text": "(B) nonessential",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29b2"
+    },
+    {
+      "question": {
+        "text": "refer to the following article. <br> <br>  <h4 align=\"center\"> <b> Economics Department Newsletter </b> </h4> <br> <br> A new version of Professor Monique Harren's Economics Principles is set to be published in hardback this month. The original textbook is one of the most popular teaching materials for introductory economics classes. Professor Harren says she is excited for people to see the (1) edition. When asked - It will contain, she explained, \"It is similar to the first book in structure, but (2) the theories have been updated. I also tried to use real situations (3) imaginary ones to illustrate each point. (4). The book will be available at the university library and bookstore from August 1. ",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) digital",
+              "(B) revised",
+              "(C) older",
+              "(D) estimated"
+            ]
+          },
+          "answer": {
+            "text": "(B) revised",
+            "explanation": "Based on the meaning of words \" the revised edition\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) how",
+              "(B) what",
+              "(C) where",
+              "(D) there"
+            ]
+          },
+          "answer": {
+            "text": "(B) what",
+            "explanation": "\"what the theories have been updated\" is an object of \"It will contain\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) owing to",
+              "(B) rather",
+              "(C) provided that",
+              "(D) instead of"
+            ]
+          },
+          "answer": {
+            "text": "(D) instead of",
+            "explanation": "instead of + Noun "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) For example, the first chapter will be shortened.",
+              "(B) The department has promised to consider my proposal.",
+              "(C) I think instructors are going to find them very useful.",
+              "(D) I am proud of the work those students have done."
+            ]
+          },
+          "answer": {
+            "text": "(C) I think instructors are going to find them very useful.",
+            "explanation": "Based on the previous sentence."
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29b5"
+    },
+    {
+      "question": {
+        "text": "<br> MEMO<br> <br> DATE: March 31<br> TO: All operations employees<br> FROM: Robin Evans, Chief of operations SUBJECT: Reports review<br><br>  Last week, I distributed a report detailing the department’s performance in the first quarter. There are some items in the report that I think should be addressed.<br> <br> First of all, it seems that costs in the maintenance department have ---1--- since last quarter. I have asked Terrence Howard’s team to provide some details related to specific increases in maintenance expenses. Also, I am quite surprised that certain project ---2--- have not been met. ---3---. Lastly, inventory levels are currently lower than projected. I would like to set up a meeting with Carmine Gosford’s group to discuss our ---4--- for managing inventory going forward.<br> <br> We will be doing other performance reviews throughout the year, and I hope that this will help us become a more efficient and productive department.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) stayed over",
+              "(B) gone up",
+              "(C) dropped down",
+              "(D) evened out"
+            ]
+          },
+          "answer": {
+            "text": "(B) gone up",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) objected",
+              "(B) objectively",
+              "(C) object",
+              "(D) objectives"
+            ]
+          },
+          "answer": {
+            "text": "(D) objectives",
+            "explanation": "Use simple present tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I understood the feedback and will implement your suggestions in the w future.",
+              "(B) The only thing left to do is evaluate these concluded sessions.",
+              "(C) Project managers should act on them as soon as possible.",
+              "(D) Fortunately, everyone on the team was able to meet the revised deadline on short notice."
+            ]
+          },
+          "answer": {
+            "text": "(C) Project managers should act on them as soon as possible.",
+            "explanation": "Based on the previous sentence "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) confirmation",
+              "(B) attention",
+              "(C) procedure",
+              "(D) registration"
+            ]
+          },
+          "answer": {
+            "text": "(C) procedure",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29b7"
+    },
+    {
+      "question": {
+        "text": "refer to the following e-mail. <br> <br><b> From:</b> Blake Wolney<br><b> To: </b> All staff<br><b> Subject: </b> Food drive <br> <b> Date:</b>  April 22<br> <br>I would like to announce that our company is partnering with Eiden Food Bank to hold a food donation drive in the first week of May. If you choose (1) with the drive, you will receive a durable nylon bag to take home and pack with food items. Once the bag has been (2) it should be brought to my office. Please note that donations will be kept unrefrigerated in our storage room until the end of the week. (3), bags should only include canned or dry foods. To sign up, please call me at extension 32. (4). <br><br>Sincerely, <br><br>Blake Wolney<br> Human Resources",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) being helped",
+              "(B) having helped",
+              "(C) to help",
+              "(D) helps"
+            ]
+          },
+          "answer": {
+            "text": "(C) to help",
+            "explanation": "By structure \"choose + to-verb\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) sewn",
+              "(B) dried",
+              "(C) filled",
+              "(D) opened"
+            ]
+          },
+          "answer": {
+            "text": "(C) filled",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In response",
+              "(B) Namely",
+              "(C) Despite that",
+              "(D) Therefore"
+            ]
+          },
+          "answer": {
+            "text": "(D) Therefore",
+            "explanation": "The blank need to fill a conjunction to show cause-and-effect relationship. => Choose \"Therefore\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Try asking friends and family members for donations.",
+              "(B) We thank volunteers in advance for their participation.",
+              "(C) Bags have now been made in several more colors.",
+              "(D) Eiden Food Bank is located at 905 Pecos Street."
+            ]
+          },
+          "answer": {
+            "text": "(B) We thank volunteers in advance for their participation.",
+            "explanation": "Baased on the previous sentence \"To sign up, please call me at extension 32.\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29bb"
+    },
+    {
+      "question": {
+        "text": "<br> To: Marilyn Farris (marilyn_farris@madmail.net)<br> From: Lara Smith (lara.smith@lpranalytics.com)<br> Date: September 22<br> Subject: Job application<br> <br> Dear Ms. Farris,<br> <br> Thank you for your interest in the position of technology adviser. We would like to schedule an ---1--- between 3 P.M. and 4 P.M. next Thursday. We hope to find out more about your qualifications and experience in relation to the role you have applied for.<br> <br> In addition to photocopies of ---2--- certificates, we ask that you arrange for three references to be sent to us in sealed envelopes. ---3---. We want to hear about past experiences which are relevant to the position. ---4---,  we will talk about what your responsibilities will be should you get the job.<br> <br> Please respond to this e-mail to confirm your availability. We look forward to meeting with you soon.<br> <br> Sincerest regards,<br> <br> Lara Smith<br> Hiring manager, LPR Analytics",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) examination",
+              "(B) interview",
+              "(C) assignment",
+              "(D) investigation"
+            ]
+          },
+          "answer": {
+            "text": "(B) interview",
+            "explanation": "Based on the meaning of words. \" to schedule an interview\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) valid",
+              "(B) inaccurate",
+              "(C) optimistic",
+              "(D) secretive"
+            ]
+          },
+          "answer": {
+            "text": "(A) valid",
+            "explanation": "By phrase \"valid certificates\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We were unable to contact one of your |||| listed references.",
+              "(B) Please also be prepared to give a short presentation about your career.",
+              "(C) I will send them to you using the address you provided.",
+              "(D) The information provided a lot of useful material for our discussion."
+            ]
+          },
+          "answer": {
+            "text": "(B) Please also be prepared to give a short presentation about your career.",
+            "explanation": "Based on the previous sentence \" We want to hear about past experiences which are relevant to the position.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Afterwards",
+              "(B) Nevertheless",
+              "(C Therefore",
+              "(D) Conversely"
+            ]
+          },
+          "answer": {
+            "text": "(A) Afterwards",
+            "explanation": "Use an adverb describing something after time => Choose \"Afterwards\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29bd"
+    },
+    {
+      "question": {
+        "text": "refer to the following letter. <br><br>October 2<br><br>Vincent Hubbard<br>406 Paige Drive <br> Rulston, FL 32029<br><br>Dear Mr. Hubbard, <br><br>Last Thursday evening, two Water Department employees dismantled part of the sidewalk in your neighborhood, near the intersection of Jerden Road and Paige Drive. (1). Unfortunately, the time and way in which the work was performed alarmed area residents, who believed that the technicians were (2) an illegal act.<br>This incident reflects a (3) oversight on our part, and we are taking steps to prevent its recurrence. Specifically, we have instituted new regulations that call for work crews to wear high-visibility uniforms at all times. Again, we are sorry for the (4). <br><br>Thank you for your understanding in this matter.<br><br>Sincerely, <br><br>Aimee Ross <br> Director, Rulston Water Department",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Residents may be asked to move vehicles away from the curb.",
+              "(B) A new treatment plant was expected to improve the situation.",
+              "(C) They were attempting to find the source of a nearby leak.",
+              "(D) Restructuring efforts are leading to larger work crew sizes."
+            ]
+          },
+          "answer": {
+            "text": "(C) They were attempting to find the source of a nearby leak.",
+            "explanation": "Based on the previous sentence \" Last Thursday evening, two Water Department employees dismantled part of the sidewalk in your neighborhood, near the intersection of Jerden Road and Paige Drive.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) exceeding",
+              "(B) committing",
+              "(C) violating",
+              "(D) merging"
+            ]
+          },
+          "answer": {
+            "text": "(B) committing",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) majorly",
+              "(B) majored",
+              "(C) majors",
+              "(D) major"
+            ]
+          },
+          "answer": {
+            "text": "(D) major",
+            "explanation": "Based on structure \" a/ an + adj + noun (oversight)\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) confusion",
+              "(B) shortage",
+              "(C) postponement",
+              "(D) corruption"
+            ]
+          },
+          "answer": {
+            "text": "(A) confusion",
+            "explanation": "Based on the meaning of words. "
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29c1"
+    },
+    {
+      "question": {
+        "text": "refer to the following customer review. <br> <br> I was shocked to find that several of the boxes I received from Carlisle Meal Boxes contained old, spoiled ingredients. This made it clear that the company wasn’t concerned enough about the (1) of their food. (2). Carlisle refunded the cost of those boxes, but the problem kept occurring. I think shipping ingredients to customers so we can make meals at home is a fantastic idea, and I liked all of Carlile’s recipes. Still, I’ll (3) my own food from now on. I cannot recommend (4) their service.<br>Thomas Wilkinson",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) freshness",
+              "(B) portions",
+              "(C) names",
+              "(D) diversity"
+            ]
+          },
+          "answer": {
+            "text": "(A) freshness",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A lot of the dishes were too spicy for me.",
+              "(B) They had to mail me another copy of the form.",
+              "(C) The sign-up promotion was not offered in my city.",
+              "(D) Luckily, I had other meal options on those days."
+            ]
+          },
+          "answer": {
+            "text": "(D) Luckily, I had other meal options on those days.",
+            "explanation": "Based on the previous sentence \"This made it clear that the company wasn’t concerned enough about the freshness of their food.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) manufacture",
+              "(B) deliver",
+              "(C) buy",
+              "(D) discard"
+            ]
+          },
+          "answer": {
+            "text": "(C) buy",
+            "explanation": "Based on the meaning of words \" buy my own food\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) user",
+              "(B) usage",
+              "(C) using",
+              "(D) use"
+            ]
+          },
+          "answer": {
+            "text": "(C) using",
+            "explanation": "Based on structure \" recommend + Ving\""
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29c4"
+    },
+    {
+      "question": {
+        "text": "refer to the following e-mail.<br> <b>To:</b> Mimi O'Hare (mohare_1 @.mymail.ca)<br><b>From:</b> Super Wash Center (customersupport@superwashcenter.ca)<br><b>Subject:</b> Your inquiry<br><b>Date:</b> June 2<br><br>Dear Ms. O’Hare, <br>We received the message stating that you (1) ------ your pre-paid rechargeable card. You mentioned that the missing card had a $50 balance and that you hoped to get it back. <br>Unfortunately, we cannot fulfill this request because our records show that you failed (2)----- for balance protection, which allows us to track card balances. <br>(3) ___It is a service we offer to recover (4) ------ money left on your card in the event that it is misplaced or stolen. If you get it, we’ll be able to secure your balance in the future and send you a replacement card immediately. <br><br>We are sorry that we cannot be of more help. <br>Mac Benson, Super Wash Center<br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) damaged",
+              "(B)returned",
+              "(C)lost",
+              "(D)sold"
+            ]
+          },
+          "answer": {
+            "text": "(C)lost",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) registers",
+              "(B)to register",
+              "(C)registered",
+              "(D)be registering"
+            ]
+          },
+          "answer": {
+            "text": "(B)to register",
+            "explanation": "Based on structure \"fail to verb\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(B)We will begin distributing it in the coming weeks.",
+              "(C)We recommend signing up for it next time to prevent this problem.",
+              "(D)You did not have enough money on your card to cover the cost.",
+              "A) You can also collect and spend points with the card."
+            ]
+          },
+          "answer": {
+            "text": "(C)We recommend signing up for it next time to prevent this problem.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) what",
+              "(B)every",
+              "(C)some of",
+              "(D)any"
+            ]
+          },
+          "answer": {
+            "text": "(D)any",
+            "explanation": "any + uncountable noun (money)"
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29c7"
+    },
+    {
+      "question": {
+        "text": "refer to the following article. <br><br><b> KYR Commonwealth Trust Application Period to Open August 1 </b><br><br>Organizations (1)------- funding may be in luck. The KYR Commonwealth Trust has announced that grant applications for local businesses will soon be available. According to spokesperson Meryl Pond, proposals will be accepted from August 1 to September 30. (2)-------. Applicants should note that one aspect of the initiative has changed. Businesses have traditionally used the funding to supplement their existing programs. (3)------, they will now be expected to use luff  the money to develop new services for the community. <br>“We’re willing to give grant recipients more (4) ------ than before. But we expect more in returnfor this additional money. We want to inspire the design of better, more productive programsthat can make a bigger difference for more people,” she said.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) in charge of",
+              "(B)in opposition to",
+              "(C)in search of",
+              "(D)in lieu of"
+            ]
+          },
+          "answer": {
+            "text": "(C)in search of",
+            "explanation": "Based on the meaning of words. ( in search of = find)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They have already begun fundraising for the event.",
+              "(B)They can be submitted through the foundation's Web site.",
+              "(C)The application process was revised after this point.",
+              "(D)The funding organization is in need of capital itself."
+            ]
+          },
+          "answer": {
+            "text": "(B)They can be submitted through the foundation's Web site.",
+            "explanation": "Based on the meaning of previous sentence \"According to spokesperson Meryl Pond, proposals will be accepted from August 1 to September 30.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Consequently",
+              "(B)Otherwise",
+              "(C)However",
+              "(D)Therefore"
+            ]
+          },
+          "answer": {
+            "text": "(C)However",
+            "explanation": "The blank need to fill a conjunction to indicate the opposition between two clauses."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) support",
+              "(B)training",
+              "(C)information",
+              "(D)concern"
+            ]
+          },
+          "answer": {
+            "text": "(A) support",
+            "explanation": "Based on the meaning of words. "
+          }
+        }
+      ],
+      "id": "626441b4eccc8cae769c29ca"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441b4eccc8cae769c29cd"
+}

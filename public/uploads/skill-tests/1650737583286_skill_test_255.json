@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 255",
+  "questions": [
+    {
+      "question": {
+        "text": "<i>refer to the following flyer. </i><br><br>This yeai marks the twentieth anniversary of Hispanic Heritage Month. ---1--, the food court at the Swift Business Complex will feature cuisines from Hispanic and Latin American countries. Visit the food court today to kick off the ---2---. Free tapas (small bites) and drinks will be available for tasting. <br><br>---3--- ,the Swift Business Complex will be hosting a Hispanic Heritage Expo the week of October 10 in the center of the main atrium. International businesses as well as local vendors will be participating in this one-of-a-kind event. Each afternoon at 3 p.m., two lucky shoppers will win leather handbags from Cuero Suave, a Colombia-based trading company located on the fourth floor. ---4---.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "---1--, the food court at the Swift Business Complex will feature cuisines from Hispanic and Latin American countries. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To celebrate",
+              "(B) It celebrated",
+              "(C) By celebrating",
+              "(D) The celebration"
+            ]
+          },
+          "answer": {
+            "text": "(A) To celebrate",
+            "explanation": "to infinitive indicates purposes"
+          }
+        },
+        {
+          "question": {
+            "text": "Visit the food court today to kick off the ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) festive",
+              "(B) festivities",
+              "(C) festively",
+              "(D) more festive"
+            ]
+          },
+          "answer": {
+            "text": "(B) festivities",
+            "explanation": "The blank comes after \"the\" => need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "---3--- ,the Swift Business Complex will be hosting a Hispanic Heritage Expo the week of October 10 in the center of the main atrium.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Rather",
+              "(B) However",
+              "(C) In addition",
+              "(D) On the contrary"
+            ]
+          },
+          "answer": {
+            "text": "(C) In addition",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "Each afternoon at 3 p.m., two lucky shoppers will win leather handbags from Cuero Suave, a Colombia-based trading company located on the fourth floor. ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The main atrium was completely renovated last spring.",
+              "(B) Visit the service desk to get your free ticket for the drawing.",
+              "(C) Try the chicken tacos for a tasty treat.",
+              "(D) The food court will be open for breakfast all week."
+            ]
+          },
+          "answer": {
+            "text": "(B) Visit the service desk to get your free ticket for the drawing.",
+            "explanation": "Based on the meaning of sentence => B is the most suitable answer. "
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c285f"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following e-mail. </i><br><br>To: Hye-Jin Lee <br>From: Globiance Technologies <br>Subject: Information <br>Date: 5 June<br><br>Dear Ms. Lee, <br>Thank you for ---1---. the Sciorama X200 social science database. Your selection is a preferred one among many researchers. We would like to learn about your ---2--- with this database through a five-minute survey. As a token of ---3--- appreciation, you will be automatically entered into a drawing to win a $100 gift card from Globiance Technologies. All of your responses will be kept confidential. ---4---.<br><br>The questionnaire is available at www.gt.org/scioramasurvey. Thanks in advance for your feedback. <br><br>Sincerely, <br>The Survey Team at Globiance Technologies",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Thank you for ---1--- the Sciorama X200 social science database.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) giving",
+              "(B) performing",
+              "(C) writing",
+              "(D) choosing"
+            ]
+          },
+          "answer": {
+            "text": "(D) choosing",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We would like to learn about your ---2--- with this database through a five-minute survey.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) experience",
+              "(B) experiencing",
+              "(C) experienced",
+              "(D) are experienced"
+            ]
+          },
+          "answer": {
+            "text": "(A) experience",
+            "explanation": "The blank comes after \"your\" => need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "As a token of ---3--- appreciation, you will be automatically entered into a drawing to win a $100 gift card from Globiance Technologies.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) her",
+              "(B) your",
+              "(C) our",
+              "(D) their"
+            ]
+          },
+          "answer": {
+            "text": "(C) our",
+            "explanation": "\"our\" refers to Globiance Technologies's staff members"
+          }
+        },
+        {
+          "question": {
+            "text": "All of your responses will be kept confidential. ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be used for statistical purposes only.",
+              "(B) They will determine which solution will be adopted.",
+              "(C) They will reveal what difficulties new hires have reported.",
+              "(D) They will be thoroughly reviewed for errors."
+            ]
+          },
+          "answer": {
+            "text": "(A) They will be used for statistical purposes only.",
+            "explanation": "The previous sentence mentions \"responses\""
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2862"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following instructions. </i><br><br><i>Armanfax Logistics</i><br><br><b>Vehicle Inspection Policy</b><br><br> This section deals with completing your ---1---vehicle inspection reports. The purpose of these reports is to ensure proper vehicle maintenance and operation safety. <br><br> As an Armanfax Logistics delivery driver, you must complete posttrip checks on your vehicle and list any defects on special report forms. ---2---to report a problem may result in a breakdown of the vehicle. Note that reports must be completed at the end of each day. ---3---.<br><br> Pretrip checks are completed by reviewing the previous driver's inspection report. If it notes any ---4--- you must acknowledge that necessary repairs have been performed.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This section deals with completing your ---1--- vehicle inspection reports.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) regular",
+              "(B) regulars",
+              "(C) regularly",
+              "(D) regulate"
+            ]
+          },
+          "answer": {
+            "text": "(A) regular",
+            "explanation": "We need an adjective to modify the noun \"vehicle inspection reports\""
+          }
+        },
+        {
+          "question": {
+            "text": "---2---to report a problem may result in a breakdown of the vehicle.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Continuing",
+              "(B) Deciding",
+              "(C) Failing",
+              "(D) Paying"
+            ]
+          },
+          "answer": {
+            "text": "(C) Failing",
+            "explanation": "\"result in a breakdown\" => fail to V makes the most sense"
+          }
+        },
+        {
+          "question": {
+            "text": "Note that reports must be completed at the end of each day. ---3---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Within the next few days, notifications will be sent out.",
+              "(B) They are required even if no defect is discovered.",
+              "(C) It has been found on a number of occasions.",
+              "(D) Time off may be requested a week in advance."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are required even if no defect is discovered.",
+            "explanation": "The previous sentence mentions \"reports\""
+          }
+        },
+        {
+          "question": {
+            "text": "If it notes any ---4--- you must acknowledge that necessary repairs have been performed.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) problems",
+              "(B) arguments",
+              "(C) increases",
+              "(D) delays"
+            ]
+          },
+          "answer": {
+            "text": "(A) problems",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2865"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following job advertisement.</i> <br><br>Berestoff Ltd. ---1---a professional procurement officer to oversee bidding and procurement processes in all company departments. This employee will draft advertisements, prepare contract documents, process bids, ---2---provide training on policy and procedures to company personnel. <br><br>The position requires a two-year degree in business administration or a related field. The ---3---must have a minimum of three years experience as an office manager in a corporate environment, including recent experience in procurement. ---4---.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Berestoff Ltd. ---1---a professional procurement officer to oversee bidding and procurement processes in all company departments.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) seeks",
+              "(B) hires",
+              "(C) offers",
+              "(D) trains"
+            ]
+          },
+          "answer": {
+            "text": "(A) seeks",
+            "explanation": "This is a job advertisement => they are seeking applicants"
+          }
+        },
+        {
+          "question": {
+            "text": "This employee will draft advertisements, prepare contract documents, process bids, ---2---provide training on policy and procedures to company personnel.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) So",
+              "(B) while",
+              "(C) nor",
+              "(D) and"
+            ]
+          },
+          "answer": {
+            "text": "(D) and",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "The ---3---must have a minimum of three years experience as an office manager in a corporate environment, including recent experience in procurement",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) application",
+              "(B) applicant",
+              "(C) applying",
+              "(D) apply"
+            ]
+          },
+          "answer": {
+            "text": "(B) applicant",
+            "explanation": "Sign \"must have a minimum of three years experience\" => imply people => choose \"applicant\""
+          }
+        },
+        {
+          "question": {
+            "text": "The ---3---must have a minimum of three years experience as an office manager in a corporate environment, including recent experience in procurement. ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Likewise, company-owned cars are a major expense for firms such as ours.",
+              "(B) Moreover, excellent organizational skills are essential.",
+              "(C) The top candidate for the position has been offered a one-year contract.",
+              "(D) All employees have been notified of the policy change."
+            ]
+          },
+          "answer": {
+            "text": "(B) Moreover, excellent organizational skills are essential.",
+            "explanation": "The previous sentence is about \"three years experience\" => one of the requirements for applicants"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2868"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following e-mail.</i> <br><br>To: Hong Kong Office Staff <br>From: Wai-Lun Yeung <br>Date: Monday, 4 January <br>Subject: Interns<br><br>Dear Colleagues, <br>I am writing ---1---. you that two university students will be arriving next week and beginning their six-week internships in the Hong Kong office. Their duties will ---2---. consist of helping the Corporate Social Responsibility team organise their plans for the coming year. Both interns have strong backgrounds in responsible business practices. As such, they will be well suited to their ---3---<br>The interns will be using the vacant office in the east wing. ---4---.<br>Please let me know if you have any questions or concerns. <br>All best, <br><br>Wai-Lun Yeung",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I am writing ---1---. you that two university students will be arriving next week and beginning their six-week internships in the Hong Kong office.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) information",
+              "(B) informed",
+              "(C) informs",
+              "(D) to inform"
+            ]
+          },
+          "answer": {
+            "text": "(D) to inform",
+            "explanation": "I'm writing to ..... => choose D"
+          }
+        },
+        {
+          "question": {
+            "text": "Their duties will ---2---. consist of helping the Corporate Social Responsibility team organise their plans for the coming year. Both interns have strong backgrounds in responsible business practices.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) cautiously",
+              "(B) patiently",
+              "(C) largely",
+              "(D) quietly"
+            ]
+          },
+          "answer": {
+            "text": "(C) largely",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "As such, they will be well suited to their ---3---",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) roles",
+              "(B) donations",
+              "(C) articles",
+              "(D) locations"
+            ]
+          },
+          "answer": {
+            "text": "(A) roles",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "The interns will be using the vacant office in the east wing. ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They were far away from our office.",
+              "(B) That time is usually critical to our work.",
+              "(C) The room will be theirs for six weeks.",
+              "(D) It will be for sale in the new cafeteria."
+            ]
+          },
+          "answer": {
+            "text": "(C) The room will be theirs for six weeks.",
+            "explanation": "Sign in the previous sentence \"The interns will be using the vacant office\""
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c286b"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following memo. </i><br><br>To: All staff<br>From: Management <br>Date: October 10<br>Re: Move to new office<br>Preparations for the move to our new office are scheduled to take place on Thursday and Friday of next week. ---1---for this are going to be distributed to each employee's cubicle in advance. <br><br> Boxes, tape, and markers ---2--- . on Wednesday afternoon. As you pack your belongings, please write your name and employee number on the top and sides of each box. ---3---. human resources employee will come around and record this number to ensure that all of your boxes are returned to you. <br><br>Please take any valuables home with you by Wednesday. The company will not be responsible for the loss of any items during the move. No open food items may be packed. ---4--- ,unopened packaged food, such as candy and crackers, may be boxed. <br><br>Thank you for your cooperation.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "---1---for this are going to be distributed to each employee's cubicle in advance.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Itineraries",
+              "(B) Proposals",
+              "(C) Materials",
+              "(D) Licenses"
+            ]
+          },
+          "answer": {
+            "text": "(C) Materials",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Boxes, tape, and markers ---2--- . on Wednesday afternoon.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) were providing",
+              "(B) will be provided",
+              "(C) will provide",
+              "(D) are providing"
+            ]
+          },
+          "answer": {
+            "text": "(B) will be provided",
+            "explanation": "The subject is \"Boxes, tape, and markers\" => use passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "---3---. Human resources employee will come around and record this number to ensure that all of your boxes are returned to you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make a note of your total count.",
+              "(B) He will want to know how many of each you have.",
+              "(C) Boxes will be shipped at the company's expense.",
+              "(D) Extra boxes and tape can be found in the front lobby."
+            ]
+          },
+          "answer": {
+            "text": "(A) Make a note of your total count.",
+            "explanation": "The following sentence mentions that human resources employee will come around and record this number => this sentence is about number"
+          }
+        },
+        {
+          "question": {
+            "text": "No open food items may be packed. ---4--- , unopened packaged food, such as candy and crackers, may be boxed. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Moreover",
+              "(B) However",
+              "(C) Similarly",
+              "(D) Previously"
+            ]
+          },
+          "answer": {
+            "text": "(B) However",
+            "explanation": "The previous sentence mentions \"No open food items may be packed\" but this sentence says \"packaged food, such as candy and crackers, may be boxed\" => choose However to describe contrast"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c286e"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following e-mail.</i> <br><br>To: Rudolf Crowley <rcrowley@crowley.com.au> <br>From: Dafina Ndashe <dndashe@millview-australia.com.au> <br>Subject: Decision on proposal Date: 12 August<br><br>Dear Mr. Crowley: <br>I am pleased to inform you that at the Tuesday night meeting the city council approved your proposal to build an inn at 17 Dickinson Street. You ---1--- a formal letter of approval this week. ---2---. Specifically, they were concerned about noise and on-street parking. However, your ---3---that the inn would only serve breakfast to guests and would not have a restaurant open to the general public helped to persuade them. ---4--- , they were pleased that the small parking area is tucked into the back of the property, so curbside parking along the street should not be affected. <br><br>Please let me know if you have any questions. <br><br>Sincerely, <br>Dafina Ndashe Clerk, Millview City Council",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "You ---1--- a formal letter of approval this week",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) receiver",
+              "(B) receiving",
+              "(C) had received",
+              "(D) should receive"
+            ]
+          },
+          "answer": {
+            "text": "(D) should receive",
+            "explanation": "Use \"should\" to express something that is probable. Sign \"this week\""
+          }
+        },
+        {
+          "question": {
+            "text": "---2---. Specifically, they were concerned about noise and on-street parking.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The city council elections are quickly approaching.",
+              "(B) Indisputably, Dickinson Street is one of the loveliest streets in the city.",
+              "(C) As you know, there were some objections from the people in the neighborhood.",
+              "(D) Many small hotels offer complimentary breakfasts to their guests."
+            ]
+          },
+          "answer": {
+            "text": "(C) As you know, there were some objections from the people in the neighborhood.",
+            "explanation": "The following sentence says that \"they were concerned about noise and on-street parking\" => the cause of \"objections\""
+          }
+        },
+        {
+          "question": {
+            "text": "However, your ---3---that the inn would only serve breakfast to guests and would not have a restaurant open to the general public helped to persuade them.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) assure",
+              "(B) assures",
+              "(C) assured",
+              "(D) assurance"
+            ]
+          },
+          "answer": {
+            "text": "(D) assurance",
+            "explanation": "The blank comes after \"your\" => need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "---4--- , they were pleased that the small parking area is tucked into the back of the property, so curbside parking along the street should not be affected. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In addition",
+              "(B) In contrast",
+              "(C) Unfortunately",
+              "(D) Normally"
+            ]
+          },
+          "answer": {
+            "text": "(A) In addition",
+            "explanation": "Based on the meaning of conjucntions"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2871"
+    },
+    {
+      "question": {
+        "text": "<br> ---1---. We will be adjusting the frequency that point accumulation statements are sent to our members. From January 1, statements will be mailed every six months instead of quarterly. ---2--- this change, members may continue to log in at www.eddingtons.com/members to find current details. You can ---3--- your accumulated points and see what rewards are available in exchange for them through your online account. Or you can call us during business hours at 555-4955, and we will give you a total. ---4---, you can drop by a service counter at any Eddington's Department Store, and one of our staff will inform you of your current total.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We no longer accept membership applications.",
+              "(B) Eddington's is set to introduce a change to its membership program.",
+              "(C) We apologize for the recent difficulties with our card payment system.",
+              "(D) Eddington's Department Store has a special promotion for point cards."
+            ]
+          },
+          "answer": {
+            "text": "(B) Eddington's is set to introduce a change to its membership program.",
+            "explanation": "Based on the previous sentence \" From January 1, statements will be mailed every six months instead of quarterly..\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Apart from",
+              "(B) In case of",
+              "(C) Regardless of",
+              "(D) On behalf of"
+            ]
+          },
+          "answer": {
+            "text": "(C) Regardless of",
+            "explanation": "Regardless of + Noun"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) submit",
+              "(B) monitor",
+              "(C) mediate",
+              "(D) convey"
+            ]
+          },
+          "answer": {
+            "text": "(B) monitor",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Consequently",
+              "(B) Nevertheless",
+              "(C) Moreover",
+              "(D) Occasionally"
+            ]
+          },
+          "answer": {
+            "text": "(C) Moreover",
+            "explanation": "\"Moreover\" used to add ideas to the previous sentence"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2874"
+    },
+    {
+      "question": {
+        "text": "<br>Claire Staley<br>874 Country Lane<br>Stillwater, OK 74074<br>Dear Ms. Staley,<br>Best Link Telecom recently upgraded its network and is offering high-speed Internet in your area. We began delivering service ---1--- July 17.<br>Best Link ---2--- fast and reliable service for the lowest cost. We promise to match the price of any competitor charging less than us.<br>As our customer, you may use our online storage services for free. Whether you're downloading videos and photos or sharing your work, you'll be able to get it done in less time than ever ---3---.<br>And those already using our telephone service can get a discount of 20 percent by upgrading to a high-speed Internet package. The reduced rates will be reflected in your ---4--- for the following month.<br>Please call 555-1573 during regular business hours to arrange an installation appointment.<br>Yours truly,<br>George Hyde<br>Best Link Telecom Sales",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to",
+              "(B) within",
+              "(C) on",
+              "(D) off"
+            ]
+          },
+          "answer": {
+            "text": "(C) on",
+            "explanation": "Day and month are often used with the preposition \"on\"."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) improves",
+              "(B) guarantees",
+              "(C) demands",
+              "(D) receives"
+            ]
+          },
+          "answer": {
+            "text": "(B) guarantees",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This service is no longer available in your area.",
+              "(B) Your bill will vary based on how many files you store.",
+              "(C) This will cause the cost of computers to be cut.",
+              "(D) Our high-speed Internet service can handle it all."
+            ]
+          },
+          "answer": {
+            "text": "(D) Our high-speed Internet service can handle it all.",
+            "explanation": "Based on the previous sentence \"Whether you're downloading videos and photos or sharing your work, you'll be able to get it done in less time than ever\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) password",
+              "(B) statement",
+              "(C) demonstration",
+              "(D) repair"
+            ]
+          },
+          "answer": {
+            "text": "(B) statement",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c2877"
+    },
+    {
+      "question": {
+        "text": "<br />\n<strong>City Officials Close to Selecting Developers for Downtown Building</strong><br />\nMarinville officials have shortlisted developers they are considering to redo the Halpern building. There are now only three ---1--- remaining from an initial 25.<br />\nAs stipulated when the project first started, the firms left in the running must now add more detail to the plans they submitted at the beginning of the year. In their ---2--- presentations, they should demonstrate that they can meet all of the board&#39;s remodeling requirements. ---3---. &quot;If all goes well,&quot; says Brian Schmidt, director of the Marinville Downtown Authority, &quot;We&#39;ll select the most ---4--- candidate, draw up an agreement, and get started before the year is out.&quot;",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) obstacles",
+              "(B) agencies",
+              "(C) locations",
+              "(D) questionnaires"
+            ]
+          },
+          "answer": {
+            "text": "(B) agencies",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) preceding",
+              "(B) general",
+              "(C) forthcoming",
+              "(D) incomplete"
+            ]
+          },
+          "answer": {
+            "text": "(C) forthcoming",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The candidates all came up with compelling final proposals.",
+              "(B) They hoped to develop a construction plan at that time.",
+              "(C) The deadline was extended to allow for additional projects.",
+              "(D) A complete budget and detailed blueprints must also be included in the proposal."
+            ]
+          },
+          "answer": {
+            "text": "(D) A complete budget and detailed blueprints must also be included in the proposal.",
+            "explanation": "Based on the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) impression",
+              "(B) impressionable",
+              "(C) impressed",
+              "(D) impressive"
+            ]
+          },
+          "answer": {
+            "text": "(D) impressive",
+            "explanation": "the most + adj + N (candidate)"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c287a"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441afeccc8cae769c287d"
+}

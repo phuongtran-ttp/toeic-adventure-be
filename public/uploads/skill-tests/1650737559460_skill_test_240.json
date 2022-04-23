@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 240",
+  "questions": [
+    {
+      "question": {
+        "text": "We will have the building___before we sign the lease.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)inspect",
+          "(B)inspected",
+          "(C)inspects",
+          "(D)to inspect"
+        ]
+      },
+      "answer": {
+        "text": "(B)inspected",
+        "explanation": "(B) This is a past participle verb used to complete the passive causative form, “have inspected”, meaning, “We will ask another person to inspect”. Choice (A) is the base form or present tense. Choice (C) is present tense. Choice (D) is an infinitive."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25c7"
+    },
+    {
+      "question": {
+        "text": "Ms. Lee___with us since last November.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)works",
+          "(B)worked",
+          "(C)is working",
+          "(D)has been working"
+        ]
+      },
+      "answer": {
+        "text": "(D)has been working",
+        "explanation": "(D) This present perfect verb form is used to describe an action that began in the past and continues to the present. Choice (A) is simple present. Choice (B) is simple past. Choice (C) is present continuous."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25ca"
+    },
+    {
+      "question": {
+        "text": "A shipment of plastic ___ has been ordered and will be delivered to the Soto Soda factory tomorrow.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)contain",
+          "(B)containing",
+          "(C)contained",
+          "(D)containers"
+        ]
+      },
+      "answer": {
+        "text": "(D)containers",
+        "explanation": "The answer comes after an adjective so we use a noun."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25cd"
+    },
+    {
+      "question": {
+        "text": "Capper’s Kitchen ___ discounted catering services to all local businesses during the month of May.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)attaches",
+          "(B)offers",
+          "(C)resorts",
+          "(D)convinces"
+        ]
+      },
+      "answer": {
+        "text": "(B)offers",
+        "explanation": "Offer st to sb = Give st to sb"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25d0"
+    },
+    {
+      "question": {
+        "text": "An applicant for the position of mail carrier at Koan Couriers must take the postal regulations exam ___ the scheduling of an interview.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)favorable",
+          "(B)other than",
+          "(C)previously",
+          "(D)prior to"
+        ]
+      },
+      "answer": {
+        "text": "(D)prior to",
+        "explanation": "Prior to = Before"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25d3"
+    },
+    {
+      "question": {
+        "text": "Guest passes to Starville Athletic Center are redeemable for a three-day period ___ a month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)once",
+          "(B)soon",
+          "(C)formerly",
+          "(D)shortly"
+        ]
+      },
+      "answer": {
+        "text": "(A)once",
+        "explanation": "Once a month = One time each month"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25d6"
+    },
+    {
+      "question": {
+        "text": "Advertisements sent to The Ad Exchange must be proofread and properly formatted in order to receive ___  for publication.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)instruction",
+          "(B)approval",
+          "(C)description",
+          "(D)revival"
+        ]
+      },
+      "answer": {
+        "text": "(B)approval",
+        "explanation": "Approval for st = Permission to do st"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25d9"
+    },
+    {
+      "question": {
+        "text": "A ___ number of technical service requests from users prompted Hisocom Corporation to upgrade its Internet servers.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)sole",
+          "(B)significant",
+          "(C)purposeful",
+          "(D)capable"
+        ]
+      },
+      "answer": {
+        "text": "(B)significant",
+        "explanation": "Significant = Great"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25dc"
+    },
+    {
+      "question": {
+        "text": "Passengers must present their passport ___ their boarding pass to Lunar Airlines’ personnel when checking in for a flight.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)notwithstanding",
+          "(B)in case",
+          "(C)along with",
+          "(D)in spite of"
+        ]
+      },
+      "answer": {
+        "text": "(C)along with",
+        "explanation": "Along with = In addition to"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25df"
+    },
+    {
+      "question": {
+        "text": "If you wish to cancel your subscription to The Steele Lake Ledger, please be sure ___ for four weeks of processing time.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)to allow",
+          "(B)will allow",
+          "(C)be allowing",
+          "(D)having allowed"
+        ]
+      },
+      "answer": {
+        "text": "(A)to allow",
+        "explanation": "Be sure to do st = Remember to do st"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c25e2"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644197eccc8cae769c25e5"
+}

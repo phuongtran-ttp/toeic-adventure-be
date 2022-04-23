@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 203",
+  "questions": [
+    {
+      "question": {
+        "text": "Ms. Kim is planning to attend the regional seminar, ___ it is not absolutely necessary that she be there.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)where",
+          "(B)or",
+          "(C)due to",
+          "(D)although"
+        ]
+      },
+      "answer": {
+        "text": "(D)although",
+        "explanation": "The two clauses have different meanings so we use \"although\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1d0b"
+    },
+    {
+      "question": {
+        "text": "The new-product development meeting wiH be held either in Room 402 ___ in Room 501.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) or",
+          "(B) and",
+          "(C) nor",
+          "(D) but"
+        ]
+      },
+      "answer": {
+        "text": "(A) or",
+        "explanation": "Either…or…"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d0e"
+    },
+    {
+      "question": {
+        "text": "The restaurant will ___ for two days later this month for remodeling.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)hold",
+          "(B)build",
+          "(C)close",
+          "(D)invite"
+        ]
+      },
+      "answer": {
+        "text": "(C)close",
+        "explanation": "Close = Stop working"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d11"
+    },
+    {
+      "question": {
+        "text": "The advertising budget is divided ___ among the three divisions in the marketing department.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)equal",
+          "(B)equals",
+          "(C)equality",
+          "(D)equally"
+        ]
+      },
+      "answer": {
+        "text": "(D)equally",
+        "explanation": "We are giving more information on the verb \"is divided\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d14"
+    },
+    {
+      "question": {
+        "text": "Mr. Fullham’s investments in small start-up companies have doubled ___ value in just over five years.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)they",
+          "(B)their",
+          "(C)them",
+          "(D)themselves"
+        ]
+      },
+      "answer": {
+        "text": "(B)their",
+        "explanation": "The answer comes before a noun so we use \"their\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d17"
+    },
+    {
+      "question": {
+        "text": "Printer cartridges can be found in the supply cabinet ___ the file folders.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)at",
+          "(B)from",
+          "(C)with",
+          "(D)along"
+        ]
+      },
+      "answer": {
+        "text": "(C)with",
+        "explanation": "\"With\" is the most suitable answer."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d1a"
+    },
+    {
+      "question": {
+        "text": "Solar power is being heavily promoted as a clean and ___ source of energy.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)renew",
+          "(B)renews",
+          "(C)renewal",
+          "(D)renewable"
+        ]
+      },
+      "answer": {
+        "text": "(D)renewable",
+        "explanation": "We are giving more information on the noun \"source\" so we use an adjective."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d1d"
+    },
+    {
+      "question": {
+        "text": "Registrations for the next lecture series must be ___ by the end of this week.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)belonged",
+          "(B)practiced",
+          "(C)received",
+          "(D)arrived"
+        ]
+      },
+      "answer": {
+        "text": "(C)received",
+        "explanation": "We do not use the passive voice of \"belong\" and \"arrive\". <br> We do not use \"practice\" with \"registration\". <br> Therefore, we choose \"received\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d20"
+    },
+    {
+      "question": {
+        "text": "Montrose’s ___ in his job search has resulted in employment offers from three companies.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)persist",
+          "(B)persisted",
+          "(C)persistently",
+          "(D)persistence"
+        ]
+      },
+      "answer": {
+        "text": "(D)persistence",
+        "explanation": "The answer comes after \"Montrose's\" so we use a noun. <br> Persistence in st = Being steady in st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d23"
+    },
+    {
+      "question": {
+        "text": "Ms. Vialobos has reported that the new mobile telephones are the lightest ___ to be purchased by the department.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)ever",
+          "(B)before",
+          "(C)quite",
+          "(D)well"
+        ]
+      },
+      "answer": {
+        "text": "(A)ever",
+        "explanation": "The + superlative adj + ever to do st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d26"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644193eccc8cae769c1d29"
+}

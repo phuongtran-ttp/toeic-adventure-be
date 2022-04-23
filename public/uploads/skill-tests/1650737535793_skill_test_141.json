@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 141",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4102.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4102.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d84"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Hello, this is Maria from the Zinman Symphony Orchestra calling. </strong>At the last performance, you signed up to receive updates about future offers. I&rsquo;m happy to announce that <strong>Q2&nbsp;we have a special deal for the upcoming summer concert series: buy two tickets, get one free. Q3&nbsp;And we just updated our performance schedule on the Web site so take a look and see which concerts you want to attend,</strong> and a third ticket could be yours for free! Thanks for supporting the symphony.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of organization does the speaker work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A local cinema",
+              "(B)A symphony orchestra",
+              "(C)An art gallery",
+              "(D)A dance company"
+            ]
+          },
+          "answer": {
+            "text": "(B)A symphony orchestra",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the speaker offering?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Premium seating",
+              "(B) Additional showtimes",
+              "(C)A free ticket",
+              "(D)A discount on parking"
+            ]
+          },
+          "answer": {
+            "text": "(C)A free ticket",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what can the listener do on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Read a review",
+              "(B)Watch a performance",
+              "(C)Browse some merchandise",
+              "(D)View a schedule"
+            ]
+          },
+          "answer": {
+            "text": "(D)View a schedule",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d88"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_453.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_453.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d76"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Welcome to this year&rsquo;s national tennis championship tournament. We&rsquo;re pleased that<strong>&nbsp;</strong>you will be here throughout the week to cover the championship matches.<strong> </strong>Remember that <strong>Q1&nbsp;you are required to wear and display your press identification cards at all times. </strong>This promises to be an exciting and historic week. Following the play each day, selected players will be brought to the media center, where all of you will have an opportunity to ask questions in the interview area. In consideration of both players and fellow members of the media, we ask that you kindly turn off all mobile phones and pagers in the interview area. When you are called upon, <strong>Q2&nbsp;please wait for a microphone to be handed to you before asking your question. Q3 Now I am pleased to welcome Sergio Padova, last year&rsquo;s champion.</strong> <strong>He&rsquo;ll talk about this year&rsquo;s tournament and answer questions.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the intended audience for this talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Athletes",
+              "(B)Film stars",
+              "(C)Journalists",
+              "(D)Politicians"
+            ]
+          },
+          "answer": {
+            "text": "(C)Journalists",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the audience members asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Speak quietly in the interview area",
+              "(B) Dress nicely for interviews",
+              "(C)Use microphones when asking questions",
+              "(D)Leave telephones outside the media center"
+            ]
+          },
+          "answer": {
+            "text": "(C)Use microphones when asking questions",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The audience will watch a film clip.",
+              "(B)A tennis player will answer questions.",
+              "(C) The audience will leave the meeting.",
+              "(D) A player will sign autographs."
+            ]
+          },
+          "answer": {
+            "text": "(B)A tennis player will answer questions.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d80"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_415.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_415.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d86"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Welcome aboard the Bayside Ferry for our tour </strong>of beautiful Bayside Harbor. I&rsquo;ll begin by taking you under the Wentworth Bridge. Then we&rsquo;ll make our way past the famous Waterfront Theater, which has hosted hundreds of famous productions.<strong> Q2&nbsp;At noon you&rsquo;ll enjoy a delicious lunch, included in the price of your ticket.</strong> After lunch, we&rsquo;ll head across the harbor to the Bayside Zoo. You can purchase tickets to the zoo at the kiosk on the dock. Afterwards, <strong>Q3&nbsp;we&rsquo;ll meet back on the boat and we&rsquo;ll depart for Bayside port, where our tour concluded at approximately four P.M</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the information being given?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a museum",
+              "(B). At a zoo",
+              "(C) On a bus",
+              "(D). On a boat"
+            ]
+          },
+          "answer": {
+            "text": "(D). On a boat",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is included with the tour?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A meal",
+              "(B) A map",
+              "(C) Discount coupons",
+              "(D) A photograph"
+            ]
+          },
+          "answer": {
+            "text": "(A) A meal",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen at 4 PM?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(C) Tickets will go or sale,",
+              "(D) A tour will end.",
+              "A) A performance will begin.",
+              "B) A bridge will be closed to traffic."
+            ]
+          },
+          "answer": {
+            "text": "(D) A tour will end.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d8f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_429.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_429.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d95"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 I&rsquo;d like to thank everyone for coming to today&rsquo;s workshop on professional writing skills.</strong> I hope that you&rsquo;ve found it informative and useful. I&rsquo;d also like to thank Village Cafe for providing such a wonderful lunch for us today. <strong>Q2 Now, before you leave, I&rsquo;m going to pass out a participant survey. The object of the survey is to find out what you thought about today&rsquo;s workshop and to give you an opportunity to write comments.</strong> <strong>When you&rsquo;re finished filling it out, please leave it in the envelope on the back table. Q3&nbsp;You&rsquo;ll also find a stack of schedules on the back table that list all of the workshops that we&rsquo;ll be offering here next month. </strong>Please feel free to take one on your way out. Again, thank you for coming and have a nice evening.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the talk most likely take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) After a tour",
+              "(B) During registration",
+              "(C) Before a lunch break",
+              "(D) At the end of a workshop"
+            ]
+          },
+          "answer": {
+            "text": "(D) At the end of a workshop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "what does the speaker ask participants to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wait to ask questions",
+              "(B) Fill out a survey",
+              "(C) Put payment in an envelope",
+              "(D) Sign up for a dinner"
+            ]
+          },
+          "answer": {
+            "text": "(B) Fill out a survey",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is on the table in the back of the room?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Books",
+              "(B) Menus",
+              "(C) Schedules",
+              "(D) Application forms"
+            ]
+          },
+          "answer": {
+            "text": "(C) Schedules",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d9b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4103.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4103.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d97"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Good morning and, <strong>Q1&nbsp;welcome to Seattle&rsquo;s Seventh Annual Electronics Expo. Q2 Please pick up your complimentary bags at the hall entrance. Inside you&rsquo;ll find information about the event, </strong>including a list of exhibitors and a floor plan of the center. <strong>Q3&nbsp;At 10:00 a.m. our keynote speaker, Ms. Mary Duke, will kick off the event in the main auditorium. </strong>Following her speech, all exhibition booths will officially open and be ready to welcome visitors.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a bookstore",
+              "(B)At a convention center",
+              "(C)At a train station",
+              "(D)  At a museum"
+            ]
+          },
+          "answer": {
+            "text": "(B)At a convention center",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will listeners find in the bags?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A coupon booklet",
+              "(B)A bottle of water",
+              "(C)Sample products",
+              "(D)Event information"
+            ]
+          },
+          "answer": {
+            "text": "(D)Event information",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen at 10:00 A.M.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Seats will be assigned.",
+              "(B)A speech will begin.",
+              "(C)Refreshments will be served.",
+              "(D)A book signing will be held."
+            ]
+          },
+          "answer": {
+            "text": "(B)A speech will begin.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d9d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_447.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_447.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d92"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>I&rsquo;d like to start out by telling you <strong>Q1&nbsp;how much I appreciate the trophy and the recognition it signifies. </strong>I have been with J&amp;8 Limited since the beginning, when Jeff and I was just a couple of guys working in a rented garage. We&rsquo;ve gone from producing and selling audio recordings of local musicians to being <strong>Q2&nbsp;one of the nation&rsquo;s largest and most respected providers of quality entertainment products. We now produce and distribute everything from music to movies and video games. </strong>And while I appreciate the honor you&rsquo;re bestowing on me this evening, <strong>Q3&nbsp;I want to stress that my success would not have been possible without the hard work and dedication of my wonderful colleagues,</strong> many of whom are here tonight. With our success as a company has come responsibility - to our industry, to our community, and most of all to our loyal customers who have, contributed to support and purchase our products. I&rsquo;m looking forward to many more happy years with J&amp;B Limited.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the speech?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To offer products for sale",
+              "(B)To thank the audience for an award",
+              "(C)To congratulate colleagues on achieving a goal",
+              "(D)To dedicate a new office building"
+            ]
+          },
+          "answer": {
+            "text": "(B)To thank the audience for an award",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does J&B Limited sell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Home-entertainment products",
+              "(B) Consumer product guides",
+              "(C)Office supplies",
+              "(D)Human-resources software"
+            ]
+          },
+          "answer": {
+            "text": "(A)Home-entertainment products",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He does not recognize many members of the audience.",
+              "(B)He hopes to expand the company’s product line-",
+              "(C)He has worked in a number of industries.",
+              "(D)He is grateful to his colleagues."
+            ]
+          },
+          "answer": {
+            "text": "(D)He is grateful to his colleagues.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d9f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_416.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_416.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0da1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p style=\"text-align: justify;\"><strong>Q1 It is my honor to present this year&rsquo;s Excellence in Advertising Award to Ms. Barbara King.</strong>&nbsp;<strong>Q2&nbsp;Ms, King joined our agency two years ago,</strong> and has been an invaluable part of our team ever since. <strong>Q3&nbsp;She has dedicated herself to making our clients feel like part of the family</strong>, and this commitment to developing relationships with clients has been a major factor in the growth of our business. Last year alone, she brought in ten new accounts! Please join me in congratulating Barbare king</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the tax?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To introduce a new client",
+              "(B) To describe a job opening",
+              "(C) To announce an award winner",
+              "(D) To honor a retiree"
+            ]
+          },
+          "answer": {
+            "text": "(C) To announce an award winner",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How long has Barbare King worked at the company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) One year",
+              "(B) Two years",
+              "(C) Four years",
+              "(D) Ten years"
+            ]
+          },
+          "answer": {
+            "text": "(B) Two years",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is Barbare King know for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Reducing operating expenses",
+              "(B) Developing advertising Campaigns",
+              "(C) Using Creative training methods",
+              "(D) Building relationships with clients"
+            ]
+          },
+          "answer": {
+            "text": "(D) Building relationships with clients",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0da8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4104.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4104.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0dac"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hi, Laura. I&rsquo;m calling from Navi Professional Furniture. <strong>Q1&nbsp;I know your new office furniture is supposed to be delivered next Tuesday, but we&rsquo;ve had a cancellation this week and I&rsquo;m calling to let you know that we can get you the furniture sooner.</strong> If you&rsquo;re interested, <strong>Q2&nbsp;we can have your order delivered tomorrow.</strong>&nbsp;<strong>Q3 But please call me back as soon as possible, so that I can let the delivery driver know. </strong>You can reach me at 555-0144. Thanks.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the message about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A production delay",
+              "(B)A vehicle repair",
+              "(C)An annual sale",
+              "(D)A furniture delivery"
+            ]
+          },
+          "answer": {
+            "text": "(D)A furniture delivery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say he can do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Cancel an order",
+              "(B)Change a date",
+              "(C)Use a different vendor",
+              "(D)Provide an estimate"
+            ]
+          },
+          "answer": {
+            "text": "(B)Change a date",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker ask the listener to call back soon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He has to notify a driver.",
+              "(B)He needs to finalize a budget.",
+              "(C)He wants to discuss a design.",
+              "(D)He is waiting to authorize a deposit."
+            ]
+          },
+          "answer": {
+            "text": "(A)He has to notify a driver.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0db0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4210.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4210.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0daa"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>And, I have one final announcement. <strong>Q1&nbsp;All employees will be required to attend a training seminar this week to become familiar with the office&rsquo;s new Omega telephone system.</strong> The seminar will be held in the conference room at ten in the morning on both Wednesday and Thursday. <strong>Q2&nbsp;You must sign up for the date you wish to attend the seminar by using the online registration form </strong>at the company Web site. Also, <strong>Q3&nbsp;please remember that some technicians will be visiting our office next Monday morning</strong> from nine A.M, to eleven A.M. to install the new equipment. So please do not schedule any calls to clients during that time. For any critical calls that must be made on Monday morning, please speak with your departmental director to make special arrangements.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will employees learn about at the seminar?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A copy machine",
+              "(B) A filing system",
+              "(C) An Internet service",
+              "(D) A telephone system"
+            ]
+          },
+          "answer": {
+            "text": "(D) A telephone system",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How can employees sign up for the seminar?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By sending a fax",
+              "(B) By going to a Web site",
+              "(C) By making a phone call",
+              "(D). By going to an office"
+            ]
+          },
+          "answer": {
+            "text": "(B) By going to a Web site",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will be visiting the office on Monday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Technicians",
+              "(B) Clients",
+              "(C) Directors",
+              "(D) Job candidates"
+            ]
+          },
+          "answer": {
+            "text": "(A) Technicians",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0db2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_454.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_454.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d99"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1&amp;2 We are pleased to announce that the company will be opening its very own cafeteria for employees next month</strong>. Now, if you forget to bring your lunch to work, you won&rsquo;t have to leave the building to get a delicious and nutritious lunch. The cafeteria will feature sandwiches, soups, and hot entrees at reasonable prices. Salads, snacks, coffee, tea, and soda will also be available. <strong>Q3&nbsp;Each week on Monday morning, the chef will post the menu on the bulletin board near the entrance.</strong> Our growth in the industry this year has allowed us to make this much-needed improvement to our work environment</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the intended audience for this announcement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Supermarket customers",
+              "(B)Office employees",
+              "(C)International tourists",
+              "(D)University students"
+            ]
+          },
+          "answer": {
+            "text": "(B)Office employees",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When will the change take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Today",
+              "(B)Next week",
+              "(C)Next month",
+              "(D)Next year"
+            ]
+          },
+          "answer": {
+            "text": "(C)Next month",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where will information be posted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)On the company Web site",
+              "(B) Next to the vending machines",
+              "(C) On the front door of the building",
+              "(D) Near the entrance to the cafeteria"
+            ]
+          },
+          "answer": {
+            "text": "(D) Near the entrance to the cafeteria",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0da6"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "6264417feccc8cae769c0dc1"
+}

@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 122",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0406.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0406.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07c5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, everyone. <b> Q1 I’d like to announce a few changes in our procedure that are designed to save us money</b>. Firstly, we will no longer be sending statements to clients through the post. We’ll be using e-mail to send monthly statements. <b> Q2 It is a simple procedure, and when the software is Installed I don’t think you will need any training. The system is very straightforward</b>. We are also renting out the catering room and installing some refrigerators in the cafeteria, <b> Q3 so you will have to start bringing your own lunches to work.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, why are changes being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Because of poor working condition",
+              "(B) To save the company money",
+              "(C) So that they can afford a Christmas party",
+              "(D) He expected a better contract."
+            ]
+          },
+          "answer": {
+            "text": "(B) To save the company money",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when he says, “when the software is installed I don’t think you will need any training”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The new system is easy to learn.",
+              "(B) He doesn’t want to train people.",
+              "(C) There is no budget for training.",
+              "(D) Everyone must attend a meeting."
+            ]
+          },
+          "answer": {
+            "text": "(A) The new system is easy to learn.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker tell the listeners they will have to start bringing to work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Extra uniforms",
+              "(B) Other people’s lunch",
+              "(C) Their own lunch",
+              "(D) A new contract"
+            ]
+          },
+          "answer": {
+            "text": "(C) Their own lunch",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07c9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6339419_1562638455433.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6339419_1562638455433.png",
+            "mime": "image/png",
+            "id": "62644178eccc8cae769c07c3"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0409.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0409.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07c7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "OK everybody, thank you for coming in. <b> Q1 I received the statistics for this year’s software market shares</b>. Although we are still in the top four companies, we need to work harder. <b> Q2 Slight Line Inc. has just moved past US by three percent one year. We were much bigger than them last year</b>. Analysts are suggesting that Slight Line’s success is because they give away a lot of free software updates after people buy their games. <b> Q3 In the next quarter, we are going to begin to offer all of our expansion packs for free download</b>. I think this can give us the edge we need and help us get back about Slight Line Inc."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Which industry does the speaker work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Computer hardware",
+              "(B) Computer games",
+              "(C) Computer software",
+              "(D) Computer microchips"
+            ]
+          },
+          "answer": {
+            "text": "(C) Computer software",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What company does the speaker work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Future Tech Studios",
+              "(B) Slight Line Inc.",
+              "(C) Seven Strings Technologies",
+              "(D) AK Gaming"
+            ]
+          },
+          "answer": {
+            "text": "(C) Seven Strings Technologies",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will the company do in the next quarter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Give away free gifts",
+              "(B) Give away expansion packs for free",
+              "(C) Offer free software with new products",
+              "(D) Install a new security system"
+            ]
+          },
+          "answer": {
+            "text": "(B) Give away expansion packs for free",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07cb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0407.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0407.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07cf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, Julia. This is Frank Walton from Human Resources.<b> Q1 We need to post an ad this week for a new dental assistant</b>. A colleague told me you are really good at making job application ads. <b> Q2 Have you seen the criteria for the dental assistant position?</b> This is my first time recruiting new staff, so I’m a little unfamiliar with some of the questions. <b> Q3 I would really appreciate it if you could come by my office today and teach me the criteria</b>. Thanks."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What position is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Legal assistant",
+              "(B) Dental assistant",
+              "(C) Foreign coordinator",
+              "(D) Bank manager"
+            ]
+          },
+          "answer": {
+            "text": "(B) Dental assistant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man imply when he asks,",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is looking at some forms.",
+              "(B) He is asking if Julia is familiar with the requirements.",
+              "(C) He needs some extra work done.",
+              "(D) He wants to learn more about them."
+            ]
+          },
+          "answer": {
+            "text": "(B) He is asking if Julia is familiar with the requirements.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the man want to meet the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To teach him the criteria",
+              "(B) To make some changes to his office",
+              "(C) To sign the contract",
+              "(D) To change the criteria"
+            ]
+          },
+          "answer": {
+            "text": "(A) To teach him the criteria",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07d3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "7000336_1562638460518.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/7000336_1562638460518.png",
+            "mime": "image/png",
+            "id": "62644178eccc8cae769c07d1"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0410.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07d5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello everyone! <b> Q1 Welcome to your first day at Valencia’s Culinary Training Center. Your ability to combine cooking skills with health and safety procedures will be crucial for your future career</b>. Here’s our training schedule for the next four days. Today we will work on basic knife skills and food preparation. This is an essential first step in becoming a skilled chef. For the rest of the week, each day will have a different theme relating to the most important aspects of working in a kitchen. <b> Q2 We have some celebrity chef’s coming in who are highly skilled and I’m sure you will enjoy working with them</b>. One more thing to remember is we will have a special team lunch on Wednesday that will be prepared by everyone together."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the listeners training to be?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Factory workers",
+              "(B) Store owners",
+              "(C) Restaurant chefs",
+              "(D) Medical workers"
+            ]
+          },
+          "answer": {
+            "text": "(C) Restaurant chefs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will the listeners enjoy doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Working with the celebrity chefs",
+              "(B) Becoming a celebrity chef",
+              "(C) Using the kitchen tools",
+              "(D) Working with each other"
+            ]
+          },
+          "answer": {
+            "text": "(A) Working with the celebrity chefs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. On what day will the listeners learn food safety and hygiene?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tuesday",
+              "(B) Wednesday",
+              "(C) Thursday",
+              "(D) Friday"
+            ]
+          },
+          "answer": {
+            "text": "(C) Thursday",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07d8"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <b>IN-HOUSE DIRECTORY </td>  </tr> <tr> <td align =\"center\"> <b>Extension</td>  <td align =\"center\"> <b> Name </td> </tr> <tr> <td align =\"center\"> 10 </td>  <td align =\"center\"> John Trizz</td> </tr> <tr> <td align =\"center\"> 11 </td>  <td align =\"center\"> Don Trenton </td> </tr> <tr> <td align =\"center\"> 12 </td>  <td align =\"center\"> Shubert Mendez </td> </tr> <tr> <td align =\"center\"> 13 </td>  <td align =\"center\"> Sally Howle </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0408.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0408.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07da"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, this message is for Ronald Benson. <b> Q1 My name is Stuart Lawson, the manager at Rosewood Printing Company</b>. We just received an online order from you for 2000 wedding invitations with lace and gold fabric wrappings. <b> Q2 I’m calling just to confirm your order is for 2000 invitations and not 200</b>. It is unusual to get such a large order so I just want to make sure it is correct. Please call me back to confirm when you have a chance. We will not proceed with the order until you confirm. <b> Q3 Also, if you are planning such a large event, we have an excellent planner in the office named Shubert Mendez. If you want to speak with him just ask for extension 12 when you call to confirm. I will make sure he gives you a free consultation.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A content developer",
+              "(B) A secretary",
+              "(C) A store manager",
+              "(D) A police officer"
+            ]
+          },
+          "answer": {
+            "text": "(C) A store manager",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why most likely is the speaker calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To confirm the size on an order",
+              "(B) To request some delivery information",
+              "(C) To send an extra gift",
+              "(D) To purchase a new set of cards"
+            ]
+          },
+          "answer": {
+            "text": "(A) To confirm the size on an order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Who can give the listener planning advice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) John Trizz",
+              "(B) Don Trenton",
+              "(C) Shubert Mendez",
+              "(D) Sally Howie"
+            ]
+          },
+          "answer": {
+            "text": "(C) Shubert Mendez",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07dd"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr> <td align =\"center\" colspan =\"2\"> <b> ORDER FORM OF BLANDERS & CO.</b> <br> <P align = \"right\"> 14 March 16</td></tr> <tr> <td align =\"center\"> <b> Product</td> <td align =\"center\"> <b> Quantity  </td> </tr><tr> <td align =\"center\"> Case binders</td> <td align =\"center\"> 30 </td> </tr><tr> <td align =\"center\"> Envelopes</td> <td align =\"center\"> 20 </td> </tr><tr> <td align =\"center\"> Flags & Tabs </td> <td align =\"center\"> 40</td> </tr> <tr> <td align =\"center\"> Legal pads </td> <td align =\"center\"> 10</td> </tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b> <br> Hello, this is Trent Herrington from Blanders & Co. We recently received an order from you and there are some missing items.<b> Q1 On the invoice, it clearly says we ordered 30 case binders but we only received 20. We also did not receive any of the legal pads we ordered. We have some important cases today and we needed those case binders to organize our client’s defense professionally. Q2&3 As a law firm, it is very important that we arrive to the court organized</b>. Is it possible for US to pick up the binders and legal pads this morning? Please call me back on 2612-4547 as soon as possible. Thanks."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. How many case binders and legal pads were not delivered in total?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 40",
+              "(B) 30",
+              "(C) 20",
+              "(D) 10"
+            ]
+          },
+          "answer": {
+            "text": "(C) 20",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, why are the case binders important?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To look professional in the office",
+              "(B) To look professional in the court",
+              "(C) To organize their financial record",
+              "(D) To maintain the deadline"
+            ]
+          },
+          "answer": {
+            "text": "(B) To look professional in the court",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where does Trent Herrington most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Accounting firm",
+              "(B) Law firm",
+              "(C) Patenting firm",
+              "(D) Catering business"
+            ]
+          },
+          "answer": {
+            "text": "(B) Law firm",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07df"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <b>BEST - SELLING ALBUMS </td>  </tr> <tr> <td align =\"center\"> <b>Rank</td>  <td align =\"center\"> <b> Name </td> </tr> <tr> <td align =\"center\"> 1 </td>  <td align =\"center\">Talk Down</td> </tr> <tr> <td align =\"center\"> 2 </td>  <td align =\"center\"> Valley of Fire </td> </tr> <tr> <td align =\"center\"> 3 </td>  <td align =\"center\"> Tunnel Vision </td> </tr> <tr> <td align =\"center\"> 4 </td>  <td align =\"center\"> Step It Up </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0409.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0409.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07e3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi everybody, this is the late shift with Joey Denton on Free Net Radio. <b> Q1 Today we have George Farrelli in the studio to talk about his hit new album, which has been number one on the charts for six weeks </b>. Earlier today, <b> Q2 George was telling me how his album was heavily influenced by his recent move to London</b>, and the growing rock and roll scene there. You can definitely hear the British influence in the title track “Frankly Speaking”. <b> Q3 Coming up next, we will discuss George’s up and coming marriage to his longtime girlfriend Cindy Pullman</b>. Thanks for joining us today George."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. What is the name of the guest’s new album?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Valleys of Fire",
+              "(B) Step It Up",
+              "(C) Tunnel Vision",
+              "(D) Talk Down"
+            ]
+          },
+          "answer": {
+            "text": "(D) Talk Down",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say influences the guest’s music?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Getting married",
+              "(B) Moving to America",
+              "(C) Moving to London",
+              "(D) Meeting Joey Denton"
+            ]
+          },
+          "answer": {
+            "text": "(C) Moving to London",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the guest most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Move back to his hometown",
+              "(B) Get engaged to his girlfriend",
+              "(C) Release a new album",
+              "(D) Get married to his girlfriend"
+            ]
+          },
+          "answer": {
+            "text": "(D) Get married to his girlfriend",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07e5"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <b> GRANGE RIVER TOWER DIRECTORY </td>  </tr> <tr> <td align =\"center\"> <b>Extension</td>  <td align =\"center\"> <b> Name </td> </tr> <tr> <td align =\"center\"> 3rd Floor </td>  <td align =\"center\">Corporate Suited</td> </tr> <tr> <td align =\"center\"> 4th Floor </td>  <td align =\"center\"> Rosella Ballroom </td> </tr> <tr> <td align =\"center\"> 5th Floor </td>  <td align =\"center\"> Gloria Westwood Ballroom </td> </tr> <tr> <td align =\"center\">6th Floor </td>  <td align =\"center\"> Main office </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0410.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07e8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, everybody. <b> Q1 Welcome to the retirement celebration of our long time president Mr. Jang</b>. Mr. Jang has served as president for the last 22 years and has helped build our business from its humble beginnings to a fortune 500 company.<b> Q2 It’s a pleasure to host this special event in the famous Gloria Westwood Ballroom</b>. I consider it an indication of the success we have experienced. <b> Q3 My name is Bob Hopkins, and I’ve worked with Mr. Jang for over 20 years</b>. I consider him to be one of the most talented, honest, and hardworking people I know and I feel privileged to call him my friend. So, with no further ado, please put your hands together for Mr. Jang."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. What floor are they on?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 3rd",
+              "(B) 4th",
+              "(C) 5th",
+              "(D) 6th"
+            ]
+          },
+          "answer": {
+            "text": "(C) 5th",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the reason for the celebration?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Introducing a new employee",
+              "(B) Mr. Jang’s birthday",
+              "(C) The retirement of Mr. Jang",
+              "(D) A wedding anniversary"
+            ]
+          },
+          "answer": {
+            "text": "(C) The retirement of Mr. Jang",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Mr. Hopkins?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Mr. Jang’s nephew",
+              "(B) A colleague of Mr. Jang",
+              "(C) The owner of the company",
+              "(D) A waiter"
+            ]
+          },
+          "answer": {
+            "text": "(B) A colleague of Mr. Jang",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07ea"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "336221511-1578560759979.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/336221511-1578560759979.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c07ed"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Before we end this meeting, <b> Q1 I’d like to take a minute to recognize Janet Kalasky. She’s led our department’s marketing efforts for the past five years and has shown a tremendous amount of dedication to the company. Q2 Recently, Janet has been focusing on the displays that advertise our new line of smartphones for our booth at next week’s trade show. The displays are very impressive, and Q3 I suggest that you drop by the staff lounge after this meeting to have a look at them. But first, Q1 let’s have a round of applause to thank Janet for her work and dedication. </b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the announcement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To acknowledge a coworker",
+              "(B)To introduct a guest",
+              "(C)To explain a department policy",
+              "(D)To discuss sales techniques"
+            ]
+          },
+          "answer": {
+            "text": "(A)To acknowledge a coworker",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has janet kalasky been working on recently?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Finalizing a conference agenda",
+              "(B)Developing mobile phone software",
+              "(C)Updating training manuals",
+              "(D)Creating promotional displays"
+            ]
+          },
+          "answer": {
+            "text": "(D)Creating promotional displays",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where does the speaker encourage the listeners to go?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To the security desk",
+              "(B)To the employee lounge",
+              "(C)To a training session",
+              "(D)To a trade show"
+            ]
+          },
+          "answer": {
+            "text": "(B)To the employee lounge",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c07ef"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "150100323-1578560809788.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/150100323-1578560809788.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c07f2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: This is Harold Rosen, with WKRN News,  <b> Q1 reporting from the newly opened Bradford Opera House. </b> The building is ultramodern, and when plans for its construction were announced, locals expressed their concern about it. It’s located right next to historic city hall, the oldest building in the city. But so far, residents who have visited seem to like it. In spite of its modern look, those who have been inside are impressed. The atrium is beautifully decorated, the theather is equipped with a state-of-the-art sound system, and, of course, the music program is specutacular. <b> Q3 The schedule for this season’s performances can be found on the WKRN Web site. </b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the speaker reporting from?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A movie theater",
+              "(B)An opera house",
+              "(C)A shopping mall",
+              "(D)A convention center"
+            ]
+          },
+          "answer": {
+            "text": "(B)An opera house",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What do the speaker imply when he says. \"it's located right next to historic city hall, the oldest building in the city\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An old building need to be repaired.",
+              "(B)A historic landmark is worth visiting.",
+              "(C)A new building contrasts with older ones.",
+              "(D)A building is not difficult to get to."
+            ]
+          },
+          "answer": {
+            "text": "(C)A new building contrasts with older ones.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What can the listeners do on a web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Purchase event merchandise",
+              "(B)Read reviews",
+              "(C)Register for a newsletter",
+              "(D)View a performance schedule"
+            ]
+          },
+          "answer": {
+            "text": "(D)View a performance schedule",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c07f4"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417aeccc8cae769c07f7"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 200",
+  "questions": [
+    {
+      "question": {
+        "text": "___ that her order would not arrive on time, Ms. Chang requested the express delivery option.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Needless",
+          "(B)Easier",
+          "(C)Quickest",
+          "(D)Concerned"
+        ]
+      },
+      "answer": {
+        "text": "(D)Concerned",
+        "explanation": "Concerned that + Clause = Fearing that + Clause"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c2c"
+    },
+    {
+      "question": {
+        "text": "By registering for our online payment plan, customers are authorizing the bank to___ automatic withdrawals on the first day of every month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)consent",
+          "(B)see",
+          "(C)make",
+          "(D)trust"
+        ]
+      },
+      "answer": {
+        "text": "(C)make",
+        "explanation": "Make withdrawal = Take money from the bank"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c3c"
+    },
+    {
+      "question": {
+        "text": "Due to the ___ rainfall this spring, water levels in local takes and rivers are much higher than normal.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)accidental",
+          "(B)abundant",
+          "(C)common",
+          "(D)occasional"
+        ]
+      },
+      "answer": {
+        "text": "(B)abundant",
+        "explanation": "Abundant = Plentiful"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c3a"
+    },
+    {
+      "question": {
+        "text": "Civil engineer Lorenzo Raspallo ___ as the guest speaker at the fifth annual Bridge Conservation Colloquium next month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)to confirm",
+          "(B)to be confirmed",
+          "(C)has been confirmed",
+          "(D) having been confirmed"
+        ]
+      },
+      "answer": {
+        "text": "(C)has been confirmed",
+        "explanation": "The subject is a single person so we choose \"has been confirmed\"."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c38"
+    },
+    {
+      "question": {
+        "text": "Please note that this brochure is intended as information only and does not replace or ___ the product warranty.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)supplement",
+          "(B)supplements",
+          "(C)supplemented",
+          "(D)supplementing"
+        ]
+      },
+      "answer": {
+        "text": "(A)supplement",
+        "explanation": "Supplement = Improve/Complete The answer comes after \"does not\" so we use the original verb form."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c34"
+    },
+    {
+      "question": {
+        "text": "Frequent changes in the market make it hard for stereo equipment producers to anticipate demand with much confidence ___ precision.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)nor",
+          "(B)than",
+          "(C)or",
+          "(D)but"
+        ]
+      },
+      "answer": {
+        "text": "(C)or",
+        "explanation": "We only use \"nor\" when there is \"neither\". <br>\"Than\" goes with \"more\". <br> We don't use \"but\" because \"confidence\" does not contradict \"precision\". <br> Therefore, we choose \"or\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c43"
+    },
+    {
+      "question": {
+        "text": "The community swimming pool is not to be used at any time ___ a trained lifeguard is on  duty.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)in fact",
+          "(B)unless",
+          "(C)in case",
+          "(D)otherwise"
+        ]
+      },
+      "answer": {
+        "text": "(B)unless",
+        "explanation": "\"Unless\" suits the context of the sentence the most."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c3e"
+    },
+    {
+      "question": {
+        "text": "The Eisenweg Foundation will soon ___ its funding of externa! scientific research into several new domains, including genetics and endangered languages.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)exalt",
+          "(B)exclaim",
+          "(C)expel",
+          "(D)expand"
+        ]
+      },
+      "answer": {
+        "text": "(D)expand",
+        "explanation": "Expand st = Make st larger"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c4c"
+    },
+    {
+      "question": {
+        "text": "Speaking ___ behalf of the vice president, Alan Lee thanked the employees for their contributions to the fund-raising project.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) at",
+          "(B) on",
+          "(C) by",
+          "(D) for"
+        ]
+      },
+      "answer": {
+        "text": "(B) on",
+        "explanation": "On behalf of sb = Instead of sb"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c4a"
+    },
+    {
+      "question": {
+        "text": "The firm announced on Thursday that its profits rose 15 percent in the first quarter, ___ as a result of its restructuring program.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)largely",
+          "(B)large",
+          "(C)larger",
+          "(D)largest"
+        ]
+      },
+      "answer": {
+        "text": "(A)largely",
+        "explanation": "Largely = Mainly"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c46"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644191eccc8cae769c1c5d"
+}

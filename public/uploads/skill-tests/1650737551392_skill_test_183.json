@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 183",
+  "questions": [
+    {
+      "question": {
+        "text": "Ms. Chang was promoted to section chief ------- only six months on the job.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) besides",
+          "(B) after",
+          "(C) until",
+          "(D) about"
+        ]
+      },
+      "answer": {
+        "text": "(B) after",
+        "explanation": "Due to behind is the period (six months)"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c176a"
+    },
+    {
+      "question": {
+        "text": "The warranty on Lelen saucepans does not apply to damages that result from ___ use of cookware.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)concise",
+          "(B)equivalent",
+          "(C)submissive",
+          "(D)improper"
+        ]
+      },
+      "answer": {
+        "text": "(D)improper",
+        "explanation": "Improper = Wrong"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1768"
+    },
+    {
+      "question": {
+        "text": "Drevno flooring products are designed for ___ in industrial settings.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)user",
+          "(B)used",
+          "(C)useful",
+          "(D)use"
+        ]
+      },
+      "answer": {
+        "text": "(D)use",
+        "explanation": "The answer goes with \"for\" and \"in\" so we choose a noun."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1766"
+    },
+    {
+      "question": {
+        "text": "The final blueprints must ------- by Ms. Ito after the final draft is produced.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)approve",
+          "(B)be approved",
+          "(C)approving",
+          "(D)to approve"
+        ]
+      },
+      "answer": {
+        "text": "(B)be approved",
+        "explanation": "Due to model verbs + infinitive verb and after the space, there is the word by, which is a signal of the passive voice (be+V3/ed)"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1764"
+    },
+    {
+      "question": {
+        "text": "The rebate offered by Genton Vitamins will expire ------- six months.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) among",
+          "(B) within",
+          "(C) except",
+          "(D) besides"
+        ]
+      },
+      "answer": {
+        "text": "(B) within",
+        "explanation": "Based on the meaning of words."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c175e"
+    },
+    {
+      "question": {
+        "text": "All employees working in the assembly area will be ___ to take a course on machine operation.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)recognized",
+          "(B)required",
+          "(C)given",
+          "(D)grown"
+        ]
+      },
+      "answer": {
+        "text": "(B)required",
+        "explanation": "Require sb to do st = Sb is required to do st = Sb needs to do st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1774"
+    },
+    {
+      "question": {
+        "text": "The company-sponsored five-kilometer run will be held on October 15, and all employees ___ to participate.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)to Invite",
+          "(B)invite",
+          "(C)inviting",
+          "(D)are invited"
+        ]
+      },
+      "answer": {
+        "text": "(D)are invited",
+        "explanation": "Invite sb to do st <br> No noun comes after the verb so we are using passive voice."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c176c"
+    },
+    {
+      "question": {
+        "text": "This sewing workshop is ideal for beginner tailors ------ professionals who would like to refresh their knowledge.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)but",
+          "(B)either",
+          "(C)as well as",
+          "(D)additionally"
+        ]
+      },
+      "answer": {
+        "text": "(C)as well as",
+        "explanation": "\"as well as\" used to list"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1780"
+    },
+    {
+      "question": {
+        "text": "Dr. Masahiro Sato was the featured speaker at last month's international ___ on economic policy.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)committee",
+          "(B)proposal",
+          "(C)convention",
+          "(D)introduction"
+        ]
+      },
+      "answer": {
+        "text": "(C)convention",
+        "explanation": "Convention on = Conference on"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1778"
+    },
+    {
+      "question": {
+        "text": "Whitfield Consulting has received the prestigious \"Best Workplace in Albuquerque\" award for the second ___ year.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)repetitive",
+          "(B)thorough",
+          "(C)consecutive",
+          "(D)entire"
+        ]
+      },
+      "answer": {
+        "text": "(C)consecutive",
+        "explanation": "Consecutive = Without being interrupted"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c177e"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264418feccc8cae769c1793"
+}

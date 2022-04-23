@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 229",
+  "questions": [
+    {
+      "question": {
+        "text": "___ this quarter's sales are as high as projected, Hoshiro Designs, Inc., anticipates emerging as the leading graphic-design company in Japan.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)In case of",
+          "(B)After all",
+          "(C)Provided that",
+          "(D)Subsequent to"
+        ]
+      },
+      "answer": {
+        "text": "(C)Provided that",
+        "explanation": "Provided that = If"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2391"
+    },
+    {
+      "question": {
+        "text": "You can sign the document now,___you can speak to an attorney first if you prefer.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)and",
+          "(B)but",
+          "(C)or",
+          "(D)nor"
+        ]
+      },
+      "answer": {
+        "text": "(C)or",
+        "explanation": "(C) In this sentence, “or” indicates a choice between two actions. Choice (A) would be used to add a clause with similar information. Choice (B) indicates a contradiction between the two clauses. Choice (D) is used in negative sentences."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c239e"
+    },
+    {
+      "question": {
+        "text": "___ interested in purchasing group tickets for a Clovett Theater production should contact Miriam Miller.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Whoever",
+          "(B)Another",
+          "(C)Anyone",
+          "(D)Either"
+        ]
+      },
+      "answer": {
+        "text": "(C)Anyone",
+        "explanation": "\"Interested\" is the shortened version of the relative clause \"who is interested\" so we choose \"anyone\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c239c"
+    },
+    {
+      "question": {
+        "text": "The security badge needs to be activated ___ the end of the day tomorrow.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)before",
+          "(B)under",
+          "(C)still",
+          "(D)as"
+        ]
+      },
+      "answer": {
+        "text": "(A)before",
+        "explanation": "We use \"before + time\" to show time."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2398"
+    },
+    {
+      "question": {
+        "text": "Executives from the two firms may soon be ready to ___ the terms of the proposed merger.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)confirm",
+          "(B)converse",
+          "(C)commune",
+          "(D)collaborate"
+        ]
+      },
+      "answer": {
+        "text": "(A)confirm",
+        "explanation": "\"Confirm\" is the only answer that comes before a noun."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23a4"
+    },
+    {
+      "question": {
+        "text": "The new office is___151 North Main Street.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)on",
+          "(B)at",
+          "(C)in",
+          "(D)for"
+        ]
+      },
+      "answer": {
+        "text": "(B)at",
+        "explanation": "(B) “At” is used for an exact address. Choices (A), (C), and (D) are not used for an exact address."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23a0"
+    },
+    {
+      "question": {
+        "text": "The unseasonably cold weather has ___ affected the availability of some fruits and vegetables in local supermarkets.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)adversely",
+          "(B)faithfully",
+          "(C)consciously",
+          "(D)accurately"
+        ]
+      },
+      "answer": {
+        "text": "(A)adversely",
+        "explanation": "Adversely = Negatively"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23ad"
+    },
+    {
+      "question": {
+        "text": "You’ll find the letter___the papers on my desk.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)along",
+          "(B)among",
+          "(C)almost",
+          "(D)always"
+        ]
+      },
+      "answer": {
+        "text": "(B)among",
+        "explanation": "(B) “Among” means “in the middle of”. Choices (A), (C), and (D) look similar to the correct answer but have meanings that don’t fit the context."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23ab"
+    },
+    {
+      "question": {
+        "text": "Despite ___ declines in revenue over the past six months, the Mori & McGee firm intends to hire three new patent lawyers next year.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)will experience",
+          "(B)having experienced",
+          "(C)has experienced",
+          "(D)have been experiencing"
+        ]
+      },
+      "answer": {
+        "text": "(B)having experienced",
+        "explanation": "Despite + V-ing/N"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23a7"
+    },
+    {
+      "question": {
+        "text": "If Oyola Machines merges with the Menji Corporation, the resulting conglomerate will be ___ of the largest technology companies in the world.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)much",
+          "(B)some",
+          "(C)those",
+          "(D)one"
+        ]
+      },
+      "answer": {
+        "text": "(D)one",
+        "explanation": "Conglomerate = Corporation <br> One/Some of the + superlative adjective + Plural noun  <br>The subject of the clause is singular so we choose \"one\"."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23b4"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "EASY",
+  "id": "62644195eccc8cae769c23c5"
+}

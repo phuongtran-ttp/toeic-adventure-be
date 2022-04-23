@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 246",
+  "questions": [
+    {
+      "question": {
+        "text": "Thank you for choosing Greenville Community Hospital for your (1)------- medical needs. We strive to provide you with the best possible (2)-------. It was (3)------- pleasure to serve you.You may receive a survey in the mail. There are a number of questions to be rated on a 1-5 scale, from very poor to very good. This survey is very important to us. (4)-------. If you have any questions or comments, please contact the Director of Patient Relations at 555-0152.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Thank you for choosing Greenville Community Hospital for your (1)------- medical needs.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) latter",
+              "(B) ahead",
+              "(C) early",
+              "(D) recent"
+            ]
+          },
+          "answer": {
+            "text": "(D) recent",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We strive to provide you with the best possible (2)-------",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) memory",
+              "(B) care",
+              "(C) opinion",
+              "(D) opportunity"
+            ]
+          },
+          "answer": {
+            "text": "(B) care",
+            "explanation": "The email sender works at Greenville Community Hospital => they provide health care"
+          }
+        },
+        {
+          "question": {
+            "text": "It was (3)------- pleasure to serve you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) our",
+              "(B) your",
+              "(C) their",
+              "(D) his"
+            ]
+          },
+          "answer": {
+            "text": "(A) our",
+            "explanation": "\"our\" refers to staff members' at Greenville Community Hospital "
+          }
+        },
+        {
+          "question": {
+            "text": "This survey is very important to us. (4)-------.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We use the results to improve our service.",
+              "(B) The hospital is the best in the region.",
+              "(C) We have doctors with high qualifications.",
+              "(D) New procedures are available at our facility."
+            ]
+          },
+          "answer": {
+            "text": "(A) We use the results to improve our service.",
+            "explanation": "The previous sentence mentions the survey so this sentence is about the results of the survey"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26c1"
+    },
+    {
+      "question": {
+        "text": "To: All Staff  <br>From: Fiona Norton, President  <br>Re: Adelaide branch <br>Date: 2 May<br><br>To All Staff, <br>I am thrilled to announce that because of increased demand for our services, Farley Norton Insurance will be opening a second branch in Adelaide on 1 September. (1)-------. <br><br>We are looking to fill a number of vacancies in Adelaide. The jobs section of our Web page, www.farleynorton.com.au, will be updated as positions (2)------- and are filled. Staff members interested in relocating (3)------- Human Resources Manager Geri Thompson-Howe. Those approved for relocation will begin their roles in the new branch on 25 August. <br><br>We look forward to this new (4)------- in our company's future. <br><br>Thank you, <br>Fiona",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Farley Norton Insurance will be opening a second branch in Adelaide on 1 September. (1)-------.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Geri Thompson-Howe can answer questions about moving costs.",
+              "(B) Some of the positions include office manager and assistant manager.",
+              "(C) Web site administrator Ashton Lee should be congratulated on a job well done.",
+              "(D) Louis Farley will be heading this new branch."
+            ]
+          },
+          "answer": {
+            "text": "(D) Louis Farley will be heading this new branch.",
+            "explanation": "\"This new branch\" is the second branch mentioned in the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "The jobs section of our Web page, www.farleynorton.com.au, will be updated as positions (2)------- and are filled.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) invite",
+              "(B) occupy",
+              "(C) proceed",
+              "(D) arise"
+            ]
+          },
+          "answer": {
+            "text": "(D) arise",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Staff members interested in relocating (3)------- Human Resources Manager Geri Thompson-Howe.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) contacted",
+              "(B) had contacted",
+              "(C) should contact",
+              "(D) were to contact"
+            ]
+          },
+          "answer": {
+            "text": "(C) should contact",
+            "explanation": "Past tense is not suitable to be used in this email"
+          }
+        },
+        {
+          "question": {
+            "text": "We look forward to this new (4)------- in our company's future. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) client",
+              "(B) period",
+              "(C) service",
+              "(D) employee"
+            ]
+          },
+          "answer": {
+            "text": "(B) period",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26c4"
+    },
+    {
+      "question": {
+        "text": "To Jettizon Printing Clients:<br><br>Last April, Jettizon management determined that it was necessary to migrate to a new e-mail system. The Jettizon team completed the transition yesterday. The decision (1)------ to upgrade this week to avoid disruption during our busy winter season.<br>We expect that this change will be barely (2)------- to our clients. There may, however, be minor delays in response times (3)------- our employees become familiar with the new system. (4)-------. Please do not hesitate to contact your Jettizon account representative with any questions or concerns. Thank you for your understanding.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The decision (1)------ to upgrade this week to avoid disruption during our busy winter season",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) makes",
+              "(B) making",
+              "(C) will be made",
+              "(D) was made"
+            ]
+          },
+          "answer": {
+            "text": "(D) was made",
+            "explanation": "The subject is \"The decision\" => use passive voice"
+          }
+        },
+        {
+          "question": {
+            "text": "We expect that this change will be barely (2)------- to our clients. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) average",
+              "(B) sufficient",
+              "(C) noticeable",
+              "(D) tolerable"
+            ]
+          },
+          "answer": {
+            "text": "(C) noticeable",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "There may, however, be minor delays in response times (3)------- our employees become familiar with the new system.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) by",
+              "(B) as",
+              "(C) next",
+              "(D) unlike"
+            ]
+          },
+          "answer": {
+            "text": "(B) as",
+            "explanation": "Based on the meaning of sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "(4)-------. Please do not hesitate to contact your Jettizon account representative with any questions or concerns.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  This is recommended for established clients.",
+              "(B) The team deserves to be congratulated for this achievement.",
+              "(C) We appreciate your patience in the coming days.",
+              "(D) Take a few minutes to review the new procedures."
+            ]
+          },
+          "answer": {
+            "text": "(C) We appreciate your patience in the coming days.",
+            "explanation": "The previous sentence mentions \"there may be minor delays in response times\" => \"appreciate your patience\""
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26c7"
+    },
+    {
+      "question": {
+        "text": "<b>B-B Chang international to buy Sieng Technology</b> <br> SINGAPORE—B-B Chang International (BBCI) announced Wednesday that <b> (1) </b> ______  would buy Sieng Technology in a deal valued at $450 million.<br>A spokesperson for BBCI said the company expects to double its profits by the end of next year. It will accomplish this by marking full use of Sieng’s recently updated production facilities. <b> (2) </b> ______.<br> Financial experts believe the Sieng acquisition will make BBCI the world’s leading producer of circuits. “They will be well ahead of their <b> (3) </b> ______,” said top analyst Rhoda Sutton.<br>B-B Chang plans to maintain Sieng's current workforce, with each of Sieng's factories continuing normal operations for the next five years.  <b> (4) </b> ______.  BBCI will evaluate whether additional staff are needed.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "SINGAPORE—B-B Chang International (BBCI) announced Wednesday that <b> (1) </b> ______  would buy Sieng Technology in a deal valued at $450 million",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) it",
+              "(B) he",
+              "(C) those",
+              "(D) someone"
+            ]
+          },
+          "answer": {
+            "text": "(A) it",
+            "explanation": "We use \"it\" to refer to \"B-B Chang International (BBCI)\""
+          }
+        },
+        {
+          "question": {
+            "text": "It will accomplish this by marking full use of Sieng’s recently updated production facilities. <b>(2)</b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Offers from other firms were rejected.",
+              "(B) All four are operating at maximum capacity.",
+              "(C) Another company will be acquired next year.",
+              "(D) The transaction should improve morale."
+            ]
+          },
+          "answer": {
+            "text": "(B) All four are operating at maximum capacity.",
+            "explanation": "The previous  sentence mentions \"production facilities\" => this sentence mentions \"All four are operating at maximum capacity\""
+          }
+        },
+        {
+          "question": {
+            "text": "“They will be well ahead of their <b> (3) </b> ______,” said top analyst Rhoda Sutton.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) critics",
+              "(B) suppliers",
+              "(C) investors",
+              "(D) competitors"
+            ]
+          },
+          "answer": {
+            "text": "(D) competitors",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "B-B Chang plans to maintain Sieng's current workforce, with each of Sieng's factories continuing normal operations for the next five years.  <b> (4) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) After all",
+              "(B) After that time",
+              "(C) As you requested",
+              "(D) As a matter of fact"
+            ]
+          },
+          "answer": {
+            "text": "(B) After that time",
+            "explanation": "The previous sentence mentions \"for the next five years\" => B is correct"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26c9"
+    },
+    {
+      "question": {
+        "text": "To: Dominic Campion (campion571 @emaii.co.uk)<br> From:  Customer Service (cust-serv@takada.co.jp)<br> Date: Friday, 2 November 9:49 P,M. <br>Subject: Web site inquiry<br><br>Dear Mr. Campion<br>Thank you for your recent comment on our Web site about the instruction manual for the BX2000 miniature camera. We agree with you <b> (1)</b> _____ the instructions for uploading pictures to a mobile phone are potentially confusing. <b> (2)</b> _____. Our documentation team has <b> (3)</b> _____ revised the section to clarify the type of cable and software needed in order to transfer pictures from your camera. You can find the <b> (4)</b> _____  version of the manual in the Product Information section of our Web site, or we can send you a print version in the mail if you prefer. Delivery usually takes 1 to 2 weeks. <br><br>Sincerely, <br><br>Madoka Kanemitsu <br>Customer service representative <br>Takada Camera Company",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We agree with you <b> (1)</b> _____ the instructions for uploading pictures to a mobile phone are potentially confusing.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) that",
+              "(B) on",
+              "(C) what",
+              "(D) Of"
+            ]
+          },
+          "answer": {
+            "text": "(A) that",
+            "explanation": "agree that + clause"
+          }
+        },
+        {
+          "question": {
+            "text": "We agree with you _____ the instructions for uploading pictures to a mobile phone are potentially confusing. <b> (2)</b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The BX2000 camera is one of our top-selling models.",
+              "(B) Instruction manuals can be downloaded from our Web site.",
+              "(C) We received similar feedback from other customers.",
+              "(D) We are always looking for talented staff to join our team."
+            ]
+          },
+          "answer": {
+            "text": "(C) We received similar feedback from other customers.",
+            "explanation": "Based on the previous sentence. \"instructions ..... are potentially confusing\" leads to \"similar feedback from other customers\""
+          }
+        },
+        {
+          "question": {
+            "text": "Our documentation team has <b> (3)</b> _____ revised the section to clarify the type of cable and software needed in order to transfer pictures from your camera.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) instead",
+              "(B) likewise",
+              "(C) therefore",
+              "(D) nevertheless"
+            ]
+          },
+          "answer": {
+            "text": "(C) therefore",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "You can find the <b> (4)</b> _____  version of the manual in the Product Information section of our Web site, or we can send you a print version in the mail if you prefer.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) original",
+              "(B) updated",
+              "(C) absolute",
+              "(D) focused"
+            ]
+          },
+          "answer": {
+            "text": "(B) updated",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26cb"
+    },
+    {
+      "question": {
+        "text": "To: jaredkho@pharmacon.com.au <br>From: angelazucker@umedvic.edu.au<br>Date: 22 June <br>Subject: Thanks! <br><br>Dear Dr. Kho, <br>Thanks for <b> (1) </b>______  our laboratory yesterday. As always, your expertise <b> (2) </b>______.  Our technicians especially benefited from your demonstration of the updated imaging systems, as well as from the general discussion of principles behind the technological advances in the lab setting. <br>Over the next few months, I will be hiring several more technicians. Would  <b> (3) </b>______  be available to lead another session in October? <b> (4) </b>______ . Please let me know so we can discuss the details. <br><br>Sincerely, <br>Angela Zucker",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Thanks for <b> (1) </b>______  our laboratory yesterday.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) calling",
+              "(B) opening",
+              "(C) visiting",
+              "(D) staffing"
+            ]
+          },
+          "answer": {
+            "text": "(C) visiting",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "As always, your expertise <b> (2) </b>______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) appreciates",
+              "(B) will be appreciated",
+              "(C) is appreciating",
+              "(D) was appreciated"
+            ]
+          },
+          "answer": {
+            "text": "(D) was appreciated",
+            "explanation": "This sentence is about actions yesterday. The subject is \"expertise \" => use past simple in passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "Would  <b> (3) </b>______  be available to lead another session in October?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) theirs",
+              "(B) yours",
+              "(C) you",
+              "(D) they"
+            ]
+          },
+          "answer": {
+            "text": "(C) you",
+            "explanation": "Based on the meaning of pronouns"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (4) </b>______ . Please let me know so we can discuss the details.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Many of the candidates seem very promising.",
+              "(B) If so, it would be a great help to the new employees.",
+              "(C) With your input, the process will be quick.",
+              "(D) These technicians adhere to strict regulations."
+            ]
+          },
+          "answer": {
+            "text": "(B) If so, it would be a great help to the new employees.",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26cd"
+    },
+    {
+      "question": {
+        "text": "<b> Treviso Inn: Reservations</b><br> We recommend reservations because hotel accommodations in Treviso are very <b> (1) </b> ______. <br> Reservations will be held with a one-night deposit or 50 percent of total room charges for stays of longer than one night. Cancellations made more than seven days prior to your scheduled arrival date  <b> (2) </b> ______   in full. If, for some reason, a reservation must be cancelled within one week of your scheduled arrival date, charges for the entire <b> (3) </b> ______  of your stay will be billed to you. <b> (4) </b> ______ .",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We recommend reservations because hotel accommodations in Treviso are very <b> (1) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) limitation",
+              "(B) limit",
+              "(C) limits",
+              "(D) limited"
+            ]
+          },
+          "answer": {
+            "text": "(D) limited",
+            "explanation": "The blank comes after \"are\" => \"limited\" is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "Cancellations made more than seven days prior to your scheduled arrival date  <b> (2) </b> ______   in full.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will be refunded",
+              "(B) were refunded",
+              "(C) are refunding",
+              "(D) had been refunding"
+            ]
+          },
+          "answer": {
+            "text": "(A) will be refunded",
+            "explanation": "Future tense is the most suitable in this sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "If, for some reason, a reservation must be cancelled within one week of your scheduled arrival date, charges for the entire <b> (3) </b> ______  of your stay will be billed to you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) area",
+              "(B) degree",
+              "(C) length",
+              "(D) week"
+            ]
+          },
+          "answer": {
+            "text": "(C) length",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "If, for some reason, a reservation must be cancelled within one week of your scheduled arrival date, charges for the entire ______  of your stay will be billed to you. <b> (4) </b> ______ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Hotel guests are welcome to use our fitness center",
+              "(B) This policy applies to early departures as well,",
+              "(C) In addition, we will soon open another hotel in Treviso.",
+              "(D) We hope that you have enjoyed your stay."
+            ]
+          },
+          "answer": {
+            "text": "(B) This policy applies to early departures as well,",
+            "explanation": "The previous sentence mentions \"arrival date\" => This sentence is about \"early departures\""
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26d3"
+    },
+    {
+      "question": {
+        "text": "To: saul_ortega@jmail.net<br>From: k_morris@tknmanufacturing.com<br>Date: October 18<br>Subject: Factory Manager position<br><br>Dear Mr. Ortega, <br>You are officially invited to a second interview. This time, I will be meeting only with the top candidates to determine who is most <b> (1)</b> _____  for the manager position. I believe you possess many of the <b> (2)</b> _____  we are looking for. <br>I trust that you remain interested in this job opportunity.  <b> (3)</b> _____ , would a 1:00 P.M. appointment next Tuesday work for you? Please prepare a proposal that explains how you would increase production at our plant without decreasing quality. <b> (4)</b> _____.<br><br>Best regards, <br>Karen Morris <br>TKN Manufacturing",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This time, I will be meeting only with the top candidates to determine who is most <b> (1)</b> _____  for the manager position.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) suiting",
+              "(B) suitable",
+              "(C) suit",
+              "(D) suits"
+            ]
+          },
+          "answer": {
+            "text": "(B) suitable",
+            "explanation": "The blank comes after \"is\" => use adjective"
+          }
+        },
+        {
+          "question": {
+            "text": "I believe you possess many of the <b> (2)</b> _____  we are looking for.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) agreements",
+              "(B) performances",
+              "(C) qualities",
+              "(D) promotions"
+            ]
+          },
+          "answer": {
+            "text": "(C) qualities",
+            "explanation": "This email is about job interview => \"qualities\" is the most suitable answer"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3)</b> _____ , would a 1:00 P.M. appointment next Tuesday work for you?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Despite that",
+              "(B) If so",
+              "(C) However",
+              "(D) For example"
+            ]
+          },
+          "answer": {
+            "text": "(B) If so",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "Please prepare a proposal that explains how you would increase production at our plant without decreasing quality. <b> (4)</b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I would certainly be happy to write a job reference for you.",
+              "(B) My assistant will train you in your new duties.",
+              "(C) I look forward to hearing your vision for an efficient workplace.",
+              "(D) Your new product ideas were especially informative."
+            ]
+          },
+          "answer": {
+            "text": "(C) I look forward to hearing your vision for an efficient workplace.",
+            "explanation": "Based on the previous sentence"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26d5"
+    },
+    {
+      "question": {
+        "text": "BRENTON (March 22) – Yesterday, Brenton Railway won a $37 million grant from the Federal Transit Agency. Thanks to the <b> (1) </b>______, construction of the proposed train terminal in Kirk Valley can now begin. <br>The expansion of the rail system is certainly good news for many in the community. <b> (2) </b>______. Drivers, too, are pleased about the grant. Edgar Simental <b> (3) </b>______  lives  near the planned Kirk Valley Station, says “What a relief for commuters like me. We have had to endure steadily worsening road traffic <b> (4) </b>______  some time now. I anticipate taking the train instead of my car to work every day as soon as the station opens.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Thanks to the <b> (1) </b>______, construction of the proposed train terminal in Kirk Valley can now begin.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) funding",
+              "(B) policy",
+              "(C) design",
+              "(D) strategy"
+            ]
+          },
+          "answer": {
+            "text": "(A) funding",
+            "explanation": "Based on the meaning of words and the previous sentence mentions: \"Brenton Railway won a $37 million grant from the Federal Transit Agency.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The expansion of the rail system is certainly good news for many in the community. <b>(2)</b>______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Riders will no longer be able to park their cars at the terminal.",
+              "(B) Officials have confirmed that construction has been postponed indefinitely.",
+              "(C) The cost of a monthly train pass, however, is expected to increase.",
+              "(D) The project will create about 75 permanent jobs at the station."
+            ]
+          },
+          "answer": {
+            "text": "(D) The project will create about 75 permanent jobs at the station.",
+            "explanation": "The previous mentions \"the expansion of the rail system is certainly good news for many in the community\" => D is the right answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Drivers, too, are pleased about the grant. Edgar Simental <b>(3)</b>______  lives near the planned Kirk Valley Station, says “What a relief for commuters like me.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) likewise",
+              "(B) another",
+              "(C) then",
+              "(D) who"
+            ]
+          },
+          "answer": {
+            "text": "(D) who",
+            "explanation": "We need\"who\" to modify Edgar Simental in relative clause \"..lives near the planned Kirk Valley Station\""
+          }
+        },
+        {
+          "question": {
+            "text": "We have had to endure steadily worsening road traffic <b>(4)</b>______  some time now.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) for",
+              "(B) with",
+              "(C) about",
+              "(D) on"
+            ]
+          },
+          "answer": {
+            "text": "(A) for",
+            "explanation": "for + time period"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26d8"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Laptop Funds Approved</strong></p> <p>New technology <b> (1) </b> ______ to the students of Fairmont. On Tuesday, Mayor Suzanne Kuiper announced that her Tech Now proposal was approved by the Board of Supervisors. <b> (2) </b> ______.<br /> The program allots $35,000 to each school in the city for the purchase of laptop computers. Students will be allowed to take home the laptops <b> (3) </b> ______ of the time for special assignments and class projects, but they will normally be available to the students only <b> (4) </b> ______ school hours.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "New technology  <b> (1) </b> ______  to the students of Fairmont",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) came",
+              "(B) was coming",
+              "(C) is coming",
+              "(D) comes"
+            ]
+          },
+          "answer": {
+            "text": "(C) is coming",
+            "explanation": "New technology => use future simple tense"
+          }
+        },
+        {
+          "question": {
+            "text": "On Tuesday, Mayor Suzanne Kuiper announced that her Tech Now proposal was approved by the Board of Supervisors. <b> (2) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The vote took place on Monday, June 2.",
+              "(B) The laptops will be purchased at a discount rate.",
+              "(C) The final decision is highly anticipated.",
+              "(D) Nevertheless, the mayor remains content with the decision."
+            ]
+          },
+          "answer": {
+            "text": "(A) The vote took place on Monday, June 2.",
+            "explanation": "The previous sentence mentions \"her Tech Now proposal was approved...\" => A is correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Students will be allowed to take home the laptops <b> (3) </b> ______   of the time for special assignments and class projects, but they will normally be available to the students only _____  school hours.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) some",
+              "(B) many",
+              "(C) none",
+              "(D) all"
+            ]
+          },
+          "answer": {
+            "text": "(A) some",
+            "explanation": "The noun is \"time\" => choose \"some\" or \"all\". Based on the meaning, \"some\" is more suitable. "
+          }
+        },
+        {
+          "question": {
+            "text": "Students will be allowed to take home the laptops ______   of the time for special assignments and class projects, but they will normally be available to the students only <b> (4) </b> ______  school hours.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) at",
+              "(B) on",
+              "(C) during",
+              "(D) with"
+            ]
+          },
+          "answer": {
+            "text": "(C) during",
+            "explanation": "during + time period"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26db"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "EASY",
+  "id": "626441a8eccc8cae769c26e4"
+}

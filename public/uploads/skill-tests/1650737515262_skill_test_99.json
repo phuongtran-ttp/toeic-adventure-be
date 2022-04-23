@@ -1,0 +1,769 @@
+{
+  "name": "Skill Test 99",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "194320712-1578902461122.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/194320712-1578902461122.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0078"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: Sorry to bother you, but I’m wondering if either of you remember someone named James Pullman? <b> Q1 He worked here at the newspaper a few months ago. </b><br>M-Au: That name doesn’t sound familiar. Why? <br>W-Am: Someone from Colby Media called today. James applied for a job there, and he listed our newspaper agency as his last place of employment. <b> Q2&3 They aked for a recommendation, but I never actually worked with him. </b><br>M-Cn: James Pullman? I remember James. He was one of our staff photograpers for about a year. He was very talented. <br>W-Am: Well, would you mind providing the recommendation then? <br>M-Cn: Sure, I’d be happy to, by I wish he had contacted one of us directly. That’s the usual procedure. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a radio station",
+              "(B)At a recording studio",
+              "(C)At an electronics manufacturer",
+              "(D)At a newspaper"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a newspaper",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why did colby media contact the speakers' workplace?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To offer a training workshop",
+              "(B)To promote some new products",
+              "(C)To request some photographs",
+              "(D)To ask for a reference"
+            ]
+          },
+          "answer": {
+            "text": "(D)To ask for a reference",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman imply when she says. \"I never actually worked with him\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She cannot fulfill a request.",
+              "(B)She would prefer to work alone.",
+              "(C)She is surprised a colleague is leaving.",
+              "(D)She is disappointed with an assignment."
+            ]
+          },
+          "answer": {
+            "text": "(A)She cannot fulfill a request.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c007a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "870185745-1566622060042-62.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/870185745-1566622060042-62.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769c007d"
+          }
+        ],
+        "sound": [
+          {
+            "name": "802811917-1578902489685.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/802811917-1578902489685.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c007f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Excuse me, are you ready to order lunch, or are you waiting for someone else to arrive? <br>W-Am: Oh, I’m ready to order. I’m eating alone – <b> Q1 I’m preparing for a meeting this afternoon, and I need somewhere quiet to work. </b><br>M-Au: Of course. What would you like? <br>W-Am: <b> Q2 I’m interested in the daily special. </b>Can you tell me what it is? <br>M-Au: Today it’s a small cheese pizza and a beverage. <br>W-Am: Oh, <b> Q2 I think that’s what I’ll get. </b> And by the way, since I’ll be working on my laptop here, <b> Q3 can I have the password for the restaurant’s wireless Internet? </b><br>M-Au: Sure, <b> Q3 it’s on the back of the menu. </b><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does the woman say she is at the restaurant?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To celebrate a contract",
+              "(B)To evaluate a business",
+              "(C)To prepare for a meeting",
+              "(D)To interview for a job"
+            ]
+          },
+          "answer": {
+            "text": "(C)To prepare for a meeting",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much will the woman pay for the item?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)$9.99",
+              "(B)$5.00",
+              "(C)$3.50",
+              "(D)$6.99"
+            ]
+          },
+          "answer": {
+            "text": "(D)$6.99",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say is on the back of the menu?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A dessert list",
+              "(B)A password",
+              "(C)A web site address",
+              "(D)Nutrition information"
+            ]
+          },
+          "answer": {
+            "text": "(B)A password",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0081"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "660126609-1566622078560-65.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/660126609-1566622078560-65.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769c0084"
+          }
+        ],
+        "sound": [
+          {
+            "name": "371387621-1578902516657.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/371387621-1578902516657.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0086"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: Let’s talk about November’s cover. <b> Q1 This month’s issue is about trends in smartphoen technology, </b> and we’re selected our cover photo for that. Now, which stories should be mentioned on the cover? <br>M-Au: Reiko is working on a story about teaching people how to develop their own applications for smartphones. <br>W-Br: Oh, that’s a good angle. But do you think that’s cover-page material? <br>M-Au: It’s got an educational theme, and she’s interviewed people from many age groups for the story. <b> Q2 I think it’ll be attract a lot of readers who don’t normally buy our magazine. </b><br>W-Br: Good point. <b> Q3 Let’s put Reiko’s headline just below the cover photo</b>. Any ideas for which stories to put on the sides of the center photo? <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the woman, what is the topic of this month's issue?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Mobile phone technology",
+              "(B)Computer training classes",
+              "(C)Improving photography skills",
+              "(D)Online self-publishing tips"
+            ]
+          },
+          "answer": {
+            "text": "(A)Mobile phone technology",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the man, why should Reiko's story be included on the cover?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Reiko is a famous writer.",
+              "(B)The photos are colorful.",
+              "(C)The topic could attract new readers.",
+              "(D)The story is time-sensitive."
+            ]
+          },
+          "answer": {
+            "text": "(C)The topic could attract new readers.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where will be the title of Reiko's story be?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In text box 1",
+              "(B)In text box 2",
+              "(C)In text box 3",
+              "(D)In text box 4"
+            ]
+          },
+          "answer": {
+            "text": "(D)In text box 4",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0088"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "676769127-1566622096572-68.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/676769127-1566622096572-68.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769c008b"
+          }
+        ],
+        "sound": [
+          {
+            "name": "734613683-1578902542755.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/734613683-1578902542755.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c008d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Excuse me. I bought some camping supplies earlier this year, and <b> Q1 I was sure the store I bought them from was right here. </b><br>W-Br: Well, our store’s just been at this location for a couple of months. <b> Q2 The one that was here before – Amir’s Outdoor Equipment  - moved right next door. This shop was just too small for them. </b><br>M-Cn: Thanks. The owner, Amir, is such a great guy – I can always trust his recommendations. I’m hopng to buy a tent from him today. <br>W-Br: Well, <b> Q3 I know that today is his day off. </b> But his daughter manages the store when he’s not there. I’m sure she’ll help you find what you’re looking for. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man ask the woman about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The amount of a refund",
+              "(B)The location of a store",
+              "(C)The date of a delivery",
+              "(D)The name of a business owner"
+            ]
+          },
+          "answer": {
+            "text": "(B)The location of a store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where does the woman work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Eyeglass express",
+              "(B)Amir's Outdoor Equipment",
+              "(C)Gourmet Sampler",
+              "(D)Kid's Fashions"
+            ]
+          },
+          "answer": {
+            "text": "(A)Eyeglass express",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say about Amir?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He is moving aboad.",
+              "(B)He is not working today.",
+              "(C)He is starting a new job soon.",
+              "(D)He is hiring an assistant."
+            ]
+          },
+          "answer": {
+            "text": "(B)He is not working today.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c008f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "507702726-1584092306541.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/507702726-1584092306541.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c0092"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br: Mr Maksood. <b> Q1 Since you regularly buy bulk foods from us for your restaurant,</b> I wanted to tell you about a new product we’re selling Harcourt Black Beans. <br>M-Au: <b> Q2 You know, the black beans we use now are very flavorful, and that’s important to me. I worry that if we switch to a different brand, our dishes won’t taste as good.</b><br>W-Br: Well, several of our customers have tried Harcourt Black Beans, and they’ve been very happy—especially since the beans only cost three dollars per kilogram. <br>M-Au:<b> Q3 In that case, why don’t you add a ten- kilogram bag to my order this week so I can test them in my recipes?</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the man work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a delivery service",
+              "(B) At an advertising agency",
+              "(C) At a restaurant",
+              "(D) At a bank"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say is important to him?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Attracting new investors",
+              "(B) Meeting work schedules",
+              "(C) Opening a new location",
+              "(D) Using reliable brands"
+            ]
+          },
+          "answer": {
+            "text": "(D) Using reliable brands",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Check an inventory list",
+              "(B) Try a new product",
+              "(C) Ask some colleagues for advice",
+              "(D) Distribute some brochures"
+            ]
+          },
+          "answer": {
+            "text": "(B) Try a new product",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c0094"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "178693894-1584092330535.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/178693894-1584092330535.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c0097"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: <b> Q1 Marie, did you hear the news about our company merger with Geller Technical Solutions?</b> It’s scheduled to happen before the end of the year. <br>W-Am:  Yes, I saw that on the company Web site. <b> Q2 And we’ll have a new office, too. I was just talking to the regional manager who said that they're opening it soon.</b> Our combined department will be split between the existing New York office and the new one in Los Angeles, <br>M-Cn:  That’s true. I saw Mr. Endo this morning and he said <b> Q3 they’ll be flying our new colleagues here to New York next month so that we can all meet each other.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What change are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An updated vacation policy",
+              "(B) A technology upgrade",
+              "(C) A company merger",
+              "(D) An office renovation"
+            ]
+          },
+          "answer": {
+            "text": "(C) A company merger",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say will happen because of the change?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Managers will have to attend a workshop.",
+              "(B) Work hours will be more flexible.",
+              "(C)  An employee handbook will be revised.",
+              "(D) Another branch location wilt open."
+            ]
+          },
+          "answer": {
+            "text": "(D) Another branch location wilt open.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will take place next month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A product launch",
+              "(B) An annual survey",
+              "(C) Staff introductions",
+              "(D) Contract negotiations"
+            ]
+          },
+          "answer": {
+            "text": "(C) Staff introductions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c0099"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "164167024-1584092352711.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/164167024-1584092352711.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c009c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au: Laura, I have to reschedule our meeting on Monday. <b> Q1 I’ll be Toronto next week, preparing for the grand opening of our new store there. </b><br>W-Br: I understand. Getting the store ready for its big opening will keep you busy. But … <b> Q2 can we meet right when you get back? The quarterly budget needs to be finalized by the end of this month.</b><br>M-Au: Sure – I’ll be back in the office a week from Monday, so we can work on the budget that morning. <br>W-Br:  Thanks. By the way,  <b> Q3 I used to live in Toronto- I’d be happy to give you some recommendations for places to visit in your free time.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why will the man go to Toronto next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To organize a store opening",
+              "(B) To attend a training session",
+              "(C) To recruit job candidates",
+              "(D) To inspect production facilities"
+            ]
+          },
+          "answer": {
+            "text": "(A) To organize a store opening",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Arranging a travel itinerary",
+              "(B) Meeting a deadline",
+              "(C) Managing a team",
+              "(D) Giving an acceptance speech"
+            ]
+          },
+          "answer": {
+            "text": "(B) Meeting a deadline",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman offer the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tourism advice",
+              "(B) Assistance with a client",
+              "(C) A ride to the airport",
+              "(D) Financial recommendations"
+            ]
+          },
+          "answer": {
+            "text": "(A) Tourism advice",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c009e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "504218289-1584092378049.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/504218289-1584092378049.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00a1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn:  Aziz and Heather, <b> Q1 take a look at the layout for the next issue of our cooking magazine. I’m concerned about some photos.</b><br>M-Au: Sure. Which ones? <br>M-Cn: <b> Q2 The photos for the \"Science of Baking\" article, on pages 52 to 56. They look out of focus.</b><br>W-Am: Can I  take a look? … Hmm, <b> Q2 the fact that they’re blurry means they're probably low-resolution files.</b>  Are those the only versions of the photos the photographer sent us? <br>M-Au: I’m  checking on that right now in the original e-mail he sent … yep,  looks like it. <br>W-Am Okay. <b> Q3 I’ll  e-mail him and ask him to send better resolution files as soon as possible.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a cafe",
+              "(B) At a bookstore",
+              "(C) At a magazine publisher",
+              "(D) At an art gallery"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a magazine publisher",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem is being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Some images are blurry.",
+              "(B) Some customers are unhappy.",
+              "(C) An exhibit is incomplete,",
+              "(D) An event was canceled."
+            ]
+          },
+          "answer": {
+            "text": "(A) Some images are blurry.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Contact a photographer",
+              "(B) Write an article",
+              "(C) Update a Web site",
+              "(D) Revise a schedule"
+            ]
+          },
+          "answer": {
+            "text": "(A) Contact a photographer",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00a3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "218773272-1584092409322.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/218773272-1584092409322.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00a6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br: Hello, <b> Q1 I brought my car in to have the tires replaced, and I’ve been waiting for almost two hours. </b> Do you know when it will be ready? <br>M-Cn: I’m sorry. <b> Q2 One of  our technician is out sick today. We’re working as fast as we can, but there are still a few customers ahead of you.</b><br>W-Br:  Hmm' OK- <b> Q3 I have an appointment downtown this afternoon, and l'm worried that I might not make it</b>. I didn't realize this would take so long. <br>M-Cn:  <b> Q3 Actually, we have a shuttle that can take you there. If you add your name to this list, we’ll notify you when the shuttle is here.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the conversation taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a computer service center",
+              "(B) At a parking garage",
+              "(C) At a health clinic",
+              "(D) At an automobile repair shop"
+            ]
+          },
+          "answer": {
+            "text": "(D) At an automobile repair shop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the man mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A part is out of stock.",
+              "(B) A business is understaffed.",
+              "(C) A reservation has been lost.",
+              "(D) A route has a lot of traffic."
+            ]
+          },
+          "answer": {
+            "text": "(B) A business is understaffed.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman probably do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Cancel an appointment",
+              "(B) Take a shuttle",
+              "(C) Request a price estimate",
+              "(D) Contact a supervisor"
+            ]
+          },
+          "answer": {
+            "text": "(B) Take a shuttle",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00a8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "606180889-1584092431171.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/606180889-1584092431171.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00ab"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am: <b> Q1 Before we finish our meeting today, let's talk about the open position for customer support manager</b>. Jurgen, what do you think about our pool of candidates? <br>M-Cn:  We’ve received a lot of applications from outside the company, <b> Q2 but I hope we can give one of our current service representatives a chance to move up into management</b>. A few of them have applied too. <br>W-Am: OK. And Kristina, what do you think? <br>W-Br:  I agree with Jurgen. We had four of our own people apply for the position, <b> Q3 Why don’t we take another look at their most recent performance results to help us make a decision?</b>W-Am: Good idea. <b> Q3 Let me get their folders so we can start reviewing them.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Filling a job opening",
+              "(B) Planning a customer presentation",
+              "(C) Organizing a research committee",
+              "(D) Revising some sales figures"
+            ]
+          },
+          "answer": {
+            "text": "(A) Filling a job opening",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he hopes to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Change a vacation policy",
+              "(B) Move to a new facility",
+              "(C) Win a client contract",
+              "(D) Promote an employee"
+            ]
+          },
+          "answer": {
+            "text": "(D) Promote an employee",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speakers most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Watch a video",
+              "(B) Review some documents",
+              "(C) Contact a manager",
+              "(D) Submit some questions"
+            ]
+          },
+          "answer": {
+            "text": "(B) Review some documents",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00ad"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264416beccc8cae769c00b0"
+}

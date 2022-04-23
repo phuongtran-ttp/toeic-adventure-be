@@ -1,0 +1,678 @@
+{
+  "name": "Skill Test 292",
+  "questions": [
+    {
+      "question": {
+        "text": "<h3>MEMO</h3>To: New Products Department<br>From: Arianna Lee, Focus Group Coordinator<br>Date: October 12<br>Subject: Focus group number 4829<br><br>On October 10,1 conducted a formal taste test of the four new bottled iced tea drinks developed as summer specials. The flavors tested were Summer Raspberry, Fresh Mint, Fresh Mint with Lemon, and Hint of Peach. Several of you have been asking about the taste test, so I'd like to provide a brief summary.<br><br>Two groups with twelve participants each from the local area were selected at random. They met during the day of October 10 at an off-site location. Participants in the first group were given a sample of each flavor and asked to rate each sample on a scale of 1 to 10, with 1 signifying that the drink was not enjoyable at all and 10 signifying that the drink was highly enjoyable. Participants in the second group were given the same samples, but the samples were labeled by name. They were then asked to rate the samples on two scales from 1 to 10: how much they enjoyed the drink and how well it satisfied the expectation created by its name. The purpose of this test was to determine if the flavors of the drinks actually match the expectation created by the name of the product.<br><br>Results of the group taste test are being processed and analyzed and will be available next week. As always, the results are confidential, so my assistant will hand deliver a paper copy of the report directly to your offices rather than sending it as an e-mail attachment. Remember, our competition is eager to find out the results. If you think you need to share any details with anyone outside our department, please check with me first.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To share details about a product test",
+              "(B)To provide an opinion of one of the drinks",
+              "(C)To explain the results of a customer satisfaction survey",
+              "(D)To recommend changes to focus group procedures"
+            ]
+          },
+          "answer": {
+            "text": "(A)To share details about a product test",
+            "explanation": "Information can be inferred from the first paragraph."
+          }
+        },
+        {
+          "question": {
+            "text": "The word “rate” in paragraph 2, line 3, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)price",
+              "(B)judge",
+              "(C)deserve",
+              "(D)understand"
+            ]
+          },
+          "answer": {
+            "text": "(B)judge",
+            "explanation": "Based on the meaning to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "Why were some of the samples labeled?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "To communicate the task to participants",
+              "To compare the name of the drink to the taste",
+              "To help participants keep the drink Samples",
+              "To provide health information"
+            ]
+          },
+          "answer": {
+            "text": "To compare the name of the drink to the taste",
+            "explanation": "Information in the sentence: \"The purpose of this test was to determine if the flavors of the drinks actually match the expectation created by the name of the product.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned about the study?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Its participants were divided into groups.",
+              "(B)It was conducted by Ms. Lee's assistant,",
+              "(C)Its participants were selected by chance.",
+              "(D)It was held away from the corporation's offices."
+            ]
+          },
+          "answer": {
+            "text": "(B)It was conducted by Ms. Lee's assistant,",
+            "explanation": "\"Two groups with twelve participants each from the local area were selected at random.\" => Eliminate A&C<br>They met during the day of October 10 at an off-site location. => Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the memo, what will occur next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "More people will sample the drinks.",
+              "Results of the study will be available.",
+              "The drinks will be put on the market.",
+              "The procedure will be redesigned."
+            ]
+          },
+          "answer": {
+            "text": "Results of the study will be available.",
+            "explanation": "Information in the sentence: \"Results of the group taste test are being processed and analyzed and will be available next week.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2e92"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>Frank’s Auto Repair 112 Central Avenue</b><br>Customer Feedback Form</p><br>Your opinions are important to us. We will use the information collected in this survey to help improve our service. Please tell us how important each of the following factors is to you when you choose a business for automotive reap air. Circle a number from 1-6.<br><br>@PS@/kstoeic/images/924467_1484793094795.png@PE@<br><br>I’m not sure I understand what was wrong with the car, but the mechanics were able to fix it quickly and easily. The price was reasonable, too. But it would be helpful next time if I could get more information about the repair.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the customer consider unimportant when choosing a repair service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The location of the company",
+              "(B)The respect shown by the employees",
+              "(C)The experience of the company’s mechanics",
+              "(D)The price of the company's services"
+            ]
+          },
+          "answer": {
+            "text": "(A)The location of the company",
+            "explanation": "At the category of \"Convenient Location\", customer mark 2 (not important level) => Choose A"
+          }
+        },
+        {
+          "question": {
+            "text": "With which aspect of the service was the customer NOT satisfied?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The cost of the necessary parts",
+              "(B)The amount of information given about the repair work",
+              "(C)The amount of time needed to make the repairs",
+              "(D)The politeness of the employees"
+            ]
+          },
+          "answer": {
+            "text": "(B)The amount of information given about the repair work",
+            "explanation": "Customer marks \"No\" at \"Clearly explain the work your vehicle needed\" => Choose B"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the customer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The customer has been to the repair service more than once.",
+              "(B)The customer will not do business with Frank's Auto Repair again.",
+              "(C)The customer was satisfied with the repair costs.",
+              "(D)The customer knew what the problem was with the car."
+            ]
+          },
+          "answer": {
+            "text": "(C)The customer was satisfied with the repair costs.",
+            "explanation": "Customer marks \"Yes\" at \"Tell you the cost before repairing your vehicle? => Choose C"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2e94"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Rice Crop Expected to Reach Near-Record Levels</p></b><br>The National Department of Agriculture has reported that the nation’s farms are on pace to produce their second-largest annual rice crop and fourth - largest annual soybean crop ever. As a result, grain, prices are expected to drop across the nation over the next several months, according to the government’s economic advisory office.<br><br>The forecast is based on actual field visits and fanner surveys conducted by the department. Because of higher-than-average rainfall during the early summer planting season, previous estimates had been much lower than normal. But cooler, ideal weather since then has helped many of the nation’s farmers recover from June’s heavy rains. The department forecasts that farmers will harvest 4.3 billion bushels of rice, up more than. 670 million bushels from last month’s estimate of 3.6 billion. The new estimate is only 3 percent lower than last year’s record crop of 4.5 billion bushels.<br><br>That recovery is expected to lead to lower prices for rice and soybeans, two of the nation’s most important agricultural exports. That may provide some relief to meat producers who use rice and soybeans for feed, as well as for regular citizens who had expected to pay higher prices for rice and rice products at the supermarket. The department has lowered its estimate for soybeans slightly, to 2.97 billion bushels from 3 billion last month.<br><br>The new estimate is welcome news for many other businesses as well. High rice prices had cut deeply into profits for restaurant chains, for instance, since they spend a significant portion of their budget on rice and rice products.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is expected for rice production this year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It will be of better quality than last year’s crop.",
+              "(B)It will drop by 3 percent because of flooding.",
+              "(C)It will be higher than earlier forecasts.",
+              "(D)It will break records for the fourth year in a row."
+            ]
+          },
+          "answer": {
+            "text": "(C)It will be higher than earlier forecasts.",
+            "explanation": "Information in the sentence: \"The department forecasts that farmers will harvest 4.3 billion bushels of rice, up more than. 670 million bushels from last month’s estimate of 3.6 billion.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is NOT mentioned as being affected by grain prices?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Meat producers",
+              "(B)Supermarket shoppers",
+              "(C)Soybean packagers",
+              "(D)Restaurant owners"
+            ]
+          },
+          "answer": {
+            "text": "(C)Soybean packagers",
+            "explanation": "\"That may provide some relief to meat producers who use rice and soybeans for feed, as well as for regular citizens who had expected to pay higher prices for rice and rice products at the supermarket.\" => Eliminate A&B<br>\"High rice prices had cut deeply into profits for restaurant chains\" => Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2e98"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> MEMORANDUM</p></b><br><b>DATE:</b> January 28<br><b>TO:</b> Building M community<br><b>FROM:</b> Janis Ting, Director of the Office Space Committee<br> <b>SUBJECT:</b> Jay Voon Auditorium Renovation<br><br>We wanted to alert you to the fact that the renovation of the Jay Voon Auditorium, the first phase of a two-phase project, will begin in mid-February. The second phase, reconstruction of the first-floor offices adjacent to the auditorium, could begin as early as August, with an intended completion date of late November.<br><br>A project of this scope, in such a central location, will necessarily cause a certain degree of disruption to our community, and every effort will be made to minimize this disruption. Plans have already been made to provide alternative venues during renovation; for those of you who anticipate needing to schedule events for these alternative venues, inform Lidia Ibrahim(ext. 3372, librahim@m.galleries.com) as soon as possible.<br><br>Should these time lines change in any way as this work progresses, we will keep the community informed.<br><br>We greatly appreciate your patience as we continue to enhance our facilities.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the memo written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To announce alternative venues",
+              "(B)To warn about possible disruptions",
+              "(C)To revise the schedule for a project",
+              "(D)To inform employees about new staff"
+            ]
+          },
+          "answer": {
+            "text": "(B)To warn about possible disruptions",
+            "explanation": "Information can be inferred from: \"We wanted to alert you to the fact that the renovation of the Jay Voon Auditorium, the first phase of a two-phase project, will begin in mid-February.\" and \"A project of this scope, in such a central location, will necessarily cause a certain degree of disruption to our community, and every effort will be made to minimize this disruption.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the second phase of the renovation involve?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Adding another floor",
+              "(B)Reconstructing office space",
+              "(C)Centralizing event facilities",
+              "(D)Upgrading an adjacent building"
+            ]
+          },
+          "answer": {
+            "text": "(B)Reconstructing office space",
+            "explanation": "Information in the sentence: \"The second phase, reconstruction of the first-floor offices adjacent to the auditorium, could begin as early as August, with an intended completion date of late November.\""
+          }
+        },
+        {
+          "question": {
+            "text": "When is the project expected to be completed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In January",
+              "(B)In February",
+              "(C)In August",
+              "(D)In November"
+            ]
+          },
+          "answer": {
+            "text": "(D)In November",
+            "explanation": "Information in the sentence: \"The second phase, reconstruction of the first-floor offices adjacent to the auditorium, could begin as early as August, with an intended completion date of late November.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2e9a"
+    },
+    {
+      "question": {
+        "text": "This month, we take a look at Purity Air’s Z320 100- centimeter Industrial Floor Fan. Our product reviewers found that the Z320 does a good job of eliminating stale air in machine shops, garages, factories, and construction areas. The unit is substantial, and at 28 kilograms, it is certainly not easy to lift. However, its steel frame does make it solid and durable for industrial use. The motor is completely enclosed, which allows the fan to run more quietly than many comparable products. <br> <br> Our reviewers did, however, notice some things that could be improved. While the Z32Q’s HP motor and tapered aluminum blades allow for strong airflow, its three-speed setting is problematic. The three speeds are too similar; all of them make the unit seem like it is running on a high speed. Secondly, it comes with wall-mounting brackets, but our reviewers felt that a larger bracket with stronger anchors was needed to mount a unit of such weight properly and safely. Finally, the one- year warranty covers only a select number of replacement parts, whereas similar fans manufactured by other companies include a more comprehensive warranty. This is an important issue that may well cost Purity Air some sales.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To compare two similar products",
+              "(B)To explain how to operate a product",
+              "(C)To evaluate a product",
+              "(D)To promote a product"
+            ]
+          },
+          "answer": {
+            "text": "(C)To evaluate a product",
+            "explanation": "Information can be inferred from: \"Our product reviewers found that the Z320 does a good job of eliminating stale air in machine shops, garages, factories, and construction areas.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In paragraph 1, line 5, the word \"substantial\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)sturdy",
+              "(B)real",
+              "(C)important",
+              "(D)wealthy"
+            ]
+          },
+          "answer": {
+            "text": "(A)sturdy",
+            "explanation": "Based on the meaning to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article suggest about the Z320?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is noisy,",
+              "(B)It has wheels for portability.",
+              "(C)It is cheaper than comparable products.",
+              "(D)It is heavy."
+            ]
+          },
+          "answer": {
+            "text": "(D)It is heavy.",
+            "explanation": "Information can be inferred from: \"The unit is substantial, and at 28 kilograms, it is certainly not easy to lift.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is implied about industrial fans?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They should not be mounted on walls.",
+              "(B)Replacement parts for them can be hard to find.",
+              "(C)They should not be operated at a high speed.",
+              "(D)Some do not have enclosed motors."
+            ]
+          },
+          "answer": {
+            "text": "(D)Some do not have enclosed motors.",
+            "explanation": "Information can be inferred from: \"The motor is completely enclosed, which allows the fan to run more quietly than many comparable products.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned as a disadvantage of the product?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is difficult to dean.",
+              "(B)It has a limited warranty.",
+              "(C)It is easily damaged by moisture.",
+              "(D)It uses a lot of energy."
+            ]
+          },
+          "answer": {
+            "text": "(B)It has a limited warranty.",
+            "explanation": "Information can be inferred from: \"Finally, the one- year warranty covers only a select number of replacement parts, whereas similar fans manufactured by other companies include a more comprehensive warranty.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2e9e"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Thank you for dining at Callaghan's !</p></b><br>For a chance to win a Callaghan's gift card, please use the survey form below and tell us what you think about your visit. Forms must be completed in full to be entered in the monthly drawing.<br><br>Name: ____________<br>Telephone number or e-mail address: _____________<br>Meal: &nbsp; &nbsp; &nbsp; [ ] Breakfast&nbsp; &nbsp; &nbsp; [   ] Lunch&nbsp; &nbsp; &nbsp; [   ] Dinner<br>Quality of food: [   ] Excellent&nbsp; &nbsp; &nbsp; [   ] Good&nbsp; &nbsp; &nbsp; [ ] Fair&nbsp; &nbsp; [   ] Poor<br><br>What else did you enjoy about your dining experience?<br>[   ] Watching the large-screen TV&nbsp; &nbsp; &nbsp; [    ] Listening to musicians<br>[   ] Relaxing on the garden patio&nbsp; &nbsp; &nbsp; [    ] Service&nbsp; &nbsp; &nbsp; [   ] Other:________<br><br>Please leave this form in the box at the front register or with a member of the waitstaff. We hope to see you again soon.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What must a customer do to be eligible to win a gift card?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Have a wait staff  member sign the survey",
+              "(B)Submit a completed survey",
+              "(C)Join the Callaghan’s mailing list",
+              "(D)Refer another customer to Callaghan’s"
+            ]
+          },
+          "answer": {
+            "text": "(B)Submit a completed survey",
+            "explanation": "Information in the sentence: \"Forms must be completed in full to be entered in the monthly drawing.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned on the Callaghan’s survey form?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Live entertainment",
+              "(B)Daily specials",
+              "(C)Outdoor dining",
+              "(D)Lunchtime service"
+            ]
+          },
+          "answer": {
+            "text": "(B)Daily specials",
+            "explanation": "Listening to musicians => Eliminate A<br> Relaxing on the garden patio=> Eliminate C<br> Service => Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ea0"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>ANNOUNCING…<br><i>A Talk by Ami Wibowo,<br>Chief Curator of Mustika Museum</i></b><br><b>Date & Time:</b> February 2, 10:00 am-12 noon<br><b>Location</b>: Mustika Museum, Conference Room J1<br>Kramat Raya 81, Jakarta</p><br>Bio: Ami Wibowo has been the chief curator of the Mustika Museum, the oldest museum of Indonesian art and artifacts, since 1987. She holds a Master of Arts degree from Surabaya University and has been promoting the country's culture and heritage since 1971. She is cochair of the National Heritage Commission and currently serves as the chair of the ASEAN Culture Foundation. She also started the annual Pan-Indonesian Art Conference in Jakarta.<br><br>Under her leadership, Mustika Musemn has developed several award-winning services, ranging from the “Museums as Classrooms” program to International exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons\" which is receiving overwhelmingly positive reviews in New York.<br><br>Ms. Wibowo is frequently featured in art journals and on radio and television talk shows. Among her many publications is the international best seller, <i>Postcards from the Far East.</i><br><br>For more information, please call the Ministry of Culture at 555-3003 and speak to Benny Sutrisno.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To advertise an event",
+              "(B)To announce a new exhibit",
+              "(C)To publicize a new museum",
+              "(D)To remind participants about a trip"
+            ]
+          },
+          "answer": {
+            "text": "(A)To advertise an event",
+            "explanation": "\"A Talk by Ami Wibowo,<br>Chief Curator of Mustika Museum<br>Date & Time: February 2, 10:00 am-12 noon<br>Location: Mustika Museum, Conference Room J1<br>Kramat Raya 81, Jakarta\" => Choose A"
+          }
+        },
+        {
+          "question": {
+            "text": "Which of the following is NOT an international exhibition?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Hornbills and Dragons",
+              "(B)Masks of the Java Seas",
+              "(C)A Transcultural Mosaic",
+              "(D)Museums as Classrooms 174"
+            ]
+          },
+          "answer": {
+            "text": "(D)Museums as Classrooms 174",
+            "explanation": "\"ranging from the “Museums as Classrooms” program to International exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons\" which is receiving overwhelmingly positive reviews in New York.\" => Eliminate A, B & C"
+          }
+        },
+        {
+          "question": {
+            "text": "Where will Ami Wibowo be speaking?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At Mustika Museum",
+              "(B)At the Pan-Indonesian Art Conference",
+              "(C)At Surabaya University",
+              "(D)At the Ministry of Culture"
+            ]
+          },
+          "answer": {
+            "text": "(A)At Mustika Museum",
+            "explanation": "Information can be inferred from: \"\"A Talk by Ami Wibowo,<br>Chief Curator of Mustika Museum<br>Date & Time: February 2, 10:00 am-12 noon<br>Location: Mustika Museum, Conference Room J1<br>Kramat Raya 81, Jakarta\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is one of Ami Wibowo’s achievements?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She is the founder of Mustika Museum.",
+              "(B)She wrote Postcards from the Far East.",
+              "(C)She is a professor at Surabaya University.",
+              "(D)She started a broadcasting company."
+            ]
+          },
+          "answer": {
+            "text": "(B)She wrote Postcards from the Far East.",
+            "explanation": "Information in the sentence: \"Among her many publications is the international best seller, Postcards from the Far East.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ea2"
+    },
+    {
+      "question": {
+        "text": "www. villaraval.co.es/features<br><b><p align=\"center\"> Villa Raval</p></b><br><b>Our hotel offers:</b><br>-  Beautiful guest rooms with city views <br>- Free wireless Internet access in each room<br>-  An award-winning restaurant, <i>Cafe Azul</i>, serving lunch and dinner <br>- Banquet and meeting rooms for up to 60 people<br>- Ten percent off your bill at the on-site spa and restaurant<br>- Vouchers for reduced admission to the aquarium, the zoo, and nearby museums<br><br><u>Click here</u> to make your reservation or call +34 93 555 0142.<br>Villa Raval • La Rambla, 555 • 08022 Barcelona",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Villa Raval?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It no longer accepts reservations by phone.",
+              "(B)It is located in a historic area of the city.",
+              "(C)It includes space for business functions.",
+              "(D)It charges a small fee for Internet access."
+            ]
+          },
+          "answer": {
+            "text": "(C)It includes space for business functions.",
+            "explanation": "Information can be inferred from: \"meeting rooms for up to 60 people\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the Web page, what is offered at a discount?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Transportation to area attractions",
+              "(B)Dinner at Cafe Azul",
+              "(C)Catering services",
+              "(D)Guest rooms"
+            ]
+          },
+          "answer": {
+            "text": "(B)Dinner at Cafe Azul",
+            "explanation": "Information in the sentence: \"Ten percent off your bill at the on-site spa and restaurant\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ea7"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Memo</p></b><br>To:All employees<br>From:Marsha Gray, Business Manager<br>Date:October 5<br>Subject: copy machines<br><br>A copying machine has been placed next to the staff lounge. You may use it to copy tour brochures, ticket information, customer itineraries, and reservation confirmations. You can find extra paper in the supply room. Do not allow customers to use the machine. If you have to make more than 25 photocopies, please use the high-speed copier located on the second floor. In any case, you should make your own copies and not ask the administrative assistants to do it. Should a copy machine require repair or maintenance, please contact Trish Leslie in the accounting office (555-1664, extension 470) and she will notify the manufacturer.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of company does Marsha Gray most likely work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A computer company",
+              "(B)A copy machine manufacturer",
+              "(C)An accounting firm",
+              "(D)A travel agency"
+            ]
+          },
+          "answer": {
+            "text": "(D)A travel agency",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who should employees notify if one of the copiers needs service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The copier manufacturer",
+              "(B)An administrative assistant",
+              "(C)Trish Leslie",
+              "(D)Marsha Gray"
+            ]
+          },
+          "answer": {
+            "text": "(C)Trish Leslie",
+            "explanation": "Information in the sentence: \"Should a copy machine require repair or maintenance, please contact Trish Leslie in the accounting office (555-1664, extension 470) and she will notify the manufacturer.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ea9"
+    },
+    {
+      "question": {
+        "text": "<u>Perelman Furnishings</u> is seeking a person to deliver furniture Monday through Friday from 8:00 A.M. to 5:00 P.M. Responsibilities include transporting goods by truck, delivering orders to customers, and assembling pieces as needed. Must be courteous and professional. Must tee able to lift heavy items and use tools for moving and assembly. Valid commercial driver’s license and excellent driving record required. Call delivery supervisor Jun Mifune at 237-555-0109.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the advertisement, what must applicants be able to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Put together furniture",
+              "(B)Make Saturday deliveries .",
+              "(C) Telephone customers",
+              "(D) Supervise employees"
+            ]
+          },
+          "answer": {
+            "text": "(A)Put together furniture",
+            "explanation": "Information in the sentence: \"Responsibilities include transporting goods by truck, delivering orders to customers, and assembling pieces as\nneeded.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a requirement of the job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Polite behavior",
+              "(B) Immediate availability",
+              "(C)The ability to use tools",
+              "(D) A special type of driver's license"
+            ]
+          },
+          "answer": {
+            "text": "(B) Immediate availability",
+            "explanation": "\"Must be courteous and professional\" => Eliminate A<br>\"Must be able\nto lift heavy items and use tools for moving and assembly.\"=> Eliminate  C<br>\"Valid commercial driver's license and excellent driving\nrecord required\"=> Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ead"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "EASY",
+  "id": "626441c9eccc8cae769c2eb3"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 242",
+  "questions": [
+    {
+      "question": {
+        "text": "Mr. Hatori was very ___ when he got a promotion.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)excite",
+          "(B)exciting",
+          "(C)excited",
+          "(D)excites"
+        ]
+      },
+      "answer": {
+        "text": "(C)excited",
+        "explanation": "(C) “Mr. Green” should be modified by the -ed form (something else caused Mr. Green to become excited). Choice (B) isn’t logical because it means that Mr. Green made someone else feel excited. Choices (A) and (D) are verbs, not adjective forms."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2611"
+    },
+    {
+      "question": {
+        "text": "The restaurant is open on weekends, ___ not on holidays.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)either",
+          "(B)or",
+          "(C)so",
+          "(D)but"
+        ]
+      },
+      "answer": {
+        "text": "(D)but",
+        "explanation": "(D) Choice (D) is logical; it implies a contrast between “weekends” and “holidays”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2614"
+    },
+    {
+      "question": {
+        "text": "___ we had checked the figures, the supervisor found a mistake. .",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Unless",
+          "(B)However",
+          "(C)Since",
+          "(D)Even though"
+        ]
+      },
+      "answer": {
+        "text": "(D)Even though",
+        "explanation": "(D) “Even though” establishes a logical link between clauses. Choices (A), (B), and (C) are not logical."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2617"
+    },
+    {
+      "question": {
+        "text": "Mr. Lazer wants to make ___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)a meeting",
+          "(B)an hour",
+          "(C)an appointment",
+          "(D)a time"
+        ]
+      },
+      "answer": {
+        "text": "(C)an appointment",
+        "explanation": "(C) “Make an appointment” is a common business expression. Choice (A) is incorrect; make a meeting means “be able to attend” the meeting. Choice (B) is not used for appointments. Choice (D) is incorrect; “a time” is not used for specific appointments."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c261a"
+    },
+    {
+      "question": {
+        "text": "The financial team ___ that the offer was rejected.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)was disappointed",
+          "(B)were disappointed",
+          "(C)was disappointing",
+          "(D)were disappointing"
+        ]
+      },
+      "answer": {
+        "text": "(A)was disappointed",
+        "explanation": "(A) The sentence requires a conjugated verb and past participle. “Team” is singular. Choice (B) is plural. Choices (C) and (D) use the present participle."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c261d"
+    },
+    {
+      "question": {
+        "text": "A record of complaints ___ kept in the purser’s office.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)are",
+          "(B)is",
+          "(C)were",
+          "(D)has"
+        ]
+      },
+      "answer": {
+        "text": "(B)is",
+        "explanation": "(B) The subject “record” requires a singular verb. Choices (A) and (C) are plural. Choice (D) needs been to form the present perfect “has been kept”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2620"
+    },
+    {
+      "question": {
+        "text": "The only difference ___ the two flights is time of departure.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)with",
+          "(B)then",
+          "(C)between",
+          "(D)among"
+        ]
+      },
+      "answer": {
+        "text": "(C)between",
+        "explanation": "(C) Use “between” with two items. Choice (A) means “together”. Choice (B) indicates time. Choice (D) is used with three or more items."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2623"
+    },
+    {
+      "question": {
+        "text": "___ Ms. Butrus was late, she did not miss the performance.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)During",
+          "(B)Because",
+          "(C)In spite of",
+          "(D)Although"
+        ]
+      },
+      "answer": {
+        "text": "(D)Although",
+        "explanation": "(D) “Although” establishes a logical connection between events. Choice (A) cannot be followed by a clause. Choice (B) is not logical. Choice (C) cannot be followed by a clause."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2626"
+    },
+    {
+      "question": {
+        "text": "Mr. Dekar was responsible for ___ the data.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)organization",
+          "(B)organizing",
+          "(C)organized",
+          "(D)organize"
+        ]
+      },
+      "answer": {
+        "text": "(B)organizing",
+        "explanation": "(B) “Organizing” is a gerund, the object of the preposition for. Choice (A) is a noun. Choices (C) and (D) are verbs."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2629"
+    },
+    {
+      "question": {
+        "text": "The company ___ spouses of employees in the invitation to the banquet.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)are included",
+          "(B)have included",
+          "(C)is including",
+          "(D)has including"
+        ]
+      },
+      "answer": {
+        "text": "(C)is including",
+        "explanation": "(C) The present progressive is the only appropriate verb. Choice (A) uses the past participle. Choice (B) uses plural have. Choice (D) uses “has” instead of “be”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c262c"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644197eccc8cae769c262f"
+}

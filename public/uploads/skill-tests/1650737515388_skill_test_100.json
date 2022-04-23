@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 100",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "99773137-1584092452326.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/99773137-1584092452326.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00b9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au: Ms.Zhao, <b> Q1 I just finished inspecting the equipment</b> and it looks like the conveyor belt on the packaging machine should be replaced. <br>W-Br: Thanks for checking on that. But… do you think we could wait to replace it for a little while? <b> Q2 We’ve got a tight schedule here at the factory for the next couple of weeks – a lot of orders are being shipped out. </b><br>M-Au:  The top layer of rubber is wearing thin in several places, so <b> Q3 I think we'd better take care of it today</b>. It shouldn't take long, though. <b> Q3 I’m pretty sure I'll only need an hour to put a new belt on the machine.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man say he recently did?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Placed an order",
+              "(B) Made a delivery",
+              "(C) Requested time off",
+              "(D) Conducted an inspection"
+            ]
+          },
+          "answer": {
+            "text": "(D) Conducted an inspection",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the conversation taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At an airport",
+              "(B) At a construction site",
+              "(C) At a factory",
+              "(D) At a clothing store"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a factory",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man recommend doing today?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Confirming a reservation",
+              "(B) Replacing a machine part",
+              "(C)  Hiring additional employees",
+              "(D) Reducing some prices"
+            ]
+          },
+          "answer": {
+            "text": "(B) Replacing a machine part",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00bb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "16085779-1584092477251.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/16085779-1584092477251.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00be"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am: Jerry, <b> Q1 you know how we paint each apartment before new tenants move in? It’s getting to be a problem because our maintenance workers can’t always get to it right away.</b><br>M-Au: We should hire a professional painting company to come in to do that work. <br>W-Am: <b> Q2 We considered that before, but we thought it would be too expensive.</b><br>M-Au:  Yes, but that was quite a while ago. <b> Q2 We manage more apartments now.</b><br>W-Am:  That's true. Even without painting, our staff is already busy dealing with an increase in maintenance requests. <br>M-Au: Right. <b> Q3 And that’s why it would be better to contract the work out. I’ll call some painting companies right now for some price estimates.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a moving company",
+              "(B) At a construction firm",
+              "(C) At an apartment management office",
+              "(D) At a commercial cleaning service"
+            ]
+          },
+          "answer": {
+            "text": "(C) At an apartment management office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man imply when he says, \"but that was quite a while ago”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A deadline is approaching.",
+              "(B) A procedure has been improved.",
+              "(C) A decision should be reconsidered.",
+              "(D) A database should be updated."
+            ]
+          },
+          "answer": {
+            "text": "(C) A decision should be reconsidered.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Review some applications",
+              "(B) Inspect some properties",
+              "(C) Make some deliveries",
+              "(D) Research some prices"
+            ]
+          },
+          "answer": {
+            "text": "(D) Research some prices",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00c0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "874845138-1584092497816.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/874845138-1584092497816.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00c3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am: Bill, I’ve been thinking- <b> Q1 you should attend the Southeast Technology Expo next month. We’re sending a team to promote the company’s EX300 television, and you should join them.</b><br>M-Cn: <b> Q2 Sure, but I  haven’t done much marketing of that product. I’ve spent more time creating advertisements for some of our other television models.</b><br>W-Am: I know, but I think it would be a good experience for you. <b> Q3 I’ve already prepared the presentation</b>, so I’ll send you a copy. You’ll have plenty of time to review it in advance of the conference."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Visit company headquarters",
+              "(B) Participate in a conference",
+              "(C) Complete a technical design",
+              "(D) Submit a proposal"
+            ]
+          },
+          "answer": {
+            "text": "(B) Participate in a conference",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the man concerned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is not very familiar with a product",
+              "(B) He has not registered for a conference.",
+              "(C) He has missed an important deadline",
+              "(D) He was planning to take a vacation."
+            ]
+          },
+          "answer": {
+            "text": "(A) He is not very familiar with a product",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she has already done?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Provided feedback from a meeting",
+              "(B) Designed a new product",
+              "(C) Prepared a presentation",
+              "(D) Made a hotel reservation"
+            ]
+          },
+          "answer": {
+            "text": "(C) Prepared a presentation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00c5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "612340806-1584092546837.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/612340806-1584092546837.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00c8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au:  Bruce Koplow here for KQRF radio. <b> Q1 Joining me today is economist Janine Kang, author of Best Practices in Investing.</b> So Janine tell us about your book. <br>W-Am: Sure, I wrote it to help investors with little experience understand how to manage their finances, <br>M-Au: <b> Q2 If you could give our listeners one piece of advice right now, what would it be?</b><br>W-Am:  Do your research! Don't invest until you learn as much as possible, <b> Q3 I explain more in my book</b>, so you’ll just have to find out on your own! It comes out tomorrow."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the woman's area of expertise?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Product development",
+              "(B) Finance",
+              "(C) Marketing",
+              "(D) Business law"
+            ]
+          },
+          "answer": {
+            "text": "(B) Finance",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Come back tomorrow",
+              "(B) Demonstrate a process",
+              "(C) Give some advice",
+              "(D) Teach a course"
+            ]
+          },
+          "answer": {
+            "text": "(C) Give some advice",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman say, “you’ll just have to find out on your own\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To apologize for giving incorrect information",
+              "(B) To express regret about missing an event",
+              "(C) To invite listeners to participate in a study",
+              "(D) To encourage listeners to read her book"
+            ]
+          },
+          "answer": {
+            "text": "(D) To encourage listeners to read her book",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00ca"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "2196684_1557990400960.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/2196684_1557990400960.png",
+            "mime": "image/png",
+            "id": "6264416beccc8cae769c00cd"
+          }
+        ],
+        "sound": [
+          {
+            "name": "639024386-1584092570821.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/639024386-1584092570821.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00cf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: <b> Q1 Eileen, I just had a call from Tollberg Industries about the flower arrangements they ordered for their banquet tomorrow. Q2 They’d like to have four more centerpieces, in addition to the ten they originally requested. </b><br>W-Br:  Oh. I think we have enough flowers to do that. We might have to change the time of the delivery, though. Right now it's scheduled for the morning, but we’ll need more time to do the extra arrangements. <br> M-Cn: <b> Q3 Well, I’m sure the Crawford Apartments wouldn’t mind getting the flowers for their lobby earlier in the day. Let’s move them to the morning and give that delivery time to Tollberg Industries.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a landscaping firm",
+              "(B) At a moving company",
+              "(C) At a florist shop",
+              "(D) At a catering business"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a florist shop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did Tollberg Industries call about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Increasing the size of an order",
+              "(B) Changing the time of an event",
+              "(C) Receiving some product samples",
+              "(D) Replacing some defective equipment"
+            ]
+          },
+          "answer": {
+            "text": "(A) Increasing the size of an order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. When will the Tollberg Industries delivery most likely be made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At 1 P.M.",
+              "(B) At 2 P.M.",
+              "(C) At 3 P.M.",
+              "(D) At 4 P.M."
+            ]
+          },
+          "answer": {
+            "text": "(B) At 2 P.M.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00d1"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"60%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr><td colspan=\"2\" align =\"center\"> <b>MURPHEY HOTEL </b> </td></tr><tr><td> Floor 1 </td><td> Lobby</td></tr><tr><td> Floor 2 </td><td> Business Center</td></tr> <tr><td> Floor 3 </td><td> Meeting Rooms</td></tr><tr><td> Floor 4 </td><td> Fitness Center</td></tr><tr><td> Floor 5-10 </td><td> Guest Rooms</td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "320173009-1584092286844.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/320173009-1584092286844.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00d4"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br: <b> Q1 Thank you for staying at the Murphey Hotel. Now that I ve checked you in, do you have any questions about our facilities?</b><br>M-Cn: I’m attending the Milton Engineering Convention, This is my first time here, and I’m not sure where the meeting rooms are. <br>W-Br: This brochure shows what’s located on each floor. <br>M-Cn: Thanks. <b> Q2 One more thing: is there some place in the hotel where I can copy some documents for a presentation I’ll be making this afternoon?</b><br>W-Br: <b> Q3 Yes, the Business Center</b>, It’s open twenty-four hours a day. <br>M-Cn: <b> Q3 Good. I’ll  head up there now.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely is the woman's job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Tour guide",
+              "(B) Catering manager",
+              "(C) Front-desk clerk",
+              "(D) Conference organizer"
+            ]
+          },
+          "answer": {
+            "text": "(C) Front-desk clerk",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he needs to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Revise a schedule",
+              "(B) Check a machine",
+              "(C) Call his office",
+              "(D) Make some copies"
+            ]
+          },
+          "answer": {
+            "text": "(D) Make some copies",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which floor will the man go to next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Floor 1",
+              "(B) Floor 2",
+              "(C) Floor 3",
+              "(D) Floor 4"
+            ]
+          },
+          "answer": {
+            "text": "(B) Floor 2",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00d6"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"60%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td colspan=\"3\" align =\"center\"> <b>Delvin Institute Conference Fees </b> </td></tr> <tr><td> Day 1 only </td><td> member<br> non-member</td><td> 75 USD <br>85 USD</td></tr> <tr><td> Day 2 only </td><td> member<br> non-member</td><td>90 USD<br> 100 USD</td></tr><tr><td> Both days </td><td> member<br> non-member</td><td>150 USD<br> 160 USD</td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "382379136-1584092258827.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/382379136-1584092258827.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00d9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am:  Hello, I’m Dr. Monica Fanciulli. I’m calling about the Delvin Institute Medical Research Conference.  <b> Q1 I want to register, but your Web site is down again.</b><br>M-Au: I’m sorry for the inconvenience, Dr. Fanciulli. <b> Q2 I can take your registration over the phone. Will you be attending both days of our conference?</b><br>W-Am: <b> Q2 No, I'm just interested in the second day, and I am a Delvin Institute member.</b><br>M Au: OK, fine, <b> Q3 and if you give me your membership ID number, we’ll make sure you get the discount.</b><br>W-Am: Of course. Uh...give me a second while I get my ID card."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem does the woman mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A Web site is not working.",
+              "(B) A bill is incorrect.",
+              "(C) Some records are missing.",
+              "(D) Some staff are unavailable."
+            ]
+          },
+          "answer": {
+            "text": "(A) A Web site is not working.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much will the woman most likely pay?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $75",
+              "(B) $85",
+              "(C) $90",
+              "(D) $100"
+            ]
+          },
+          "answer": {
+            "text": "(C) $90",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to provide?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A meal preference",
+              "(B) A hospital name",
+              "(C) A product specification",
+              "(D) An identification number"
+            ]
+          },
+          "answer": {
+            "text": "(D) An identification number",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00db"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "265195837-1584091371145.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/265195837-1584091371145.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00de"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: <b> Q1 l’m glad your store carries the new EPG8 smartphone.</b> I've been waiting a long time to get it. <br>W-Br:  Yes, there's been a lot of interest in this phone. <br>M-Cn: <b> Q2 What colors does it come in?</b><br>W-Br:  Three: white, black, and gold. However, since the phone has been in such high demand, our store doesn’t have alt three colors in stock now. <br>M-Cn:  Oh. What colors do you have? <br>W-Br:  Let's see. We have black phones, but no white or gold. We can place an order from the warehouse ... <br>M-Cn:  The black phone looks nice. I think that’s the one I'll get. <br>W-Br:  OK. <b> Q3 Follow me to the register and I'll ring up you purchase. Then I activate the device for you.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A motorcycle",
+              "(B) A mobile phone",
+              "(C) A laptop computer",
+              "(D) An exercise machine"
+            ]
+          },
+          "answer": {
+            "text": "(B) A mobile phone",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The prices",
+              "(B) The battery life",
+              "(C) The warranty",
+              "(D) The color options"
+            ]
+          },
+          "answer": {
+            "text": "(D) The color options",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Request some feedback",
+              "(B) Contact a technician",
+              "(C) Complete a transaction",
+              "(D) Create an online profile"
+            ]
+          },
+          "answer": {
+            "text": "(C) Complete a transaction",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00e0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "583394862-1584091350087.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/583394862-1584091350087.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00e3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am:  Hi, Charlie. <b> Q1 The driver who usually delivers our merchandise to the J.M. Cuisine store is out today. Do you think you could make his four o’clock delivery for him this afternoon?</b><br>M-Cn:  Alright, but <b> Q2 I’ve  never made any deliveries to that store before, so 111 need some directions.</b>  How do i get there from our warehouse? <br>W-Am:  I suggest taking Route Five and getting off at the Sixth Street exit. <b> Q3 Once you’re there, don’t forget to have the store manager sign the delivery confirmation form.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Schedule an appointment",
+              "(B) Make a coworker's delivery",
+              "(C) Call a colleague",
+              "(D) Prepare an invoice"
+            ]
+          },
+          "answer": {
+            "text": "(B) Make a coworker's delivery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he needs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Keys to a vehicle",
+              "(B) A telephone number",
+              "(C) A price list",
+              "(D) Directions to a store"
+            ]
+          },
+          "answer": {
+            "text": "(D) Directions to a store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman remind the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Notify his manager",
+              "(B) Check some merchandise",
+              "(C) Print a document",
+              "(D) Get a signature"
+            ]
+          },
+          "answer": {
+            "text": "(D) Get a signature",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00e7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "995888634-1584092657731.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/995888634-1584092657731.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c00e5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, <b> Q1 I’d like a ticket to the museum's special Egyptian art exhibit</b>. I've heard wonderful things about it. <br>W-Am: I’m sorry. That exhibit’s very popular, and <b> Q2 we’ve already sold out of tickets for the morning.</b> We still have some available for this afternoon, though. <br>M-Au: I can’t wait that long. I’ll have to come back a different day. Can I reserve a ticket in advance? <br>W-Am: We do offer advance sales, but only for museum members. <b> Q3 If you don’t have a membership, you can sign up for one here.</b><br>M-Au:  Oh, good. <b> Q3 I’ll do that right now. </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the conversation taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a park",
+              "(B) At a museum",
+              "(C) At a theater",
+              "(D) At a car dealership"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a museum",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman apologize?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An office is about to close.",
+              "(B) An event has been canceled.",
+              "(C) Some tickets are unavailable.",
+              "(D) Some prices have increased."
+            ]
+          },
+          "answer": {
+            "text": "(C) Some tickets are unavailable.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Phone a friend",
+              "(B) Register a complaint",
+              "(C) Go to a different location",
+              "(D) Sign up for a membership"
+            ]
+          },
+          "answer": {
+            "text": "(D) Sign up for a membership",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c00e9"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264416beccc8cae769c00ef"
+}

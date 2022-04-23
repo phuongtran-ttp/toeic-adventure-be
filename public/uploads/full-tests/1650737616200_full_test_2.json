@@ -1,0 +1,1668 @@
+{
+  "name": "Full Test 2",
+  "questions": [
+    {
+      "question": {
+        "text": "<p align =\"center\"> <b> Green Clean Services</b></p> <p align =\"center\"> Call us: 347-281-7834</p> <b> (1) </b> _____ 2005, Green Clean has been providing professional and environmentally friendly cleaning services of consistent high quality to all types of commercial and industrial facilities. <b> (2) </b> _____.  We understand the contributions a good employee makes toward our <b> (3) </b> _____ , and we commit to selecting the best available people to work for you. <br> Green Clean’s mission is to satisfy our customers needs on a daily basis while providing the best combination of quality, price, and delivery. We accomplish this by continually improving our systems of <b> (4) </b> _____ . Our goal is to make your facility extremely clean in the greenest way  possible. Visit our website today at www.greenclean.com",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "<b> (1) </b> _____ 2005, Green Clean has been providing professional and environmentally friendly cleaning services of consistent high quality to all types of commercial and industrial facilities.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Until",
+              "(B) Around",
+              "(C) Since",
+              "(D) Through"
+            ]
+          },
+          "answer": {
+            "text": "(C) Since",
+            "explanation": "This string uses the present perfect tense, so it's easy to select \"since\" when used with a timeline."
+          }
+        },
+        {
+          "question": {
+            "text": "_____ 2005, Green Clean has been providing professional and environmentally friendly cleaning services of consistent high quality to all types of commercial and industrial facilities. <b> (2) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Drop in today to schedule a tour of one of our twenty facilities.",
+              "(B) We are the biggest manufacture of environmentally cleaning supplies in the Northwest.",
+              "(C) As a service company, we consider our employees to be our most important asset.",
+              "(D) Allow us to work for you by calling us today to take care of all of your accounting needs."
+            ]
+          },
+          "answer": {
+            "text": "(C) As a service company, we consider our employees to be our most important asset.",
+            "explanation": "Can be based on the content of the next sentence \"We understand the dedication of a good employee will lead us to success.\""
+          }
+        },
+        {
+          "question": {
+            "text": "We understand the contributions a good employee makes toward our <b> (3) </b> _____ , and we commit to selecting the best available people to work for you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) success",
+              "(B) drive",
+              "(C) support",
+              "(D) determination"
+            ]
+          },
+          "answer": {
+            "text": "(A) success",
+            "explanation": "Based on the meaning to select the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "We accomplish this by continually improving our systems of <b> (4) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to operate",
+              "(B) operates",
+              "(C) operated",
+              "(D) operation"
+            ]
+          },
+          "answer": {
+            "text": "(D) operation",
+            "explanation": "The position to be filled after the \"of\" should be a noun."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c3372"
+    },
+    {
+      "question": {
+        "text": "Recyclable materials such as glass and plastic are collected _____ weekly on Mondays and Thursdays.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) twice",
+          "(B) much",
+          "(C) yet",
+          "(D) far"
+        ]
+      },
+      "answer": {
+        "text": "(A) twice",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> A"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c3375"
+    },
+    {
+      "question": {
+        "text": "October 21 <br>Larry Mills <br>226 Highland Rivers <br>Fairbank, WA 20037<br><br>Dear Mr. Mills, <br>I am writing in reply to your complaint about the noise levels coming from the surrounding businesses around the apartment complex. <b> (1) </b>_____ , a few people living on the west wing of the building <b> (2) </b>_____  concern over the noise levels. The building committee has conducted meetings over this issue and we have talked to the businesses.<b> (3) </b>_____ . Because of this, we are also looking to fortify the windows with noise-proof glass for residences living on the west wing. Once we have agreed upon the proposals, we will post the announcement on our ulletin board and you may receive a call. Until then, we ask for your <b> (4) </b>_____ patience.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "<b> (1) </b>_____ , a few people living on the west wing of the building _____  concern over the noise levels.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) As a result",
+              "(B) Moreover",
+              "(C) On the other hand",
+              "(D) Unfortunately"
+            ]
+          },
+          "answer": {
+            "text": "(D) Unfortunately",
+            "explanation": "Based on the meaning to select the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "_____ , a few people living on the west wing of the building <b> (2) </b>_____  concern over the noise levels.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is expressing",
+              "(B) have expressed",
+              "(C) expression",
+              "(D) be expressive"
+            ]
+          },
+          "answer": {
+            "text": "(B) have expressed",
+            "explanation": "We see in the sentence there is no specific timeline so use the present perfect present in general on the results that are most reasonable."
+          }
+        },
+        {
+          "question": {
+            "text": "The building committee has conducted meetings over this issue and we have talked to the businesses. <b> (3) </b>_____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However, some of the noises are inevitable due to the nature of the businesses.",
+              "(B) They will fully cooperate with our committee.",
+              "(C) They have responded to our concerns and will work to keep noise levels low.",
+              "(D) However, they are losing money over this matter."
+            ]
+          },
+          "answer": {
+            "text": "(A) However, some of the noises are inevitable due to the nature of the businesses.",
+            "explanation": "Can be based on the meaning of the sentence immediately afterward: “Because of this, we are considering strengthening windows with noise-proof glass for residents live on the west wing. ” Thus, \"this\" in \"because of this\" is a substitute for the problem mentioned in answer A."
+          }
+        },
+        {
+          "question": {
+            "text": "Until then, we ask for your <b> (4) </b>_____ patience.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) continue",
+              "(B) continues",
+              "(C) continued",
+              "(D) be continuing"
+            ]
+          },
+          "answer": {
+            "text": "(C) continued",
+            "explanation": "The blank is before a noun, so an adjective can be filled in."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c3379"
+    },
+    {
+      "question": {
+        "text": "The National Health Organization reported on the  _____  cases of the disease.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) confirmation",
+          "(B) confirms",
+          "(C) confirm",
+          "(D) confirmed"
+        ]
+      },
+      "answer": {
+        "text": "(D) confirmed",
+        "explanation": "The blank is before a noun, so you can fill one more adjective."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c337b"
+    },
+    {
+      "question": {
+        "text": "<h4 align=\"center\">MEMO</h4>\r\nTo: All Employees<br />\r\nFrom: Betty Franklin, General Manager<br />\r\nDate: August 19<br />\r\nSubject: Receptionist<br />\r\n<br />\r\nTo all employees,<br />\r\n- [1] - Greta Jones, the receptionist at our studio will be taking some time off to deal with a personal matter. She will be gone from August 21st to September 5th. - [2] - Ms. Blanche will take care of the regular responsibilities that Ms. Jones usually handles including taking phone calls, handling appointments, organizing schedules, and dealing with clients. Please welcome Ms. Blanche to the studio and be available for her to ask questions if she has any.<br />\r\nFurthermore, if you have any long time clients that you give special prices and discounts to, please let Ms. Blanche know ahead of time. - [3] - She will charge the fees that are programmed into the computer system.<br />\r\nIf you have any urgent concerns you need to discuss with Ms. Jones, or if you need to purchase any special hair dyes, treatment shampoos, or other requests that customers have, please do so today and tomorrow before she leaves. &ndash;[4]- You can contact me at any time if you have any further questions.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "By when should employees contact Ms. Jones with urgent business?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Before she leaves",
+              "(B) After she leaves",
+              "(C) Anytime",
+              "(D) When she gets back"
+            ]
+          },
+          "answer": {
+            "text": "(A) Before she leaves",
+            "explanation": "Information in sentence “If you have any urgent concerns you need to discuss with Ms, Jones… please do so today and tomorrow before she leaves”"
+          }
+        },
+        {
+          "question": {
+            "text": "Where do the recipients of the memo most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a department store",
+              "(B) At a hair salon",
+              "(C) At a movie studio",
+              "(D) At a photography studio"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a hair salon",
+            "explanation": "It can be deduced from the sentence “if you need to purchase any special hair dyes, treatment shampoos”"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? <br>“During this time, we have hired a temporary replacement, Judith Blanche.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(B) [2]",
+            "explanation": "It is easy to see that this sentence is an introduction to Miss Blanche, so it can only be placed in position [2], after the announcement that Ms. Jones will be absent."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Greta Jones?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is retiring.",
+              "(B) She is going on vacation.",
+              "(C) She will take some time off work.",
+              "(D) She will work only temporarily."
+            ]
+          },
+          "answer": {
+            "text": "(C) She will take some time off work.",
+            "explanation": "Information at the sentence “Greta Jones, the receptionist at our studio will be taking some time off to deal with personal matter. “"
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c337f"
+    },
+    {
+      "question": {
+        "text": "The new policies were implemented in an effort to encourage better   _____  among the corporation’s departments.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) communication",
+          "(B) communicative",
+          "(C) communicate",
+          "(D) communicator"
+        ]
+      },
+      "answer": {
+        "text": "(A) communication",
+        "explanation": "The blank is after the adjective in the comparative form, so a noun is missing."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c3381"
+    },
+    {
+      "question": {
+        "text": "<em>To: carlhurst@nicknet.com<br />\r\nFrom: m_winters@tatecc.com<br />\r\nDate: June 1, 1:34 P.M.<br />\r\nSubject: Community Events</em><br />\r\n<br />\r\nDear Mr. Hurst,<br />\r\nAs a loyal customer with a family membership at the Tate Community Center, you have sponsored US with your continued donations. We really appreciate your support.<br />\r\nThe following table provides information on upcoming family events this month. We welcome your participation.\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\"><b>Craft Day, June 7 </b></td>\r\n\t\t\t<td align=\"center\"><b>Paul Simpson, June 15</b></td>\r\n\t\t\t<td align=\"center\"><b>Summer Picnic, June 22 </b></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>A variety of craft supplies will be available for kids to make their own unique creations.</td>\r\n\t\t\t<td>Come and listen to the beautiful music of local singer and songwriter Paul Simpson.</td>\r\n\t\t\t<td>Everyone needs to bring a tasty dish to share with others. Free beverages will be provided.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\nFor members, no purchase of tickets is necessary for participation in these events. We encourage you to attend these events and spend quality time with your family.<br />\r\nWe look forward to seeing you.<br />\r\n<br />\r\nMinnie Winters<br />\r\nProgram Coordinator<br />\r\nTate Community Center",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the e-mail sent?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce a community board meeting",
+              "(B) To apply for a family membership",
+              "(C) To publicize upcoming events",
+              "(D) To give information about a local"
+            ]
+          },
+          "answer": {
+            "text": "(C) To publicize upcoming events",
+            "explanation": "The main purpose of the email is “The following table provides information on upcoming family events this month. We welcome your participation. ”"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Mr. Hurst?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is a local musician.",
+              "(B) He donates to an orphanage.",
+              "(C) He supports a public organization",
+              "(D) He works at a community center."
+            ]
+          },
+          "answer": {
+            "text": "(C) He supports a public organization",
+            "explanation": "Can be inferred from the phrase “you have sponsored us with your continued” (he sponsored us with ongoing donation.) <br> Tate Community Center As a community organization, that means Mr. Hurst has donated to a community organization."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Tate Community Center?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its members gain free admission to the events.",
+              "(B) It offers regular music classes.",
+              "(C) It takes reservations by phone.",
+              "(D) It will serve beverages at all events."
+            ]
+          },
+          "answer": {
+            "text": "(A) Its members gain free admission to the events.",
+            "explanation": "Information in the sentence “For members, no purchase of tickets is necessary for participation in these events.”"
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c3385"
+    },
+    {
+      "question": {
+        "text": "Investigators visited the site to ensure that it complied with the_____ regulations in the field.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) applicability",
+          "(B) apply",
+          "(C) applies",
+          "(D) applicable"
+        ]
+      },
+      "answer": {
+        "text": "(D) applicable",
+        "explanation": "The blank is before a noun, so there may be missing adjectives."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c3387"
+    },
+    {
+      "question": {
+        "text": "<em>April 3<br />\r\nLarry Martin<br />\r\nKansas Neat &amp; Tidy<br />\r\n5448 Lakeside Drive<br />\r\nArlington, Kansas 67514</em><br />\r\n<br />\r\nDear Mr. Martin,<br />\r\n<br />\r\nWe are interested in using your company&rsquo;s cleaning services for this year&rsquo;s Halley Valley Rock Festival. The festival will begin on Friday, June 14, and last the entire weekend, ending on the night of Sunday, June 16. However, unlike previous years, this year we would like your company to clean the festival grounds intermittently throughout the festival. Therefore, we will be providing your company with a temporary office trailer where your workers can take breaks from the heat.<br />\r\n<br />\r\nWe look forward to working with your company again this year.<br />\r\nSincerely,<br />\r\nKaren Johnson<br />\r\nFestival Coordinator, Halley Valley Foundation",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the letter, what will be provided?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Food and water",
+              "(B) A sheltered area",
+              "(C) Musical equipment",
+              "(D) Cleaning supplies"
+            ]
+          },
+          "answer": {
+            "text": "(B) A sheltered area",
+            "explanation": "“Therefore, we will be providing your company with a temporary office trailer where your workers can take breaks from the heat.”"
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Mr. Martin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A musical performer",
+              "(B) A truck driver",
+              "(C) A cleaning company’s representative",
+              "(D) A festival coordinator"
+            ]
+          },
+          "answer": {
+            "text": "(C) A cleaning company’s representative",
+            "explanation": "This email was sent to a person from the cleaning company to discuss the cleaning of the festival grounds. So answer C is the most suitable."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c338b"
+    },
+    {
+      "question": {
+        "text": "Employees are allowed to use vacation time whenever they want  _____  it does not disrupt their assignments.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) except for",
+          "(B) as well as",
+          "(C) depending on",
+          "(D) so long as"
+        ]
+      },
+      "answer": {
+        "text": "(D) so long as",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> D"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c338d"
+    },
+    {
+      "question": {
+        "text": "<br><b>Lisa Hancock</b> &emsp; 9:39<br>I'm stopping by a coffee shop on my way to work. What does everyone want? It's on me. <br><br><b>Nick Morton</b> &emsp; 9:39<br>Wow thanks! I'll have just black coffee. <br><br><b>Lilly Smith</b> &emsp; 9:40<br>Thanks. I'd like a latte. Can you also bring some sugar? <br><br><b>Lisa Hancock</b> &emsp; 9:41<br>Sure, I'll bring a couple of the sugar packets. <br><br><b>Richard Park</b> &emsp; 9:42<br>I can never turn down coffee. I'll also have a latte with some sugar. <br><br><b>Emily Jordan</b> &emsp; 9:42<br>I'd like a herbal tea if they have any. I don't drink anything caffeinated so any tea without caffeine would be great. Thanks. <br><br><b>Lisa Hancock</b> &emsp; 9:43<br>Alright then. I'll be there in about 20 minutes with your drinks. See you soon. Oh and before I forget, please make sure that our orders from Cindy's Boutique get set up in our showroom for our clients. <br><br><b>Richard Park</b> &emsp; 9:44<br>The boxes arrived this morning and our interns are working on unpacking them now. However, the order from Chantelle seems to have gone missing. <br><br><b>Lisa Hancock</b> &emsp; 9:45<br>What do you mean? <br><br><b>Nick Morton</b> &emsp; 9:45<br>We're trying to locate the package. We contacted Chantelle and they sent it to the wrong address. <br><br><b>Lisa Hancock</b> &emsp; 9:46<br>That's a disaster. Please try to find out where those dresses went. <br><br><b>Richard Park</b> &emsp; 9:47<br>Good news. I just got a message from the shipping company and they found the Chantelle order. They're redirecting the shipment to US. <br><br><b>Lisa Hancock</b> &emsp; 9:48<br>I almost had a panic attack. When will it get here? <br><br><b>Richard Park</b> &emsp; 9:48 <br>This afternoon.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of business is Chantelle?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A fabric company",
+              "(B) A magazine company",
+              "(C) A shipping company",
+              "(D) A boutique"
+            ]
+          },
+          "answer": {
+            "text": "(D) A boutique",
+            "explanation": "At the end when it is said Regarding the order from Chantelle, Lisa said a sentence \"Please try to find out where those dresses went.\"<br> In a skirt box, Chantelle is probably the most fashionable."
+          }
+        },
+        {
+          "question": {
+            "text": "At 9:39, what does Lisa Hancock mean when she says, “It’s on me”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She’ll bring the coffee.",
+              "(B) She’ll buy the drinks.",
+              "(C) She’ll remember everyone’s orders.",
+              "(D) It’s her turn to get drinks."
+            ]
+          },
+          "answer": {
+            "text": "(B) She’ll buy the drinks.",
+            "explanation": "to be on sb means someone pays for it, so the correct answer would be B."
+          }
+        },
+        {
+          "question": {
+            "text": "What type of business do the participants probably work at?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A fashion company",
+              "(B) A clothing shop",
+              "(C) A costume company",
+              "(D) A coffee shop"
+            ]
+          },
+          "answer": {
+            "text": "(A) A fashion company",
+            "explanation": "From content in the text message, it can be seen that the business these people do has a \"showroom\" and an \"intern\" (trainee). In order to have a showroom showcasing samples, usually, the company will work on the design, so there is likely to be the most fashionable company."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about one of their shipments?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It was overcharged.",
+              "(B) It was returned to the boutique.",
+              "(C) It will arrive later in the day.",
+              "(D) It hasn’t been located yet."
+            ]
+          },
+          "answer": {
+            "text": "(C) It will arrive later in the day.",
+            "explanation": "Information is in the last two message lines \"When will it get here?\" “This afternoon.”"
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c3391"
+    },
+    {
+      "question": {
+        "text": "Environmentalists were pleased with the community’s  _____  in increasing recycling in the area.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) indifference",
+          "(B) cooperation",
+          "(C) allocation",
+          "(D) separation"
+        ]
+      },
+      "answer": {
+        "text": "(B) cooperation",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>B"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c3393"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">Shoe Shine</h4> <p =align=\"center\"> <b>  Your number one source for sneakers</b></p> <br>We see that you are currently registered as a basic member at our website. <br><u>Click here to upgrade to our premium membership.</u><br><br>Once you become a premium member, you will enjoy the following benefits: <br>- Expedited shipping for $3 ($5 for a basic member) <br>- Exchanges on all items within 60 days of purchase at no extra charge (30 days for a basic member) <br>- Returns on all items within 30 days of purchase at no extra charge (7 days for a basic member) <br><br>Upgrading your service from basic to premium takes just one click. To welcome customers to our new online store, this month we are offering the upgrade to annual premium membership at a discounted rate of just $50.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT mentioned as a benefit of premium membership?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Discounts on new items",
+              "(B) Faster shipping at a reduced price",
+              "(C) A longer period of free returns",
+              "(D) A  longer period of free exchanges"
+            ]
+          },
+          "answer": {
+            "text": "(A) Discounts on new items",
+            "explanation": "By the exclusion method, it is easy to see that only information in option A is not mentioned."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Shoe Shine?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has been in business for decades.",
+              "(B) It was founded by a local entrepreneur,",
+              "(C) Its merchandise is available through the Internet.",
+              "(D) It has three membership types."
+            ]
+          },
+          "answer": {
+            "text": "(C) Its merchandise is available through the Internet.",
+            "explanation": "It can be inferred from the sentence \"To welcome customers to our new online store\"> Shoe Shine has a store online, which means its items are available online."
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the web page?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To advertise a new line of shoes",
+              "(B) To confirm an order",
+              "(C) To recommend a service upgrade",
+              "(D) To solicit donations"
+            ]
+          },
+          "answer": {
+            "text": "(C) To recommend a service upgrade",
+            "explanation": "The content of this web post is an introduction to premium membership benefits and calls for people to upgrade."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c3397"
+    },
+    {
+      "question": {
+        "text": "Safe-Co has  _____  home security products since its founding in 2008.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) corresponded",
+          "(B) functioned",
+          "(C) manufactured",
+          "(D) enrolled"
+        ]
+      },
+      "answer": {
+        "text": "(C) manufactured",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>C"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c3399"
+    },
+    {
+      "question": {
+        "text": "<em>To: Pat Blackburn (pblackburn@fastweb.com)<br />\r\nFrom: Go Natural Health Products (cs@gonatural.com)<br />\r\nDate: February 4, 3:34 P.M.<br />\r\nSubject: Product Order</em><br />\r\n<br />\r\nWe appreciate that you have chosen Go Natural Health Products for your vitamin and mineral supplements. All of our products are carefully inspected for quality and meet all government regulations. Additionally, during the month of February, customers making purchases over $100.00 do not have to pay any shipping fees.<br />\r\n<br />\r\nOrder number: 4330XM21<br />\r\nOrder date: February 4, 3:31 P.M.<br />\r\nShipping address: Pat Blackburn, 2709 Michigan Ave., Clinton WI<br />\r\nDetails: 6 bottles of Green Source multivitamin pills.<br />\r\nTotal: $180.00, paid with credit card (XXXX xxxx xxxx 8766)<br />\r\n<br />\r\nAll our products come with a 100% customer satisfaction guarantee. If you are dissatisfied, please call our customer service center at 987-555-3427 for a full refund within a week of the order.<br />\r\n<br />\r\nGo Natural Health Products",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why might Ms. Blackburn call the customer service center by February 11?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To revise her order",
+              "(B) To change payment options",
+              "(C) To get a payment back",
+              "(D) To apply for a membership"
+            ]
+          },
+          "answer": {
+            "text": "(C) To get a payment back",
+            "explanation": "February 11 means 7 days from the time the order is placed. The bottom of the order reads \"If you are not satisfied, please call our customer service at 987-555-3427 for a full refund within 1 week of ordering.\"  So, Ms. Blackburn has the ability to call for a refund."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Blackburn’s order?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has been insured against loss.",
+              "(B) It is out of stock.",
+              "(C) It has been placed by her husband.",
+              "(D) It will be delivered free of charge."
+            ]
+          },
+          "answer": {
+            "text": "(D) It will be delivered free of charge.",
+            "explanation": "Ms. Blackburm's order is on February 4 for $ 108. But according to the information above, orders placed in February with a value> 100 $ will not be free shipping."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c339d"
+    },
+    {
+      "question": {
+        "text": "Due to congestion on the roads, an increasing number of manufacturers  _____  transport their goods by train.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) either",
+          "(B) very",
+          "(C) now",
+          "(D) rather"
+        ]
+      },
+      "answer": {
+        "text": "(C) now",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> C"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c339f"
+    },
+    {
+      "question": {
+        "text": "<b> Midnight Moon</b>, the new jazz album by guitarist Nick Stanton, will start being sold in stores this Thursday. Midnight Moon is Mr. Stanton’s first album in five years and has received praise from numerous music critics. Mr. Stanton will be signing copies of his new album at Emerson Department Store, located at 4532 Main Street, this Saturday, March 12. An autograph is free with the purchase of the new album.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the article, what will happen on March 12?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A concert will be held.",
+              "(B) A book will be released.",
+              "(C) An autograph session will take place.",
+              "(D) Some tickets will go on sale."
+            ]
+          },
+          "answer": {
+            "text": "(C) An autograph session will take place.",
+            "explanation": "Information lies in the sentence “Mr. Stanton will be signing copies of his new album at Emerson Department Store, located at 4532 Main Street, this Saturday, March 12 ”"
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Nick Stanton?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A department store employee",
+              "(B) A recording artist",
+              "(C) A music critic",
+              "(D) A real estate agent"
+            ]
+          },
+          "answer": {
+            "text": "(B) A recording artist",
+            "explanation": "Nick Stanton is mentioned in the passage as a \"guitarist\" and is about to sell a new album. So among the given answers, answer B is the most suitable."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33a3"
+    },
+    {
+      "question": {
+        "text": "When customers have a complaint, employees have been instructed  _____  the supervisor on duty.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) to inform",
+          "(B) to have informed",
+          "(C) to informing",
+          "(D) to be informed"
+        ]
+      },
+      "answer": {
+        "text": "(A) to inform",
+        "explanation": "Structure: instruct sb to do sth"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33a5"
+    },
+    {
+      "question": {
+        "text": "<em>To: All (csall@cherishedgoods.com)<br />\r\nFrom: Eric Nixon (enix@cherishedgoods.com)<br />\r\nDate: January 5, 10:00 A.M<br />\r\nSubject: Shipping Error</em><br />\r\n<br />\r\nHello everyone,<br />\r\nLilia Kent, the head of the shipping department, has informed me that yesterday our customer database experienced a system error and, as a result, many orders were sent to the wrong addresses. This morning, our department has already received multiple calls from customers complaining that they received the wrong package. Ms. Kent&rsquo;s department has been working hard to locate the cause of the mistake. Therefore, any customer that calls with a wrong delivery should be asked to return the package. Additionally, please inform the customers that they will be given a 10 percent discount on their next purchase.<br />\r\nEric Nixon",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the e-mail, what is Ms. Kent’s staff trying to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Create a customer database",
+              "(B) Fix a system malfunction",
+              "(C) Locate a lost package",
+              "(D) Take calls from customers"
+            ]
+          },
+          "answer": {
+            "text": "(B) Fix a system malfunction",
+            "explanation": "Information is located in the sentence “Ms. Kent's department has been working hard to locate the cause of the mistake ” <br> Then the most suitable answer is B."
+          }
+        },
+        {
+          "question": {
+            "text": "What are recipients of the e-mail advised to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Update their personal information",
+              "(B) Deliver a package in person",
+              "(C) Enter data into a customer database",
+              "(D) Offer a price reduction to some customers"
+            ]
+          },
+          "answer": {
+            "text": "(D) Offer a price reduction to some customers",
+            "explanation": "Information in the phrase “please inform the customers that they will be given a 10 percent discount on their next purchase”"
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely received the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Employees in the shipping department",
+              "(B) Dissatisfied customers",
+              "(C) Customer service representatives",
+              "(D) Internet technology specialists"
+            ]
+          },
+          "answer": {
+            "text": "(C) Customer service representatives",
+            "explanation": "You can see the last sentence “Also, please inform the customers that they will be given a 10 percent discount on their next purchase”  <br> This sentence is intended to guide how to answer a call from a customer, so it is most likely for the customer service staff."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33a9"
+    },
+    {
+      "question": {
+        "text": "The company’s new software for online banking is  _____  with most smartphone models.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) tangible",
+          "(B) extensive",
+          "(C) mechanical",
+          "(D) compatible"
+        ]
+      },
+      "answer": {
+        "text": "(D) compatible",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>D"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33ab"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">J&P Industries</h4><p align =\"center\">  1462 Swinton street </p><p align =\"center\">  Cameron, GL 10288</p>March 29 <br>Mr. Grant Lee <br>287 Silver Plains Road <br>Cameron, GL 18729<br><br>Dear Mr. Lee, <br>We thank you for your continued work and your dedication to your job at J&P Industries. -[1] - We are sending all employees information about the new changes that have been made to your health insurance benefits at our company. You will continue to be covered by the same insurance company, but because of the new state regulations that have been put forth, all employees must now undergo a basic medical check-up at a local clinic or hospital. This check-up will be covered by your health insurance, so you do not need to pay any extra fees and this by no means will affect the monthly insurance deductions. -[2] - Included in the envelope is  the detailed information about the new medical program for employees. <br>The medical check-ups will include a blood test, urine test, eye test, height and weight measurements, hearing test, and chest X-rays. - [3] - Please make an appointment with a local clinic. You should have your results given to Karen Leigh at Human Resources by December 30th at the latest. If you fail to get a medical exam, then you may be subject to a fine up to $2000. - [4] - We thank you for your cooperation and hope you abide by the new changes. <br>If you have any further questions or concerns, please contact Karen at leighk@jpindustries.com. <br><br>Sincerely, <br>John Black<br>Executive Manager<br>J&P Industries",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "The term “subject to” at the end of the second paragraph is closest in meaning to:",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Dependent on",
+              "(B) Responsible for",
+              "(C) Withdrawn from",
+              "(D) Added to"
+            ]
+          },
+          "answer": {
+            "text": "(B) Responsible for",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To inform an employee about a mandatory exam",
+              "(B) To encourage employees to donate blood to the hospital",
+              "(C) To discuss the changes made to the health insurance coverage",
+              "(D) To advertise the services of a new clinic"
+            ]
+          },
+          "answer": {
+            "text": "(A) To inform an employee about a mandatory exam",
+            "explanation": "The content of this letter is about the medical examination the employee will undergo if will not have to pay high fines.\t(B) To encourage employees to donate blood"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br>“The appointments should take no longer than 30 minutes.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "In this sentence there is mention \"appointment\", can be understood here as \"health appointment\", so it is most suitable for the position [3] after talking about what to do during the appointment."
+          }
+        },
+        {
+          "question": {
+            "text": "What did Mr. Black send with the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An application form",
+              "(B) An insurance document",
+              "(C) A contract",
+              "(D) Extra information about the changes"
+            ]
+          },
+          "answer": {
+            "text": "(D) Extra information about the changes",
+            "explanation": "Information on location “Included in the envelope is the detailed information about the new medical program for employees.”"
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33af"
+    },
+    {
+      "question": {
+        "text": "Dissatisfied customers of Maple Housekeeping may terminate the contract  _____  three days of the first cleaning session.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) as",
+          "(B) by",
+          "(C) within",
+          "(D) unless"
+        ]
+      },
+      "answer": {
+        "text": "(C) within",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> C"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33b1"
+    },
+    {
+      "question": {
+        "text": "<br />\r\n<strong>LAURA BURKE </strong>5:09 Are you back in the city Monday?<br />\r\n<strong>ADVIKSHAN</strong> 5:15 I might be.<br />\r\n<strong>LAURA BURK</strong> 5:16 So, you&#39;re undecided?<br />\r\n<strong>ADVIKSHAN</strong> 5:17 Yeah. This factory is running into all kinds of problems. Fix one thing and then something else comes up.<br />\r\n<strong>LAURA BURKE</strong> 5:17 I heard. Well, at least it&#39;s nice not to be stuck in the office.<br />\r\n<strong>ADVIKSHAN</strong> 5:18 That&#39;s true.<br />\r\n<strong>ADVIKSHAN</strong> 5:19 What&#39;s going on Monday?<br />\r\n<strong>LAURA BURKE</strong> 5:20 Ms. Harris wants to have a meeting with you when you get back. Nothing urgent.<br />\r\n<strong>ADVIKSHAN</strong> 5:22 Okay. I&#39;ll let you know when I get my schedule set.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Mr. Shan?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has missed a meeting.",
+              "(B) He is considering a transfer.",
+              "(C) He has recently taken over the operations of a manufacturing facility.",
+              "(D) He doesn’t know when he will be returning to his office."
+            ]
+          },
+          "answer": {
+            "text": "(D) He doesn’t know when he will be returning to his office.",
+            "explanation": "<font>Can be inferred from the messages<br />\r\n&quot;So you haven&#39;t decided yet?&quot;&nbsp;</font><br />\r\n<font>&quot;Yeah.</font>"
+          }
+        },
+        {
+          "question": {
+            "text": "At 5:18, what does Mr. Shan mean when he writes, “That’s true”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is worried about the conditions of the factory.",
+              "(B) He agrees that being out of the office is enjoyable.",
+              "(C) He has discovered an error.",
+              "(D) He is positive he will be back on Monday."
+            ]
+          },
+          "answer": {
+            "text": "(B) He agrees that being out of the office is enjoyable.",
+            "explanation": "In the line of text just before, Mr. Burk stated, \"At least it is fine because not in the office.\" Then when Mr. Shan says \"This is true\" it means that he is agreeing with Mr. Burk."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33b5"
+    },
+    {
+      "question": {
+        "text": "The majority of occupants  _____  live in Regal Towers are upset about the ongoing problems with their air conditioning systems.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) what",
+          "(B) where",
+          "(C) they",
+          "(D) who"
+        ]
+      },
+      "answer": {
+        "text": "(D) who",
+        "explanation": "It is easy to see that this sentence uses a relative clause and is lacking a relative pronoun for \"occupant\". So the missing word here is \"\" who \"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33b7"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">Mesa Hobby Models Community Forum</h4><p>Issue with the Blackbeard’s Pirate Ship Model</p><p align =\"right\">August 3, 10:55 A.M.</p>Post by John Taylor<br><br>I recently purchased a model kit from the Mega Hobby online store. I bought the Blackbeard’s Pirate Ship model to put together with my son, and I am having a problem. After carefully reading the instruction manual, I noticed that a few essential parts have been left out of the box. Specifically, some parts that make up the mast and sail seem to be absent from the kit. I have bought many models from Mega Hobby for years and have always been happy with the products I received. <br>Has anyone else had the same problem with this kit? My son and I were planning to submit our finished model to a local model building contest at the end of the month, and we are very disappointed with this setback. If anyone else has any experience with this problem and solved it, I would greatly appreciate your advice. <br><br> ==============================<br><br>Mesa Hobby Models Community Forum</h4><p>Issue with the Blackbeard’s Pirate Ship Model</p><p align =\"right\">August 3, 10:55 A.M.</p>Post by John Taylor<br><br>Hi John, <br>I also recently purchased the Blackboard’s Pirate Ship model from the Mega Hobby online store for my son and had the same problem that you did. At first, I thought I must have been mistaken, but after checking the list of all parts in the instruction manual, I determined that several parts must have been missing from the kit at the time of sale. I took the kit back to my local Mega Hobby store and a staff member confirmed my suspicion. The Mega Hobby employee was nice enough to exchange my model kit for one that had all of the parts. With the new kit, my son and I were able to put together the model exactly like the picture on the box. I suggest that you go to the Mega Hobby store closest to your home and ask them to exchange your defective product. Be sure to make a note of the order number when you go there.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Mr. Taylor?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He knows Ms. Maxwell personally.",
+              "(B) He is a product designer at Mega Hobby.",
+              "(C) He owns a sailboat.",
+              "(D) He will enter a competition with his son."
+            ]
+          },
+          "answer": {
+            "text": "(D) He will enter a competition with his son.",
+            "explanation": "Information in the sentence “My son and I were planning to submit our finished model to a local model building contest at the end of the month”"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Maxwell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is a regular customer of Mega Hobby.",
+              "(B) She works with Mr. Taylor at Mega Hobby.",
+              "(C) She successfully completed the model kit.",
+              "(D) She received a full refund."
+            ]
+          },
+          "answer": {
+            "text": "(C) She successfully completed the model kit.",
+            "explanation": "The information in the sentence “With the new kit, my son and I were able to put together the model exactly like the picture on the box. ”"
+          }
+        },
+        {
+          "question": {
+            "text": "How did both Mr. Taylor and Ms. Maxwell realize there was a problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By talking with a customer service agent",
+              "(B) By watching an instructional video",
+              "(C) Be consulting a user manual",
+              "(D) By looking at a photograph"
+            ]
+          },
+          "answer": {
+            "text": "(C) Be consulting a user manual",
+            "explanation": "In their post, both of them in turn wrote: <br> “After carefully reading the instruction manual, I noticed that a few essential parts have been left out of the box. \"<br> “after checking the list of all parts in the instruction manual, I determined that several parts must have been missing from the kit at the time of sale ”"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Maxwell recommend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Visiting a nearby store",
+              "(B) Canceling a membership",
+              "(C) Downloading a new instruction manual",
+              "(D) Purchasing replacement parts"
+            ]
+          },
+          "answer": {
+            "text": "(A) Visiting a nearby store",
+            "explanation": "Information located near the end \"I suggest that you go to the Mega Hobby store closest to your home and ask them to exchange your defective product\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the subject of the first post?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A defect with a purchased product",
+              "(B) Mistakes in the instruction manual",
+              "(C) A discrepancy with an advertised price",
+              "(D) Registration for a competition"
+            ]
+          },
+          "answer": {
+            "text": "(A) A defect with a purchased product",
+            "explanation": "The first post is about the lack of parts in the taste model set."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33bb"
+    },
+    {
+      "question": {
+        "text": "_____ buildings in a neighborhood can lead to a net loss of property values for nearby homeowners.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) Fertile",
+          "(B) Mandatory",
+          "(C) Vacant",
+          "(D) Compliant"
+        ]
+      },
+      "answer": {
+        "text": "(C) Vacant",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>C"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33bd"
+    },
+    {
+      "question": {
+        "text": "<h4 align=\"center\">Blooming Flower Yoga Studio</h4>\r\nSummer Yoga Classes:<br />\r\nThis summer we will be offering a variety of summer yoga classes for all age groups and skill levels.<br />\r\n<br />\r\nSummer Class Schedule and Prices (registration fee):<br />\r\nBeginner class, twice a week for two months ($150)<br />\r\nIntermediate and advanced class, twice a week for two months ($200)<br />\r\nYoga for senior citizens, once a week for two months ($100)<br />\r\nHot power yoga, three times a week for two months ($250)<br />\r\n<br />\r\nAll necessary supplies will be provided by the Blooming FlowerYoga Studio. Members should wear comfortable clothes that allow for free movement.<br />\r\n<br />\r\n45 Clark Street<br />\r\nIndianapolis, IN 46202<br />\r\n715-555-5832<br />\r\nwww.bloomingfloweryoga.com<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\n<em>To: Tammy Glenn - tammyglenn@mxmail.com<br />\r\nFrom: Dwayne Moore - dwaynemoore@bloomingfloweryoga.com<br />\r\nDate: May 23<br />\r\nSubject: New Student<br />\r\nAttachment: New member form</em><br />\r\n<br />\r\nDear Ms. Glenn,<br />\r\nI&rsquo;m writing to let you know that you have one more student who has signed up for your class. Your new student is Jane Meyers and she will bring the $100 registration fee with her to the first class on Monday.<br />\r\nAlso, on Monday, please give Ms. Meyers and any other new members the form they will need to fill out. I have attached the necessary paperwork to this e-mail. All you have to do is to print out copies and hand them out.<br />\r\nYour class now has nine members that will attend and is, therefore, almost at full capacity. In fact, all of the classes this summer have proved very popular, and I anticipate they will all fill up by the end of the month. Thank you so much for your many years of hard work as a teacher here at Blooming Flower Yoga studio. If you have any questions, let me know.<br />\r\n<br />\r\nDwayne Moore",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is stated about the summer classes?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They started last week.",
+              "(B) They will be held outdoors.",
+              "(C) They are available to both children and adults.",
+              "(D) They are being offered at a discounted price."
+            ]
+          },
+          "answer": {
+            "text": "(C) They are available to both children and adults.",
+            "explanation": "Information is at the phrase \"This summer we will be offering a variety of summer yoga classes for all age groups and skill levels.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Glenn?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She works well with children.",
+              "(B) She is a long-term employee.",
+              "(C) She will be retiring soon.",
+              "(D) She will be receiving a pay raise."
+            ]
+          },
+          "answer": {
+            "text": "(B) She is a long-term employee.",
+            "explanation": "The information is in the sentence “Thank you so much for your many years of hard work as a teacher here at Blooming Flower Yoga Studio ”"
+          }
+        },
+        {
+          "question": {
+            "text": "What is Ms. Glenn asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Develop a new curriculum",
+              "(B) Attend a training seminar",
+              "(C) Sign a work contract",
+              "(D) Distribute some documents"
+            ]
+          },
+          "answer": {
+            "text": "(D) Distribute some documents",
+            "explanation": "Information contained in sentence “'I have attached the necessary paperwork to this e-mail. All you have to do is to print out copies and hand them out."
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Meyers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She has never learned yoga before.",
+              "(B) She is an elderly person.",
+              "(C) She wants to become a yoga instructor.",
+              "(D) She is a long-time member."
+            ]
+          },
+          "answer": {
+            "text": "(B) She is an elderly person.",
+            "explanation": "In the email, it says that Ms. Meyers will bring in $ 100 in the beginning. Again in the advertisement, the only class that costs $ 100 is the senior class"
+          }
+        },
+        {
+          "question": {
+            "text": "In the e-mail, the word “capacity” in paragraph 3, line 1, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) volume",
+              "(B) ability",
+              "(C) vacancy",
+              "(D) role"
+            ]
+          },
+          "answer": {
+            "text": "(A) volume",
+            "explanation": "\"capacity\" is the closest means with \"volume\"."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33c1"
+    },
+    {
+      "question": {
+        "text": "Those who attend the creative writing workshop will learn a variety of useful methods  _____ the next two days.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) above",
+          "(B) at",
+          "(C) toward",
+          "(D) over"
+        ]
+      },
+      "answer": {
+        "text": "(D) over",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> D"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33c3"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Dreamspace Bed Emporium</h4> <p align =\"center\"> <b>Beds, Bedding, and Furniture</b></p><p align =\"center\"> 3600 Wilshire Road, Springfield, IL 62751</p><p align =\"center\">  www.dreamspacebeds.com</p>Don't let yourself suffer tossing and turning, not getting a good night's sleep. Come down to Dreamspace Bed Emporium and treat yourself to a comfortable bed catered to your exact needs. Customers are welcome to lie on any bed in the store. <br> <br><b> First Floor: Beds (single, double, queen, king, etc.)<br>Second Floor: Bedding (sheets, pillows, blankets, cushions, etc.)<br>Third Floor: Furniture (chairs, sofas, tables, etc.)</b><br><br>In response to customer suggestions, our store now stays open two hours later to accommodate those who may work irregular shifts.<br>Do you need express delivery for a bed? Simply ask one of our staff members at the checkout and it can be easily arranged.<br>If you have any comments or suggestions for our store, a comment box can be found inside the main entrance.<br><br>===========================<br<br><h4 align =\"center\"> Comment and Suggestion Form </h4><p align =\"center\"> <b> Dreamspace Bed Emporium</p> </b><br>Customer name: Willy M. King <br>Date: August 9<br>Contact number: 456-555-6123<br><br>Comment: <i>Last Meek, I came into your store to shop for a new pillow, sheet, and blanket set for my bed at home. However, when I went to that section, I couldn't find any available staff members to assist me. I waited for about half an hour, but no one came to me. I needed help determining what sheet and blanket set would fit the dimensions of my bed but ended up just leaving the store frustrated. I hope you can provide better service to customers so something like this doesn't happen again in the future. X have been a loyal customer of yours for years. If you don't explain why no one helped me, I may have to start shopping at one of your competitors' stores.</i><br><br>===========================<br><br> Hello everybody, I have called this meeting to talk about some of the problems that our new store policy of staying open later has caused. At first, this seemed like a great idea to help customers who worked all day. I know it can be hard to find time to do chores and your shopping when you work from 9 to 5. Unfortunately, this means that we have had to spread our staff too thin until we have hired and trained enough people. As a result, we have been neglecting some of our customers lately. The photocopied Comment and Suggestion Form I have passed out to you all from Willy King sums up our shortcomings better than I ever could. Please give it a read and think about ways we can be made aware of a customer in need, even in a store as large as ours. <br>I understand that with our thin staff, we have to cover more space than we used to, so this meeting isn’t about punishment or blame, it's just about solutions. Please do some brainstorming on this and drop in on me in my office if you think you have an idea; I have to go call Wily King.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT mentioned about beds at Dreamspace Bed Emporium?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They come in a variety of sizes.",
+              "(B)They can be tested by customers.",
+              "(C)They are displayed on the first floor.",
+              "(D)They come with a lifetime warranty."
+            ]
+          },
+          "answer": {
+            "text": "(D)They come with a lifetime warranty.",
+            "explanation": "By the exclusion method, it is possible found that only information in option D was not covered. <br> Option A: You can see in the first advertisement that the first floor displays beds of all kinds: single, double, ... <br> Option B: “Customers are welcomed to lie on any beds in our store ”(Customers are welcome to lie on any bed in the store.) <br> Option C: In the brochure reads: 1st floor: Bed"
+          }
+        },
+        {
+          "question": {
+            "text": "What is most likely true based upon the information from the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Dreamspace Bed Emporium will change their hours back to what they used to be.",
+              "(B) Dreamspace Bed Emporium will extend their hours to serve more customers like Willy King.",
+              "(C) Dreamspace Bed Emporium will hire more employees so there are enough people to cover the size of their store.",
+              "(D) Dreamspace Bed Emporium will hold a raffle event and invite Willy King."
+            ]
+          },
+          "answer": {
+            "text": "(C) Dreamspace Bed Emporium will hire more employees so there are enough people to cover the size of their store.",
+            "explanation": "\"Unfortunately, this means that we have had to spread our staff too thin until we have hired and trained enough people ” <br> The center will hire and train more staff."
+          }
+        },
+        {
+          "question": {
+            "text": "Where did Mr. King most likely search for the products he wanted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On the first floor",
+              "(B) On the second floor",
+              "(C) On the third floor",
+              "(D) Near the main entrance"
+            ]
+          },
+          "answer": {
+            "text": "(B) On the second floor",
+            "explanation": "In the comment form Mr. King said “I needed help determining what sheet and blanket set would fit the dimensions of my bed ”(I need help determining what kind of sheets and blankets are right for my bed size), that is, he came to buy blankets and sheets. According to the advertisement, these items are available on the 2nd floor."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the advertisement, what is true about Dreamspace Bed Emporium?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is located in a department store.",
+              "(B)It sells home appliances.",
+              "(C)It is hiring additional staff.",
+              "(D)It extended its operation hours."
+            ]
+          },
+          "answer": {
+            "text": "(D)It extended its operation hours.",
+            "explanation": "The information is located at the sentence \"In response to customer suggestions, our store now stays open two hours later to those who may work irregular shifts.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who do you believe is speaking at the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The Dreamspace Bed Emporium manager",
+              "(B)Willy King",
+              "(C)A district manager from another city",
+              "(D)A check out clerk"
+            ]
+          },
+          "answer": {
+            "text": "(A)The Dreamspace Bed Emporium manager",
+            "explanation": "From the sentence “so this meeting isn't about punishment or blame, it's just about solutions. Please do some brainstorming on this and drop in on me in my office if you think you have an idea ”(so this meeting is not for penalty or blame, it's about resolution. Please brainstorm on this issue. and drop by my office if you have an idea.) <br> You can infer that this is what the manager said to the shopping mall staff."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33c7"
+    },
+    {
+      "question": {
+        "text": "Mr. Hughes broke up the staff into small discussion groups to improve  _____  in meetings.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) participation",
+          "(B) participates",
+          "(C) participant",
+          "(D) participated"
+        ]
+      },
+      "answer": {
+        "text": "(A) participation",
+        "explanation": "The blank is after a verb. => Need a Noun"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33c9"
+    },
+    {
+      "question": {
+        "text": "http://www.acetraining.com<br />\r\nAce Training is a company that offers developmental courses for the employees of your store or business. You can rely on our team of successful professionals to improve the quality of your staff and help your company achieve its goals. We provide effective and results-oriented programs. Below are the training courses available:\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\"><b>Home </b></td>\r\n\t\t\t<td align=\"center\">Contact Us</td>\r\n\t\t\t<td align=\"center\">Location</td>\r\n\t\t\t<td align=\"center\">About Ace</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"4\"><u><b>Leadership</b></u><br />\r\n\t\t\tThis program helps staff members develop strategic planning and management skills. It also enhances the supervisory skills of the employees in leadership positions.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"4\"><u><b>Customer Service</b></u><b> </b><br />\r\n\t\t\tNever undervalue the importance of your customers&rsquo; satisfaction. Your employees need the skills to become helpful and efficient when working directly with customers.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"4\"><u><b>Sales</b></u><b> </b><br />\r\n\t\t\tWe teach innovative strategies to increase sales and market share. This class is suitable for both salespeople in a store and employees who work over the phone.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"4\"><b><u>Technologies</u></b><br />\r\n\t\t\tIn rapidly changing work environments, staff members should keep up with new trends and developments in the technological field. Your staff members will learn how to research and master new technologies quickly and accurately.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nFrom: Tiffany Tran - tifftran@zellengifts.com<br />\r\nTo: Joshua York - josh@acestafftraining.com<br />\r\nSubject:Staff Training for Our Employees<br />\r\nDate: October 9<br />\r\n<br />\r\nDear Mr. York,<br />\r\nI&rsquo;m contacting you about running a training program for some of our employees here at Zellen Gifts. We are planning on expanding our telemarketing department next month, but we don&rsquo;t have enough properly trained employees to fill these new positions. Therefore, we will be transferring some employees from the customer service department to the telemarketing department to solve this problem. As our products are mainly targeted towards children, we are hoping to increase our profits as much as possible for this Christmas season. Please let me know the maximum number of students that you can accommodate at one time.<br />\r\n<br />\r\nThank you,<br />\r\nTiffany Tran Zellen Gifts<br />\r\n<br />\r\n===============================<br />\r\n<br />\r\n<br />\r\n&nbsp;\r\n<h4 align=\"center\">PROPOSED ACE TRAINING SCHEDULE FOR ZELLEN GIFTS</h4>\r\n\r\n<p align=\"center\"><b>November 1-5</b></p>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" width=\"90%\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><b>Group Code and Student Numbers </b></td>\r\n\t\t\t<td><b>Monday Sales Strategies </b></td>\r\n\t\t\t<td><b>Tuesday Successful Negotiation </b></td>\r\n\t\t\t<td><b>Wednesday Customers First! </b></td>\r\n\t\t\t<td><b>Thursday Closing the Deal </b></td>\r\n\t\t\t<td><b>Friday Start Polite, Stay Polite </b></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Red Team 10 people</td>\r\n\t\t\t<td>9:00 &ndash; 11:00</td>\r\n\t\t\t<td>9:00-11:30</td>\r\n\t\t\t<td>8:00 &ndash; 10:30</td>\r\n\t\t\t<td>8:00 &ndash; 11:00</td>\r\n\t\t\t<td>9:00 -11:00</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Blue Team 10 people</td>\r\n\t\t\t<td>1:00 &ndash; 3:00</td>\r\n\t\t\t<td>1:00 &ndash; 3:00</td>\r\n\t\t\t<td>1:00 &ndash; 3:00</td>\r\n\t\t\t<td>1:00 &ndash; 3:00</td>\r\n\t\t\t<td>1:00 &ndash; 3:00</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Green Team 10 people</td>\r\n\t\t\t<td>3:00 &ndash; 5:00</td>\r\n\t\t\t<td>3:00 &ndash; 5:00</td>\r\n\t\t\t<td>3:00 &ndash; 5:00</td>\r\n\t\t\t<td>3:00 &ndash; 5:00</td>\r\n\t\t\t<td>3:00 &ndash; 5:00</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>White Team 10 people</td>\r\n\t\t\t<td>5:00 &ndash; 7:00</td>\r\n\t\t\t<td>5:00 &ndash; 7:00</td>\r\n\t\t\t<td>5:00 &ndash; 7:00</td>\r\n\t\t\t<td>5:00 &ndash; 7:00</td>\r\n\t\t\t<td>5:00 &ndash; 7:00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\n<br />\r\nHere is our proposed schedule for transitioning your customer service staff into successful telemarketers. You can see that we have an ambitious amount of material to cover, but I am confident it will be a success. We have tried to balance your need for a swift transition with your need to continue running Zellen Gifts while the training is in session. Therefore, we divided your staff into groups and staggered them throughout the day. This will result in better student-to-trainer numbers for your staff, and it should cause minimal disruptions in your business. We look forward to a great week of training!<br />\r\n<br />\r\nJoshua York<br />\r\nAce Training Coordinator</josh@acestafftraining.com></tifftran@zellengifts.com>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated by the proposed training schedule and accompanying memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is an easy course to complete.",
+              "(B)There are 5 key topics that will be covered.",
+              "(C)50 employees will take part.",
+              "(D)Joshua York will be one of the trainers."
+            ]
+          },
+          "answer": {
+            "text": "(B)There are 5 key topics that will be covered.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about the program on technologies?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is open to the public.",
+              "(B)It introduces recent web programming skills.",
+              "(C) It teaches environmental protection.",
+              "(D) It keeps employees up-to-date."
+            ]
+          },
+          "answer": {
+            "text": "(D) It keeps employees up-to-date.",
+            "explanation": "Information in the introduction sentence “staff members should keep up with new trends and play in the technological field.”"
+          }
+        },
+        {
+          "question": {
+            "text": "Where does Mr. York work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At an accounting firm",
+              "(B)At a sports management agency",
+              "(C)At a skill development institution",
+              "(D)At an advertising agency"
+            ]
+          },
+          "answer": {
+            "text": "(C)At a skill development institution",
+            "explanation": "From Email content, it can be seen that Tiffany sent an email to Mr. York to organize a training course for staff. So Mr. York is most likely to work in a training organization"
+          }
+        },
+        {
+          "question": {
+            "text": "Based upon the proposed training schedule and accompanying memo, what can be inferred about Zellen Gifts?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are trying to become better at customer relations.",
+              "(B)They are trying to conduct business as normal during their training period.",
+              "(C)They have a small customer service staff.",
+              "(D)They want to finish their training before the end of October"
+            ]
+          },
+          "answer": {
+            "text": "(B)They are trying to conduct business as normal during their training period.",
+            "explanation": "Information can be deduced by the sentence “We have tried to balance your need for a swift transition with your need to continue running Zellen Gifts while the training is in session ”"
+          }
+        },
+        {
+          "question": {
+            "text": "In what program is Ms. Tran most likely interested?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Leadership",
+              "(B)Sales",
+              "(C)Customer Service",
+              "(D)Technologies"
+            ]
+          },
+          "answer": {
+            "text": "(B)Sales",
+            "explanation": "From email, “We are planning on expanding our telemarketing department next month, but we don't have enough properly trained employees to fill these new positions ”(We are planning to expand our telemarketing department next month, but we do not have enough trained staff suitable for new positions) <br> That means Ms. Tran is interested in telemarketing training. Of the answers given, it was the most relevant to sales."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33cd"
+    },
+    {
+      "question": {
+        "text": "Rather than decorating each conference room  _____, the owner of Norris Hall bought furnishings in bulk and gave the spaces the same appearance.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) differing",
+          "(B) difference",
+          "(C) differently",
+          "(D) differs"
+        ]
+      },
+      "answer": {
+        "text": "(C) differently",
+        "explanation": "The blank is after a verb phrase, so need an adverb to modify."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c33cf"
+    },
+    {
+      "question": {
+        "text": "<h4 align=\"center\"><strong>Midcity Performing Arts Hall</strong></h4>\r\nSupport the Midcity Performing Arts Hall in downtown Brenton by becoming a member. You can choose from the following membership plans:<br />\r\nGeneral - For only $100, you can get a full-year membership to attend any two performing arts shows that have available seats in the D area of the theater.<br />\r\nSilver - For a fee of $200, you can attend any two performing arts shows that have available seats in the B area of the theater.<br />\r\nGold - For a fee of $500, you will receive early alerts of popular programs with a ticket to any two performing arts shows with seats in the B area, and a guaranteed seat for any show of your choice within a one-year period in the front row section.<br />\r\nDiamond - For a fee of $1000, you will have exclusive access to signed autographs with performing arts stars, invitations to two exclusive pre-showings of popular programs, and a guaranteed seat for any show of your choice within a one-year period in the VIP section.<br />\r\n*Some restrictions may apply.<br />\r\n*Admissions to orchestral performances excluded<br />\r\n<br />\r\n=============================<br />\r\n<br />\r\n<em>To:bates@midcityarthall.com<br />\r\nFrom:Alicia Norton<br />\r\nDate:January 16<br />\r\nSubject:Membership</em><br />\r\n<br />\r\nThank you for the e-mail about the Midcity Performing Arts Hall membership. I have attached a fee of $1000.1 was a general member last year and I enjoyed a couple of the musicals that were performed. I have become a theater enthusiast since the experience and I look forward to the benefits of the new membership plan.<br />\r\nBy the way, the Art Hall has done a phenomenal job on the renovations to the building. I&#39;m excited to come back this year.<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\n@PS@/kstoeic/images/4448661_1564544782006.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Which membership did Alicia Norton most likely purchase?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)General",
+              "(B)Silver",
+              "(C)Gold",
+              "(D)Diamond"
+            ]
+          },
+          "answer": {
+            "text": "(D)Diamond",
+            "explanation": "In the email, Alica Norton said there was a $ 1000 fee attached. According to the advertisement, this is the diamond membership fee, so this is likely the type of member she bought the most."
+          }
+        },
+        {
+          "question": {
+            "text": "What is meant by the expression “some restrictions may apply”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Only certain people will be considered for membership.",
+              "(B)The membership plans may change without notice.",
+              "(C)Not all performances are available to members.",
+              "(D)Admissions will not be allowed non-members."
+            ]
+          },
+          "answer": {
+            "text": "(C)Not all performances are available to members.",
+            "explanation": "\"some restrictions may apply\", meaning a number of shows will be limited to members. So the most suitable answer is C."
+          }
+        },
+        {
+          "question": {
+            "text": "When is a performance not free to members?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)January",
+              "(B)February",
+              "(C)March",
+              "(D)April"
+            ]
+          },
+          "answer": {
+            "text": "(A)January",
+            "explanation": "In the note of the ad, “Admissions to orchestral performances excluded ”, means that members are not allowed to enter free symphonies. The scheduled symphony is scheduled for January."
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the Midcity Performing Arts Hall?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It hosts various sports programs.",
+              "(B)It had some changes made to the building.",
+              "(C)It is a place popular among celebrities.",
+              "(D)It is an old museum."
+            ]
+          },
+          "answer": {
+            "text": "(B)It had some changes made to the building.",
+            "explanation": "Info is located near the bottom of the email \"the Art Hall has done a phenomenal job on the renovations to the building\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is implied about the schedule?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The shows have sold out.",
+              "(B)More shows may be available.",
+              "(C) It is fixed.",
+              "(D) It may change."
+            ]
+          },
+          "answer": {
+            "text": "(D) It may change.",
+            "explanation": "As can be seen from the \"Tentative schedule\" heading, this means that the schedule is changeable."
+          }
+        }
+      ],
+      "id": "626441d0eccc8cae769c33d3"
+    }
+  ],
+  "id": "626441d0eccc8cae769c33d9"
+}

@@ -1,0 +1,814 @@
+{
+  "name": "Skill Test 283",
+  "questions": [
+    {
+      "question": {
+        "text": "TO: Quality Control and Packaging staff <br>FROM: David Briggs <br>DATE: July 22<br><br>Greetings, <br><br>I’d like to give you all some news on what is taking place in our department right now. <br><br>First of all, please welcome Laurie Kingsolver as our new office manager. Laurie comes to us by way of the accounting division, her home for the last twelve years. Laurie and I worked together there during my early days in the company, shortly after she joined the accounting area. She is an energetic colleague and a highly competent manager. Laurie's first day with us here in the quality control and packaging department will be July 29. <br><br>We are very happy that Alfred Chen has agreed to continue to serve in an interim capacity as assistant coordinator of packaging until we are able to find a replacement for Lydia Parry. Alfred has helped the packaging department immensely this summer by preparing schedules, responding to e-mails, and entering material into the database in Lydia's place. We would have been lost without him. In the meantime, colleagues in the human resources division are working to fill Lydia's position. I will send out an update as soon as an offer is accepted. <br><br>Finally, please join me in congratulating Karl Wilson on his recent <u>appointment</u> as coordinator of quality control. I look forward to working with Karl in his new role. <br><br>Thanks, <br>David Briggs<br>Senior Vice President<br>Quality Control and Packaging<br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did David Briggs write the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To ask for volunteers to help in the packaging office",
+              "(B)To report personnel changes in his department",
+              "(C)To describe changes in hiring procedures",
+              "(D)To announce his acceptance of a new position"
+            ]
+          },
+          "answer": {
+            "text": "(B)To report personnel changes in his department",
+            "explanation": "Information in the sentences: \"First of all, please welcome Laurie Kingsolver as our new office manager.\", \"We are very happy that Alfred Chen has agreed to continue to serve in an interim capacity as assistant coordinator of packaging until we are able to find a replacement for Lydia Parry.\" and \"Finally, please join me in congratulating Karl Wilson on his recent appointment as coordinator of quality control.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about David Briggs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He joined the company about twelve years ago.",
+              "(B)He works in the human resources division.",
+              "(C)He was out of the office for most of July.",
+              "(D)He sends a memo to his staff on a monthly basis."
+            ]
+          },
+          "answer": {
+            "text": "(A)He joined the company about twelve years ago.",
+            "explanation": "Information in the sentences: \"Laurie comes to us by way of the accounting division, her home for the last twelve years. Laurie and I worked together there during my early days in the company\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the mentioned about the packaging area?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It has replaced its database.",
+              "(B)It is busiest in the summer months.",
+              "(C)It lost an important shipment",
+              "(D)It currently has a job opening."
+            ]
+          },
+          "answer": {
+            "text": "(D)It currently has a job opening.",
+            "explanation": "Information in the sentence: \"We are very happy that Alfred Chen has agreed to continue to serve in an interim capacity as assistant coordinator of packaging until we are able to find a replacement for Lydia Parry.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"appointment\"  is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Arrangement to meet",
+              "(B)Membership in a group",
+              "(C)Assignment to a position",
+              "(D)Selection of a committee"
+            ]
+          },
+          "answer": {
+            "text": "(C)Assignment to a position",
+            "explanation": "Based on the meaning to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cc1"
+    },
+    {
+      "question": {
+        "text": "<h4>Salty Sea in Rough Waters</h4><br>by Sandra Lo<br><br>SINGAPORE (14 January) - Tourists in the know have been coming for years to the old pier-based seafood restaurant in the shape of a ship. --- [1] ---. The restaurant, Salty Sea, still stands, but the familiar wooden doors with their porthole windows are closed. All of the interior furniture was auctioned off in November, and the place is set to be demolished next month. --- [2] ---.<br>All is not as it seems, however. Salty Sea manager Nishit Kapoor has come to a hard-won agreement with the property owner, PG Realty, to rebuild the restaurant where it stands. --- [3] ---. According to Mr. Kapoor, PG Realty had decided to have the building torn down because the structure itself would have required massive repairs. <br>--- [4] ---. Any new structure built on the property will follow the original concept but have a more modern appearance. This comes at the insistence of PG Realty over the objections of Mr. Kapoor. <br><br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being reported?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A restaurant has been renamed.",
+              "(B) A building as changed ownership.",
+              "(C) A ship is being rebuilt.",
+              "(D)A business is planning to reopen."
+            ]
+          },
+          "answer": {
+            "text": "(D)A business is planning to reopen.",
+            "explanation": "Information in sentence: \"All is not as it seems, however. Salty Sea\nmanager Nishit Kapoor has come to a hardwon agreement with the property owner, PG Realty, to rebuild the restaurant where it stands.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Mr. Kapoor?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He insisted on keeping the original design.",
+              "(B) He wants to leave the restaurant business.",
+              "(C) He is looking for a new location.",
+              "(D) He turned a ship into a restaurant."
+            ]
+          },
+          "answer": {
+            "text": "(A) He insisted on keeping the original design.",
+            "explanation": "Information in sentence: \"Any new structure built on the property will follow the original concept but have a more modern appearance.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? <br>\"Among the objects sold was a scale model of the 150-year-old ship that inspired the restaurant's design.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(B) [2]",
+            "explanation": "This sentence is related to the previous sentence \"All of the interior furniture was auctioned off in November, and the place is set to be demolished next month.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cca"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h3 style=\"text-align: center;\"> Price & Witherspoon Ltd. <br>25 Byron Court<br> Enfield, London EN9 3XY </h3> <br><br> <p align =\"right\"> 27 th April </p> <br> Mr. Sujit Kumar <br>A&M Wholesalers <br>17 Pipers Way <br>West Heath Yorkshire WH47 9JC<br><br>Dear Mr. Kumar, <br><br>Thank you for your recent inquiry about our business needs. We received your brochure in the mail, and we were impressed with the design and quality of your products. Following your suggestion, we would like to arrange a time for you to visit us here at our London office to tell us more about your goods and services. <br><br>We are planning to replace about 50 percent of the desks in our regional offices. In addition to our main office, we have branches in Nottingham, Norwich and Reading. In total, we estimate a need for <u> roughly </u> 200 units. Our previous supplier of office desks and tables, Quality Goods, has recently gone out of business, so we are actively seeking a new vendor. We were pleased to hear that you offer competitive prices on products, delivery and set-up services. <br><br>We would be happy to meet with you at any of these times: Monday, May 8, at 9:00 a.m., Tuesday, May 9, at 10:00 a.m., or Thursday, May 11, at 9:30 a.m. These are the times in early May when our acquisitions staff will be here at the main office. Please call my assistant, Jeremy Donohue, at 020 5555 2983 to confirm which time is best for you. In the meantime, we would be grateful to receive any catalogues or other materials that might be of interest. <br><br><br> <p align =\"right\"> Sincerely, <br> <br>Jenna \"Wagner<br>Jenna Wagner Acquisitions <br> Manager Price & Witherspoon Ltd.</td></tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To schedule a meeting",
+              "(B)To describe product features",
+              "(C)To compare two companies",
+              "(D)To negotiate furniture prices"
+            ]
+          },
+          "answer": {
+            "text": "(A)To schedule a meeting",
+            "explanation": "Information in the sentence: \"Following your suggestion, we would like to arrange a time for you to visit us here at our London office to tell us more about your goods and services.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Price & Witherspoon Ltd.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It plans to open new regional offices.",
+              "(B)It is based in Nottingham.",
+              "(C)It has stopped doing business with a supplier.",
+              "(D)It is one of Mr. Kumar's current clients."
+            ]
+          },
+          "answer": {
+            "text": "(C)It has stopped doing business with a supplier.",
+            "explanation": "Information in the sentence: \"Our previous supplier of office desks and tables, Quality Goods, has recently gone out of business, so we are actively seeking a new vendor.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"roughly\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)approximately",
+              "(B)individually",
+              "(C)economically",
+              "(D)harshly"
+            ]
+          },
+          "answer": {
+            "text": "(A)approximately",
+            "explanation": "Based on the meaning to choose the correct answer "
+          }
+        },
+        {
+          "question": {
+            "text": "What will Mr. Kumar most likely do in early May?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Visit regional offices",
+              "(B)Call Ms. Wagner",
+              "(C)Give a presentation",
+              "(D)Set up office furniture"
+            ]
+          },
+          "answer": {
+            "text": "(C)Give a presentation",
+            "explanation": "Information in the sentences: \" Following your suggestion, we would like to arrange a time for you to visit us here at our London office to tell us more about your goods and services.\", \"We were pleased to hear that you offer competitive prices on products, delivery and set-up services.\" and \"We would be happy to meet with you at any of these times: Monday, May 8, at 9:00 a.m., Tuesday, May 9, at 10:00 a.m., or Thursday, May 11, at 9:30 a.m.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ccc"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\">  <b>Bartel Manufacturing, Inc.</b> <br>301 San Andreas Street<br> Oakland, CA 94621<br><br></p>October 11 Daniel Rhee<br>Home Country Family Foods 175 Calle del Sol Cupertino, CA 91031<br><br> Dear Mr. Rhee: <br><br> Thank you for your interest in Bartel’s food packaging technology. <br><br> As we discussed in our telephone conversation, Certain Seal is well suited to the needs of a mid-to-large-scale food processing company. It is designed to handle large volumes and can be customized for almost any size or shape of food product. <br><br>Certain Seal also lengthens the shelf life of your products. As you know, one of the biggest causes of food spoilage is excess air left in vacuum- sealed packages. Our system is especially effective in eliminating this threat. In the September issue of <i>Industry World</i> magazine, comparison testing indicated that Certain Seal removed excess air more efficiently than similar vacuum packaging systems (such as the Sigillare 100 produced by TYT Industries). <br><br>Food quality is ensured further by the packaging material itself. For the Certain Seal system, we use an especially durable plastic that protects foods throughout the freezing, shipping, and reheating processes. <br><br>This is just an overview of some of the benefits of our technology. I will go into greater detail in my October 28 presentation at your office. In order to tailor the presentation to your needs, I would like to know more about Home Country’s production requirements. Please contact me at our main offices in Oakland at (510) 555-0116 between 9 A.M. and 6 P.M. <br><br>Sincerely, <br>Julie Chan Sales Director",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is most likely Ms. Chan's goal?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To sell a product to Mr. Rhee's company",
+              "(B)To ask Mr. Rhee for marketing advice",
+              "(C)To interview Mr. Rhee for Industry World",
+              "(D)To apply for a job with Mr. Rhee's company"
+            ]
+          },
+          "answer": {
+            "text": "(A)To sell a product to Mr. Rhee's company",
+            "explanation": "You should skim the passage especially its body to answer this question. Pay attention to lines such as \"As we discussed in our telephone conversation, Certain Seal is well suited to the needs of a mid-to-large-scale food processing company. \", \"Certain Seal also lengthens the shelf life of your products.\", \"Food quality is ensured further by the packaging material itself. For the Certain Seal system, we use an especially durable plastic that protects foods throughout the freezing, shipping, and reheating processes.\" and \"This is just an overview of some of the benefits of our technology. \""
+          }
+        },
+        {
+          "question": {
+            "text": "Where will Ms. Chan and Mr. Rhee meet?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In Home Country's offices",
+              "(B)At the Industry World headquarters",
+              "(C)In Bartel’s offices in Oakland",
+              "(D)At the TYT Industries production facility"
+            ]
+          },
+          "answer": {
+            "text": "(A)In Home Country's offices",
+            "explanation": "Information in the sentences \" I will go into greater detail in my October 28 presentation at your office. In order to tailor the presentation to your needs, I would like to know more about Home Country’s production requirements.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In what industry does Mr. Rhee probably work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Large-scale agriculture",
+              "(B)Restaurants and catering",
+              "(C)Plastics manufacturing",
+              "(D)Food processing"
+            ]
+          },
+          "answer": {
+            "text": "(D)Food processing",
+            "explanation": "Information in the sentence: \"Thank you for your interest in Bartel’s food packaging technology.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated as a benefit of Certain Seal?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Lower production costs",
+              "(B)Reliable packaging",
+              "(C)Environmental friendliness",
+              "(D)Ease of disposal"
+            ]
+          },
+          "answer": {
+            "text": "(B)Reliable packaging",
+            "explanation": "Information in the sentences \"Food quality is ensured further by the packaging material itself. For the Certain Seal system, we use an especially durable plastic that protects foods throughout the freezing, shipping, and reheating processes.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Chan ask Mr. Rhee to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Decrease production levels",
+              "(B)Schedule a presentation",
+              "(C)Provide additional information",
+              "(D)Customize a product for her"
+            ]
+          },
+          "answer": {
+            "text": "(C)Provide additional information",
+            "explanation": "Information in the sentences \" In order to tailor the presentation to your needs, I would like to know more about Home Country’s production requirements. Please contact me at our main offices in Oakland at (510) 555-0116 between 9 A.M. and 6 P.M.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cc8"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h3 style=\"text-align: center;\"> ACE Supremo Cash Register<br>Model T-100 </h3> <p align =\"center\"> Getting Started </p> <br> This section provides information on how to unpack the cash register and get it ready to operate. You should read this part of the manual even if you have used a cash register before. The following is the basic setup procedure; more detailed information is provided in the <u>succeeding</u> sections beginning on page 13. <br><br> <b>1.UNPACK THE CASH REGISTER</b>. Remove the machine from its box and makes sure that all of the parts and accessories are included. A full inventory of accessories and attachments is provided on page 4.<br><br><b>2.REMOVE THE PROTECTIVE PACKAGING</b>. Carefully remove the tape holding the parts of the cash register in place. Then remove the small plastic bag taped to the printer compartment. This is where you will find the keys for adjusting the printer settings.<br><br><b> 3.INSTALL THE MEMORY BACKUP BATTERIES</b>. Remove the lid from the printer compartment on the top of the machine (Diagram C). Remove the battery compartment cover by sliding the cover toward you and then pulling up. Note the (+) and (-) markings in the battery compartment. Load the enclosed set of three new UM-3 batteries so that their positive (+) and negative (-) ends are facing as indicated by the markings. Replace the battery compartment cover. NOTE; These batteries protect transaction information stored in your register’s memory when there is a power failure or when you unplug the power adaptor. Be sure to install these batteries before using the machine.<br><br><b>4.INSTALL RECEIPT PAPER</b>. Remove the printer lid. Open the platen arm. Lower the roll into the space behind the printer, ensuring that the paper is being fed from the bottom of the roll (see Diagram D.) Put the leading end of the paper over the printer. Close the platen arm slowly until it locks securely. Replace the printer cover, passing the leading end of the paper through the cutter slot. Tear off the excess paper and then close the printer lid. NOTE: When all provided paper rolls have been used, you can order a replacement pack from an approved supplier. A full list of outside suppliers of receipt paper is provided on page 46.<br><br><p align =\"center\"> -page5- </td></tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where would the information most likely be found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In a product advertisement",
+              "(B)In an electronics magazine",
+              "(C)In an instruction booklet",
+              "(D)In a repair guide"
+            ]
+          },
+          "answer": {
+            "text": "(C)In an instruction booklet",
+            "explanation": "Information in the sentence: \"This section provides information on how to unpack the cash register and get it ready to operate. You should read this part of the manual even if you have used a cash register before. The following is the basic setup procedure; more detailed information is provided in the succeeding sections beginning on page 13.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"succeeding\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)subsequent",
+              "(B)accomplishing",
+              "(C) improving",
+              "(D) appropriate"
+            ]
+          },
+          "answer": {
+            "text": "(A)subsequent",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the batteries?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are used when electrical power to the machine is interrupted.",
+              "(B)They must be purchased separately.",
+              "(C)They should be replaced every three months.",
+              "(D)They fit into a compartment on the back of the machine."
+            ]
+          },
+          "answer": {
+            "text": "(A)They are used when electrical power to the machine is interrupted.",
+            "explanation": "Information in the sentence: \"These batteries protect transaction information stored in your register’s memory when there is a power failure or when you unplug the power adaptor.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is implied about the receipt paper?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Directions for installing it are provided on page 46.",
+              "(B)It can be ordered directly from the machine's manufacturer.",
+              "(C)Some paper has been included in the box.",
+              "(D)One roll has been installed by the manufacturer."
+            ]
+          },
+          "answer": {
+            "text": "(C)Some paper has been included in the box.",
+            "explanation": "Information in the sentences: \"Remove the printer lid. Open the platen arm. Lower the roll into the space behind the printer, ensuring that the paper is being fed from the bottom of the roll (see Diagram D.) Put the leading end of the paper over the printer. Close the platen arm slowly until it locks securely. Replace the printer cover, passing the leading end of the paper through the cutter slot. Tear off the excess paper and then close the printer lid.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What directions are NOT included in the information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)How to unpack the machine",
+              "(B)Where to plug in the power adaptor",
+              "(C)Where to find keys for the printer settings",
+              "(D)How to load the roll of paper"
+            ]
+          },
+          "answer": {
+            "text": "(B)Where to plug in the power adaptor",
+            "explanation": "This section provides information on how to unpack the cash register and get it ready to operate. => Eliminate A<br>Then remove the small plastic bag taped to the printer compartment. This is where you will find the keys for adjusting the printer settings. => Eliminate C<br> Lower the roll into the space behind the printer, ensuring that the paper is being fed from the bottom of the roll (see Diagram D.) => Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cd3"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> <b>  Engineering Firm to Expand </b></p> <br>February 15 — Aucoin-Braud, the French engineering firm best known for its energy-efficient power generators, unveiled today its plans for expansion. <br><br>Speaking in a press conference in Paris, Aucoin-Braud President Simone Roux announced plans for the construction of a new global headquarters there. <br><br>Construction projects are also slated for the firm’s foreign subsidiaries, Tecnología, in Genoa, Italy, and Nonpareil, Inc., in Brussels, Belgium. At both companies, additional production facilities will be built and staff sizes increased. <br><br>In order to focus on alternative energy sources such as ocean power, Aucoin-Braud will establish an additional subsidiary in another international <u>market</u>. When pressed by reporters to specify which, Roux declined to say, stating only that “Northern Europe has much potential in this respect and is important to our long-term goals.” <br><br>For industry analyst Dieter Veidt, this comes as no surprise. “Aucoin-Braud has invested heavily in ocean power technology, so Northern European nations like Denmark or Finland are perfect venues for the firm’s expansion.” <br><br>Roux’s final comment at the press conference will undoubtedly fuel speculation on this point. When asked what her short-term goals were, she replied that she is “planning a seaside vacation in Denmark.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "How does Aucoin-Braud plan to expand?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By increasing funding for research and development",
+              "(B)By enlarging its international presence",
+              "(C)By generating greater sales outside of Northern Europe",
+              "(D)By merging with another company"
+            ]
+          },
+          "answer": {
+            "text": "(B)By enlarging its international presence",
+            "explanation": "Information in the sentence \"Speaking in a press conference in Paris, Aucoin-Braud President Simone Roux announced plans for the construction of a new global headquarters there.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated as one of Aucoin-Braud's goals?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To hire additional staff in Denmark",
+              "(B)To launch a new line of generators",
+              "(C)To rely exclusively on ocean power",
+              "(D)To add to its facilities in Brussels"
+            ]
+          },
+          "answer": {
+            "text": "(D)To add to its facilities in Brussels",
+            "explanation": "Information in the sentence \"Construction projects are also slated for the firm’s foreign subsidiaries, Tecnología, in Genoa, Italy, and Nonpareil, Inc., in Brussels, Belgium.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"market\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Product advertising",
+              "(B)Retail establishment",
+              "(C)Sales region",
+              "(D)Global trade"
+            ]
+          },
+          "answer": {
+            "text": "(C)Sales region",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cd5"
+    },
+    {
+      "question": {
+        "text": "To: Satff <allstaff@estable.com><br>From: Joan Finkel <jfinkel@estable.com><br>Date: Octorber 22<br>Re: Photocopying<br><br>Dear Staff, <br>To ensure that we conserve company resources and protect the environment, we ask that you adhere to company policies when using the photocopy machine. As you know, making hard copies requires the use of paper, toner, and other materials that impact the environment. It can also be expensive. Currently, departments are charged 5 cents per page, which can add up quickly. To minimize these environmental and financial impacts, consider accessing materials electronically whenever possible. <br>When hard copies are truly necessary, please limit your use of the copy machine to 25 copies per batch. This machine is intended for light use, and printing large batches could result in excessive wear and added maintenance and replacement costs. If a higher number of copies is needed, please submit a request to the Printing Center, located on the fourth floor. We have discontinued the paper printing request form and now only process orders from our electronic form on the employee resources Web page. Please contact your department secretary if you need assistance with this procedure. <br><br>Thank you for your cooperation. <br>Regards, <br>Joan Frinkel<br>Operations Supervisor",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Ms. Finkel send the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To notify employees of increased charges for photocopying",
+              "(B) To announce the new location of the Printing Center",
+              "(C) To review the company's photocopying policies",
+              "(D) To explain when the copy machine will be repaired"
+            ]
+          },
+          "answer": {
+            "text": "(C) To review the company's photocopying policies",
+            "explanation": "Information in sentence: \"To ensure that we conserve company resources and protect the environment, we ask that\nyou adhere to company policies when using photocopy machine\". Besides, you need to skim the passage to answer this question. "
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a reason for limiting the number of paper copies?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Reducing the environmental impact",
+              "(B) Lowering the cost to departments",
+              "(C) Increasing the speed of communication",
+              "(D) Extending the life of the copy machine"
+            ]
+          },
+          "answer": {
+            "text": "(C) Increasing the speed of communication",
+            "explanation": "Making hard copies requires the use of paper, the toner, and other materials that impact the environment. → Eliminate A<br> It can also be expensive. Currently, departments are charged 5 cents per\npage, which can add up quickly. → Eliminate B <br> This machine is intended for light use, and printing large batches could\nresult in excessive wear → Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the e-mail, when should orders be requested through the Printing Center?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When more than 25 copies are needed",
+              "(B) When the copies are not needed immediately",
+              "(C) When the department secretary is out of the office",
+              "(D) When the copy machine need maintenance"
+            ]
+          },
+          "answer": {
+            "text": "(A) When more than 25 copies are needed",
+            "explanation": "Information in sentence: \"When hard copies are truly necessary, please limit your use of the copy machine to 25\ncopies per batch. This machine is intended for light use, and printing large batches could result in excessive wear and added maintenance and replacement costs. If a higher number of copies is needed, please submit a request to the Printing Center.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How should printing requests be submitted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By calling the department secretary",
+              "(B) By completing an online form",
+              "(C) By filling out the paper request form",
+              "(D) By visiting the Printing Center"
+            ]
+          },
+          "answer": {
+            "text": "(B) By completing an online form",
+            "explanation": "Information in sentence: \" now only process orders\nfrom our electronic form on the employee resources Web page.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cd1"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\">  <b>The Manor at ASdous Street </b> <br> <br> in one of Barchester's most livable neighborhoods</p> <br> Parkburst's newest apartment building offers city life at its most comfortable and convenient. The Manor at Aldous Street has a wide array of shops and fine restaurants just outside its door. And for daily commuters to the city center, public transportation is available at the Queens Landing station, just a short walk to the north. <br> <br>Our apartment units range from one to three bedrooms. Each unit has the following: <br><br>a full-sized kitchen complete with newly installed refrigerator, oven, and dishwashing machine; a dining room separate from the kitchen; and a spacious sitting room with balcony access. <br><br> Residents will also have access to complimentary high-speed Internet, shared laundry facilities, and, for an additional monthly fee, the parking garage. <br><br>Tour an apartment at The Manor at Aldous Street today. Call Henman Estate Agents at 0430-555-0108 to schedule an appointment. <br><br>Visit our Web site at www.henmanestateagents.com.au/themanorataldousstreet for apartment floor plans, photos of the building, and a map of the Parkhurst neighborhood. Units will be available beginning on April 1.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A residential building",
+              "(B)A city park",
+              "(C)A historic site",
+              "(D)A restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(A)A residential building",
+            "explanation": "Information in the sentences \"Parkburst's newest apartment building offers city life at its most comfortable and convenient. The Manor at Aldous Street has a wide array of shops and fine restaurants just outside its door. And for daily commuters to the city center, public transportation is available at the Queens Landing station, just a short walk to the north.<br> Our apartment units range from one to three bedrooms.\" In addition, you should skim the passage to answer this question."
+          }
+        },
+        {
+          "question": {
+            "text": "How is the Parkhurst neighborhood described?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is in the center of the city.",
+              "(B)It is not accessible by public transportation,",
+              "(C)It offers many dining options.",
+              "(D)It has few newly constructed apartment buildings."
+            ]
+          },
+          "answer": {
+            "text": "(C)It offers many dining options.",
+            "explanation": "Information in the sentence \"a full-sized kitchen complete with newly installed refrigerator, oven, and dishwashing machine; a dining room separate from the kitchen; and a spacious sitting room with balcony access.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the units at The Manor?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They do not include kitchen appliances.",
+              "(B)The bedrooms have balconies.",
+              "(C)The kitchens include dining areas.",
+              "(D)They are equipped for Internet access."
+            ]
+          },
+          "answer": {
+            "text": "(D)They are equipped for Internet access.",
+            "explanation": "Information in the sentence\"Residents will also have access to complimentary high-speed Internet\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT available on the Henman Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Photographs of The Manor",
+              "(B)A map of the area",
+              "(C)Information on apartment layouts",
+              "(D)An appointment calendar"
+            ]
+          },
+          "answer": {
+            "text": "(D)An appointment calendar",
+            "explanation": "Visit our Web site at www.henmanestateagents.com.au/themanorataldousstreet for apartment floor plans, photos of the building, and a map of the Parkhurst neighborhood. => Eliminate A, B & D"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cdc"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> Thank you for shopping at Marlowe’s! Please fill out this questionnaire in order to help us better understand customer needs.</p> <br> 1. How often do you visit Marlowe’s?<br> <br><table width=\"100%\" border=0 cellspacing=0 cellpadding=0> <tr><td> __Daily</td><td> __Weekly </td><td>__Monthly </td></tr> </table> <br><br>2. How much do you spend on an average visit? <br> <table width=\"100%\" border=0 cellspacing=0 cellpadding=0><tr><td> _Under$20</td><td>_$20-$40 </td><td>_$40-$60 </td></tr><tr> <td> _$60-$80</td><td> _$80-$100</td><td>_Over$100</td> </tr></table> <br><br>3. What kinds of products did you purchase today? <br><br>&nbsp;&nbsp;&nbsp;&nbsp;_ Uniforms for chefs and waiters <br>&nbsp;&nbsp;&nbsp;&nbsp;_ Cookware (pots, pans)<br>&nbsp;&nbsp;&nbsp;&nbsp;_ Tableware (glasses, plates, cutlery)<br>&nbsp;&nbsp;&nbsp;&nbsp;_ Professional cleaning supplies <br><br></p>Name (optional): <i>Sajiv Patel</i> <br>Business (optional): <i>India Palace</i>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business is Marlowe's?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A cleaning service",
+              "(B) A sports equipment distributor",
+              "(C) A women's clothing store",
+              "(D) A restaurant supply store"
+            ]
+          },
+          "answer": {
+            "text": "(D) A restaurant supply store",
+            "explanation": "Information in the lines: \"What kinds of products did you purchase today?<br>_ Uniforms for chefs and waiters<br>_ Cookware (pots, pans)<br>_ Tableware (glasses, plates, cutlery)<br>_ Professional cleaning supplies\n"
+          }
+        },
+        {
+          "question": {
+            "text": "How much does Mr. Patel usually spend at Marlowe's?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Less than 20 dollars",
+              "(B) Between 40 dollars and 60 dollars",
+              "(C) Between 60 dollars and 80 dollars",
+              "(D) More than 100 dollars"
+            ]
+          },
+          "answer": {
+            "text": "(D) More than 100 dollars",
+            "explanation": "Information in the line: \"Over $100\"\n"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cda"
+    },
+    {
+      "question": {
+        "text": "It is no secret that Xiaoyu Li's latest book, Daring to Succeed in Business (276 pages, Finn Business Publishing, $26.95), was written specifically for recent university graduates. The book is heavily marketed to young people, and much of the book's introductory material is geared toward them. However, the concepts elucidated by Ms. Li are reflected in the experiences of many an established business executive. --- [1] ---. The basic premise of the book is that in order to fulfill one's true potential, a person must be willing to take calculated risks. As founder and CEO of a large advertising firm, I can attest to this idea. <br>Taking risks was not something I learned to do overnight. --- [2] ---. In fact, I spent the early years of my career firmly in my comfort zone, avoiding any major decisions that did not have a predictable outcome. What I eventually realized is that by doing this, I was effectively preventing my business from growing to its true potential. --- [3] ---. It was not until I started pursuing new opportunities strategically and stopped worrying about the occasional mistake that my company developed into the multimillion-dollar firm it is today. It was a change in mindset that make all the difference, but it took me years to figure out. <br>For this reason, I am particularly pleased that Ms. Li is presenting this idea to those who may become the business leaders of tomorrow. --- [4] ---. In twelve clear and engaging chapters, Ms. Li narrates the experiences of several of today's big names in business. Each chapter choses with exercises designed to help readers assess their own level of risk aversion. The book concludes with a thought-provoking chapter on approaching risk responsibly that will be as helpful to people well along in their careers as it will be for those who are just starting out. For me, it was a welcome reminder of what I have learned over the years. <br><br>- Karsten Ward",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does Mr. Ward imply in his review?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is not part of Ms. Li's intended audience.",
+              "(B) Hi is a longtime collector of books about business.",
+              "(C) He teaches at the same university that Ms. Li attended.",
+              "(D) He has founded several successful businesses."
+            ]
+          },
+          "answer": {
+            "text": "(A) He is not part of Ms. Li's intended audience.",
+            "explanation": "Information in sentences: \"It is no secret that Xiaoyu Li's latest\nbook, Daring to Succeed in Business (276 pages, Finn Business Publishing, $26.95), was written specifically for recent university graduate\" and \"As founder and CEO of a large\nadvertising firm, I can attest to this idea.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr.Ward say is a reason for his own company's growth?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) His willingness to make risky decisions",
+              "(B) His successful networking strategies",
+              "(C) His focus on company reputation",
+              "(D) His ability to obtain investment funds"
+            ]
+          },
+          "answer": {
+            "text": "(A) His willingness to make risky decisions",
+            "explanation": "Information in sentence: \" I started pursuing new opportunities\nstrategically and stopped worrying about the occasional mistake that my company developed into the multimillion-dollar firm it is today. It was a change in mindset that made all the difference, but it took me years to figure out.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "Why does Mr. Ward appreciate Ms. Li's book?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has motivated him to make a career change.",
+              "(B) It has helped him set more ambitious goals.",
+              "(C) It has reinforced lessons he learned through experience.",
+              "(D) It has changed his opinion about how to evaluate a company's success."
+            ]
+          },
+          "answer": {
+            "text": "(C) It has reinforced lessons he learned through experience.",
+            "explanation": "Information in sentence: \" In twelve clear and engaging chapters, Ms. Li narrates the experiences of several of today's big names in business. Each chapter closes with exercises designed to help readers assess their own level of risk aversion. The book concludes with a thought-provoking chapter on approaching risk responsibly that will be as helpful to people well along in their careers as it will be for those who are just starting out. For me, it was a welcome reminder of what I have learned  by doing this, I was effectively preventing my business from growing to its true potential.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions mark [1], [2], [3 and [4] does the following sentence best belong? <br>\"Even worse, my inaction was also making way for more aggressive competitors to dominate the market.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "This sentence is related to the previous sentence. \"In fact, I spent the early years of my career firmly in my comfort zone, avoiding any major decisions that did not have a predictable outcome.\"<br> Hence, it fits best the third position. "
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cde"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c6eccc8cae769c2ce3"
+}

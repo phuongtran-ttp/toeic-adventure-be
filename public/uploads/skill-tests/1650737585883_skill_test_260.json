@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 260",
+  "questions": [
+    {
+      "question": {
+        "text": "<br> September 18<br> Dear Ms. Murillo,<br> Thank you for inquiring about our services for obtaining ---1---<br> Based on the information in your letter, your daughter may have acquired citizenship by being the child of a U.S. citizen. This will need to be through documentation, which was not ---2---included with your letter. Your child's record of birth abroad is considered proof if it was registered with a U.S. consulate or embassy. ---3---, the parent with citizenship must have been living in the United States for at least five years before your child's birth.<br> For more information, feel free to visit us. Our Web site provides the address of the local office in your area. Simply click on the state or country you presently live in.---4---Please bring all related documents when you visit.<br> Sincerely,<br> Sonia Esteban",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) healthcare",
+              "(B) transportation",
+              "(C) nationality",
+              "(D) education"
+            ]
+          },
+          "answer": {
+            "text": "(C) nationality",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) decorated",
+              "(B) verified",
+              "(C) corrected",
+              "(D) postponed"
+            ]
+          },
+          "answer": {
+            "text": "(B) verified",
+            "explanation": "Vocabulary knowledge: <br> Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Afterward",
+              "(B) For example",
+              "(C) Additionally",
+              "(D) Henceforth"
+            ]
+          },
+          "answer": {
+            "text": "(C) Additionally",
+            "explanation": "Additionally = In addition = Moreover (used to add information)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We are sorry to hear that your documents are lost.",
+              "(B) There is no record of your child’s birth in that country.",
+              "(C) You can then select the government office nearest you.",
+              "(D) The office in your area was closed only last year"
+            ]
+          },
+          "answer": {
+            "text": "(C) You can then select the government office nearest you.",
+            "explanation": "Based on the previous sentence \"Simply click on the state or country you presently live in.\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c291b"
+    },
+    {
+      "question": {
+        "text": "<br> May 30<br> Cayman Interior Decorating<br> 23 Arbor Drive<br> Cleveland, Ohio, 39005<br> <br> Dear Mr. Maximus,<br> I am writing to ---1--- you and your crew for redecorating the interior of our lobby. The results are even better than we had initially expected. --- 2---. Overall, our guests appreciate the new look, and they love the authentic 1920s ---3--- and the comfortable furniture.<br> We thought we'd mention that the hotel intends to renovate the guest rooms. If things go according to plan, we expect to begin renovating next month. In addition, we ---4--- expanding the business center on the second floor. More space will be allocated to permit the installation of new facilities.<br> I would like to contact you again once our plans become more definite. We hope that your calendar will permit you to work for us when we are ready.<br> I look forward to hearing from you soon.<br> Sincerely,<br> Devon Green<br> Manager, Nuance Hotel",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) commend",
+              "(B) persuade",
+              "(C) invoice",
+              "(D) encourage"
+            ]
+          },
+          "answer": {
+            "text": "(A) commend",
+            "explanation": "commend for sth (for redecorating)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We would have preferred it if you had followed our original plan.",
+              "(B) They contacted us to let us know what they thought about our work.",
+              "(C) We are equally impressed by how quickly the job was done.",
+              "(D) They should have informed us right away about these changes."
+            ]
+          },
+          "answer": {
+            "text": "(C) We are equally impressed by how quickly the job was done.",
+            "explanation": "Based on the previous sentence \"The results are even better than we had initially expected.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) explanation",
+              "(B) atmosphere",
+              "(C) combination",
+              "(D) condition"
+            ]
+          },
+          "answer": {
+            "text": "(B) atmosphere",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) were",
+              "(B) will be",
+              "(C) are being",
+              "(D) have been"
+            ]
+          },
+          "answer": {
+            "text": "(B) will be",
+            "explanation": "\"next month\" is a signal of simple future tense"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c291e"
+    },
+    {
+      "question": {
+        "text": "<br>To: All staff members <br> From: Greg Birch, CTO<br>Subject: Server <br>Date: March 2<br>As you may know, our company server----1---- Although the disruption was only temporary and the server is now running, I am considering switching to a different system. -----2----- the server goes down again, it could create a serious problem. Because we want to prevent that from happening, I’ve spoken with Jason, the head of our IT team. He can install a new server that will be less ----3---- to malfunctions. ----4----. Thankfully, we will be able to transfer files from the old server to the new one without any difficulty.<br>I will continue to send you updates as I receive more information from Jason.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) disconnecting",
+              "(B) was disconnected",
+              "(C) has been disconnected",
+              "(D) has disconnected"
+            ]
+          },
+          "answer": {
+            "text": "(B) was disconnected",
+            "explanation": "Use the passive form of the past simple."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Before",
+              "(B) But",
+              "(C) If",
+              "(D) So"
+            ]
+          },
+          "answer": {
+            "text": "(C) If",
+            "explanation": "Use conditional sentence type I"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) vulnerable",
+              "(B) flexible",
+              "(C) dangerous",
+              "(D) faulty"
+            ]
+          },
+          "answer": {
+            "text": "(A) vulnerable",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The breakdown is expected to be  repaired over the next few days.",
+              "(B) In addition, it will have a greater memory capacity and better security.",
+              "(C) However, this solution is impractical as it is much too costly.",
+              "(D) Several companies in the affected area reported similar outages."
+            ]
+          },
+          "answer": {
+            "text": "(B) In addition, it will have a greater memory capacity and better security.",
+            "explanation": "Based on the previous sentence."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2920"
+    },
+    {
+      "question": {
+        "text": "<br> <b>Discover great deals at Dan's Hardware Store!</b><br> In order to thank our loyal customers for giving us years of business, Dan's Hardware Store is inviting everyone to attend its yearly inventory clearance sale. From September 1 to 15, all merchandise will be ---1---.Take advantage of reduced prices of up to 80 percent off on everything from gardening supplies to outdoor equipment.--- 2---<br> In addition, customers who buy $500 or more worth of merchandise will ---3--- to receive a $50 coupon, redeemable until December 31. A limit of one coupon ---4--- transaction applies. For further information on the sale and directions to the store nearest you, visit our Web site at www.danshardware.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  held out",
+              "(B)  done over",
+              "(C)  marked down",
+              "(D)  given away"
+            ]
+          },
+          "answer": {
+            "text": "(C)  marked down",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We have exciting offers for you in every department.",
+              "(B) The sale is for one day only, so hurry before it ends.",
+              "(C) This product is sold in various sizes to suit your needs.",
+              "(D) Make sure to go online and send in your product orders."
+            ]
+          },
+          "answer": {
+            "text": "(A) We have exciting offers for you in every department.",
+            "explanation": "Based on the previous sentence \"Take advantage of reduced prices of up to 80 percent off on everything from gardening supplies to outdoor equipment.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) be entitled",
+              "(B) be entitling",
+              "(C) entitle",
+              "(D) have entitled"
+            ]
+          },
+          "answer": {
+            "text": "(A) be entitled",
+            "explanation": "be entitled to do sth"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) away",
+              "(B) among",
+              "(C) per",
+              "(D) next"
+            ]
+          },
+          "answer": {
+            "text": "(C) per",
+            "explanation": "Based on the meaning of words <br> => <b> per </b> is correct"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2924"
+    },
+    {
+      "question": {
+        "text": "<br>Nicole Freemont<br>1452 Reservoir Road NW<br>Washington, D.c. 20057<br>Dear Ms. Freemont,<br>I am pleased to confirm your membership to the Georgetown Food Cooperative. ----1-----we  have enclosed your membership card. By supporting US, you are helping to make food more affordable for the community. This is because we get our products from local businesses with lower shipping and manufacturing expenses.<br>However, we can only ----2---- with the active assistance of all our members. That is why we ask each member to provide four hours of voluntary work at our store every month. ----3---- Moreover, we encourage you to stop by and familiarize yourself with issues pertaining to the ----4---- costs of food and to learn about other ways you can help.<br>Best wishes,<br>Edwin Krueger<br>Membership coordinator, Georgetown Food Cooperative",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Instead",
+              "(B) Accordingly",
+              "(C) Ever since",
+              "(D) Unfortunately"
+            ]
+          },
+          "answer": {
+            "text": "(B) Accordingly",
+            "explanation": "Use a conjunction means in suitable way, correspondingly."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) explore",
+              "(B) exist",
+              "(C) unveil",
+              "(D) resume"
+            ]
+          },
+          "answer": {
+            "text": "(B) exist",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  We are forced to increase membership fees for this reason.",
+              "(B) We are delighted that you have contributed so much of your time.",
+              "(C) The cooperative is still accepting bids from local food suppliers.",
+              "(D) You can pay a monthly surcharge of $20 if you are unable to do so."
+            ]
+          },
+          "answer": {
+            "text": "(D) You can pay a monthly surcharge of $20 if you are unable to do so.",
+            "explanation": "Based on the meaning of previous sentence \"That is why we ask each member to provide four hours of voluntary work at our store every month.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  growingly",
+              "(B) grown",
+              "(C) growing",
+              "(D) grows"
+            ]
+          },
+          "answer": {
+            "text": "(C) growing",
+            "explanation": "The blank need to fill a noun. \"the growing\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2926"
+    },
+    {
+      "question": {
+        "text": "<br><b>Grimsby's Feed Satisfies Viewers</b><br> In the three-part miniseries Feed, filmmaker David Grimsby ---1--- explores the modern food industry. The series takes viewers behind the scenes at farms and factories to reveal shocking details about the things we eat and how they are produced.<br> While there are numerous other documentaries on this ---2---, a combination of smart narration, intriguing interviews, and animated graphics makes Feed stand out.---3---  It presents both the benefits and drawbacks of modern food production without endorsing any one point of view. Richly informative and visually interesting, the series is captivating---4--- that many people will want to see it twice. The first episode of Feed will air this month on the Modern Film Channel.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) enthusiasm",
+              "(B) enthusiastic",
+              "(C) enthusiastically",
+              "(D) enthused"
+            ]
+          },
+          "answer": {
+            "text": "(C) enthusiastically",
+            "explanation": "adv + verb (adv is used to modify verbs)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) trend",
+              "(B) level",
+              "(C) schedule",
+              "(D) topic"
+            ]
+          },
+          "answer": {
+            "text": "(D) topic",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The show attracted millions of viewers when it was televised last year.",
+              "(B) What is perhaps most distinctive about the film is its lack of bias.",
+              "(C) Mr. Grimsby plans to begin filming the documentary next month.",
+              "(D) Ratings for the network jumped when the final episode was aired."
+            ]
+          },
+          "answer": {
+            "text": "(B) What is perhaps most distinctive about the film is its lack of bias.",
+            "explanation": "Based on the previous sentence \""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) so",
+              "(B) even",
+              "(C) such",
+              "(D) right"
+            ]
+          },
+          "answer": {
+            "text": "(B) even",
+            "explanation": "Based on the meaning of words. <b> even that </b>"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c292a"
+    },
+    {
+      "question": {
+        "text": "<br>New Territory for Aarhus Clothing<br>The British public is excited about the opening of Aarhus Clothing’s first UK-based store.<br>The Danish company has gained a reputation for achieving consistently high rates of customer ----1---- It quickly became a well-known brand in its home country. ---2---.<br>Aarhus Clothing launched its first German store two years ago, after which the company quickly moved into Belgium and the Netherlands. With the inauguration of a flagship store on London’s Oxford Street next month, the company hopes to stand out in the ----3---- UK market.<br>Designer Mads Jensen told reporters, “Our products have been sought after in Europe for many years now because they are simple and ----4----. As they are basic and long-lasting, we expect them to be just as popular in the UK.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) satisfying",
+              "(B) satisfactorily",
+              "(C) to satisfy",
+              "(D) satisfaction"
+            ]
+          },
+          "answer": {
+            "text": "(D) satisfaction",
+            "explanation": "The blank need to fill a noun. => D is correct."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its popularity subsequently spread to neighboring nations.",
+              "(B) Therefore, the company has only one store left in the country.",
+              "(C) Nevertheless, the peak of its fame was reached in Britain last year.",
+              "(D) This had a negative effect on the brand in the years that followed."
+            ]
+          },
+          "answer": {
+            "text": "(A) Its popularity subsequently spread to neighboring nations.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) multiple",
+              "(B) lucrative",
+              "(C) duplicate",
+              "(D) diligent"
+            ]
+          },
+          "answer": {
+            "text": "(B) lucrative",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) disposable",
+              "(B) attentive",
+              "(C) collective",
+              "(D) durable"
+            ]
+          },
+          "answer": {
+            "text": "(D) durable",
+            "explanation": "Based on the meaning of words. \"simple and durable\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c292c"
+    },
+    {
+      "question": {
+        "text": "<br>Turn Your Scuba Diving Dreams into a Reality!<br>The Estrella Diving Center’s summer certification courses will begin at our Playa Del Carmen facility on June 2. No prior ---1--- is necessary because our trainers will cover all the basic techniques for beginner students. ---2---. As always, enrollees must have no existing medical conditions and be at least 13 years old. Those who cannot satisfy ---3--- of these requirements will be unable to sign up.<br>All equipment will be provided, and training will be delivered in three ---4--- sessions. Held on the same day, each lesson will last an hour with short breaks in between. Enrollment opens on Monday, May 3.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  negotiation",
+              "(B) compensation",
+              "(C) instruction",
+              "(D) registration"
+            ]
+          },
+          "answer": {
+            "text": "(C) instruction",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Certain criteria must be met before taking the course.",
+              "(B) Divers have stated that they agree with the new rule.",
+              "(C) Such challenges are not easily overcome.",
+              "(D) Diving instructor applicants will be contacted shortly."
+            ]
+          },
+          "answer": {
+            "text": "(A) Certain criteria must be met before taking the course.",
+            "explanation": "Based on the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) either",
+              "(B) whatever",
+              "(C) extra",
+              "(D) couple"
+            ]
+          },
+          "answer": {
+            "text": "(A) either",
+            "explanation": "The previous sentence mentions 2 requirements \"have no existing medical conditions\" and \"be at least 13 years old\"\n=> choose \"either\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) coincidental",
+              "(B) inadequate",
+              "(C) remote",
+              "(D) consecutive"
+            ]
+          },
+          "answer": {
+            "text": "(D) consecutive",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2930"
+    },
+    {
+      "question": {
+        "text": "<br>To: All Staff<br>From: Stephanie Johnstone<br>Subject: Mr. Kaur's retirement<br><br>Hello everyone,<br>This is just a reminder that we have organized a retirement party for Mr. Kaur next Friday from 6 p.m.---1---<br> I would appreciate it if you could all attend unless you have good reason not to. After everyone is seated, the program ---2--- at precisely 6:15 p.m. The CEO plans to give a congratulatory speech. ----3--- As our longest-serving staff member, he has certainly earned this recognition.<br>I have asked the supervisors of each department---4---a book in which members of staff may write messages to Mr. Kaur wishing him well upon his retirement. The book will be passed around starting tomorrow morning. It will be given to him at the end of the ceremony, so please make the time to write something.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) around",
+              "(B) over",
+              "(C) upward",
+              "(D) onward"
+            ]
+          },
+          "answer": {
+            "text": "(D) onward",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) has begun",
+              "(B) will begin",
+              "(C) will have begun",
+              "(D) began"
+            ]
+          },
+          "answer": {
+            "text": "(B) will begin",
+            "explanation": "Describe an event that will happen in the future => Use the simple future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We will then ask Mr. Kaur to put off his retirement for a year.",
+              "(B) Our employees will be expected to remain loyal to the company.",
+              "(C) A board member will then present a loyalty award to Mr. Kaur.",
+              "(D) The office staff should say whether they can attend the ceremony."
+            ]
+          },
+          "answer": {
+            "text": "(C) A board member will then present a loyalty award to Mr. Kaur.",
+            "explanation": "Based on the previous sentence \"The CEO plans to give a congratulatory speech.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) circulate",
+              "(B) retrieve",
+              "(C) determine",
+              "(D) reveal"
+            ]
+          },
+          "answer": {
+            "text": "(A) circulate",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2933"
+    },
+    {
+      "question": {
+        "text": "<br>March 5<br>Jeanie Handa<br>837 River Ridge Street<br>St. Louis, MO 63115<br><br>Dear Ms. Handa,<br>I heard about the good news from one of your colleagues. Congratulations on your ---1---- to senior systems analyst!<br>The reason I am writing is to update you on your investments, which are doing satisfactorily. ---2---<br>Now that your career is flourishing, you can invest in other funds or additional stock---3--- your earnings and develop your portfolio. I'd like to set an appointment with you so that we can discuss your options in more detail. I am free to meet with you as early as next week.<br>We can review the---4--- of your current portfolio and explore additional financial opportunities. Please contact me at 555-8343 or send an e-mail to j.clark@secureinvestments.com to set up an appointment.<br>Sincerely,<br>Jack Clark<br>Consultant<br>Secure investments",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) contribution",
+              "(B) achievement",
+              "(C) development",
+              "(D) promotion"
+            ]
+          },
+          "answer": {
+            "text": "(D) promotion",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You might lose more money it you don't take action now.",
+              "(B) Accordingly, there are better jobs available in other larger companies.",
+              "(C) We may have to meet at another time as I have some obligations.",
+              "(D) It may be time to reconsider your investment strategy, however."
+            ]
+          },
+          "answer": {
+            "text": "(D) It may be time to reconsider your investment strategy, however.",
+            "explanation": "Based on the previous sentence \"The reason I am writing is to update you on your investments, which are doing satisfactorily.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) increased",
+              "(B) to increase",
+              "(C) increase",
+              "(D) increases"
+            ]
+          },
+          "answer": {
+            "text": "(B) to increase",
+            "explanation": "to + verb (used to indicate purpose)"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) prestige",
+              "(B) order",
+              "(C) degree",
+              "(D) status"
+            ]
+          },
+          "answer": {
+            "text": "(D) status",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2936"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441b1eccc8cae769c2939"
+}

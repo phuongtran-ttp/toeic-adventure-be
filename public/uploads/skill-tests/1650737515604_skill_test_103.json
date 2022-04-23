@@ -1,0 +1,762 @@
+{
+  "name": "Skill Test 103",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/3770262_1564545937709.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test10_0311.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test10_0311.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01c4"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> M:  Hi Sally, how has your day been? <br>W: Really great Jim, I have been busy, but productive. <b> Q1 How was your meeting this morning?</b> <br>M:  It went better than I expected. The interior design specialist just gave us some recommendations for our office layout. We don't need to purchase anything new, just rearrange a few things. <br>W:  Oh really? What did he say? <br>M: <b> Q2 He suggested that we move the help desk and the sales desk so that they are on opposite sides of the entrance. That way, if we have people waiting in line they won’t be crowded. Q3 We will just slide the sales desk to where the waiting area is now.</b> <br>W: That is a good idea, and this way, when people come into the office they can see all of our products displayed against the back wall. <br>M:  Exactly, and then after they purchase their items they can just step out the door. Glad we are already on the same page. <br>W: Well, I think we should start moving the sales desk right away, don’t you?"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What did the man recently do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He met with a photographer.",
+              "(B) He met with a sales associate.",
+              "(C) He met with an interior decorator.",
+              "(D) He had lunch."
+            ]
+          },
+          "answer": {
+            "text": "(C) He met with an interior decorator.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the man want to move the sales desk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To increase the company’s sales",
+              "(B) To make it look nicer",
+              "(C) To make more room for the woman to work",
+              "(D) To give waiting customers more space"
+            ]
+          },
+          "answer": {
+            "text": "(D) To give waiting customers more space",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where will the sales desk be moved to?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Where the help desk is now.",
+              "(B) So it is to the right of the entrance.",
+              "(C) Where the waiting area is.",
+              "(D) They will move the help desk instead."
+            ]
+          },
+          "answer": {
+            "text": "(C) Where the waiting area is.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01cb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "9826455_1557990108036.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/9826455_1557990108036.png",
+            "mime": "image/png",
+            "id": "6264416beccc8cae769c01b9"
+          }
+        ],
+        "sound": [
+          {
+            "name": "870046575-1584091740535.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/870046575-1584091740535.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01c0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn:  I can help the next customer. <br>W-Br: Hi, <b> Q1 I moved house recently, and I broke several dishes in the process. Q2 l ordered replacements online from your store. They were delivered yesterday, but the problem is only three soup bowls were included instead of six.</b><br>M-Cn:  I’m sorry about that-can I see your packing slip? <br>W’Br:  Yes—here it is. <br>M-Cn:  Hmm. Unfortunately, this dish pattern's been discontinued. You got our last three bowls with that Pattern. So<b> Q3 what I  can do is give you a refund for the total cost of the bowls</b>, and you can keep the three you received for free. <br>W-Br: Thanks! I appreciate that."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman say happened when she moved?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She was overcharged for a service.",
+              "(B) A box was misplaced.",
+              "(C) A shipment was sent to the wrong address.",
+              "(D) Some items were broken."
+            ]
+          },
+          "answer": {
+            "text": "(D) Some items were broken.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman need assistance?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She does not like what she bought.",
+              "(B) She cannot access a Web site.",
+              "(C) She received an incomplete order",
+              "(D) She lost a copy of a receipt."
+            ]
+          },
+          "answer": {
+            "text": "(C) She received an incomplete order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much money will the woman be refunded?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $20",
+              "(B) $36",
+              "(C) $12",
+              "(D) $25"
+            ]
+          },
+          "answer": {
+            "text": "(B) $36",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01c9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "963296141-1584093012804.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/963296141-1584093012804.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01d0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, <b> Q1 I ordered a video camera from you a week ago and it hasn’t arrived yet</b>. The tracking number is 179 65. <b> Could you find out what’s happened to it?</b><br>W-Br:  OK, let me check. I can see from our database that a delivery was attempted yesterday, <b> Q2 but it looks like the driver had the wrong address.</b><br>M-Cn:  But why didn’t anyone try to call me? That's not very good customer service. You should have contacted me immediately to confirm my address. <br>W-Br:  You're right, f apologize for that. Let me confirm your information now so t can reschedule the delivery. <b> Q3 And I’ll refund the delivery fee to your credit card to compensate you for the inconvenience.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the man calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To check the status of an order",
+              "(B) To provide an updated phone number",
+              "(C) To schedule a repair",
+              "(D) To inquire about a bill"
+            ]
+          },
+          "answer": {
+            "text": "(A) To check the status of an order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the woman mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An invoice is missing.",
+              "(B) A credit card payment was not received",
+              "(C) An address was incorrect.",
+              "(D) A product is no longer in stock."
+            ]
+          },
+          "answer": {
+            "text": "(C) An address was incorrect.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Talk to a supervisor",
+              "(B) Provide a refund",
+              "(C) Change a password",
+              "(D) Add product insurance"
+            ]
+          },
+          "answer": {
+            "text": "(B) Provide a refund",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01d4"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td align =\"center\"> <b> Origin</b> </td><td align =\"center\"><b> Status</b></td><td align =\"center\"> <b> Expected Time of Arrival </b></td></tr><tr><td align =\"center\"> Philadelphia</td> <td align =\"center\"> Landed </td><td align =\"center\"> 9:00 A.M </td></tr> <tr><td align =\"center\"> Vancouver</td> <td align =\"center\"> On Time </td><td align =\"center\"> 10:30 A.M </td></tr><tr><td align =\"center\"> Chicago</td> <td align =\"center\"> Delayed </td><td align =\"center\"> 1:45 P.M </td></tr><tr><td align =\"center\"> Mexico City</td> <td align =\"center\"> On Time </td><td align =\"center\"> 3:30 A.M </td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "985031107-1584091764001.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/985031107-1584091764001.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01d6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am:  I just checked the airline's Web site. <b> Q1 James Kim won't be arriving on time.</b><br>M-Au: Yeah, <b> Q1 l heard a lot of the flights were delayed because of a storm.</b><br>W-Am:  Well, I guess we can leave to pick him up later then. <br>M-Au: Actually, <b> Q2 l heard that the traffic is horrible today, so let’s just leave now</b>, or else we might end up being late. <br>W-Am:  Oh, OK. And  <b> Q3 if we have enough time before he arrives, we can eat lunch at the airport.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. Which city is James Kim traveling from?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Philadelphia",
+              "(B) Vancouver",
+              "(C) Chicago",
+              "(D) Mexico City"
+            ]
+          },
+          "answer": {
+            "text": "(C) Chicago",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the man, why should the speakers leave now?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are not familiar with the area.",
+              "(B) They have to return a rental car",
+              "(C) The traffic is bad.",
+              "(D) An appointment was added to the schedule."
+            ]
+          },
+          "answer": {
+            "text": "(C) The traffic is bad.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest doing while they wait?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Buying gifts",
+              "(B) Getting a meal",
+              "(C) Writing a report",
+              "(D) Exchanging money"
+            ]
+          },
+          "answer": {
+            "text": "(B) Getting a meal",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01db"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan=\"3\" align =\"center\"> <h4> Fire Drill Procedures <br> January 21 st</h4> </td></tr><tr><td align =\"center\"> Level 1 </b> </td><td align =\"center\"> 8:00 A.M -9:00 A.M </td><td align =\"center\"> Human Resources Department </td><tr><td align =\"center\"> Level 2 </b> </td><td align =\"center\"> 9:00 A.M -10:00 A.M </td><td align =\"center\"> Accouting Department </td><tr><td align =\"center\"> Level 3 </b> </td><td align =\"center\"> 11:00 A.M -12:00 A.M </td><td align =\"center\"> Customer Service Department</td><tr><td align =\"center\"> Level 4 </b> </td><td align =\"center\"> 12:00 A.M -1:00 P.M </td><td align =\"center\"> Legal Department </td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test10_0312.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test10_0312.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01d2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> M: Hi Rosalie, <b> Q1 did you hear about the fire drills next week? <br>W: Yeah. <b> Q2 I can’t believe they scheduled ours during our lunch break. They need to reschedule our lunch break, or change the fire drill time to 1:00-2:00 P.M.</b>  They shouldn’t expect us to skip lunch and practice the fire drills. <br>M:  I know. I don’t think it is very fair. They should have had all the drills in the afternoon. The other departments actually get extra time off work, and we lose our lunch break. <br>W: <b> Q3 I think we should go and speak to our supervisor.</b> What do you think? <br>M:  I agree. Should we go now? <br>W: Yes. Let me quickly send an email and I will come with you."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What did the man say about next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) There will be an inspection.",
+              "(B) Some new computers will arrive.",
+              "(C) They will have fire drills.",
+              "(D) Someone called in sick."
+            ]
+          },
+          "answer": {
+            "text": "(C) They will have fire drills.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What department do the speakers work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Human Resources",
+              "(B) Accounting",
+              "(C) Customer Service",
+              "(D) Legal"
+            ]
+          },
+          "answer": {
+            "text": "(D) Legal",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest they do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Don’t say anything",
+              "(B) Print out some extra copies",
+              "(C) Speak to their supervisor",
+              "(D) Put up a sign"
+            ]
+          },
+          "answer": {
+            "text": "(C) Speak to their supervisor",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01d9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "619616060-1584093035524.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/619616060-1584093035524.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01dd"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, <b> Q1 earlier I parked my car on the lower level, but I don’t have quite enough cash with me to pay. Do you accept credit cards?</b><br>W-Am: I can't process a credit card here at the exit, but you have two options. There’s a payment kiosk on the first floor of the parking garage that does ... or if you can  access the Internet, you can pay online using your smart phone. <br>M-Au:  Good! <b> Q2 I’ll pay online</b>...and what’s the Web site address that I should use. <br>W-Am: The address is printed on the back of your  parking ticket. <br>M-Au:  Thanks! <br>W-Am:  No problem- Once you’ve paid the fee online, <b> Q3 you’ll get a confirmation code a-mailed to you</b>. Use that number to exit"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a car repair shop",
+              "(B) In a bank",
+              "(C) In a parking garage",
+              "(D) In a computer store"
+            ]
+          },
+          "answer": {
+            "text": "(C) In a parking garage",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man decide to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Return at a later time",
+              "(B) Withdraw money from a cash machine",
+              "(C) Call a customer service number",
+              "(D) Make a payment online"
+            ]
+          },
+          "answer": {
+            "text": "(D) Make a payment online",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will be sent to the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An account statement",
+              "(B) An appointment time",
+              "(C) A confirmation number",
+              "(D) A warranty offer"
+            ]
+          },
+          "answer": {
+            "text": "(C) A confirmation number",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01e1"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td align =\"center\"> <b> Length of Contract</b> </td><td align =\"center\"><b> Cost per month</b></td></tr><tr><td align =\"center\"> 3 months</td> <td align =\"center\"> $40.00 </td></tr> <tr><td align =\"center\"> 6 months </td> <td align =\"center\"> $30.00</td></tr><tr><td align =\"center\"> 1 year</td> <td align =\"center\"> $20.00</td></tr><tr><td align =\"center\"> 2 years</td> <td align =\"center\"> $10.00 </td></tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "48203641-1584091786816.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/48203641-1584091786816.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01e3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn:  Hi, I’m looking for an Internet provider, so I thought I’d stop by to find out about your service plans. <br>W-Am: Certainly. We offer the best prices in the area. As you can see from this chart, the longer your contract is, the lower the monthly cost. <br>M-Cn: But <b> Q1 what if I have to cancel the contract before it ends?</b><br>W-Am: Well...<b> Q1 we do charge an extra fee for that.</b><br>M-Cn:  Umm.., <b> Q2 I’m being transferred overseas in about a year</b>, so I don’t want the two-year plan. But I do want the lowest possible price. <br>W-Am:  OK, then <b> Q3 the one-year plan would be the best. Would you like to sign the contract now?</b><br>M-Cn: <b> Q3 Sure, let's do that.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the woman, when is an extra fee charged?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When new software is installed",
+              "(B) When a contract is canceled early",
+              "(C)  When a customer transfers to a new location",
+              "(D)  When a payment is overdue"
+            ]
+          },
+          "answer": {
+            "text": "(B) When a contract is canceled early",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do next year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Move overseas",
+              "(B) Complete a training program",
+              "(C) Purchase another computer",
+              "(D) Sign a longer contract"
+            ]
+          },
+          "answer": {
+            "text": "(A) Move overseas",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much has the man agreed to pay per month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $40.00",
+              "(B) $30.00",
+              "(C) $20.00",
+              "(D) $10.00"
+            ]
+          },
+          "answer": {
+            "text": "(C) $20.00",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01e8"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/1540709_1564545939164.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test10_0313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test10_0313.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01e6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> M: <b> Q1 Mark’s Models, this is Greg speaking. How can I help you today?</b> <br>W:  Hi Greg. I bought a snap fit Mazda Mikado plastic model kit yesterday and I’m just starting to put it together now but some of the pieces are missing. <br>M: Oh, that’s not good. What exactly is missing? <br>W: <b> Q2 Well, it seems like all the parts are here but I have nothing to put them together with.</b> <br>M: Q2 Ah... It must be the snap fit tool. With our older model kits, that’s a pretty common problem. We have a lot in the store. <b> Q3 I’ll express-post one to you today if that’s OK?</b> <br>W: Oh, that’s great. Thanks for your help!"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the man most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Chemist",
+              "(B) Hardware store",
+              "(C) Model shop",
+              "(D) Medical clinic"
+            ]
+          },
+          "answer": {
+            "text": "(C) Model shop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What part is the woman missing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Decals",
+              "(B) Model kit",
+              "(C) Snap fit tool",
+              "(D) Rubber tires"
+            ]
+          },
+          "answer": {
+            "text": "(C) Snap fit tool",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Deliver it to her",
+              "(B) Give her a refund",
+              "(C) Cancel the order",
+              "(D) Express-post it to her"
+            ]
+          },
+          "answer": {
+            "text": "(D) Express-post it to her",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01ed"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6262852_1557990439972.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6262852_1557990439972.png",
+            "mime": "image/png",
+            "id": "6264416beccc8cae769c01ea"
+          }
+        ],
+        "sound": [
+          {
+            "name": "834853961-1584093059051.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/834853961-1584093059051.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01ef"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi. <b> Q1 Welcome to Capital Bookshop. Are you looking for something in particular?</b><br>W-Br: Yes, I need a copy of a book called January's Flight My friends and I are starting a book club next month. <b> Q2 People say that it's a good one for generating a lot of questions and comments.</b><br>M-Cn:  That’s true - it's one of my favorites. <b> Q3 You can find it on the back wall of the store, next to the café</b>. The books there are arranged by author. Can I help you with anything else? <br>W-Br:  No thanks, but I think I’ll browse for a little while."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An author",
+              "(B) A teacher",
+              "(C) A store clerk",
+              "(D) A delivery person"
+            ]
+          },
+          "answer": {
+            "text": "(C) A store clerk",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she heard about the book?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will provide opportunities for discussion.",
+              "(B) It is the first book in a series.",
+              "(C) It has been a best seller for many months.",
+              "(D) It is difficult for children to understand."
+            ]
+          },
+          "answer": {
+            "text": "(A) It will provide opportunities for discussion.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. In which section is the book that the woman is looking for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Nonfiction",
+              "(B) Young Adult",
+              "(C) Travel",
+              "(D) Fiction"
+            ]
+          },
+          "answer": {
+            "text": "(D) Fiction",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01f1"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td> <b> Blue Waters Restaurant Rating</b> <br>Atmosphere<br>★ ★ ★ ★<br>Prices<br>★ ★ <br>Customer Service <br>★ ★ ★<br>Menu Options <br>★ ★ ★ ★ ★ </td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "220579759-1584092636333.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/220579759-1584092636333.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c01f5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Markus, did you see the article in Eats and Treats magazine with the list of the best local restaurants? The article gave our restaurant five stars in the category of menu options. <b> Q1 As the head chef, you must be proud.</b><br>M-Cn:  Yes, I saw that article, and I’m glad I decided to revise the menu last spring shows that customers appreciate healthy food choices<br>W-Am:  True, but I’m disappointed that some of our ratings weren’t better. I’m not surprised that we scored low in the pricing category. <b> Q2 But I am surprised by this one – where we only received three stars. We’ll have to work on improving that area next year.</b><br>M-Cn: Yes, <b> Q3 it may be a good idea to meet with the staff about this. They may have some ideas for some changes we can make.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A financial advisor",
+              "(B) A food critic",
+              "(C) An editor",
+              "(D) A chef"
+            ]
+          },
+          "answer": {
+            "text": "(D) A chef",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What area does the woman want the restaurant to improve in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Atmosphere",
+              "(B) Prices",
+              "(C) Customer service",
+              "(D) Menu options"
+            ]
+          },
+          "answer": {
+            "text": "(C) Customer service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man recommend doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Renovating a building",
+              "(B) Asking employees for suggestions",
+              "(C) Offering cooking classes",
+              "(D) Providing food samples"
+            ]
+          },
+          "answer": {
+            "text": "(B) Asking employees for suggestions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c01f7"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264416beccc8cae769c01fa"
+}

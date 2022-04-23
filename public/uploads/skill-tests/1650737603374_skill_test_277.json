@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 277",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/9403514_1563424880267.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely is Omicron Premier Services?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A hospital",
+              "(B) A doctor’s office",
+              "(C) A shipping company",
+              "(D) A medical supply company"
+            ]
+          },
+          "answer": {
+            "text": "(D) A medical supply company",
+            "explanation": "Because the buyer is a doctor at a hospital and the items are medical instruments."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the invoice, what will happen on April 3?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An invoice will be revised,",
+              "(B) An order will be placed.",
+              "(C) A payment will be refunded.",
+              "(D) A shipment will be delivered"
+            ]
+          },
+          "answer": {
+            "text": "(D) A shipment will be delivered",
+            "explanation": "Because it's arrival date."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the gloves?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are out of stock at the moment.",
+              "(B) They are available in one size only.",
+              "(C) They are no longer manufactured.",
+              "(D) They are the wrong brand."
+            ]
+          },
+          "answer": {
+            "text": "(A) They are out of stock at the moment.",
+            "explanation": "You can see in the note in the end of the receipt that item 431Z will be shopped at a later date as its is currently not in the warehouse."
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bc4"
+    },
+    {
+      "question": {
+        "text": "From: Rick Barilla, Thursday, 3 October, 8:53 AM <br> Maria, I’m at the Baycrest Hotel, installing the new ballroom lighting system. Joe called in sick, and this job is too big to do alone. It’s not what I expected. It’s a large space that can be divided into smaller rooms, and the hotel wants a programmable system to work when the space is used for more than one meeting or dinner scheduled at the same time. Can you phone Scott and ask him to come help me? I don’t have his mobile phone number.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem does Mr. Barilla have?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He feels sick and cannot work.",
+              "(B) He will not be able to attend a scheduled dinner.",
+              "(C) He does not know how to divide a large room.,",
+              "(D) He is unable to do a job by himself."
+            ]
+          },
+          "answer": {
+            "text": "(D) He is unable to do a job by himself.",
+            "explanation": "The information can be inferred from: <i>\"Maria, I’m at the Baycrest Hotel, installing the new ballroom lighting system. Joe called in sick, and this job is too big to do alone. \"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Why did Mr. Barilla send the text message to Maria?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To have her reschedule a meeting at a hotel",
+              "(B) To cancel an event in the hotel ballroom",
+              "(C) To ask her to make a call",
+              "(D) To request special equipment"
+            ]
+          },
+          "answer": {
+            "text": "(C) To ask her to make a call",
+            "explanation": "You can see the information in: <i>\"Can you phone Scott and ask him to come help me? I don’t have his mobile phone number.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bc7"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/8852977_1563424882579.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What are guests asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Return a completed form",
+              "(B) Leave their keys at the front desk",
+              "(C) Tell their friends about the inn",
+              "(D) Recommend staff members for awards"
+            ]
+          },
+          "answer": {
+            "text": "(A) Return a completed form",
+            "explanation": "The information is in: <i>\"Please fill out the survey below and leave it with the receptionist at the front desk when check out.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Haataja?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is an experienced cook.",
+              "(B) She would like a job in the hotel industry.",
+              "(C) She frequently travels on business.",
+              "(D) She would like to discuss her stay with hotel staff."
+            ]
+          },
+          "answer": {
+            "text": "(D) She would like to discuss her stay with hotel staff.",
+            "explanation": "She was not satisfied with the food."
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bca"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/8352477_1563424885383.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "At 1:56 P.M., what does Mr. Schlupp most likely mean when he writes, “Here we go”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is about to start a meeting.",
+              "(B) He is surprised by Ms. Larkin’s request.",
+              "(C) He has determined the cause of a problem.",
+              "(D) He would like to invite Ms. Larkin to a meeting."
+            ]
+          },
+          "answer": {
+            "text": "(C) He has determined the cause of a problem.",
+            "explanation": "The information can be inferred: <i>\"I gave you the meeting code instead of  the case code.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is probably true about Ms. Larkin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She has recently received a new computer.",
+              "(B) She does not have permission to attend the meeting",
+              "(C) She often participates in conference calls.",
+              "(D) She will not need to speak during the training session."
+            ]
+          },
+          "answer": {
+            "text": "(D) She will not need to speak during the training session.",
+            "explanation": "The information is in: <i>\"You'll be able to hear the trainer, but we won't hear any background noise from your side.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bcd"
+    },
+    {
+      "question": {
+        "text": "To: All Office Employees  <br>From: Paul Sundquist <br>Re: Document printing <br>Date: Thursday, April 5<br><br>Based on the expense report from last quarter, it is clear that we must reduce our costs for office supplies. One area where we can realize savings is in printing and copying documents. <br>Many of us have been making color copies of basic documents, such as meeting minutes, product documentation drafts, and budget sheets. -[l]-, While multicolor documents are more attractive and attention-grabbing than black-and-white ones, color ink cartridges are very expensive. Purchasing frequent replacements ultimately leaves us with less money to spend on things like business travel and social events. -[2]- <br>Rather than instituting a system wherein all jobs must first be approved by the department supervisors, I would prefer that employees make their own decisions about printing and copying.  -[3]-. Please reserve the use of color for only those cases where visual appeal is a relevant factor. -[4]-. Thank you for your attention to this matter.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is one purpose of the memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce the release of a quarterly expense report",
+              "(B) To alert employees to a budget concern",
+              "(C) To inform staff of an error in a document",
+              "(D) To request feedback on a departmental procedure"
+            ]
+          },
+          "answer": {
+            "text": "(B) To alert employees to a budget concern",
+            "explanation": "The information is in: <i>\"Based on the expense report from last quarter, it is clear that we must reduce our costs for office supplies. One area where we can realize savings is in printing and copying documents.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What are employees advised to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make black-and-white copies of basic documents",
+              "(B) Tell coworkers about upcoming social events",
+              "(C) Distribute meeting notes by e-mail",
+              "(D) Report broken copy machines to their supervisors"
+            ]
+          },
+          "answer": {
+            "text": "(A) Make black-and-white copies of basic documents",
+            "explanation": "The information can be inferred from: <i>\" While multicolor documents are more attractive and attention-grabbing than black-and-white ones, color ink cartridges are very expensive.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4]  does the following sentence best belong? <br> Publicity flyers intended for clients are one obvious example.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "The sentence before position [4] mentions the use of color."
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bd0"
+    },
+    {
+      "question": {
+        "text": "<h3 align =\"center\"> Parking Survey Awaited</h3>  Many Sumrita residents, businesses, and visitors have expressed concerns to town officials that there are not enough parking spaces. -[l]-. Some have called for construction of a second parking garage in the next two years.<br> With a data- collection project scheduled to begin on Tuesday, led by Paston Associates of Turnbridge, town officials will soon learn the extent of the parking problem on a typical weekday, during the evening, and at peak limes when events are taking place in the center of town. -[2]-When it is completed, the study will provide an updated inventory of all public and private parking spaces in the area and their typical rates of use. -[3]-.<br> “Anecdotally people say that demand has increased with the four new businesses and the residential projects we’ve seen in the last five years,” said Planning Director Akash Singh, -[4]-.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "How many parking garages are currently in Sumrita?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) One",
+              "(B) Two",
+              "(C) Four",
+              "(D) Five"
+            ]
+          },
+          "answer": {
+            "text": "(A) One",
+            "explanation": "The information can be inferred from: <i>\"Many Sumrita residents, businesses, and visitors have expressed concerns to town officials that there are not enough parking spaces. Some have called for construction of a second parking garage in the next two years.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article indicate about the survey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will study the demand for parking in three local neighborhoods.",
+              "(B) It will measure the demand for parking at various times.",
+              "(C) It will be paid for by Paston Associates of Turnbridge.",
+              "(D) It will be conducted by Sumrita’s planning director."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will measure the demand for parking at various times.",
+            "explanation": "Information is in: <i>\"With a data- collection project scheduled to begin on Tuesday, led by Paston Associates of Turnbridge, town officials will soon learn the extent of the parking problem on a typical weekday, during the evening, and at peak limes when events are taking place in the center of town.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?<br> “But we need hard data before we can consider another costly parking garage.’",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "It is what Planning Director Akash Singh sai about the parking garage."
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bd3"
+    },
+    {
+      "question": {
+        "text": "<h3 align =\"center\"> Pondress</h3> <p align =\"center\"> Because Your Opinion Matters</p>The Pondress Corporation has been conducting public opinion polls on current issues for more than three decades. All our polls are based on telephone interviews with adults 18 years of age or older who live in specific polling area has an equal chance of being contacted, potential interviewees are selected by a computer that randomly generates phone numbers from all working exchanges.<br>To find out what people think about what is happening in the world these days, visit our Lasted Polls page. New polls are published weekly, and all polls are stored and  accessible online. If you prefer to search tor polls by subject, go to our Subject Guide page. If you would like to reproduce tables, charts, or any other graphics  created by Pondress, go to the Contact Us page and click the link for our Permissions Department. There you will find an easy-to-use online form to fill out with details about how and where you intend to use the information. In most cases, a response is provided within 24 hours of submission.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "In paragraph 1, line 1, the word “current\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) moving",
+              "(B) customary",
+              "(C) contemporary",
+              "(D) momentary"
+            ]
+          },
+          "answer": {
+            "text": "(C) contemporary",
+            "explanation": "contempory: existing or happening now<br>current: of the present time"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned about poll participants?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are randomly selected.",
+              "(B) They are interviewed in groups.",
+              "(C) They are interviewed over the phone.",
+              "(D) They are adults."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are interviewed in groups.",
+            "explanation": "(A) - potential interviewees are selected by a computer that randomly generates phone numbers from all working exchanges<br>(C) - All our polls are based on telephone <br>(D) - All our polls are based on telephone interviews with adults 18 years of age or older"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the Pondress Corporation?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It updates its website every week.",
+              "(B) It has offices in multiple locations.",
+              "(C) It is searching for new employees.",
+              "(D) It publishes nonfiction books."
+            ]
+          },
+          "answer": {
+            "text": "(A) It updates its website every week.",
+            "explanation": "Information can be inferred from: <i>\"New polls are published weekly, and all polls are stored and accessible online.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "How can readers get permission to reproduce graphics?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By sending an e-mail",
+              "(B) By making a phone call",
+              "(C) By submitting a paper form",
+              "(D) By providing information online"
+            ]
+          },
+          "answer": {
+            "text": "(D) By providing information online",
+            "explanation": "The information is in: <i>\"There you will find an easy-to-use online form to fill out with details about how and where you intend to use the information. In most cases, a response is provided within 24 hours of submission.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bd6"
+    },
+    {
+      "question": {
+        "text": "<h3 align =\"center\">  Small-Business Expert Corning to Sao Paulo </h3>SAo PAULO (May l9) – Angelo Azevedo, dubbed the “small-business expert” by The Los Angeles Chronicle will be the keynote speaker at the first annual Sao Paolo Small Business Expo (EPSBE). The Expo will take place at the Sao Paulo Event Center from June 3 to June 5. More than 2,000 small-business entrepreneurs will attend workshops and showcase their businesses at booths, where visitors can collect information and ask questions. <br><br>According to an SPSBE press release, Mr. Azevedo will highlight many of the ideas from his best-selling book Keys to Startup Success, published just last year. Mr. Azevedo believes that there are several  key decisions that must be made before launching into any new business scheme. “You can’t go into it with the idea of creating a product you want to sell”，Mr. Azevedo writes in his book. “You have to create a product people want to buy. This is rule number one. And it is absolutely essential to get this right if you want your business to succeed.’’ <br><br>Mr. Azevedo is the owner of several successful businesses in Los Angeles, where he has lived for the past ten years. “I’m originally from Sao Paulo,” Mr. Azevedo said. “So I wanted to help the community where I got my start in any way I could, which is why I accepted the invitation to participate in the Expo. There’s an outstanding opportunity there for small- business owners. Following these simple but important guidelines has worked well for me and for many other successful small- business owners,” <<br><br> Tickets to the Expo are RSI00. They can be purchased through the Expo’s Web site at www.saopauloexpo.com/br.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the article mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The opening of a new business",
+              "(B) New trends in marketing",
+              "(C) A business leader’s participation in an event",
+              "(D) The benefits of running a small business"
+            ]
+          },
+          "answer": {
+            "text": "(C) A business leader’s participation in an event",
+            "explanation": "Sign: \"Angelo Azevedo, <b>dubbed the “small-business expert”</b> by The Los Angeles Chronicle will be the keynote speaker at the first annual Sao Paolo Small Business Expo (EPSBE)\" "
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, what has Mr. Azevedo recently done?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He wrote a book.",
+              "(B) He presented an award.",
+              "(C) He led a workshop.",
+              "(D) He traveled to Sao Paulo."
+            ]
+          },
+          "answer": {
+            "text": "(A) He wrote a book.",
+            "explanation": "Sign: \"Mr. Azevedo will highlight many of the ideas from <b>his best-selling book Keys to Startup Success, published just last year</b>\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Azevedo say is the most important consideration for new entrepreneurs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Marketing a product aggressively",
+              "(B) Developing a product that is attractive to consumers",
+              "(C) Manufacturing a product in a cost- effective way",
+              "(D) Creating a product that the business owner feels passionate about"
+            ]
+          },
+          "answer": {
+            "text": "(B) Developing a product that is attractive to consumers",
+            "explanation": "Sign: \"Mr. Azevedo writes in his book. “You have to create a product people want to buy. This is <b>rule number one</b>.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "Why did Mr. Azevedo decide to participate in the Expo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is doing research for a newspaper article.",
+              "(B) He would like to recruit some employees,",
+              "(C) He is looking for ways to increase sales.",
+              "(D) He wants to support entrepreneurs in his hometown."
+            ]
+          },
+          "answer": {
+            "text": "(D) He wants to support entrepreneurs in his hometown.",
+            "explanation": "Mr. Azevedo said. “So I wanted to <b>help the community where I got my start in any way I could</b>, which is <b>why I accepted the invitation to participate in the Expo</b>.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bd9"
+    },
+    {
+      "question": {
+        "text": "<b> Leon Barkov [9:42 A.M.]</b> <br>Hi, everyone. I just got in the conference room, and I’m having some trouble with the projector. It keeps shutting off. Does anyone know why? <br><br><b>Wayne Preston [9:44 A.M.]</b><br>This happened to me last time. Try pushing the gray reset button. <br><br><b> Anna Mertz [9:44 A.M.] </b><br>Wasn’t everything supposed to be set up by 9:30 this morning? I hope we'll be able to get everything ready before the new hires start arriving. <br><br><b>Leon Barkov [9:48 A.M.] </b><br>Carol Heinz was supposed to do it, but there was another meeting in the room and it ran late. She couldn't wait, so she asked me to set up once the room was free. <br><br><b>Leon Barkov [9:49 A.M.] </b><br>No, that doesn't work. Wayne, can you come down here? <br><br><b>Wayne Preston [9:50 A.M.] </b><br>On my way. <br><br><b>Anna Mertz [9:51 A.M.] </b><br>Are you all set otherwise? <br><br><b>Leon Barkov [9:52 A.M.] </b><br>Yes. The slides are ready to go. I ran them by a few colleagues to make sure everything is clear. I’ve made hard copies of the presentation and all the forms that the new hires will need to fill out. <br><br><b>Anna Mertz [9:51 A.M.] </b><br>Good. I’ll be there at noon to take everyone to lunch and then to the security office to pick up their badges. I’ll collect the forms then too, so please make sure they’re completed before then. I’ll bring the group back at 1:30 for the rest of the orientation session. <br><br><b>Leon Barkov [9:52 A.M.] </b><br>Thanks. The projector’s working fine now. Wayne attached a different power cord.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is Mr Barkov preparing to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Train new employees",
+              "(B) Meet with Ms Mertz",
+              "(C) Copy some documents",
+              "(D) Present at a conference"
+            ]
+          },
+          "answer": {
+            "text": "(A) Train new employees",
+            "explanation": "Sign: \"we'll be able to get everything ready before <b>the new hires start arriving</b>.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was the conference room not set up by 9:30 A M.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Because the projector had not been located",
+              "(B) Because a meeting did not end on time",
+              "(C) Because Ms. Heinz was not at work",
+              "(D) Because the new employees arrived late"
+            ]
+          },
+          "answer": {
+            "text": "(B) Because a meeting did not end on time",
+            "explanation": "Sign: \"but there was another meeting in the room and it ran late.\""
+          }
+        },
+        {
+          "question": {
+            "text": "At 9:50 A.M , what does Mr Preston most likely mean when ho writes, \"On my way\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is traveling to work.",
+              "(B) He will meet Ms Mertz for lunch",
+              "(C) He will finish reviewing some slides",
+              "(D) He is coming to help Mr. Barkov."
+            ]
+          },
+          "answer": {
+            "text": "(D) He is coming to help Mr. Barkov.",
+            "explanation": "Mr. Leon Barkov asked: \"Wayne, can you come down here?\""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen at noon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Employees will listen to a presentation.",
+              "(B) Employees will return from the security office.",
+              "(C) Ms. Mertz will go to the conference room.",
+              "(D) Mr. Barkov will complete some forms."
+            ]
+          },
+          "answer": {
+            "text": "(C) Ms. Mertz will go to the conference room.",
+            "explanation": "Ms. Mertz said: \"Good. I’ll be there at noon to take ...\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bdc"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> NBS</h4> The National Birdwatchers Society (NBS)  is opening a local chapter in Wellspoint in September. The group will meet on the second Tuesday of every month at the Wheaton Diner, 1600 Carter Street, at 7:30 P.M. Everyone is welcome.<br>If you plan to use public transportation to travel to the meetings, Bus #44 stops two blocks away on the corner of Longview and Wedgeworth Streets. If you plan to drive, parking is free along both streets after 6:00 P.M. <br>We have an exciting year planned, so we hope you’ll  be able to join us. For a list of monthly speakers, visit us online at www.nbswdlspoim.org.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where would the notice most likely appear?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By a parking area",
+              "(B) In a book about birds",
+              "(C) At a community center",
+              "(D) On a bus schedule"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a community center",
+            "explanation": "The information can be inferred from: <i>\"The National Birdwatchers Society (NBS) is opening a local chapter in Wellspoint in September. The group will meet on the second Tuesday of every month at the Wheaton Diner, 1600 Carter Street, at 7:30 P.M. Everyone is welcome.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the notice, what is available on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Registration forms",
+              "(B) Some meeting details",
+              "(C) New wildlife videos",
+              "(D) Membership fee information"
+            ]
+          },
+          "answer": {
+            "text": "(B) Some meeting details",
+            "explanation": "The information is in: <i>\"For a list of monthly speakers, visit us online at www.nbswdlspoim.org.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2bdf"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c3eccc8cae769c2be2"
+}

@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 266",
+  "questions": [
+    {
+      "question": {
+        "text": "From: Hobbs, Nigel <br>To: All Employees<br>Sent: Tuesday, June 02 8:52 A.M. <br>Subject: Maintenance update<br>I would like to remind everyone that repairs to the building's air-conditioning system will begin tomorrow. (1) -------. They will do their best not (2) ------- office operations. In turn, please allow them to do their jobs and refer to any questions or concerns to me. <br>Members of my team will be touring the building (3) ------- the day on Wednesday to ensure that the work is being carried out properly. I ask that everyone be patient until the repairs have been completed. <br>Thank you in advance for your (4) ------- in this matter. <br>Nigel Hobbs, Maintenance Supervisor",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The maintenance department will begin repairs a week from Wednesday.",
+              "(B) These will be contractors working in various parts of the building.",
+              "(C) We will request cost estimates for a new air-conditioning system.",
+              "(D)  Your manager will supply you with further information."
+            ]
+          },
+          "answer": {
+            "text": "(B) These will be contractors working in various parts of the building.",
+            "explanation": "Based on the previous sentence \"I would like to remind everyone that repairs to the building's air-conditioning system will begin tomorrow.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) disturbed",
+              "(B) having disturbed",
+              "(C) to disturb",
+              "(D) disturbs"
+            ]
+          },
+          "answer": {
+            "text": "(C) to disturb",
+            "explanation": "Based on structure \"not + to verb\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) since",
+              "(B) concerning",
+              "(C) against",
+              "(D) during"
+            ]
+          },
+          "answer": {
+            "text": "(D) during",
+            "explanation": "By phrase \"during the day\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) guidance",
+              "(B) cooperation",
+              "(C) interest",
+              "(D) choice"
+            ]
+          },
+          "answer": {
+            "text": "(B) cooperation",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c29f9"
+    },
+    {
+      "question": {
+        "text": "17 July<br>Hanna Morrison<br>12 Hecuba Road<br>St. John's<br>Antigue and Barbuda<br><br>Dear Ms. Morrison, <br><br>Thank you for applying for a business loan with MUN Bank of Antigua & Barbuda. You were able to demonstrate your eligibility for MUN Bank's loan-assistance program. (1) ------- was greatly in your favor as your application was being considered. We can now report our decision to (2) ------- your loan application. <br>MUN Bank is pleased to offer you a loan of $50,000 under the terms and conditions set forth in the enclosure. Please let me know by 1 August (3) ------- you intend to accept the offer. (4) -------.<br>Feel free to contact me with any questions. I look forward to speaking with you soon. <br><br>Sincerely, <br>Joanne Yearwood<br>Loan Officer, MUN Bank of Antigua & Barbuda<br>Enclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Whichever",
+              "(B) This",
+              "(C) Each",
+              "(D) Many"
+            ]
+          },
+          "answer": {
+            "text": "(B) This",
+            "explanation": "In the blank, you need to fill in 1 subject. Therefore, B is correct."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) track",
+              "(B) download",
+              "(C) modify",
+              "(D) approve"
+            ]
+          },
+          "answer": {
+            "text": "(D) approve",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) before",
+              "(B) still",
+              "(C) whether",
+              "(D) why"
+            ]
+          },
+          "answer": {
+            "text": "(C) whether",
+            "explanation": "Based on structure \" Let me know + whether + S + verb - infinitive + .....\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The process of examing loan applications is very rigorous.",
+              "(B) We have been offering loans to small businesses for 40 years.",
+              "(C) Our rates are very competitive compared with other banks.",
+              "(D) We cannot guarantee the same loan terms after that date."
+            ]
+          },
+          "answer": {
+            "text": "(D) We cannot guarantee the same loan terms after that date.",
+            "explanation": "Based on the previous sentence."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c29fc"
+    },
+    {
+      "question": {
+        "text": "For the first time ever, riders in the Cloverville Bicycle Race (1) ------- to use the city's main streets. On Tuesday, the city council engaged in a heated debate. (2) -------. As a result, the council finally voted in favor of allowing the race, now scheduled for September 9, to run right (3) ------- the center of Cloverville before it proceeds across the Munn River Bridge. In recent years, some riders have complained that the course was too short. (4) -------, this year's course has been lengthened slightly by including the Munn River Bridge crossing as part of the route.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to be permitted",
+              "(B) that would permit",
+              "(C) will be permitted",
+              "(D) is to permit"
+            ]
+          },
+          "answer": {
+            "text": "(C) will be permitted",
+            "explanation": "Based on structure S + will be + PII + ...."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Longtime opponent Tim Howard was persuaded to change his mind.",
+              "(B) The new course will include rest stops where riders can receive refreshments.",
+              "(C) The first race in CLoverville was approved by council members eight years ago.",
+              "(D) The old course made a detour around the downtown area."
+            ]
+          },
+          "answer": {
+            "text": "(A) Longtime opponent Tim Howard was persuaded to change his mind.",
+            "explanation": "Based on the previous sentence \" On Tuesday, the city council engaged in a heated debate.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) on",
+              "(B) next",
+              "(C) through",
+              "(D) off"
+            ]
+          },
+          "answer": {
+            "text": "(C) through",
+            "explanation": "Based on the meaning of words \"<b>through</b> the center of Cloverville\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Consequently",
+              "(B) While",
+              "(C) Nevertheless",
+              "(D) Similarly"
+            ]
+          },
+          "answer": {
+            "text": "(A) Consequently",
+            "explanation": "In the blank, you need to fill in a conjunction indicating the result."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c29ff"
+    },
+    {
+      "question": {
+        "text": "To: janvasquez@roicorp.com<br>From: george.moller@vmail.com<br>Subject: Requests<br>Date: August 15<br><br>Dear Ms. Vasquez, <br><br>Thank you for (1) ------- me to the team yesterday morning. It was helpful to connect with everyone starting in my new role next week. <br>In preparation, I would like to look over the employee policies manual. Though I did receive a (2) ------- from Elena Rabin, I want to review these policies in detail. (3) -------. But please do provide any other information that might be relevant. <br>I was instructed to obtain an identification badge before next Monday, my start date. Since I need to have badge (4) -------, please notify me as soon as it is available. <br>Thanks again. <br>George Moller",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) recommending",
+              "(B) introducing",
+              "(C) suggesting",
+              "(D) meeting"
+            ]
+          },
+          "answer": {
+            "text": "(B) introducing",
+            "explanation": "Based on the meaning of words \"thank you for <b>introducing </b>...\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) ticket",
+              "(B) signature",
+              "(C) summary",
+              "(D) promotion"
+            ]
+          },
+          "answer": {
+            "text": "(C) summary",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) This may be the only document that I am missing.",
+              "(B) I am scheduled to return on Monday.",
+              "(C) At this time, I would like to accept your offer.",
+              "(D) There are some revisions that need to be made."
+            ]
+          },
+          "answer": {
+            "text": "(A) This may be the only document that I am missing.",
+            "explanation": "Based on the previous and following sentences"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) found out",
+              "(B) ahead if",
+              "(C) by then",
+              "(D) in addition"
+            ]
+          },
+          "answer": {
+            "text": "(C) by then",
+            "explanation": "Based on structure \"need to + be + by then\". \"by then\" used to indicate time."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a02"
+    },
+    {
+      "question": {
+        "text": "Periodic cleaning of the Huntington Premium Toaster Oven can greatly extend (1) ------- useful life. First, make sure to unplug the toaster, and let it cool off before beginning the cleaning process. (2) -------. Then wipe the interior with a moist sponge. (3) -------, clean the exterior with a mild household cleaning solution. Following this process will keep your (4) ------- looking and working like new.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) a",
+              "(B) its",
+              "(C) that",
+              "(D) another"
+            ]
+          },
+          "answer": {
+            "text": "(B) its",
+            "explanation": "\"Its\" is the form owner of \"it\". \n<br> It = the Huntington Premium Toaster Oven"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Afterwards, reassemble the toaster carefully.",
+              "(B) Next, remove the crumb tray and rinse it with warm water.",
+              "(C) Note that frozen food will take no longer to heat.",
+              "(D) Look for the product number on the underside"
+            ]
+          },
+          "answer": {
+            "text": "(B) Next, remove the crumb tray and rinse it with warm water.",
+            "explanation": "Based on the previous sentence \"First, make sure to unplug the toaster, and let it cool off before beginning the cleaning process.\" <br> Time conjunction: First => Next"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Finally",
+              "(B) Instead",
+              "(C) Otherwise",
+              "(D) In the meantime"
+            ]
+          },
+          "answer": {
+            "text": "(A) Finally",
+            "explanation": "Based on the previous sentence. <br> Time conjunction: First => Next => Finally"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) tools",
+              "(B) factory",
+              "(C) fixtures",
+              "(D) appliance"
+            ]
+          },
+          "answer": {
+            "text": "(D) appliance",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a05"
+    },
+    {
+      "question": {
+        "text": "From customerservice@liybank.org<br>To: jlaurens@mailsygo.com<br>Subject: LIY Bank Correspondence<br>Date: April 2<br><br>Dear Mr. Laurens, <br>You requested to be notified when official mail concerning your LIY Bank account is sent to you. (1) ------- is, therefore, to inform you that a new credit cards has been issued and mailed to you. It will replace your current credit card that is (2) ------- to expire on May 31. (3) -------. When it arrives, please remember to activate your card through your online account on your Web site. <br>(4) -------, you can go to your nearest bank branch and have it activated there by our representative. If you have any futher questions, please contact our Customer Service Center at 610-555-0125. <br><br>Customer Service Team<br>LIY Bank<br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Either",
+              "(B) What",
+              "(C) This",
+              "(D) He"
+            ]
+          },
+          "answer": {
+            "text": "(C) This",
+            "explanation": "\"This\" replaces the subject of the sentence above."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  equal",
+              "(B) true",
+              "(C) due",
+              "(D) fair"
+            ]
+          },
+          "answer": {
+            "text": "(C) due",
+            "explanation": "By phrase \"to be due to\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You may spend it as you see fit.",
+              "(B) You should receive it within a week.",
+              "(C) However, deliveries have been on schedule.",
+              "(D) Please confirm receipt of this letter."
+            ]
+          },
+          "answer": {
+            "text": "(B) You should receive it within a week.",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Suddenly",
+              "(B) Specifically",
+              "(C) Accordingly",
+              "(D) Alternatively"
+            ]
+          },
+          "answer": {
+            "text": "(D) Alternatively",
+            "explanation": "Use a suitable adverb to show \"another way\""
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a08"
+    },
+    {
+      "question": {
+        "text": "From: Corporate Travel Office<br>Subject: Travel policy update<br><br>Over the past year, the Corporate Travel Office has been working hard to save the company money (1) ------- cost - effective travel arrangements. Yesterday we (2) ------- an agreement with the Bellaria Taxi Company. From this point forward, when traveling on official Alanaga business, you are required to take a Bellaria taxi. (3) -------, Alanaga will receive a large discount from Bellaria for its services. This arrangement will be used primarily for transportation within branch offices. (4)-------. If you have suggestion to make your business travel easier, please call the Corporate Travel Office at extension 523.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) it made",
+              "(B) by making",
+              "(C)and makes",
+              "(D)  the maker of"
+            ]
+          },
+          "answer": {
+            "text": "(B) by making",
+            "explanation": "By phrase \"by making cost - effective\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) finalized",
+              "(B) canceled",
+              "(C) highlighted",
+              "(D) considered"
+            ]
+          },
+          "answer": {
+            "text": "(A) finalized",
+            "explanation": "Based on verb pharse \"finalize an agreement\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) If not",
+              "(B) However",
+              "(C) Regardless",
+              "(D) In turn"
+            ]
+          },
+          "answer": {
+            "text": "(D) In turn",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  However, it may also be used for travel to and from the airport.",
+              "(B) On the other hand, taking a train may be more expensive.",
+              "(C) Bellaria Taxi Company has been providing transportation for 25 years.",
+              "(D) The Corporate Travel Office has an emergency phone number."
+            ]
+          },
+          "answer": {
+            "text": "(A)  However, it may also be used for travel to and from the airport.",
+            "explanation": "Based on the previous sentence \"This arrangement will be used primarily for transportation within branch offices.\""
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a0b"
+    },
+    {
+      "question": {
+        "text": "<p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">4 February </span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Liya Lim </span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">1228 Dunlop Street </span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Singapore 23885 </span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Dear Ms. Lim, </span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">To show appreciation for your continued patronage with the Good Day Cable Company, we invite you to our annual Good Day at the Park event at Paya Park on 20 March. The evening&nbsp; (1)&nbsp;-------&nbsp; at 5:00 P.M. with a private reception at the Paya Clubhouse. While beverages and appetizers are (2)-------, listen to performances from local musicians. ( 3) -------Afterward, dessert will follow in the form of an ice cream social. (4)-------the social, clients are also invited to participate in a raffle and trivia games. Prizes will be awarded!</span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Kindly RSVP by 28 February. We hope to see you there!</span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Sincerely,</span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">Jet Khoo</span></span></p> <p style=\"margin-bottom:13px\"><span style=\"font-size:14px;\"><span style=\"line-height:115%\">President of Good Day Cable Company</span></span></p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will have commenced",
+              "(B) will commence",
+              "(C) commenced",
+              "(D) has commenced"
+            ]
+          },
+          "answer": {
+            "text": "(B) will commence",
+            "explanation": "This sentence describes an action that hasn't happened yet => using the future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) seated",
+              "(B) dined",
+              "(C) served",
+              "(D) played"
+            ]
+          },
+          "answer": {
+            "text": "(C) served",
+            "explanation": "Based on the meaning of words. <br> by phrase \"beverages and appetizers\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At 6:00 P.M., head to The Firepit for a barbecue dinner.",
+              "(B) The Clubhouse had to be reserved two months ago.",
+              "(C) Please make sure your account number is written on your check.",
+              "(D) Guests may pay for their tickets at the door."
+            ]
+          },
+          "answer": {
+            "text": "(A) At 6:00 P.M., head to The Firepit for a barbecue dinner.",
+            "explanation": "Based on the following sentence \"Afterward, dessert will follow in the form of an ice cream social.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) During",
+              "(B) Including",
+              "(C) Inside",
+              "(D) Meanwhile"
+            ]
+          },
+          "answer": {
+            "text": "(A) During",
+            "explanation": "\"During\" matches the meaning of the sentence. <br> => During the social"
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a0e"
+    },
+    {
+      "question": {
+        "text": "Losilly Perfumes is pleased to announce that its newest fragrance, Pink Roses, has been (1) ------- Fragrance of the Year by the World Perfume Council. The council considers dozens of entries every year, and the award carries a great deal of prestige in the industry. This is the first time (2) ------- of Losilly's fragrances has received this honor. Pink Roses uniquely combines the scent of freshly picked roses with a hint of vanilla. <br>The Pink Roses scent had a (3) ------- release early this year and is still sold exclusively online. (4) -------.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) granted",
+              "(B) supported",
+              "(C) named",
+              "(D) founded"
+            ]
+          },
+          "answer": {
+            "text": "(C) named",
+            "explanation": "Based on the meaning of words. <br>=> has been named"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) none",
+              "(B) each",
+              "(C) others",
+              "(D) any"
+            ]
+          },
+          "answer": {
+            "text": "(D) any",
+            "explanation": "any of + plural noun"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) limit",
+              "(B) limited",
+              "(C) limiting",
+              "(D) limits"
+            ]
+          },
+          "answer": {
+            "text": "(B) limited",
+            "explanation": "\"limited\" is a noun. <br> Based on structure A + adj + Noun => B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The fragrance will be available in stories next month.",
+              "(B)  The previous winner was also a floral scent.",
+              "(C) Its distinctive packaging has been redesigned.",
+              "(D) Losilly is currently working on a replacement product."
+            ]
+          },
+          "answer": {
+            "text": "(A) The fragrance will be available in stories next month.",
+            "explanation": "Match the context of the passage"
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a11"
+    },
+    {
+      "question": {
+        "text": "Timbi Construction Shelters<br>If you work in the construction industry, you know how frustrating (1) ------- can be when unexpected rain forces you to halt work on a project. Not only do you risk inconveniencing your client when a deadline is missed, but you may have to postpone other planned projects as well. <br>Timbi Construction Shelters provide the (2) ------- you need to continue the job! These temporary structures (3) ------- installed directly at your work site. They remain intact for the duration of your project, enabling your crew members to work uninterrupted in rain or sunshine. They also ensure that all equipment and materials are kept dry, eliminating the risk of water and mold damage. (4) ------- Visit www.timbishelters.com for more information!",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) it",
+              "(B) one",
+              "(C) they",
+              "(D) some"
+            ]
+          },
+          "answer": {
+            "text": "(A) it",
+            "explanation": "This sentence lacks a subject, using the reverse structure of \"it + be + adj\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) workers",
+              "(B) financing",
+              "(C) advice",
+              "(D) protection"
+            ]
+          },
+          "answer": {
+            "text": "(D) protection",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) can be",
+              "(B) are being",
+              "(C) have been",
+              "(D) would have been"
+            ]
+          },
+          "answer": {
+            "text": "(A) can be",
+            "explanation": "Use passive structure: S + can be + PII + ..."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make sure to explain which repairs are most critical.",
+              "(B) You will never have to delay work because of rain again.",
+              "(C) We will send a professional to your facility right away.",
+              "(D) How much time a project requires is difficult to predict."
+            ]
+          },
+          "answer": {
+            "text": "(B) You will never have to delay work because of rain again.",
+            "explanation": "Based on the previous and following sentences."
+          }
+        }
+      ],
+      "id": "626441b6eccc8cae769c2a14"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441b6eccc8cae769c2a17"
+}

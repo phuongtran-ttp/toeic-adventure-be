@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 160",
+  "questions": [
+    {
+      "question": {
+        "text": "A rise in energy prices will mostly affect businesses  _____  energy consumption is high.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) its",
+          "(B) which",
+          "(C) whose",
+          "(D) more"
+        ]
+      },
+      "answer": {
+        "text": "(C) whose",
+        "explanation": "This is a relative clause that modifies the noun \"business\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c119a"
+    },
+    {
+      "question": {
+        "text": "City officials have  _____  Harmon Avenue businesses that street repairs will be completed within 48 hours.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) assured",
+          "(B) arranged",
+          "(C) disclosed",
+          "(D) committed"
+        ]
+      },
+      "answer": {
+        "text": "(A) assured",
+        "explanation": "Based on the meaning of words.\n"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c119d"
+    },
+    {
+      "question": {
+        "text": "Nominations for the  _____  seat on the Gitterman Holdings Board of Trustees must be submitted by Friday.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) approaching",
+          "(B) adjustable",
+          "(C) vacant",
+          "(D) united"
+        ]
+      },
+      "answer": {
+        "text": "(C) vacant",
+        "explanation": "Use a reasonable adjective to modify the noun \"seat\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c11a0"
+    },
+    {
+      "question": {
+        "text": "Our department  _____the policy meeting last Monday, but we had a scheduling  conflict.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) can attend",
+          "(B) must have attended",
+          "(C) should attend",
+          "(D) would have attended"
+        ]
+      },
+      "answer": {
+        "text": "(D) would have attended",
+        "explanation": "It describes something that happened in the past"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c11a3"
+    },
+    {
+      "question": {
+        "text": "_____  the effectiveness of Maisey Stanton's leadership on the town council, she will likely win next week’s mayoral election.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) Since",
+          "(B) Given",
+          "(C) Among",
+          "(D) Upon"
+        ]
+      },
+      "answer": {
+        "text": "(B) Given",
+        "explanation": "Based on the meaning of words.\n"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c11a6"
+    },
+    {
+      "question": {
+        "text": "Barner Corporation’s record profits resulted from the recent  _____  to identify operating efficiencies.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) initiative",
+          "(B) initiating",
+          "(C) initiation",
+          "(D) initiator"
+        ]
+      },
+      "answer": {
+        "text": "(A) initiative",
+        "explanation": "Use a noun that is reasonable in meaning after the adjective \"recent\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c11a9"
+    },
+    {
+      "question": {
+        "text": "Customers still tend to place short notices in the classified section  _____ there is no longer a mandated word limit.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) as if",
+          "(B) so that",
+          "(C) in case",
+          "(D) even though"
+        ]
+      },
+      "answer": {
+        "text": "(D) even though",
+        "explanation": "Use a meaningful conjunction to connect the two clauses."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c11ac"
+    },
+    {
+      "question": {
+        "text": "Sales clerks at Sylla Bazaar receive additional pay when  ______ work in the evening.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) their",
+          "(B) they",
+          "(C) theirs",
+          "(D) them"
+        ]
+      },
+      "answer": {
+        "text": "(B) they",
+        "explanation": "When+ Clause"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418deccc8cae769c11af"
+    },
+    {
+      "question": {
+        "text": "The use of high-quality yet  ______ machine parts led to a decrease in costs for Mr. Kim’s factory.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) inexpensive",
+          "(B) unhappy",
+          "(C) incomplete",
+          "(D) undecided"
+        ]
+      },
+      "answer": {
+        "text": "(A) inexpensive",
+        "explanation": "\"Machine parts\" is Noun. Need an adjective is the opposite of high-quality because there is \"yet\" (but, however)"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418deccc8cae769c11b2"
+    },
+    {
+      "question": {
+        "text": "Because humidity can  ______ wood, the climate in furniture storage units must be controlled.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) damage",
+          "(B) damaging",
+          "(C) damaged",
+          "(D) damages"
+        ]
+      },
+      "answer": {
+        "text": "(A) damage",
+        "explanation": "Can + verb infinitive"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418deccc8cae769c11b5"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264418deccc8cae769c11b8"
+}

@@ -2,7 +2,3 @@ node_modules
 yarn.lock
 .data_storage
 .env
-public/uploads/*
-!public/uploads/.gitkeep
-!public/uploads/full-tests/.gitkeep
-!public/uploads/skill-tests/.gitkeep

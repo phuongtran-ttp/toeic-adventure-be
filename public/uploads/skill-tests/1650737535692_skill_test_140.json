@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 140",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_438.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_438.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d21"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hello, and&nbsp;<strong>Q1 Welcome to the Silva Sculpture Museum.</strong> My name is Nina and I will be your tour guide. Today we will visit two very different but equally impressive exhibits. We&rsquo;ll begin the tour on the first floor with the Susan Willis collection. <strong>Q2&nbsp;This exhibit features life-size statues made of glass. </strong>After a fifteen-minute break, we will proceed to the second floor, where the Karina exhibit is housed. This contains the largest collection of modern sculptures in the world. When our tour is over, we encourage you to visit <strong>Q3&nbsp;the museum gift shop on the third floor, just across from the cafeteria</strong>, where you can purchase coffee and snacks. If you have any questions during our tour, please don&rsquo;t hesitate to ask</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What are on display at the museum?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Photographs",
+              "(B) Sculptures",
+              "(C) Paintings",
+              "(D) Machines"
+            ]
+          },
+          "answer": {
+            "text": "(B) Sculptures",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is unusual about the Susan Willis exhibit?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It includes objects that move.",
+              "(B) It features life-size statues.",
+              "(C) It has many antique items.",
+              "(D) It is the only exhibit of its kind."
+            ]
+          },
+          "answer": {
+            "text": "(B) It features life-size statues.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the gift shop located?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On the first floor",
+              "(B) Next to the Karina exhibit it",
+              "(C) Across from the cafeteria",
+              "(D). By the Susan Willis exhibit"
+            ]
+          },
+          "answer": {
+            "text": "(C) Across from the cafeteria",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d25"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_441.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_441.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d1f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hello. First, I&rsquo;d like to tell you a little bit about myself and then I&rsquo;ll move on to the demonstration. My name is Debra Page and <strong>Q1&nbsp;I&rsquo;ve been a professional chef</strong> with The Seasoned Cook for five years now. In this role, I&rsquo;ve been able to work doing two things I love - cooking and meeting new people. The Seasoned Cook was founded twenty years ago to provide people with kitchen products that reduce both cooking and clean-up time. Tonight I&rsquo;ll be preparing two easy, delicious treats for you. The first is an appetizer that can be made very quickly using several prepared items from the supermarket. The second treat is a <strong>Q2&nbsp;dessert that takes a little bit longer to make,</strong> but is well worth the trouble. As I prepare these dishes, I&rsquo;ll be demonstrating some of our efficient, effective, inexpensive kitchen products for you. <strong>Q3&nbsp;And at the end of the demonstration, we&rsquo;ll all be able to sample the results; then I&rsquo;ll help you place your orders for Seasoned Cook products.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A supermarket clerk",
+              "(B)A waiter",
+              "(C) A professional chef",
+              "(D) A restaurant manager"
+            ]
+          },
+          "answer": {
+            "text": "(C) A professional chef",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about the dessert?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It can be made very quickly.",
+              "(B)The ingredients are simple.",
+              "(C)The preparation involves very few utensils.",
+              "(D)It takes longer to prepare than the appetizer."
+            ]
+          },
+          "answer": {
+            "text": "(D)It takes longer to prepare than the appetizer.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen last?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The speaker will introduce her assistant.",
+              "(B) Audience members will order cooking products.",
+              "(C)The speaker will distribute her new cookbook.",
+              "(D)Audience members will prepare some food"
+            ]
+          },
+          "answer": {
+            "text": "(B) Audience members will order cooking products.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d27"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_426.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_426.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d1c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Is your construction company trying to expand?</strong> Do you find it hard to compete with other businesses because your equipment is old and inefficient? Then Millenium Tools has the products you&rsquo;ve been looking for. We&rsquo;ve designed a sleek, completely modern line of construction tools that will cut down the time of your project. Whether you specialize in residential or commercial buildings, <strong>Q2&nbsp;our tools are designed to help you maximize your team&rsquo;s efficiency. Q3&nbsp;Don&rsquo;t waste time with outdated equipment! Visit one of our retail outlets for a demonstration of the newest models available. </strong> Call 567-2424 for a list of locations and opening times. You&rsquo;ll be glad you did</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the advertisement most likely for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Automobile manufacturers",
+              "(B) Real estate agents",
+              "(C) Computer store managers",
+              "(D) Construction company owners"
+            ]
+          },
+          "answer": {
+            "text": "(D) Construction company owners",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about his company products?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are more efficient than older models.",
+              "(B) They are less expensive than a competitor's.",
+              "(C). They are easy to maintain.",
+              "(D) They are available only for a short time."
+            ]
+          },
+          "answer": {
+            "text": "(A) They are more efficient than older models.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How are listeners invited to respond to the advertisement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By filling out a questionnaire",
+              "(B) By attending a demonstration",
+              "(C) By placing a telephone order",
+              "(D) By requesting a free sample"
+            ]
+          },
+          "answer": {
+            "text": "(B) By attending a demonstration",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d23"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_442.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_442.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d2e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Q1 And the last stop on our tour is the cafeteria.<strong> </strong>The cafeteria is open in the morning from seven to ten and for lunch from twelve noon to two-thirty. Hot food is served from this area on the right; sandwiches and snacks are over there on the left; and in the middle, here, is the salad bar. <strong>Q2&nbsp;In your employee orientation pack,</strong> <strong>you&rsquo;ll find a cafe card. This first one is complimentary. It has ten euros worth of credit on it. When you&rsquo;ve selected your food, take it to the checkout. The cashier will add up your purchases and tell you how much credit you have left. When it is used up, you can purchase a new card. </strong>There is a card machine in the lobby. <strong>Q3&nbsp;Let&rsquo;s all get a cup of coffee and it here in the cafeteria&nbsp;</strong>where I&rsquo;ll try to answer any questions you have.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is being addressed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Business students",
+              "(B)Cafeteria staff members",
+              "(C)Tourists from abroad",
+              "(D)New employees."
+            ]
+          },
+          "answer": {
+            "text": "(D)New employees.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is true about the cafe card?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is valid only at lunchtime.",
+              "(B)It can be used to pay for food.",
+              "(C)It is free for all employees.",
+              "(D)It can be used only one time."
+            ]
+          },
+          "answer": {
+            "text": "(B)It can be used to pay for food.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the group of people?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a bank",
+              "(B)At a farm",
+              "(C)In a cafeteria",
+              "(D)In a personnel office"
+            ]
+          },
+          "answer": {
+            "text": "(C)In a cafeteria",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d32"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_439.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_439.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d2c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Before we begin today&rsquo;s meeting, I&#39;d like to make a few announcements. First of all, <strong>Q1&nbsp;the conference room renovation project will begin next week. </strong> Therefore, <strong>Q2&nbsp;our next committee meeting will be held in the library. </strong>Second, our annual retirement dinner is coming up, and I am happy to report that we were able to book the ballroom at the Courier Hotel. <strong>Q3&nbsp;If you&rsquo;re planning to attend, please send me an e-mail before next Wednesday </strong>to let me know. There&rsquo;s no fee, but we encourage everyone to donate to the retirement gift fund. We have 15 retirees this year, so I hope everyone will be able to attend.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where will the next committee meeting take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At the Courier Hotel",
+              "(B) In the lunch room",
+              "(C) In a conference room",
+              "(D) In the library"
+            ]
+          },
+          "answer": {
+            "text": "(D) In the library",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What should employees do if they are planning to attend  the retirement dinner?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Bring a gift to the dinner",
+              "(B) Purchase a ticket",
+              "(C) Reply by next Wednesday",
+              "(D) Contact the committee"
+            ]
+          },
+          "answer": {
+            "text": "(C) Reply by next Wednesday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker mentioned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The conference room will be renovated.",
+              "(B) Donations of fifteen dollars are encouraged.",
+              "(C) Fewer employees are retiring this year than iast year.",
+              "(D) The committee is seeking new members."
+            ]
+          },
+          "answer": {
+            "text": "(A) The conference room will be renovated.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d34"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_427.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_427.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d30"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hello Dr. Laury, this is Jennifer Clark, an editor with Mechanical Engineer&rsquo;s Journal. <strong>Q1&nbsp;I wanted to touch base with you about your paper</strong> that was recently accepted for publication &ndash; The one on lasers. We haven&rsquo;t heard back from you for a while now, and your e-mail address doesn&rsquo;t seem to be working, so we&rsquo;re just calling to see how you&rsquo;re doing. <strong>Q2&nbsp;The revision of your article is due on January twenty-fifth.</strong> Please give me a call back to update me. My number is 555-1906. <strong>Q3&nbsp;If you don&rsquo;t think you&rsquo;ll be able to make that January twenty-fifth deadline, we&rsquo;ll need to know soon so that we can arrange for a replacement article. </strong>Thanks so much.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the speaker calling about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A journal article",
+              "(B) A newspaper subscription",
+              "(C) Some laboratory equipment",
+              "(D) An invoice"
+            ]
+          },
+          "answer": {
+            "text": "(A) A journal article",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the deadline  that the speaker mentions?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) January 5",
+              "(B) January 6",
+              "(C) January 19",
+              "(D) January 25"
+            ]
+          },
+          "answer": {
+            "text": "(D) January 25",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker want to know?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The form of payment",
+              "(B) The name of a doctor",
+              "(C) The status of some work",
+              "(D) The location of an office"
+            ]
+          },
+          "answer": {
+            "text": "(C) The status of some work",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d37"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_411.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_411.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d3d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Well, Langdon City, <strong>Q1&nbsp;get ready for an early taste of summer this weekend, as temperatures will be well above normal for this time of year.</strong>&nbsp;<strong>Q2&nbsp;Stay cool during the heat wave by following this safety recommendation: try not to go outside in the middle of the day when it&rsquo;s hottest. </strong>Don&rsquo;t worry though, <strong>Q3 relief is on the way - starting on Tuesday, a couple of days of rain will push the warm air away and temperatures will be lower throughout our area.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main topic of the report?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) High temperatures",
+              "(B) Strong winds",
+              "(C) Heavy rain",
+              "(D) Poor air quality"
+            ]
+          },
+          "answer": {
+            "text": "(A) High temperatures",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What safety measure does the speaker recommend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Driving carefully",
+              "(B)  Staying indoors",
+              "(C)  Buying a flashlight",
+              "(D) Securing outdoor furniture"
+            ]
+          },
+          "answer": {
+            "text": "(B)  Staying indoors",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When does the speaker say conditions will change?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Saturday",
+              "(B) On Sunday",
+              "(C) On Monday",
+              "(D) On Tuesday"
+            ]
+          },
+          "answer": {
+            "text": "(D) On Tuesday",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d41"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_443.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_443.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d3a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Good morning. I&rsquo;m Bob Lucas and <strong>Q1&nbsp;I&rsquo;ll be your host on Money Talks here on BQ Radio tomorrow morning at ten.</strong> We&rsquo;ve got a great lineup for you this week. <strong>Q2 We&rsquo;ll be giving you a rundown on the latest credit card deals from the big banks, and discussing pension plans and when you should start saving for retirement. In the Your Money slot, you can hear local financial adviser Diane Lee talking to school teacher Joanne Hopkinson about her personal finances, and helping her to find ways to save money on her tax and mortgage payments. </strong>And of course, Money Matters&rsquo; own investment consultant, <strong>Q3&nbsp;Antonio Moreno, will be giving you some hot tips on investments.</strong> So, to learn how to manage your money,&nbsp;tune in to Money Talks tomorrow at ten with me, Bob Lucas.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "When will the program be broadcast?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)This afternoon",
+              "(B)This evening",
+              "(C)Tomorrow morning",
+              "(D) Every Monday"
+            ]
+          },
+          "answer": {
+            "text": "(C)Tomorrow morning",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the radio show Money Talks?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To give financial advice",
+              "(B)To introduce Bob Lucas",
+              "(C)To ask for donations to BQ Radio",
+              "(D)To help people get new credit cards"
+            ]
+          },
+          "answer": {
+            "text": "(A)To give financial advice",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will provide advice on investments?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Joanne Hopkinson",
+              "(B)Antonio Moreno",
+              "(C)Diane Lee",
+              "(D)Bob Luca"
+            ]
+          },
+          "answer": {
+            "text": "(B)Antonio Moreno",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d43"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4310.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4310.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d3f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>A new study shows that <strong>Q1&nbsp;workers who have reached the point in their careers when they are making the most money are surprisingly often the least content with their jobs. Q2 More money frequently comes with more responsibility, </strong>but this can result in higher stress levels and less time away from the office. The study offers several suggestions on ways to reduce stress, including shortening the time spent commuting to work and having a flexible work schedule. <strong>Q3&nbsp;But the main key to happiness seems to come from spending quality time with friends and family.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What surprising trend was reported?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) People are happiest before retirement.",
+              "(B) Workers are spending less time at their jobs.",
+              "(C) Many workers are not commuting to work.",
+              "(D) Workers who make the most money are the least satisfied."
+            ]
+          },
+          "answer": {
+            "text": "(D) Workers who make the most money are the least satisfied.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What reason is suggested for the trend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Many workers prefer to live far from their jobs.",
+              "(B) Successful employees have more responsibility.",
+              "(C) Employees must take work home to finish it",
+              "(D) Workers see their Colleagues infrequently."
+            ]
+          },
+          "answer": {
+            "text": "(B) Successful employees have more responsibility.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker recommend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Looking for a job with fewer responsibilities",
+              "(B) Working fewer hours each day",
+              "(C) Spending time with family and friends",
+              "(D) Changing careers every few years"
+            ]
+          },
+          "answer": {
+            "text": "(C) Spending time with family and friends",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d45"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_428.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_428.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d47"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Welcome to the New Technology Fair, everyone.</strong> <strong>Today&rsquo;s schedule will give you a chance to present your companies&rsquo; newest products, and there will be some great demonstrations here today. </strong>But before we begin, I have been asked to make the following announcement. Someone has parked a red car in a no-parking zone next to this building. The car is blocking access to the kitchen entrance, and we&rsquo;d like you to move your car right away. <strong>Q2 In fact, any vehicle not properly parked will be ticketed, and the fines here are high, I&rsquo;m afraid. </strong>So check your cars. Thank you very much. <strong>Q3 Now, let&rsquo;s get back to our planned agenda to show those exciting new products.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the intended audience for the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Kitchen staff in a hotel",
+              "(B) Department store customers",
+              "(C) Automobile salespeople",
+              "(D) Presenters at a technology fair"
+            ]
+          },
+          "answer": {
+            "text": "(D) Presenters at a technology fair",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about parking?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The parking area is full.",
+              "(B) There are fines for improper parking.",
+              "(C) Drivers should park near the kitchen.",
+              "(D) The parking building is next door."
+            ]
+          },
+          "answer": {
+            "text": "(B) There are fines for improper parking.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is scheduled to happen next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lunch will be served.",
+              "(B). A new store will open.",
+              "(C) Products will be demonstrated",
+              "(D) Tickets will be distributed."
+            ]
+          },
+          "answer": {
+            "text": "(C) Products will be demonstrated",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d4c"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "6264417feccc8cae769c0d5a"
+}

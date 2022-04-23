@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 257",
+  "questions": [
+    {
+      "question": {
+        "text": "<br />\nTo: Scott Douglas [sdouglas@evergladeprints.com]<br />\nFrom: Edward Kovac [edward.k@collinsconsulting,com]<br />\nSubject: Brochure alterations<br />\nDate: 8 May<br />\nDear Mr. Douglas,<br />\nPlease find attached a copy of the brochure you designed with our comments. Our team has reviewed the draft, and we are ---1--- with the quality of the pamphlet thus far. Despite this, we do require a few changes.<br />\nIn particular, there were minor layout and color errors and some important information was ---2--- as well. We left notes in the brochure regarding where the omitted details should go. ---3---. Please send us a revised draft when it is ready. We will, of course, be happy to ---4--- the extra cost.<br />\nBest wishes,<br />\nEdward",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Our team has reviewed the draft, and we are ---1--- with the quality of the pamphlet thus far.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) concerned",
+              "(B) satisfied",
+              "(C) credited",
+              "(D) troubled"
+            ]
+          },
+          "answer": {
+            "text": "(B) satisfied",
+            "explanation": "be satisfied with sth"
+          }
+        },
+        {
+          "question": {
+            "text": "In particular, there were minor layout and color errors and some important information was ---2--- as well.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) allowed",
+              "(B) asserted",
+              "(C) moving",
+              "(D) missing"
+            ]
+          },
+          "answer": {
+            "text": "(D) missing",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We left notes in the brochure regarding where the omitted details should go. ---3---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We are not sure why these details",
+              "(B) We need each correction to be reflected precisely.",
+              "(C) We would like you to change the entire layout.",
+              "(D) We ask that you send the invoice for the design we chose."
+            ]
+          },
+          "answer": {
+            "text": "(B) We need each correction to be reflected precisely.",
+            "explanation": "The following sentence mentions \"a revised draft\" => B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "We will, of course, be happy to ---4--- the extra cost.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) cover",
+              "(B) covered",
+              "(C) covering",
+              "(D) covers"
+            ]
+          },
+          "answer": {
+            "text": "(A) cover",
+            "explanation": "be adjective + to infinitive"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28a9"
+    },
+    {
+      "question": {
+        "text": "<br> June 21<br>Magnum Insurance<br>337 Deerborne Avenue<br>Banff, Alberta, T2N 4S5<br>Canada<br>Dear Mr. Clayburn,<br>This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are ---1--- processing it. As you know, the powerful storm last week affected the entire city. As a result, an overwhelming number of homeowners ---2--- assistance. Nevertheless, we are working as speedily as we can to handle these applications.<br>An adjuster can inspect your property in a few days. ---3---. You can speed up the process by presenting documentary evidence ahead of time. Still, it may take some weeks to complete all the necessary forms and prepare a compensation ---4---. We hope you understand. The funds you'll need to carry out the necessary repairs will be transmitted to you as quickly as possible.<br>Thank you for your cooperation.<br>Judith Underwood<br>Claims coordinator",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are ---1--- processing it.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) previously",
+              "(B) currently",
+              "(C) surprisingly",
+              "(D) typically"
+            ]
+          },
+          "answer": {
+            "text": "(B) currently",
+            "explanation": "Based on the meaning of adverbs"
+          }
+        },
+        {
+          "question": {
+            "text": "As a result, an overwhelming number of homeowners ---2--- assistance.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) requests",
+              "(B) were requested",
+              "(C) have requested",
+              "(D) had requested"
+            ]
+          },
+          "answer": {
+            "text": "(C) have requested",
+            "explanation": "The subject is \"homeowners\" => C is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "An adjuster can inspect your property in a few days. ---3---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You will need to submit your insurance claim as soon as possible.",
+              "(B) He has provided you with the assistance you require.",
+              "(C) Making this investment will raise your home’s market value.",
+              "(D) If possible, start photographing the damaged areas of your home."
+            ]
+          },
+          "answer": {
+            "text": "(D) If possible, start photographing the damaged areas of your home.",
+            "explanation": "The notice is about the areas damaged by a storm => they are going to inspect the property"
+          }
+        },
+        {
+          "question": {
+            "text": "Still, it may take some weeks to complete all the necessary forms and prepare a compensation ---4---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) score",
+              "(B) estimate",
+              "(C) history",
+              "(D) receipt"
+            ]
+          },
+          "answer": {
+            "text": "(B) estimate",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28ac"
+    },
+    {
+      "question": {
+        "text": "<br> To: All staff<br>From: Susan Ward<br>Subject: Employee handbook<br>Date: April 15<br>Thank you to everyone who participated in the discussions with company management. Your comments about some employees being unaware of the procedures for day-to-day operations have been heard. We are now working to ---1--- the situation.<br>For starters, we will be publishing the company's standard operating procedures as soon as possible. A printed guide will give management and staff an official reference on the performance of daily tasks. ---2---. Flopefully, it will help move us closer to our goal of having firmly ---3--- policies.<br>If any revisions are required, these will be incorporated into a later version of the manual. The final version will also be ---4--- through the company's internal network. If you have any questions, please direct them to your departmental supervisors.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We are now working to ---1--- the situation.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) maintain",
+              "(B) inspect",
+              "(C) address",
+              "(D) ignore"
+            ]
+          },
+          "answer": {
+            "text": "(C) address",
+            "explanation": "Based on the meaning of verbs."
+          }
+        },
+        {
+          "question": {
+            "text": "A printed guide will give management and staff an official reference on the performance of daily tasks. ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A provisional copy of this handbook will be distributed at the next meeting.",
+              "(B) Yourcomments on the revised manual  were very much appreciated.",
+              "(C) A copy of the article may be found in last month's company newsletter.",
+              "(D) We are glad that everyone is now up-to-date on our meeting schedule."
+            ]
+          },
+          "answer": {
+            "text": "(A) A provisional copy of this handbook will be distributed at the next meeting.",
+            "explanation": "The previous sentence mentions a printed guide"
+          }
+        },
+        {
+          "question": {
+            "text": "Hopefully, it will help move us closer to our goal of having firmly ---3--- policies.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) establish",
+              "(B) established",
+              "(C) establishing",
+              "(D) establishment"
+            ]
+          },
+          "answer": {
+            "text": "(B) established",
+            "explanation": "We need an adjective to modify the noun \"policies\""
+          }
+        },
+        {
+          "question": {
+            "text": "The final version will also be ---4--- through the company's internal network.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) access",
+              "(B) accessible",
+              "(C) accesses",
+              "(D) accessing"
+            ]
+          },
+          "answer": {
+            "text": "(B) accessible",
+            "explanation": "be + adjective"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28af"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following e -mail. </i><br><br>You are receiving this e-mail ---1--- you have contacted Brell Home in the past about our houseware products or have visited our Web site. If you no longer wish to receive our e-mails, you can be removed from our list ---2---. But do you really want to miss out on discount offers for products that will help you turn your house into an ---3--- home? We hope you will choose to remain a subscriber so that we can continue to send ---4--- for the most popular new products for your home.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "You are receiving this e-mail ---1--- you have contacted Brell Home in the past about our houseware products or have visited our Web site. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) even",
+              "(B) because",
+              "(C) during",
+              "(D) among"
+            ]
+          },
+          "answer": {
+            "text": "(B) because",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "If you no longer wish to receive our e-mails, you can be removed from our list ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Simply reply to this e-mail with the word \"unsubscribe.\"",
+              "(B) The issue has not yet been resolved.",
+              "(C) Please provide your order number.",
+              "(D) Our products are made by local artisans using natural materials."
+            ]
+          },
+          "answer": {
+            "text": "(A) Simply reply to this e-mail with the word \"unsubscribe.\"",
+            "explanation": "This sentence is the guide if the email receiver no longer wish to receive e-mails"
+          }
+        },
+        {
+          "question": {
+            "text": "But do you really want to miss out on discount offers for products that will help you turn your house into an ---3--- home?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) invites",
+              "(B) invited",
+              "(C) inviting",
+              "(D) invitation"
+            ]
+          },
+          "answer": {
+            "text": "(C) inviting",
+            "explanation": "Use an adjective to modify the noun \"home\". inviting = welcoming"
+          }
+        },
+        {
+          "question": {
+            "text": "We hope you will choose to remain a subscriber so that we can continue to send ---4--- for the most popular new products for your home.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) pieces",
+              "(B) contracts",
+              "(C) samples",
+              "(D) coupons"
+            ]
+          },
+          "answer": {
+            "text": "(D) coupons",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28b2"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following notice. </i><br><br>Please note that the south lobby of the building will be closed from 7: 00 P.M. this evening to 7: 00 A.M tomorrow morning. Routine ---1--- will be performed on the heating and cooling systems. ---2--- the central air conditioning will be turned off between these hours. We have scheduled any necessary ---3--- to take place outside of regular business hours. ---4--- If you need access to the building during these hours, please use the north lobby or the basement-level entrances. They will be unlocked and extra lighting will be provided in these two areas.<br><br>Thank you, <br>Building Management",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Routine ---1--- will be performed on the heating and cooling systems. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) maintenance",
+              "(B) maintained",
+              "(C) maintains",
+              "(D) maintainable"
+            ]
+          },
+          "answer": {
+            "text": "(A) maintenance",
+            "explanation": "The blank is in the position of subject => need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "---2--- the central air conditioning will be turned off between these hours.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) As a result",
+              "(B) Even though",
+              "(C) On the contrary",
+              "(D) In comparison"
+            ]
+          },
+          "answer": {
+            "text": "(A) As a result",
+            "explanation": "Routine maintenance will be performed, leading to the central air conditioning will be turned off"
+          }
+        },
+        {
+          "question": {
+            "text": "We have scheduled any necessary ---3--- to take place outside of regular business hours.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) designs",
+              "(B) repairs",
+              "(C) meetings",
+              "(D) strategies"
+            ]
+          },
+          "answer": {
+            "text": "(B) repairs",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "---4--- If you need access to the building during these hours, please use the north lobby or the basement-level entrances.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Extra office chairs will be available.",
+              "(B) Our goal is to minimize your discomfort while you are in the office.",
+              "(C) The thermostat setting needed to be reset.",
+              "(D) The employee entrance code is changing again next month."
+            ]
+          },
+          "answer": {
+            "text": "(B) Our goal is to minimize your discomfort while you are in the office.",
+            "explanation": "The repairs take place during regular business hours => B is correct"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28b5"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following e-mail. </i><br><br>To: Kristina Tursi <ktursi@fratellitursi.com> <br>From: Steven Bracchio <sbracchio@worldsmail.net> <br>Date: August 24 <br>Subject: Thank you<br><br>Dear Ms. Tursi, <br>Thank you for your time today. I ---1--- enjoyed meeting and interviewing with your team. It is clear to me that Fratelli Tursi is a dynamic company ---2--- for great success. ---3--- . As we discussed, I am comfortable conducting business in the Italian language, and beyond that, I believe my marketing skills would strongly support Fratelli Tursi's efforts to grow internationally. <br>I understand that the partners will be considering whom to call in to the office for ---4--- interviews. <br>Please let me know if you require additional information about me. I very much look forward to hearing from you. <br><br>Steven Bracchio",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "I ---1--- enjoyed meeting and interviewing with your team.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) closely",
+              "(B) skillfully",
+              "(C) quickly",
+              "(D) thoroughly"
+            ]
+          },
+          "answer": {
+            "text": "(D) thoroughly",
+            "explanation": "Based on the meaning of adverbs"
+          }
+        },
+        {
+          "question": {
+            "text": "It is clear to me that Fratelli Tursi is a dynamic company ---2--- for great success.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) positioned",
+              "(B) position",
+              "(C) positions",
+              "(D) positionally"
+            ]
+          },
+          "answer": {
+            "text": "(A) positioned",
+            "explanation": "reduced relative clause in passive form => use past participle"
+          }
+        },
+        {
+          "question": {
+            "text": " ---3--- . As we discussed, I am comfortable conducting business in the Italian language, and beyond that, I believe my marketing skills would strongly support Fratelli Tursi's efforts to grow internationally.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) My salary has risen with my increased responsibilities.",
+              "(B) The office space is well designed.",
+              "(C) I think my skills are a good match for the needs of your sales team.",
+              "(D) Please use my personal e-mail address to reach me."
+            ]
+          },
+          "answer": {
+            "text": "(C) I think my skills are a good match for the needs of your sales team.",
+            "explanation": "C is the most suitable answer"
+          }
+        },
+        {
+          "question": {
+            "text": "I understand that the partners will be considering whom to call in to the office for ---4--- interviews.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) initial",
+              "(B) optional",
+              "(C) further",
+              "(D) experienced"
+            ]
+          },
+          "answer": {
+            "text": "(C) further",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28b8"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following letter. </i><br><br>Dear Small-Business Owner: <br><br>Do you change your opening and closing times depending on the season? According to market research, a quarter of all small businesses periodically ---1--- their operating hours. However, such changes are not always accurately reflected in the search engine results and on the many Web sites that show your operating hours to your customers. Inaccurate information can lead to customer frustration, which can drive them to do business with your competitors. ---2---. <br><br>One of our services is designed to help you monitor ---3--- your operating hours are being shown on the Web. To learn more about our tools and services, please see the enciosed brochure. We would be happy to work with you ---4--- your business's opportunities. <br><br>Sincerely, <br>Richard N. Batterman<br>Account Representative Muros Solutions<br>Enclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "According to market research, a quarter of all small businesses periodically ---1--- their operating hours.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) adjust",
+              "(B) report",
+              "(C) display",
+              "(D) examine"
+            ]
+          },
+          "answer": {
+            "text": "(A) adjust",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Inaccurate information can lead to customer frustration, which can drive them to do business with your competitors. ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Today's search engines are more sophisticated.",
+              "(B) Many of them prefer to shop online.",
+              "(C) Our competitors face similar issues.",
+              "(D) Once lost, they can be hard to bring back."
+            ]
+          },
+          "answer": {
+            "text": "(D) Once lost, they can be hard to bring back.",
+            "explanation": "The previous sentence mentions inaccurate information"
+          }
+        },
+        {
+          "question": {
+            "text": "One of our services is designed to help you monitor ---3--- your operating hours are being shown on the Web.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) how",
+              "(B) until",
+              "(C) why",
+              "(D) unless"
+            ]
+          },
+          "answer": {
+            "text": "(A) how",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "We would be happy to work with you ---4--- your business's opportunities.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) maximization",
+              "(B) to maximize",
+              "(C) maximum",
+              "(D) having maximized"
+            ]
+          },
+          "answer": {
+            "text": "(B) to maximize",
+            "explanation": "to infinitive indicates purposes"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28bb"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following information.</i><br><br>The Design Present Conference is an annual event held in Melbourne for graphic-design professionals. The conference is steadily growing in popularity. Last year, it ---1---more than 3,000 attendees from Australia and around the world. The next Design Present Conference, which will be held from 20 to 23 March, will offer more than 100 workshops, plus keynote speeches and plenary sessions. This year, several opportunities for professional networking will be added. Attendees will have the chance to market ---2---. to firms in several different industries. Periods for networking will be included in the ---3---. each day. Whether you are a design enthusiast, student, freelance designer, or business owner, Design Present has something for you. ---4---",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Last year, it ---1---more than 3,000 attendees from Australia and around the world.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) attracted",
+              "(B) entered",
+              "(C) awarded",
+              "(D) promoted"
+            ]
+          },
+          "answer": {
+            "text": "(A) attracted",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Attendees will have the chance to market ---2---. to firms in several different industries.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) they",
+              "(B) them",
+              "(C) themselves",
+              "(D) theirs"
+            ]
+          },
+          "answer": {
+            "text": "(C) themselves",
+            "explanation": "use \"themselves\" to refer to \"Attendees\""
+          }
+        },
+        {
+          "question": {
+            "text": "Periods for networking will be included in the ---3---. each day.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) location",
+              "(B) situation",
+              "(C) machine",
+              "(D) schedule"
+            ]
+          },
+          "answer": {
+            "text": "(D) schedule",
+            "explanation": "Based on the meaning of words. "
+          }
+        },
+        {
+          "question": {
+            "text": "Whether you are a design enthusiast, student, freelance designer, or business owner, Design Present has something for you. ---4---",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Registration begins on 3 February and continues through 18 March.",
+              "(B) This speaker is well-known throughout the industry.",
+              "(C) The conference was held in New Zealand in previous years.",
+              "(D) We'd like to get your feedback on last year's conference."
+            ]
+          },
+          "answer": {
+            "text": "(A) Registration begins on 3 February and continues through 18 March.",
+            "explanation": "It's the last sentence of the post => A is suitable"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28be"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following advertisement.</i><br><br><b>Housing Specialist Needed</b><br>Wallace & Prence Realty is currently seeking a housing specialist to work with our international clients. We specialize in securing appropriate short-term housing for individuals ---1---will be working in the Toronto area for only a short time. As part of our client-relations department, the housing specialist---2---guidance to clients preparing for temporary relocation. ---3---The successful candidate must have knowledge of real estate and rental agencies in the Toronto area. Also required are a minimum of two years of customer-service experience. Individuals with the necessary ---4---are encouraged to contact us at recruitment@wallaceprence.ca.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We specialize in securing appropriate short-term housing for individuals ---1---will be working in the Toronto area for only a short time. ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) who",
+              "(B) accordingly",
+              "(C) recently",
+              "(D) where"
+            ]
+          },
+          "answer": {
+            "text": "(A) who",
+            "explanation": "Use \"who\" to modify \"individuals\" in relative clause"
+          }
+        },
+        {
+          "question": {
+            "text": "As part of our client-relations department, the housing specialist---2---guidance to clients preparing for temporary relocation.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) provided",
+              "(B) will provide",
+              "(C) will have provided",
+              "(D) is providing"
+            ]
+          },
+          "answer": {
+            "text": "(B) will provide",
+            "explanation": "future simple tense is the most suitable in this advertisement."
+          }
+        },
+        {
+          "question": {
+            "text": "---3---The successful candidate must have knowledge of real estate and rental agencies in the Toronto area.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Your travel expenses are covered by Wallace & Prence.",
+              "(B) We place clients in apartments throughout the world.",
+              "(C) Duties also include supporting clients after their arrival.",
+              "(D) Incomplete applications will not be considered."
+            ]
+          },
+          "answer": {
+            "text": "(C) Duties also include supporting clients after their arrival.",
+            "explanation": "The previous sentence mentions \"provide guidance to clients preparing for temporary relocation\" => C makes most sense. "
+          }
+        },
+        {
+          "question": {
+            "text": "Individuals with the necessary ---4---are encouraged to contact us at recruitment@wallaceprence.ca.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) questions",
+              "(B) documents",
+              "(C) references",
+              "(D) qualifications"
+            ]
+          },
+          "answer": {
+            "text": "(D) qualifications",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28c1"
+    },
+    {
+      "question": {
+        "text": "<i>refer to the following newspaper article.</i><br><br>LOWELL (March 3)-Just one year after opening, Viggo's Sweet Shop on Park Street has become the place to go for residents wishing to satisfy their sugary cravings. Says owner Viggo Magnusson, \"Returning customers bring friends and relatives with them, so the shop is always ---1--- Mr. Magnusson credits the success of his business to the recipes he inherited from his grandmother about a decade ago. ---2---.<br>But the popularity of the pastry shop ---3---Mr. Magnusson with an unanticipated problem: lack of store space. So when the shoe store next door went out of business recently, he purchased the property to allow for the ---4---of his shop. Renovations will start in April.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Returning customers bring friends and relatives with them, so the shop is always ---1--- ",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) doubted",
+              "(B) estimated",
+              "(C) crowded",
+              "(D) organized"
+            ]
+          },
+          "answer": {
+            "text": "(C) crowded",
+            "explanation": "This sentence indicates \"Returning customers bring friends and relatives with them..\" => choose \"crowded\""
+          }
+        },
+        {
+          "question": {
+            "text": "Mr. Magnusson credits the success of his business to the recipes he inherited from his grandmother about a decade ago. ---2---.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She usually serves them warm.",
+              "(B) She created them when she started the restaurant.",
+              "(C) His family members prefer eating healthy meals.",
+              "(D) His social media campaign has also boosted sales."
+            ]
+          },
+          "answer": {
+            "text": "(D) His social media campaign has also boosted sales.",
+            "explanation": "The previous sentence mentions \"Mr. Magnusson credits the success of his business..........\" => choose D"
+          }
+        },
+        {
+          "question": {
+            "text": "But the popularity of the pastry shop ---3---Mr. Magnusson with an unanticipated problem: lack of store space.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) leave",
+              "(B) left",
+              "(C) is leaving",
+              "(D) have left"
+            ]
+          },
+          "answer": {
+            "text": "(B) left",
+            "explanation": "Sign \"about a decade ago\" in the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "So when the shoe store next door went out of business recently, he purchased the property to allow for the ---4---of his shop.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) expansion",
+              "(B) supervision",
+              "(C) submission",
+              "(D) division"
+            ]
+          },
+          "answer": {
+            "text": "(A) expansion",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441afeccc8cae769c28c4"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441afeccc8cae769c28c7"
+}

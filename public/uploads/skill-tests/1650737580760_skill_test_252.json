@@ -1,0 +1,855 @@
+{
+  "name": "Skill Test 252",
+  "questions": [
+    {
+      "question": {
+        "text": "Corelli's Bakery <br>15 Middlemass street <br>Youngstown, Ohio 44515<br>Dear Valued Customer:<br>For the last three years we have charged the same wholesale prices for our baked goods, including cakes, pies, cookies, and brownies. We regret that sharply rising prices for our raw ingredients, such as sugar and fruit, have forced us to raise our prices by 5 percent —1— August 1. We have made every attempt to avoid this price increase. -- -2—-, we refuse to compromise on the quality of our products. Using the best ingredients available will allow us to provide the delicious desserts your restaurant guests have come to expect. —3—-. We appreciate your —4— and look forward to continuing to serve you.<br>Sincerely,<br>Tony Corelli,Owner",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)actual",
+              "(B)future",
+              "(C)practical",
+              "(D)effective"
+            ]
+          },
+          "answer": {
+            "text": "(D)effective",
+            "explanation": "Based on the meaning of the word to choose correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Similarly",
+              "(B)Therefore",
+              "(C)However",
+              "(D)Accordingly"
+            ]
+          },
+          "answer": {
+            "text": "(C)However",
+            "explanation": "Based on the meaning of the word to choose correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)We believe you will see that our products are still a great value.",
+              "(B)Our efforts to stay profitable have not been successful.",
+              "(C)We hope our competitors will raise their prices too.",
+              "(D)Our products are healthier than traditional baked goods."
+            ]
+          },
+          "answer": {
+            "text": "(A)We believe you will see that our products are still a great value.",
+            "explanation": "Based on the meaning of the previous sentence, choose answer A."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [
+              {
+                "name": "bs.Need to fill a noun function the ability to do the object behind the verb \"appreciate\"",
+                "url": "https://storage.googleapis.combs.Need to fill a noun function the ability to do the object behind the verb \"appreciate\"",
+                "mime": "image/png",
+                "id": "626441aceccc8cae769c27cf"
+              }
+            ],
+            "sound": [],
+            "choices": [
+              "(A)supportive",
+              "(B)support",
+              "(C)supporter",
+              "(D)supports"
+            ]
+          },
+          "answer": {
+            "text": "(B)support",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27d1"
+    },
+    {
+      "question": {
+        "text": "To: Noora Abadi<br>From: Alexis Palmer<br>Subject: Informational interview<br>Date: 4 February<br>Dear Ms. Abadi:<br>Thank you for taking the time to meet with me yesterday about careers in the aerospace industry. Your —1—- were helpful and have inspired me to seek additional work experience in the field before I apply to graduate school. I will consult the Web sites you recommended for job opportunities. As you also suggested, I will -—2— a membership in the Eastern Aeronautics Professional Association. —3—-. I appreciate the information you shared about the organization's conference at the end of the month. Thank you again for your —4—- assistance.<br>Sincerely,<br>Alexis Palmer",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)insights",
+              "(B)surveys",
+              "(C)improvements",
+              "(D)revisions"
+            ]
+          },
+          "answer": {
+            "text": "(A)insights",
+            "explanation": "Based on the meaning of the word to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)resolve",
+              "(B)predict",
+              "(C)consider",
+              "(D)advertise"
+            ]
+          },
+          "answer": {
+            "text": "(C)consider",
+            "explanation": "Based on the meaning of the word to choose correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)I look forward to networking with other professionals in the field.",
+              "(B)My membership will expire at the end of the year.",
+              "(C)I will be giving a presentation at the conference.",
+              "(D)I would like to apply for the position soon."
+            ]
+          },
+          "answer": {
+            "text": "(A)I look forward to networking with other professionals in the field.",
+            "explanation": "Based on the previous and next sentences choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)generosity",
+              "(B)generous",
+              "(C)generously",
+              "(D)generousness"
+            ]
+          },
+          "answer": {
+            "text": "(B)generous",
+            "explanation": "Need to fill an adjective before the word \"assistance\"."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27d4"
+    },
+    {
+      "question": {
+        "text": "15 October<br>GPO Box 985<br>CANBERRA ACT 6512<br>Dear Ms. Wilson,<br>On behalf of the Australia Wildlife Park Association, thank you for your donation of 40 AUD to our national park. —1—-. Individual contributions have helped it stay open to visitors for more than 50 years. Our goal is to keep the park system running effectively for future— -2— to enjoy. Enclosed please find a copy of our brochure, which lists various programmes—3—- to benefit both park visitors and our wildlife habitats. Please consider—4— one of these programmes in the future. The money would be used wisely and would be deeply appreciated.<br>Sincerely,<br>Akosua Masika, Membership Chair",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The association grants scholarships for those studying zoology.",
+              "(B)Supporters like you help preserve the park for public use.",
+              "(C)We hope you enjoyed your visit to the park today.",
+              "(D)Interested parties can volunteer to clean wildlife habitats."
+            ]
+          },
+          "answer": {
+            "text": "(B)Supporters like you help preserve the park for public use.",
+            "explanation": "Based on the previous and next sentence to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)generations",
+              "(B)lifestyles",
+              "(C)committees",
+              "(D)planners"
+            ]
+          },
+          "answer": {
+            "text": "(A)generations",
+            "explanation": "Based on the meaning of the word to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)designer",
+              "(B)designs",
+              "(C)designing",
+              "(D)designed"
+            ]
+          },
+          "answer": {
+            "text": "(D)designed",
+            "explanation": "Sentences use relative clause clauses. Do \"various programe\" are noun phrases, so this is a passive sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)researching",
+              "(B)organizing",
+              "(C)leading",
+              "(D)funding"
+            ]
+          },
+          "answer": {
+            "text": "(D)funding",
+            "explanation": "Based on the meaning of the sentence to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27d7"
+    },
+    {
+      "question": {
+        "text": "<br>Italy has so much to offer—museums, gardens, beautitul scenery, and greatfood. For one low price, the All-ltaly Pass provides access to more than a hundred popular attractions across the country. The more you ------1----- it, the better value you will get.<br>…..2 ... Passes must be purchased Online betore you leave your home country and are activated when you visit your first attraction. They will remain -----3 ------ for 21 days.<br>Purchase of the pass -----4-------- includes a decorative travel pin and full-color souvenir guidebook.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)User",
+              "(B)using",
+              "(C)use",
+              "(D)used"
+            ]
+          },
+          "answer": {
+            "text": "(C)use",
+            "explanation": "There is a lack of verbs in the sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The offer is only available to international visitors.",
+              "(B) Tourists cannot see all the sites in a week.",
+              "(C) The attractions are very crowded in the summer.",
+              "(D) Several companies offer tour guides."
+            ]
+          },
+          "answer": {
+            "text": "(A) The offer is only available to international visitors.",
+            "explanation": "Based on the text \"leave your home country\", in the talk about travel to Italy"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) open",
+              "(B)valid",
+              "(C)constant",
+              "(D)ordinary"
+            ]
+          },
+          "answer": {
+            "text": "(B)valid",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) besides",
+              "(B)also",
+              "(C)after",
+              "(D)beyond"
+            ]
+          },
+          "answer": {
+            "text": "(B)also",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27da"
+    },
+    {
+      "question": {
+        "text": "<br>To: Weiyi Shan - wshan@strategiccomm.org <br>From: Arvin Flores - aflores@floresmanufacturing.com<br>Date: April 5<br>Subject: March 28 workshops<br><br>Dear Mr. Shan,<br>I am writing to share our----- 1----for the workshops Alana Hughes delivered at our corporate headquarters on March 28. Some employees ----2--- a concern regarding the usefulness of improvisation trainìng in a business setting. These same employees participated fully throughout the day and even inquired about the possibility of follow-up sessions. We asked participants to complete our company’s evaluation form  ---3----- to better gauge the effectiveness of the workshops. Results were mainly positive, wìth 90 percent of particfpants stating that their communication skills are now stronger.-----4 ------. Please let me know if you would fike to discuss the workshops in more detail.<br>Best regards,<br>Arvin Flores",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) appreciate",
+              "(B) appreciative",
+              "(C) appreciated",
+              "(D) appreciation"
+            ]
+          },
+          "answer": {
+            "text": "(D) appreciation",
+            "explanation": "After  possessive adjectives 'our' we need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) express",
+              "(B) are expressing",
+              "(C) were to be expressed",
+              "(D) had expressed"
+            ]
+          },
+          "answer": {
+            "text": "(D) had expressed",
+            "explanation": "Letter sent in April about the meeting content on March 28. However, before the meeting on March 28, there were some feedbacks => using past  continues tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) afterward",
+              "(B) often",
+              "(C) since",
+              "(D) instead"
+            ]
+          },
+          "answer": {
+            "text": "(A) afterward",
+            "explanation": "Based on the meaning of the previous sentence, choose answer A."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The workshop will be rescheduled for later in the week.",
+              "(B) A few participants said they would have liked more practice.",
+              "(C) An additional workshop in team bulding is occasionally offered.",
+              "(D) We will provide you with an invoice requesting payment."
+            ]
+          },
+          "answer": {
+            "text": "(B) A few participants said they would have liked more practice.",
+            "explanation": "Based on the meaning of the previous sentence to choose the answer B. The previous sentence means 90% of the good results => only a minority need more practice"
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27dd"
+    },
+    {
+      "question": {
+        "text": "<br>To: Li Cheung - lcheung@broadwayos.com <br>From: Travis Juno - tjuno@hiraokaarchitecture.com <br>Date: November 18 <br>Subject: Monthly order<br>Dear Mr. Cheung,<br>We need to make an adjustment to Hiraoka Architecture’s ------1 -----order. Fewer of our presenters are using dry-erase whiteboards in their presentations, and as a result, we are using fewer BR1608 dry-erase markers. ----2.------, I would like to reduce the number in our order to only twelve of those beginning next month. Please raise the number of GN2280 all-purpose markers to fourteen.<br>We will eventually phase out the BR1608 markers entirely. However, I-----3------ you plenty of notice before then, probably by late next year.<br>Can you send a statement with the revised monthly bill? ----4 ------.<br>Best,<br>Travis Juno<br>Hiraoka Architecture",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) still",
+              "(B)overdue",
+              "(C) standing",
+              "(D)redundant"
+            ]
+          },
+          "answer": {
+            "text": "(C) standing",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Therefore",
+              "(B)Typically",
+              "(C)Similarly",
+              "(D)Nevertheless"
+            ]
+          },
+          "answer": {
+            "text": "(A) Therefore",
+            "explanation": "Based on the meaning of the previous sentences => we need 1 result => use Therefore"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) give",
+              "(B) have been given",
+              "(C) gave",
+              "(D) will give"
+            ]
+          },
+          "answer": {
+            "text": "(D) will give",
+            "explanation": "\"next year\"=> simple future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)We have not yet used up our inventory.",
+              "(B)You can find it in your e-mail inbox.",
+              "(C)Our finance department will need it.",
+              "(D)Employees are happy with the product."
+            ]
+          },
+          "answer": {
+            "text": "(C)Our finance department will need it.",
+            "explanation": "The previous sentence relates to the bill => to the finance department"
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27e0"
+    },
+    {
+      "question": {
+        "text": "<br />\n<em>13 March<br />\nDennis Carrera<br />\nLejos Plumbing and Heating<br />\nSan Antonio, Texas</em><br />\nDear Mr. Carrera,<br />\nCongratulationsl Mallorca Construction -----1---- the bid of Lejos Plumbing and Heating to provide enhancements to the County Courthouse. Your workers will have access to the -----2.---------- on May 5. As specitied by the district building code, Lejos Plumbing and Heating will be responsible for securing the required permits. The enclosed plan outlines the scope of the project.<br />\n-----3-------document lists the other contractors we are partnering with, and it reveals how your firm&rsquo;s work fits into the overall project.<br />\nWe are requesting no significant adjustments to the blueprints and specitications you submitted with your proposal. Please contact my office if you need additional information.----4.------<br />\nSincerely,<br />\nPetra Rojas, Manager<br />\nMallorca Construction Ltd.<br />\nEnclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) may accept",
+              "(B)would accept",
+              "(C)has accepted",
+              "(D)was accepting"
+            ]
+          },
+          "answer": {
+            "text": "(C)has accepted",
+            "explanation": "Use present perfect tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) site",
+              "(B)data",
+              "(C)results",
+              "(D)product"
+            ]
+          },
+          "answer": {
+            "text": "(A) site",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However",
+              "(B)In addition",
+              "(C)As a result",
+              "(D)On the other hand"
+            ]
+          },
+          "answer": {
+            "text": "(B)In addition",
+            "explanation": "The following sentence has additional meaning => select In addition"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Unfortunately, your bid arrived after the deadline.",
+              "(B)We will inform you of our final decision soon.",
+              "(C)Best wishes again on your recent expansion.",
+              "(D)We will provide it to you promptly."
+            ]
+          },
+          "answer": {
+            "text": "(D)We will provide it to you promptly.",
+            "explanation": "Based on the meaning of the sentence to choose the answer\n\n<br>The previous sentence is related to information => the following sentence will need to be provided"
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27e3"
+    },
+    {
+      "question": {
+        "text": "<br>TOKYO (2 June)-Toda Entertainment announced this morning that it will be revealing its latest video game later this week. A preview of the game --1-- a presentation from the developers will be broadcast on the company's Web site on Friday at 4:00 P.M. Japan Standard Time. Until now, no details have been revealed about the game. Many consumers are already —2. —that it will be a sequel to the company's popular Todashi Adventure series. The first game in that series, released two years ago, was a —3. —- success for the company, selling over 400,000 copies in Japan. —4.—",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)but",
+              "(B)even though",
+              "(C)how",
+              "(D)as well as"
+            ]
+          },
+          "answer": {
+            "text": "(D)as well as",
+            "explanation": "Need an appropriate conjugation"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)confirming",
+              "(B)speculating",
+              "(C)requesting",
+              "(D)analyzing"
+            ]
+          },
+          "answer": {
+            "text": "(B)speculating",
+            "explanation": "Based on the meaning of the word to choose the appropriate answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)remarkable",
+              "(B)remarkably",
+              "(C)remarking",
+              "(D)remark"
+            ]
+          },
+          "answer": {
+            "text": "(A)remarkable",
+            "explanation": "The word to be filled in is after the article \"a\" and before the noun \"success\", so we need 1 noun phrase => to enter an adjective."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The company was not able to meet this goal.",
+              "(B) Toda Entertainment will announce its new CEO next week.",
+              "(C)Its worldwide sales were double that number.",
+              "(D)Consumers can now purchase it for the first time."
+            ]
+          },
+          "answer": {
+            "text": "(C)Its worldwide sales were double that number.",
+            "explanation": "Based on the meaning of the sentence, choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27e6"
+    },
+    {
+      "question": {
+        "text": "<br />\n<em>To: Eriford Hotel Staff<br />\nFrom: Seth Park<br />\nSubject: Conserving resources<br />\nDate: 15 March<br />\nTo all housekeeping staff,&nbsp;</em><br />\n<br />\nHotel management has decided to implement a new policy &mdash;1.&mdash; the daily laundering of towels. Going forward, all towels left on the floor by guests will be collected and washed each day, but any used towels hung up on hooks or racks will be left in the room for guests to reuse. This policy will &mdash;-2. &mdash; our daily laundry load. &mdash;3. &mdash;-, our electricity and power use will be reduced. Notices will be posted in each room informing our guests of this policy. &mdash;4. &mdash;. The management is deeply committed to conservation.<br />\nThank you,<br />\n<br />\nSeth Park<br />\nHospitality Manager, Eriford Hotel",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)regards",
+              "(B)regardless",
+              "(C)regarding",
+              "(D)regarded"
+            ]
+          },
+          "answer": {
+            "text": "(C)regarding",
+            "explanation": "<p><font><font>Before the place to be filled in, there is a clause</font></font></p>\n\n<p><font><font>-&nbsp;</font></font><font><font>Hotel management&nbsp;</font><font>(S)</font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><font><font>-&nbsp;</font></font><font><font>Has decided to implement (v)</font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><font><font>-&nbsp;</font></font><font><font>A new policy (O)</font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><font><font>After the place to be filled in, there is an N phase</font></font></p>\n\n<p><font><font>-&nbsp;</font></font><font><font>The daily laundering of towels</font></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><font><font>=&gt;&nbsp;</font></font><font><font>Need&nbsp;</font></font><font><font>1 prep&nbsp;</font></font><font><font>to make phase&nbsp;N</font></font><font><font>+&nbsp;</font></font><font><font>Prep&nbsp;</font></font><font><font>+ N</font></font></p>\n\n<p><font><font>=&gt;&nbsp;</font></font><font><font>Eliminate&nbsp;</font></font><font><font>A&nbsp;</font></font><font><font>(n), B (adv) and D (v)</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)minimize",
+              "(B)double",
+              "(C)require",
+              "(D)eliminate"
+            ]
+          },
+          "answer": {
+            "text": "(A)minimize",
+            "explanation": "<p><font><font>A.&nbsp;</font></font><font><font>Minimize (v)&nbsp;</font></font></p>\n\n<p><font><font>B.&nbsp;</font></font><font><font>Double (v)&nbsp;</font></font></p>\n\n<p><font><font>C.&nbsp;</font></font><font><font>Require (v)&nbsp;</font></font></p>\n\n<p><font><font>D.&nbsp;</font></font><font><font>Eliminate (v)&nbsp;</font></font></p>\n\n<p><font><font>=&gt; In the&nbsp;</font></font><font><font>sense, choose&nbsp;</font></font><font><font>A. Minimize</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Despite this",
+              "(B)However",
+              "(C)As a result",
+              "(D)Evidently"
+            ]
+          },
+          "answer": {
+            "text": "(C)As a result",
+            "explanation": "<p><font><font>A.&nbsp;</font></font><font><font>Despite&nbsp;</font></font></p>\n\n<p><font><font>B.&nbsp;</font></font><font><font>However&nbsp;</font></font>&nbsp;</p>\n\n<p><font><font>C.&nbsp;</font></font><font><font>As a result&nbsp;</font></font></p>\n\n<p><font><font>D.&nbsp;</font></font><font><font>Evidently&nbsp;</font></font></p>\n\n<p><font><font>=&gt; In the&nbsp;</font></font><font><font>sense, choose C.&nbsp;</font></font><font><font>As a result</font></font></p>"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)We would greatly appreciate your cooperation with this effort.",
+              "(B)Please inform us if you identify any maintenance needs.",
+              "(C)During this time, please try to limit showers to ten minutes.",
+              "(D)You will be asked to share all of your ideas at the staff meeting."
+            ]
+          },
+          "answer": {
+            "text": "(A)We would greatly appreciate your cooperation with this effort.",
+            "explanation": "Understanding the context: In the talk about applying a new policy related to washing towels.<br />\nThe previous sentence where to fill: &ldquo;Notices will be posted in each room informing our guests of this policy&rdquo;.<br />\n=&gt; Announcements will be posted in each room to &#39;inform guests of this policy.<br />\n=&gt; Choose A. We would appreciate your cooperation with this effort."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27e8"
+    },
+    {
+      "question": {
+        "text": "To: Bai Chang - bchang@lexrg.com <br>From: customerservice@sprtech.com<br> Date: September 28 <br>Subject: Order 255646 <br>Dear Ms. Chang:<br>Thank you for your purchase on September 27. Your package has shipped and is due to arrive on October 1 -1—-. Simply visit www.sprtech.com/shipping/status, enter your order number, and press \"Search.\"<br>When you receive your package, we —2— you to take a short survey at www.sprtech.com/survey. It is through customer feedback that we are —3—- to monitor our level of service. Upon -—4— of the survey, you will receive a 10% discount toward your next order. Sprtech.com Customer Service",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)You will receive a full refund.",
+              "(B)A replacement is on back order.",
+              "(C)Tracking your order is easy.",
+              "(D)We will answer your question soon."
+            ]
+          },
+          "answer": {
+            "text": "(C)Tracking your order is easy.",
+            "explanation": "Based on the meaning of the following sentence, choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)invited",
+              "(B)invite",
+              "(C)were inviting",
+              "(D)have invited"
+            ]
+          },
+          "answer": {
+            "text": "(B)invite",
+            "explanation": "Verbs in both clauses use the simple present tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)able",
+              "(B)skillful",
+              "(C)suitable",
+              "(D)equal"
+            ]
+          },
+          "answer": {
+            "text": "(A)able",
+            "explanation": "Based on the meaning of the word to choose the correct answer."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)publication",
+              "(B)production",
+              "(C)introduction",
+              "(D)completion"
+            ]
+          },
+          "answer": {
+            "text": "(D)completion",
+            "explanation": "Based on the meaning of the word, choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c27eb"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "EASY",
+  "id": "626441aceccc8cae769c27f4"
+}

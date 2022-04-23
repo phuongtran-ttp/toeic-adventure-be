@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 226",
+  "questions": [
+    {
+      "question": {
+        "text": "The conference organizers were able to remedy the ___ logistical problems quite efficiently, and guests were impressed by the creative solutions they found.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)vary",
+          "(B)various",
+          "(C)variety",
+          "(D)variance"
+        ]
+      },
+      "answer": {
+        "text": "(B)various",
+        "explanation": "We are giving more information on the noun \"problems\" so we use an adjective.                                Various = Many different"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22ab"
+    },
+    {
+      "question": {
+        "text": "Dr. Chin,___book I just showed you, works across the hall from me.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) who",
+          "(B)that",
+          "(C)whom ’",
+          "(D)whose"
+        ]
+      },
+      "answer": {
+        "text": "(D)whose",
+        "explanation": "(D) The relative pronoun “whose” at the beginning of the adjective clause indicates possession—the book belongs to Dr. Chin. Choices (A), (B), and (C) are all relative pronouns but do not indicate possession."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22b5"
+    },
+    {
+      "question": {
+        "text": "The current___of this office plans to leave before the end of the month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)occupancy",
+          "(B)occupying",
+          "(C)occupy",
+          "(D)occupant"
+        ]
+      },
+      "answer": {
+        "text": "(D)occupant",
+        "explanation": "(D) “Occupant” is a noun referring to a person who occupies a place. Choice (A) is a noun referring to a situation. Choice (B) is a gerund. Choice (C) is a base form verb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22b1"
+    },
+    {
+      "question": {
+        "text": "By the time Ms. Valspar retires as president of Movene Technologies, she ___ to increase the company's market share significantly.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)manages",
+          "(B)will have managed",
+          "(C)managed",
+          "(D)has been managing"
+        ]
+      },
+      "answer": {
+        "text": "(B)will have managed",
+        "explanation": "The first clause use \"by the time\" with simple present tense so we use perfect future tense in the second clause."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22ba"
+    },
+    {
+      "question": {
+        "text": "Mr. Dembo, the company's new CEO, acknowledged that there was a possibility, ___ remote, that the merger would not go through as planned.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)slowly",
+          "(B)down",
+          "(C)much",
+          "(D)however"
+        ]
+      },
+      "answer": {
+        "text": "(D)however",
+        "explanation": "However + Adj = No matter how + Adj"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22b7"
+    },
+    {
+      "question": {
+        "text": "The new company headquarters is___Main Street.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)at",
+          "(B)on",
+          "(C)in",
+          "(D)to"
+        ]
+      },
+      "answer": {
+        "text": "(B)on",
+        "explanation": "(B) The preposition “on” is used when telling the name of a street where something is located, but not the exact address. Choice (A) would be used for an exact address. Choice (C) would be used with the name of the city, but not the street or address. Choice (D) cannot be used in this context."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22c1"
+    },
+    {
+      "question": {
+        "text": "Mrs. Johnson handled the dispute ___, by holding private discussions in her office.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)discreetly",
+          "(B)remotely",
+          "(C)excessively",
+          "(D)tightly"
+        ]
+      },
+      "answer": {
+        "text": "(A)discreetly",
+        "explanation": "Discreetly = Carefully and secretly"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22bd"
+    },
+    {
+      "question": {
+        "text": "Employees at Thompson Labs must wear all the protective gear shown on the poster at the lab entrance, ___ safety regulations.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)provided that",
+          "(B)extending",
+          "(C)in keeping with",
+          "(D)by means of"
+        ]
+      },
+      "answer": {
+        "text": "(C)in keeping with",
+        "explanation": "In keeping with = Following"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22c7"
+    },
+    {
+      "question": {
+        "text": "We are looking for ways to reduce expenses___our financial situation is not good.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)although",
+          "(B)but",
+          "(C)because",
+          "(D)or"
+        ]
+      },
+      "answer": {
+        "text": "(C)because",
+        "explanation": "(C) “Because” indicates a cause-and-cffect relationship. Choices (A) and (B) indicate a contradiction. Choice (D) indicates a choice."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22c3"
+    },
+    {
+      "question": {
+        "text": "I really enjoy the work that I do,___I have a-hard time getting along with my colleagues.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)but",
+          "(B)and",
+          "(C)as",
+          "(D)or"
+        ]
+      },
+      "answer": {
+        "text": "(A)but",
+        "explanation": "(A) “But” is used to show a contradiction between the two clauses of the sentence. Choice (B) would be used to add similar information. Choice (C) is used for comparatives. Choice (D) indicates a choice between two things."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c22cd"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644195eccc8cae769c22d9"
+}

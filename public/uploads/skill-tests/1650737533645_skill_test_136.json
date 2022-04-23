@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 136",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_455.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_455.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c1e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): <strong>Q1&amp;2&nbsp;Today we&#39;re going to visit the town of Cedarton. We&#39;ll be starting in the oldest part of town. The area was once residential, but now it&#39;s the town&#39;s commercial district.</strong> You&#39;ll have the morning to look at the historic buildings and do some shopping. Then, <strong>Q3&nbsp;after lunch, we&#39;ll head over to Cedarton University. As you&#39;re strolling around the campus,</strong> don&#39;t be surprised if you feel like you&#39;ve been there before. Because it&#39;s so beautiful, this campus has been used as the setting for a number of famous movies.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A professor",
+              "(B)A shop owner",
+              "(C)A tour guide",
+              "(D)A film director"
+            ]
+          },
+          "answer": {
+            "text": "(C)A tour guide",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about Cedarton's shopping district?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is the largest in the region.",
+              "(B)It is in the oldest part of town.",
+              "(C)It has reasonable prices.",
+              "(D)It is popular with students."
+            ]
+          },
+          "answer": {
+            "text": "(B)It is in the oldest part of town.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners do in the afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Walk around a university",
+              "(B)Watch a film",
+              "(C)Attend a short lecture",
+              "(D)Visit a historic home"
+            ]
+          },
+          "answer": {
+            "text": "(A)Walk around a university",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c22"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_481.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_481.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c26"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): This message is for Charlotte Mahoney. <strong>Q1&nbsp;I&#39;m calling from the Seneca Medical Center</strong> to remind you about your appointment on Friday, March eighteenth at four o&#39;clock with Dr. Steinberg. <strong>Q2&nbsp;Don&#39;t forget to bring your insurance card with you at the time of your appointment. Q3 And if you have to cancel or reschedule, please remember that you must notify us 24 hours in advance.</strong> Thank you.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At an insurance company",
+              "(B)At a medical office",
+              "(C)At a travel agency",
+              "(D)At a fitness center"
+            ]
+          },
+          "answer": {
+            "text": "(B)At a medical office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker ask the listener to bring?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A passport",
+              "(B)An insurance card",
+              "(C)A doctor's note",
+              "(D)A payment"
+            ]
+          },
+          "answer": {
+            "text": "(B)An insurance card",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what requires 24-hour advance notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Appointment changes",
+              "(B)Prescription orders",
+              "(C)Room reservations",
+              "(D)Flight cancellations"
+            ]
+          },
+          "answer": {
+            "text": "(A)Appointment changes",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c2a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_458.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_458.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c28"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): <strong>Q1&nbsp;The Health Tone Group is opening a new research center in Hazel City in June. </strong>At the new facility Health Tone will be conducting scientific studies that focus on the benefits of physical activity. <strong>Q2&nbsp;Their first research project will examine the connection between exercise and memory &mdash; and they&#39;re looking for volunteers.&nbsp;Q3&nbsp;If you&#39;re interested in participating in the study, you can visit their Web site at www.HealthToneGroup.ca to fill out an application.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is The Health Tone Group doing in June?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Opening a facility",
+              "(B)Publishing a report",
+              "(C)Sponsoring a race",
+              "(D)Launching a Web site"
+            ]
+          },
+          "answer": {
+            "text": "(A)Opening a facility",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does The Health Tone Group want volunteers to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Provide feedback about a new product",
+              "(B)Interview local residents",
+              "(C)Work at a health convention",
+              "(D)Participate in a research project"
+            ]
+          },
+          "answer": {
+            "text": "(D)Participate in a research project",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why are listeners directed to the organization's Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To see a list of awards",
+              "(B)To download health information",
+              "(C)To complete an application",
+              "(D)To receive some coupons"
+            ]
+          },
+          "answer": {
+            "text": "(C)To complete an application",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c2c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_483.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_483.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c30"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Hi, my name is Min Ho Chun. <strong>Q1&nbsp;I recently ordered a watch from your store Web site.</strong> Unfortunately, when I received the delivery, <strong>Q2&nbsp;the package contained two watches instead of one. </strong>And the receipt shows that <strong>Q3&nbsp;my credit card was charged for the extra item, even though I didn&#39;t order it. Please call me back and let me know how I can get a refund.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What item did the speaker order?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A backpack",
+              "(B)A ring",
+              "(C)A wallet",
+              "(D)A watch"
+            ]
+          },
+          "answer": {
+            "text": "(D)A watch",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the speaker mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An additional item was delivered.",
+              "(B)An item broke during shipment.",
+              "(C)A receipt was not provided.",
+              "(D)A discount was not applied."
+            ]
+          },
+          "answer": {
+            "text": "(A)An additional item was delivered.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the speaker requesting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Overnight delivery",
+              "(B)A refund",
+              "(C)A replacement",
+              "(D)A price reduction"
+            ]
+          },
+          "answer": {
+            "text": "(B)A refund",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c34"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_454.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_454.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c32"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Hi, this is Keith. We&#39;re supposed to meet at your office on Thursday at two o&#39;clock to discuss the Grandison project. But I just realized that I have a meeting with the lead contractor for that project at one. <strong>Q1&nbsp;We&#39;re meeting at the construction site which means that I won&#39;t be able to get back to your office by two.&nbsp;Q2&nbsp;Could you come to the construction site instead?</strong> That way, <strong>Q3&nbsp;we can still meet at two,</strong> and I can show you how the project is coming along.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does the speaker ask to change the meeting place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is not convenient for the client.",
+              "(B)He is unfamiliar with the area.",
+              "(C)He cannot get there on time.",
+              "(D)The room is not big enough."
+            ]
+          },
+          "answer": {
+            "text": "(C)He cannot get there on time.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where does the speaker suggest the listener meet him?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At another office",
+              "(B)At a construction site",
+              "(C)At a warehouse",
+              "(D)At a conference center"
+            ]
+          },
+          "answer": {
+            "text": "(B)At a construction site",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What time does the speaker want to meet with the listener?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At 1:00 P.M.",
+              "(B)At 2:00 P.M.",
+              "(C)At 3:00 P.M.",
+              "(D)At 4:00 P.M."
+            ]
+          },
+          "answer": {
+            "text": "(B)At 2:00 P.M.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c36"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_487.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_487.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c3a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Hello. Thank you for calling the Museum of Folk Arts. This month&#39;s featured exhibition is a diverse collection of carpets and rugs from around the world. We offer two guided tours of this exhibit daily. <strong>Q1&nbsp;Visitors will learn about the history of carpet making and the importance of this art form through the years.&nbsp;Q2&nbsp;We recommend that large groups of more than ten people call in advance to make reservations for a group tour.</strong>&nbsp;<strong>Q3&nbsp;For more information please go to our Web site at MuseumFA.org, where you can see a detailed schedule of all our upcoming events. </strong>Thank you.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will visitors learn about on the tour?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The development of an organization",
+              "(B)The life of a famous artist",
+              "(C)The architecture of a building",
+              "(D)The history of an art form"
+            ]
+          },
+          "answer": {
+            "text": "(D)The history of an art form",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who should make a reservation?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Weekday visitors",
+              "(B)Art students",
+              "(C)Large groups",
+              "(D)Families with young children"
+            ]
+          },
+          "answer": {
+            "text": "(C)Large groups",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the message, what can listeners do on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Register for a workshop",
+              "(B)Learn about membership benefits",
+              "(C)Volunteer to give tours",
+              "(D)View a list of future events"
+            ]
+          },
+          "answer": {
+            "text": "(D)View a list of future events",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c3e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_452.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_452.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c3c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): This is Jeff Johnson at Radio 2SY, Sydney&#39;s number-one music and information station. <strong>Q1&nbsp;And now, the latest news on the weather.</strong> It will continue to be extremely hot and humid today and air quality remains poor. Because of these unhealthy conditions, <strong>Q2&nbsp;medical professionals recommend that everyone stay inside as much as possible until this heat wave breaks.</strong> I&#39;ll have another weather update in an hour. <strong>Q3&nbsp;Next up is Marc Hernandez, who will be reviewing the movies opening this weekend.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main topic of the broadcast?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Business news",
+              "(B)The weather",
+              "(C)Traffic conditions",
+              "(D)A community event"
+            ]
+          },
+          "answer": {
+            "text": "(B)The weather",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What recommendation is made in the broadcast?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Taking an alternate route",
+              "(B)Visiting a new store",
+              "(C)Remaining indoors",
+              "(D)Buying tickets early"
+            ]
+          },
+          "answer": {
+            "text": "(C)Remaining indoors",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners probably hear next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A commercial",
+              "(B)An interview",
+              "(C)Songs",
+              "(D)Film reviews"
+            ]
+          },
+          "answer": {
+            "text": "(D)Film reviews",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c40"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4810.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4810.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c44"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): In business news, <strong>Q1&nbsp;Speedy Communications has just announced that their newest mobile phone,</strong> the Shadowspeak, will go on the market next month. The Shadowspeak will have all the latest features, but <strong>Q2&nbsp;what sets it apart is the battery, which lasts twice as long as the industry standard. </strong>The company hopes <strong>Q3&nbsp;to generate interest in the Shadowspeak with a special promotional event&mdash;the first 100 customers in line at the flagship store will receive a free phone.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of product is being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A desktop computer",
+              "(B)A video camera",
+              "(C)A mobile phone",
+              "(D)A software program"
+            ]
+          },
+          "answer": {
+            "text": "(C)A mobile phone",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the report, what is the most notable feature of the product?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is easy to use.",
+              "(B)It is lightweight.",
+              "(C)It has a low price.",
+              "(D)It has a long battery life."
+            ]
+          },
+          "answer": {
+            "text": "(D)It has a long battery life.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How does the company plan to create interest in the new product?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By rewarding customers who shop early",
+              "(B)By hosting in-store demonstrations",
+              "(C)By hiring a celebrity spokesperson",
+              "(D)By running Internet advertisements"
+            ]
+          },
+          "answer": {
+            "text": "(A)By rewarding customers who shop early",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c48"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_451.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_451.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c46"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Hi, this is Paul Tanaka,&nbsp;<strong>Q1&amp;2 I&#39;m calling because I&#39;ve just received my credit card statement, and I noticed a charge from your store for 95 dollars. I bought a pair of black dress shoes at your store when I was in town last month on a business trip,&nbsp;but they only cost 65 dollars. </strong>If necessary, <strong>Q3&nbsp;I can mail you a copy of the receipt for the shoes so that you can correct the charge on my account.</strong> Please call me at 555-0194 to let me know what I should do.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the call?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To place a new order",
+              "(B)To report a billing problem",
+              "(C)To complain about a damaged item",
+              "(D)To ask about a store's return policy"
+            ]
+          },
+          "answer": {
+            "text": "(B)To report a billing problem",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did the man buy?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sports equipment",
+              "(B)A video game",
+              "(C)A business book",
+              "(D)A pair of shoes"
+            ]
+          },
+          "answer": {
+            "text": "(D)A pair of shoes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Send a receipt",
+              "(B)Pay the shipping charge",
+              "(C)Open an account",
+              "(D)Go back to the store"
+            ]
+          },
+          "answer": {
+            "text": "(A)Send a receipt",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c4a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_482.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_482.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0c4e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): In local news, <strong>Q1&nbsp;Sunnydale&#39;s annual community talent show will take place this Saturday in Evergreen Park. </strong>Singers, dancers, and jugglers from around the Sunnydale area have been invited to perform. <strong>Q2&nbsp;Audience members will be able to vote for their favorites, and the performer with the most votes will receive a cash prize.</strong> Since large crowds are expected at Saturday&#39;s event, <strong>Q3&nbsp;visitors are encouraged to arrive at Evergreen Park at least an hour before the show in order to be close to the stage.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the report mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A community fund-raiser",
+              "(B)A sporting event",
+              "(C)A cooking demonstration",
+              "(D)A talent show"
+            ]
+          },
+          "answer": {
+            "text": "(D)A talent show",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will event attendees be able to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Purchase a video of the event",
+              "(B)Meet local business leaders",
+              "(C)Vote for a performer",
+              "(D)Receive free merchandise"
+            ]
+          },
+          "answer": {
+            "text": "(C)Vote for a performer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are event attendees advised to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Arrive at the location early",
+              "(B)Buy tickets in advance",
+              "(C)Bring their own chairs",
+              "(D)Check a schedule online"
+            ]
+          },
+          "answer": {
+            "text": "(A)Arrive at the location early",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0c52"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264417deccc8cae769c0c58"
+}

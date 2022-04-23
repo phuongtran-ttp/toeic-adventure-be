@@ -1,0 +1,627 @@
+{
+  "name": "Skill Test 284",
+  "questions": [
+    {
+      "question": {
+        "text": "<b> Filiz Budak, 8:30 A.M. </b><br>Hello all, Once again when I opened up the shop earlier today, all the lights were on. Does anyone know how that happened? <br><b> Luke Ciccone, 8:33 A.M. </b><br>I set the timer right before locking the door yesterday afternoon. The lights should have shut off at 6 P.M. <br><b> Analia Rue, 8:35 A.M. </b><br>I drove by the store on my way home from the post office around 6:30, and the lights were off. <br><b> Filiz Budak, 8:37 A.M. </b><br>OK. Since this has happened the last three mornings, there's definitely a problem with the timer. <br><b> Jae Woo Han, 8:38 A.M. </b><br>I left with Luke at 5 and saw him set the timer. <br><b> Luke Ciccone, 8:42 A.M. </b><br>I agree. The lights are turning on before they are scheduled to. I'll call a repair service when I get to work for my shift. Rex Repair is always reliable. <br><b> Filiz Budak, 8:48 A.M. </b><br>Contact the company that did the installation. The paperwork should be in one of the filing cabinets. And until the timer can be fixed, the last person on duty will have to turn off each light before closing. <br><b> Jae Woo Han, 8:50 A.M. </b><br>Yes, I remember filling their invoice at the time of the installation. <br><b> Luke Ciccone, 8:51 A.M. </b> <br>Will do.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is most likely true about Ms. Budak?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She works in a post office.",
+              "(B) She has a part-time job.",
+              "(C) She lives near her workplace.",
+              "(D) She works the morning shift."
+            ]
+          },
+          "answer": {
+            "text": "(D) She works the morning shift.",
+            "explanation": "Information in the sentence: \"Once again when I opened up the shop earlier today, all the lights were on.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who was the last person to see that the lights were off?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Budak",
+              "(B) Mr. Ciccone",
+              "(C) Ms. Rue",
+              "(D) Mr. Han"
+            ]
+          },
+          "answer": {
+            "text": "(C) Ms. Rue",
+            "explanation": "Information in the sentence: \"I drove by the store on my way home from the post office around 6:30, and the lights were off.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "At 8:42 A.M., what does Mr. Ciccone most likely mean when he writes, \"I agree\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He believes that the timer needs to be fixed.",
+              "(B) He plans to follow Ms. Budak's instructions.",
+              "(C) He thinks that Rex Repair is a trusted repair service.",
+              "(D) He knows that Mr. Han saw him set the timer."
+            ]
+          },
+          "answer": {
+            "text": "(A) He believes that the timer needs to be fixed.",
+            "explanation": "\"I agree\" is associated with the previous sentence \" Since this has happened the last three mornings, there's definitely a problem\nwith the timer.\" and the sentence \"I'll call a repair\nservice.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "What is the first thing Mr. Ciccone will most likely do when he arrives at works?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Pay a bill",
+              "(B) Replace the lights",
+              "(C) Fill out some paperwork",
+              "(D) Look through some filling cabinets"
+            ]
+          },
+          "answer": {
+            "text": "(D) Look through some filling cabinets",
+            "explanation": "Information in the sentence: \"Yes, I remember filing their invoice at the time of the installation.\" and \"Will do\".\n"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cea"
+    },
+    {
+      "question": {
+        "text": "From: Preeti Patel ppatel@desantech.com<br>To: All Employees<br> Date: October 9<br> Subject: Painting<br><br>I am writing to remind everyone that the lobby will be painted tomorrow, Tuesday, October 10. The work is scheduled to begin at 8 A.M., and it should be finished by 4 P.M. All employees should avoid the lobby while the painters are working. You will need to enter and exit the building through the rear door (from the parking area) and use the staircase located to the right of that doorway.<br><br>Thank you for your cooperation. If you have any questions, please contact me at extension 431.<br><br>Preeti Patel <br><br>Facilities Manager",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To distribute new work schedules",
+              "(B)To describe a computer program",
+              "(C)To send out a project proposal",
+              "(D)To repeat important information"
+            ]
+          },
+          "answer": {
+            "text": "(D)To repeat important information",
+            "explanation": "Information in the sentence: \"I am writing to remind everyone that the lobby will be painted tomorrow, Tuesday, October 10.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What are employees asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Complete a survey",
+              "(B)Park in a new location",
+              "(C)Use a different entrance",
+              "(D)Arrive before 8 A.M."
+            ]
+          },
+          "answer": {
+            "text": "(C)Use a different entrance",
+            "explanation": "Information in the sentence: \"You will need to enter and exit the building through the rear door (from the parking area) and use the staircase located to the right of that doorway.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ced"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>Nelson’s Blooms</b><br><i>Custom arrangements for any occasion</i></p><br>•Award-winning staff of 5 FSA-certified florists<br>•Area's largest selection of fresh flowers; stock arriving daily<br>• Nationwide delivery available; same-day delivery within Piedmont Township during opening hours<br>•Large selection of plants<br>•Gift certificates and balloon bouquets available <br>• Open Mon. through Sat., 10:00 A.M. - 9:00 P.M.<br>• All major credit cards accepted<br>•Conveniently located in downtown Piedmont on Main Street<br>•Free parking available<br><br>Visit us, or order by phone at 670-555-0122 or online at www.nelsonsblooms.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is mentioned about the staff at Nelson's Blooms?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They have many years of experience.",
+              "(B)They have won awards.",
+              "(C)They grow the flowers they sell.",
+              "(D)They are from Piedmont."
+            ]
+          },
+          "answer": {
+            "text": "(B)They have won awards.",
+            "explanation": "Information in the sentence: \"Award-winning staff of 5 FSA-certified florists\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Nelson's Blooms NOT sell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Balloons",
+              "(B)Gift certificates",
+              "(C)Plants",
+              "(D)Gift baskets"
+            ]
+          },
+          "answer": {
+            "text": "(D)Gift baskets",
+            "explanation": "Gift certificates and balloon bouquets available => Eliminate B&C<br>Large selection of plants => Eliminate A"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about delivery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is always completed on the day an order is placed.",
+              "(B)It is available anywhere in the country,",
+              "(C)It is offered every day of the week.",
+              "(D)It is free for preferred customers."
+            ]
+          },
+          "answer": {
+            "text": "(B)It is available anywhere in the country,",
+            "explanation": "Information in the line: \"Nationwide delivery available\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cf0"
+    },
+    {
+      "question": {
+        "text": "Thank you for your purchase. We feel confident that your calculator will bring you many years of satisfaction. If you encounter a problem, the chart below may be of use. <b><p align=\"center\"> XI020 Graphing Calculator Troubleshooting Guide</p></b><table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td><b>  Problem </b> </td><td > <b>Solution </b></td></tr><tr><td height=40 >Calculator will not turn on  </td><td > Remove batteries and reinsert. This should restart the system, if this does not work, replace the batteries.</td></tr><tr><td > Display faint, bard to read </td><td > Press and hold the ON key, then press the + key to adjust the contrast. If this does not work, replace the batteries. </td></tr><tr><td > Slow response when keys are pressed </td><td > Reinstall the software.</td></tr><tr><td > Black blotch on screen </td><td > The screen is damaged. Take it to your local Calcucenter for repair.</td></tr></table><br>NOTE: Replacing the batteries will cause any data stored in the calculator to be lost. Back up your data to your computer before changing the batteries.<br>The above problems are the most common ones encountered. For other possible problems and solutions, please go to www.calcucenter.com/X1020. Here you will have the opportunity to download software upgrades and post your comments about the XI020.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the information, what might cause the calculator to operate less quickly than usual?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The software needs to be reinstalled.",
+              "(B)The batteries need to be replaced.",
+              "(C)The display needs to be cleaned.",
+              "(D)The keys need to be repaired"
+            ]
+          },
+          "answer": {
+            "text": "(A)The software needs to be reinstalled.",
+            "explanation": "Information in the line: \"Slow response when keys are pressed - Reinstall the software.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What Is NOT mentioned as being available on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Customer reviews",
+              "(B)Troubleshooting information",
+              "(C)A software upgrade",
+              "(D)A discount code"
+            ]
+          },
+          "answer": {
+            "text": "(D)A discount code",
+            "explanation": "For other possible problems and solutions, please go to www.calcucenter.com/X1020. Here you will have the opportunity to download software upgrades and post your comments about the XI020. => Eliminate A, B & C"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cf3"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> SPACE AVAILABLE</p></b><br>8505 Freeport Parkway provides 12,000 square meters of luxury space set on a large, beautifully landscaped lot. The finished site consists of two 12-story office towers, a four-level parking garage, and a restaurant. This site is located in a highly visible location near the rapidly growing residential area of Meltonviile. For information on leasing, please call Michiko Watanabe at 555-0183.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the notice primarily intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) People who want to buy a house in Meltonville",
+              "(B) Landscape designers",
+              "(C) Real estate developers",
+              "(D) Businesspeople looking for office space"
+            ]
+          },
+          "answer": {
+            "text": "(D) Businesspeople looking for office space",
+            "explanation": "Information in the sentences: \"8505 Freeport Parkway provides 12,000 square meters of luxury space set on a large, beautifully landscaped lot. The finished site consists of two 12-story office towers, a four-level parking garage, and a restaurant.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Michiko Watanabe?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A restaurant owner",
+              "(B) An interior decorator",
+              "(C) A rental agent",
+              "(D) A city planner"
+            ]
+          },
+          "answer": {
+            "text": "(C) A rental agent",
+            "explanation": "Information in the sentence: \"For information on leasing, please call Michiko Watanabe at 555-0183.\" Additionally, you need to skim the passage to answer this question."
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cf6"
+    },
+    {
+      "question": {
+        "text": "Herman Briggs Briggs,<br>Salvatore & Jurasinski<br> 5000 South Fork Drive, Suite<br> 325 Melbourne, VIC 3205<br><br>Dear Mr. Briggs:<br><br>It was a pleasure meeting you and your associates at my interview last week. I was delighted to have the opportunity to discuss my legal experience and qualifications with you, and I was very pleased when I learned from you yesterday that the firm had voted to offer me a position as an associate. However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.<br><br>As I mentioned last week, I am extremely impressed with the case work that has been done by you and your partners in the field, and I regret I will not be able to join your team. My decision to accept another offer was largely due to my desire to work in Newcastle, where I have lived for the last ten years. Had distance not been a factor, I would have been happy to accept your offer.<br><br>Again, thank you for considering me for the position. I will be at both of the major patent policy conferences in Sydney and Auckland later this year, so I look forward to seeing you or your colleagues again in the near future.<br><br>Sincerely,<br> Ayesha Chandran",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the letter written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To describe job qualifications",
+              "(B)To submit a job application",
+              "(C)To schedule a job interview",
+              "(D)To decline a job offer"
+            ]
+          },
+          "answer": {
+            "text": "(D)To decline a job offer",
+            "explanation": "Information in the sentences: \"However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.\" and \"Again, thank you for considering me for the position.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is Herman Briggs employed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a law firm",
+              "(B)At a medical clinic",
+              "(C)At an accounting firm",
+              "(D)At a government office"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a law firm",
+            "explanation": "Information in the sentence: \"However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is Chang & Associates located?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In Auckland",
+              "(B)In Melbourne",
+              "(C)In Newcastle",
+              "(D)In Sydney"
+            ]
+          },
+          "answer": {
+            "text": "(C)In Newcastle",
+            "explanation": "Information in the sentence: \"My decision to accept another offer was largely due to my desire to work in Newcastle, where I have lived for the last ten years.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cf9"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Grand Opening!</p></b><br>The owner of Woodcraft Designs is pleased to announce the opening of her second store in Falls City. The new store will offer high-quality wood furniture, with an emphasis on pieces made to customer specifications. Abigail Hurst, who opened the original Woodcraft Designs location on High Street five years ago, leads a small team of experienced, talented furniture makers whose unique creations will be displayed in both stores. Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas of Victorian-style furniture made from fine quality cherry, oak, and mahogany woods.<br><br>Hurst’s craftwork has earned her a reputation as a master artisan in her field. Her reconstruction of a nineteenth-century dressing table was the subject of a lengthy article in Classics of Woodwork on methods and techniques of precision woodcutting. In addition, photographs of some of her best pieces have appeared in Today’s Space, which features information about houses and buildings that are known for their impressive furnishings and decor. Ms. Hurst will divide her time between the old and new store locations.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To announce the publication of a new book",
+              "(B)To describe a recent trend in architecture",
+              "(C)To promote a new retail store",
+              "(D)To invite people to apply for a job"
+            ]
+          },
+          "answer": {
+            "text": "(C)To promote a new retail store",
+            "explanation": "Information in the sentences: \"The new store will offer high-quality wood furniture, with an emphasis on pieces made to customer specifications. Abigail Hurst, who opened the original Woodcraft Designs location on High Street five years ago, leads a small team of experienced, talented furniture makers whose unique creations will be displayed in both stores. Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas ofVictorian-style furniture made from fine quality cherry, oak, and mahogany woods.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who Is Ms. Hurst?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A professor",
+              "(B)A photographer",
+              "(C)A furniture maker",
+              "(D)A magazine editor"
+            ]
+          },
+          "answer": {
+            "text": "(C)A furniture maker",
+            "explanation": "\"Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas ofVictorian-style furniture made from fine quality cherry, oak, and mahogany woods.\" and \"Hurst’s craftwork has earned her a reputation as a master artisan in her field.\" => It can inferred that Ms. Hurst is a furniture maker"
+          }
+        },
+        {
+          "question": {
+            "text": "What are the articles in Today's Space mostly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Real estate purchases",
+              "(B)Interior design",
+              "(C)Professional photography",
+              "(D)Natural history"
+            ]
+          },
+          "answer": {
+            "text": "(B)Interior design",
+            "explanation": "Based on words like  Woodcraft Designs,  wood furniture, furniture makers, craftwork, furnishings and decor, etc. Besides, you need to skim the passage to answer this question. "
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cfc"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\">The Greenville Department of Transportation<br><b>Reported Road Closures For County in Grenville</b><br>August 4 - 18</p> <table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td><b>  Road Name </b> </td><td > <b> From/To </b></td><td><b>  Reason </b> </td><td><b>  Date </b> </td><td><b>  Alternate Route </b> </td></tr><tr><td height=40 > Route 5</td><td > South Avenue/ Park Lane </td><td > Ditch gradings median expansion </td><td > Aug. 4-10</td><td > Martin Street to Maltby Road to Park Lane </td></tr><tr><td > Virginia Road </td><td > Valley Boulevard/ Lakewood Drive </td><td > Railroad crossing repair </td><td > Aug. 6-11</td><td > Valley Boulevard to Baxter Street to Lakewood Drive </td></tr><tr><td > Serlin Boulevard (only northbound lanes unavailable)</td><td > Commerce Drive/ Main Street </td><td > Repave northbound lanes </td><td > Aug. 8-16</td><td > Hartley Drive to Caxsen Way to Main 5treet </td></tr><tr><td > Adams Street </td><td > Ocean Road/ Exchange Street </td><td > Road improvements (curb & gutter installation)</td><td > Aug. 10-18</td><td > Ocean Road to River Drive to Exchange Street </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main reason for the road closures?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Bad weather conditions",
+              "(B)Local street fairs",
+              "(C)Construction of new buildings",
+              "(D)Planned maintenance work"
+            ]
+          },
+          "answer": {
+            "text": "(D)Planned maintenance work",
+            "explanation": "\"Railroad crossing repair\", \"Repave northbound lanes\" and \"Road improvements (curb & gutter installation)\" => It can be referred that the main reason for the road closures is planned maintenance work => option D is the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the schedule, what road can be used to get from Ocean Road to Exchange Street?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Caxsen Way",
+              "(B)River Drive",
+              "(C)Park Lane",
+              "(D)Lakewood Drive"
+            ]
+          },
+          "answer": {
+            "text": "(B)River Drive",
+            "explanation": "Information in the sentence: \"Ocean Road to River Drive to Exchange Street\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2cff"
+    },
+    {
+      "question": {
+        "text": "February 1<br><br>Dear Valsen Lines Subscriber:<br><br>Thank you for being a loyal Valsen Lines subscriber. As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide. For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business.<br><br>Beginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute.<br><br>In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.<br><br>We wish to assure you that these changes are necessary and that we are committed to providing the best possible service to all our customers. As one measure taken to ensure that our service remains of the highest quality, we recently refurbished several of our communications receivers, which has improved the clarity of telephone calls on the Valsen Lines network. Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative. These and other planned improvements over the next few months are our way of showing you that we at Valsen Line value your continued business.<br><br>Sincerely,<br>Rashna Richards<br>Vice President, Customer Relations",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the letter intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)People who have been Valsen Lines customers for an extended period",
+              "(B)People who recently switched from Valsen Lines to another telephone company",
+              "(C) Potential Valsen Lines employees",
+              "(D) Service technicians at Valsen Lines"
+            ]
+          },
+          "answer": {
+            "text": "(A)People who have been Valsen Lines customers for an extended period",
+            "explanation": "Information in the sentence: \"Thank you for being a loyal Valsen Lines subscriber.\""
+          }
+        },
+        {
+          "question": {
+            "text": "When will a change in rates take effect?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)On February 1",
+              "(B)On February 20",
+              "(C)On March 6",
+              "(D)On March 15"
+            ]
+          },
+          "answer": {
+            "text": "(B)On February 20",
+            "explanation": "Information in the sentences: \"Beginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What type of call will NOT be affected by the rate changes?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A local call on a Saturday evening",
+              "(B)A local call on a Monday afternoon",
+              "(C)An International call on a Sunday morning",
+              "(D)An international call on a Tuesday afternoon"
+            ]
+          },
+          "answer": {
+            "text": "(A)A local call on a Saturday evening",
+            "explanation": "\"Beginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute.\"=> Eliminate C&D<br>\"In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.\" => Eliminate B"
+          }
+        },
+        {
+          "question": {
+            "text": "What is the company planning to do next month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)improve Its Web site",
+              "(B)Replace old equipment",
+              "(C)Offer a special discount",
+              "(D)Open a new office"
+            ]
+          },
+          "answer": {
+            "text": "(D)Open a new office",
+            "explanation": "Information in the sentence: \"Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d02"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/6008915_1485065449325.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the card used for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To advertise a hotel",
+              "(B)To register a hotel guest",
+              "(C)To apply for a hotel job",
+              "(D)To evaluate a hotel stay"
+            ]
+          },
+          "answer": {
+            "text": "(D)To evaluate a hotel stay",
+            "explanation": "Categories such as \"Cleanliness\", \"Design\", \"Comfort\", \"Menu selection\", etc are evaluated as \"Excellent\", \"Good\" or \"Fair\". Therefore, option D is the correct answer. "
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the hotel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The rooms are clean.",
+              "(B)The restaurant Is large.",
+              "(C)The service is excellent.",
+              "(D)The staff are well paid."
+            ]
+          },
+          "answer": {
+            "text": "(A)The rooms are clean.",
+            "explanation": "There is a tick at \"Excellent\" of \"Cleanliness\". Hence, option A is the correct answer. "
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d04"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c6eccc8cae769c2d0a"
+}

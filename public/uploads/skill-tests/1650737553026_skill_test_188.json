@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 188",
+  "questions": [
+    {
+      "question": {
+        "text": "Alpha Clothing Store is a family-owned business offering high-quality men's clothing at ___ prices.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)affordably",
+          "(B)affordable",
+          "(C)afford",
+          "(D)afforded"
+        ]
+      },
+      "answer": {
+        "text": "(B)affordable",
+        "explanation": "We are giving more information on the noun \"prices\" so we use an adjective.<br>Affordable = Not expensive"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1915"
+    },
+    {
+      "question": {
+        "text": "Among the sales managers, ___ has the highest sales record by the end of this year will receive the distinguished R. F. Fowler Award.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)whose",
+          "(B)someone",
+          "(C)whoever",
+          "(D)nobody"
+        ]
+      },
+      "answer": {
+        "text": "(C)whoever",
+        "explanation": "Whoever = The person who"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1917"
+    },
+    {
+      "question": {
+        "text": "Visitors are asked to turn off their electronic devices when ___ the laboratory.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)enters",
+          "(B)entering",
+          "(C)enter",
+          "(D)entered"
+        ]
+      },
+      "answer": {
+        "text": "(B)entering",
+        "explanation": "When + V-ing"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c191b"
+    },
+    {
+      "question": {
+        "text": "For clients seeking environmentally conscious commercial and residential construction, Green Spaces Ltd. provides an affordable  ___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)alternated",
+          "(B)alternating",
+          "(C)alternatively",
+          "(D)alternative"
+        ]
+      },
+      "answer": {
+        "text": "(D)alternative",
+        "explanation": "The answer has a supporting adjective so we choose a noun."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c191d"
+    },
+    {
+      "question": {
+        "text": "This mobile phone is an updated version of the ___ model.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)origin",
+          "(B)origins",
+          "(C)original",
+          "(D)originally"
+        ]
+      },
+      "answer": {
+        "text": "(C)original",
+        "explanation": "We are giving more information on the noun \"model\" so we use an adjective."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644190eccc8cae769c1921"
+    },
+    {
+      "question": {
+        "text": "Twenty new mechanical engineers will be ___ the company next month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)recruiting",
+          "(B)joining",
+          "(C)performing",
+          "(D)working"
+        ]
+      },
+      "answer": {
+        "text": "(B)joining",
+        "explanation": "Recruit sb = Hire sb <br> \"Perform\" goes with a job, work.  \"Work\" goes with a preposition.  Therefore, we choose \"joining\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644190eccc8cae769c1924"
+    },
+    {
+      "question": {
+        "text": "Employees must return to ___ work stations immediately after the lunch break.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)theirs",
+          "(B)them",
+          "(C)they",
+          "(D)their"
+        ]
+      },
+      "answer": {
+        "text": "(D)their",
+        "explanation": "The answer comes before a noun so we choose \"their\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1927"
+    },
+    {
+      "question": {
+        "text": "Please reply ___ to the invitation for the software training.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)closely",
+          "(B)promptly",
+          "(C)likely",
+          "(D)expressly"
+        ]
+      },
+      "answer": {
+        "text": "(B)promptly",
+        "explanation": "Promptly = Immediately = Quickly"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c192a"
+    },
+    {
+      "question": {
+        "text": "Our firm offers excellent ___ as a way to retain its valued employees.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)benefits",
+          "(B)benefltting",
+          "(C)benetitted",
+          "(D)beneficial"
+        ]
+      },
+      "answer": {
+        "text": "(A)benefits",
+        "explanation": "The answer comes after an adjective so we use a noun. <br> Benefit = Advantage"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c192d"
+    },
+    {
+      "question": {
+        "text": "Mr. Thomas has not ___ decided which design to use for the company letterhead.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)still",
+          "(B)yet",
+          "(C)already",
+          "(D)soon"
+        ]
+      },
+      "answer": {
+        "text": "(B)yet",
+        "explanation": "Have/Has/Had not yet done st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1930"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644191eccc8cae769c1933"
+}

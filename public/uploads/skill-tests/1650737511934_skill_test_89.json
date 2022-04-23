@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 89",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test06_0301.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test06_0301.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd5b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transript:</b> <br> W: Hi, Mr. Joyce. This is Sally Walker calling from Frohman Publishing. <b> Q1 My company has a three-page text that we need translated into Chinese. I know you sometimes do these kinds of short-term jobs for our company.</b><br>M: Yeah, I would be happy to. <b> Q2 However, you should know that it is my policy to be paid in advance. </b>Is that OK? <br>W: That's no problem. I’ll transfer the money into your bank account immediately.<b> Q3 The deadline for this translation hasn’t been decided yet. Once I know, I will inform you.</b><br>M: Thank you for your understanding. Please e-mail me the document. I'll do my best."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To extend a rental period",
+              "(B) To confirm an appointment",
+              "(C) To offer a part-time job",
+              "(D) To accept a proposal"
+            ]
+          },
+          "answer": {
+            "text": "(C) To offer a part-time job",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Interpret for her supervisor",
+              "(B) Send an advance payment",
+              "(C) Submit an official request",
+              "(D) Provide a work space"
+            ]
+          },
+          "answer": {
+            "text": "(B) Send an advance payment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman inform the man about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A requirement",
+              "(B) A deadline",
+              "(C) A meeting time",
+              "(D) A company policy"
+            ]
+          },
+          "answer": {
+            "text": "(B) A deadline",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd63"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0301.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0301.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd5d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Hi, James. This is Candice in the marketing department.  <b> Q1 I'm supposed to be leading a weekly meeting in room 302 soon, but I just discovered that the room is already in use.</b> <br> M:  I’m sorry, Candice. Actually, I have been getting calls like this all day. <b> Q2 It looks like an error with our computer system is to blame for the mix-up.</b><br>W: Oh, I see. Well, is there a currently vacant room that I could use for the meeting? The room will need to be equipped with a computer and a projector. <br>M: I’ll need to check manually to determine which room will be available. <b> Q3 I’ll let you know as soon as I find another suitable room</b>.  Please wait for a moment."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the woman’s problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A meeting room is occupied.",
+              "(B) A piece of equipment is out of stock.",
+              "(C) An appointment has been canceled.",
+              "(D) Some software is not installed."
+            ]
+          },
+          "answer": {
+            "text": "(A) A meeting room is occupied.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the man mention a system malfunction?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To apologize for an incorrect charge",
+              "(B) To explain a scheduling error",
+              "(C) To warn of security threats",
+              "(D) To change a company policy"
+            ]
+          },
+          "answer": {
+            "text": "(B) To explain a scheduling error",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fix a computer",
+              "(B) Provide an alternative",
+              "(C) Attend a meeting",
+              "(D) Check the employee manual"
+            ]
+          },
+          "answer": {
+            "text": "(B) Provide an alternative",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd65"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0301.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0301.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd5f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M:  Hello. <b> Q1 Last Thursday, I arranged to have cable television installed at my house this Wednesday. </b>Unfortunately, I will have to be out of town that day because of some urgent matters and would like to reschedule the appointment for Friday afternoon. <br>W:  OK, that shouldn’t be a problem. <b> Q2 However, I would like to warn you that there is a $5 rescheduling fee.</b> That’s our company’s policy. Can I have your name, please? <br>M: Oh, I see. My name is Charlie Kramer. I’m living in Hainesville. Do you know when I will have to pay this fee? <br>W: <b> Q3 I’ll e-mail you soon about a user name and temporary password that you can use on our website</b>. Please check the e-mail and pay all your bills through our website."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What did the man recently do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Purchased a house",
+              "(B)  Went on a business trip",
+              "(C) Signed up for a service",
+              "(D) Installed a television"
+            ]
+          },
+          "answer": {
+            "text": "(C) Signed up for a service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why must the man pay a fee?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He wants to change his schedule.",
+              "(B) He returned an item late.",
+              "(C) He lost his membership card.",
+              "(D) He needs an additional service."
+            ]
+          },
+          "answer": {
+            "text": "(A) He wants to change his schedule.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman include in an e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A receipt",
+              "(B) Login information",
+              "(C) A membership contract",
+              "(D) Driving directions"
+            ]
+          },
+          "answer": {
+            "text": "(B) Login information",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd67"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0301.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0301.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd61"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: <b> Q1 Ms. Potter, the package that you sent to the advertising agency in Tokyo was returned today</b>. It seems that you sent it to the wrong address. <br>W: <b> Q2 Actually, I received an e-mail from the Tokyo office today informing me that they relocated their office yesterday</b>. I wish they had told me earlier. <br>M: Well, that’s unfortunate. It seems unfair that you had to pay for the postage. It must have been expensive to send such a large package. <br>W: Yes, it was. <b> Q3 I’m going to request that the company in Tokyo pay me back.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A business trip",
+              "(B) A budget proposal",
+              "(C) An upcoming conference",
+              "(D) A package delivery"
+            ]
+          },
+          "answer": {
+            "text": "(D) A package delivery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the woman mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The address is no longer relevant.",
+              "(B) A company has gone bankrupt.",
+              "(C) A budget must be revised.",
+              "(D) A flight has been canceled."
+            ]
+          },
+          "answer": {
+            "text": "(A) The address is no longer relevant.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Review a contract",
+              "(B) Go to Tokyo",
+              "(C) Visit the post office",
+              "(D) Ask for compensation"
+            ]
+          },
+          "answer": {
+            "text": "(D) Ask for compensation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd6b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test06_0302.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test06_0302.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd6e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transript:</b> <br> W: Good morning, James. <b> Q1 Here is a copy of your expense report from last month’s business trip to Tokyo.</b><br>M: Thanks, Mary. <b> Q2 Oh, while you’re here, can you leave a message in this get-well-soon card for Bryce?</b> He had knee surgery yesterday and I was thinking this card might cheer him up. <br>W: Oh, did he? I didn't even know he was in the hospital. I was out of town yesterday. Is it serious? <br>M: Not that I know of. But he said he had to stay in the hospital for a few days. <b> Q3 I’m planning on visiting him this evening after work."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What did the woman make a copy of?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A receipt",
+              "(B) A meeting schedule",
+              "(C) An expense report",
+              "(D) A prescription"
+            ]
+          },
+          "answer": {
+            "text": "(C) An expense report",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign a contract",
+              "(B) Write a message",
+              "(C) Contact a receptionist",
+              "(D) Go on a business trip to Tokyo"
+            ]
+          },
+          "answer": {
+            "text": "(B) Write a message",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man plan to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Visit his co-worker",
+              "(B) Submit a report",
+              "(C) Make a new reservation",
+              "(D) Work overtime"
+            ]
+          },
+          "answer": {
+            "text": "(A) Visit his co-worker",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd72"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0302.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0302.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd70"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Hi, Craig. <b> Q1 I was expecting you to submit the market analysis report yesterday, but I still haven’t received it</b>. Do you need more time to work on it? <br>M: Hi, Ms. Watson. I’m really sorry I didn’t send it to you by the determined deadline. I have recently been very busy with another urgent task. <b> Q2 I’ll make sure I finish the report before doing anything else</b>. Is that OK? <br>W: <b> Q3 Well, I really need that document for a meeting with a potential client tomorrow morning</b>. I’ll stop by later today and help you so that we can finish it in time."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman ask the man about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) How to write a report",
+              "(B) Whether a document is finished",
+              "(C) How to reserve a meeting room",
+              "(D) Whether a client has been contacted"
+            ]
+          },
+          "answer": {
+            "text": "(B) Whether a document is finished",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Prioritize the woman’s request",
+              "(B) Extend a deadline",
+              "(C) Draft a budget",
+              "(D) Visit the woman’s office"
+            ]
+          },
+          "answer": {
+            "text": "(A) Prioritize the woman’s request",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman need?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A list of clients",
+              "(B) A sample product",
+              "(C) Meeting materials",
+              "(D) A revised itinerary"
+            ]
+          },
+          "answer": {
+            "text": "(C) Meeting materials",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd78"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0302.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0302.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd75"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Hi, Tiffany. Do you know what happened to the company car? I tried to reserve it today, but I was told it’s being repaired. <br>W: <b> Q1 When Mark was driving yesterday, he got a flat tire</b>. I just heard that the car should be out of the repair shop by this evening. I'll let you know when they call me. <br>M: Oh, that’s good news. <b> Q2 I was worried because I need it tomorrow morning to pick up an important client from the airport.</b><br>W: Ah, isn’t that Mr. Lee from Beijing? <b> Q3 Just in case, why don’t you call a local car rental business and reserve a car for tomorrow?</b>  If the company car is fixed in time, you can cancel."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman say caused the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A repair cost has increased.",
+              "(B) A reservation has been canceled.",
+              "(C) A client arrived too late.",
+              "(D) A tire needed to be replaced."
+            ]
+          },
+          "answer": {
+            "text": "(D) A tire needed to be replaced.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the man concerned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He lost an important receipt.",
+              "(B) He needs a car to greet a client.",
+              "(C) He has to reschedule a meeting.",
+              "(D) He was unable to contact a client."
+            ]
+          },
+          "answer": {
+            "text": "(B) He needs a car to greet a client.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Preparing an alternative plan",
+              "(B) Ordering a replacement part",
+              "(C) Attending a conference",
+              "(D) Reserving a less expensive ticket"
+            ]
+          },
+          "answer": {
+            "text": "(A) Preparing an alternative plan",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd7d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0302.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0302.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd7a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: This is Mike Judge, your host for the morning news here at QQBC 99.5. Today our guest is business leader Karen Chambers. <b> Q1 She recently opened a chain of health food stores across the state.</b> How did you get the idea, Ms. Chambers? <br>W: Well, I majored in food and nutrition and I minored in business administration. <b> Q2 So, my goal was to utilize what I learned in college to open a successful company.</b><br>M: Ah, I see. What factor do you think has contributed most to the success of your chain of stores? <br>W: <b> Q3 I think it’s due to the recent trend of people showing enormous interest in health and fitness.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A radio host",
+              "(B) A professor",
+              "(C) A business owner",
+              "(D) An athlete"
+            ]
+          },
+          "answer": {
+            "text": "(C) A business owner",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did the woman want to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make use of her education",
+              "(B) Open a fitness center",
+              "(C) Appear on radio",
+              "(D) Teach food and nutrition"
+            ]
+          },
+          "answer": {
+            "text": "(A) Make use of her education",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the woman, what is the main reason for her success?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Effective advertisements",
+              "(B) Considerable interest in nutrition",
+              "(C) Long-term investments",
+              "(D) Government policies"
+            ]
+          },
+          "answer": {
+            "text": "(B) Considerable interest in nutrition",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd82"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test06_0303.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test06_0303.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd7f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transript:</b> <br> W: <b> Q1 I need to talk to you about the interior decorations we are carrying out at the Carleton’s property</b>. They are a major client, so we need to make sure that they are completely satisfied. Have you consulted with them about the furniture for the master bedroom? <br>M:  I have. They agreed on all of our plans except for the choice for the master bed. <b> Q2 They’re worried it is too big and will occupy too much space, so I’m looking for something smaller that still fits the color scheme of the room.</b><br>W: OK. <b> Q3 I was planning on ordering all the furniture today, but I think we’ll have to wait until we get their permission.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What field do the speakers work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Education",
+              "(B) Manufacturing",
+              "(C) Product development",
+              "(D) Interior design"
+            ]
+          },
+          "answer": {
+            "text": "(D) Interior design",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man plan to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Choose different furniture",
+              "(B) Share a building plan",
+              "(C) Change a color scheme",
+              "(D) Place an order for wallpaper"
+            ]
+          },
+          "answer": {
+            "text": "(A) Choose different furniture",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the woman, why will the speakers have to wait?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A shipment has been delayed.",
+              "(B) A contract has not been signed yet.",
+              "(C) Authorization must first be obtained.",
+              "(D) Some equipment is out of order."
+            ]
+          },
+          "answer": {
+            "text": "(C) Authorization must first be obtained.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd87"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0303.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0303.mp3",
+            "mime": "audio/mp3",
+            "id": "62644167eccc8cae769bfd84"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Hello. <b> Q1 I’m interested in enrolling in your school’s vocational training program to become a dental assistant, but I couldn’t find any information about tuition on your website.</b><br>M: Thank you for your interest. We offer a two- semester training program to become a dental assistant at our community college. Tuition for a single semester is $6,500. <br>W: Oh, I see. Honestly, that is a little more than I expected. <b> Q2 I will have to ask my bank about the possibility of getting a student loan</b>. Is there anything else you can tell me? <br>M: <b> Q3 Well, one thing to keep in mind is that our community college offers night classes for all our programs</b>. This is very good for students who work during the day. And please remember that we are one of the top-ranked schools in the state, and so far more than 5,000 of our graduates have become dental assistants."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What career is the woman interested in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) College professor",
+              "(B) Web programmer",
+              "(C) Dental assistant",
+              "(D) Financial adviser"
+            ]
+          },
+          "answer": {
+            "text": "(C) Dental assistant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Submit an application",
+              "(B) Inquire about a loan",
+              "(C) Consult a doctor",
+              "(D) Apply for a scholarship"
+            ]
+          },
+          "answer": {
+            "text": "(B) Inquire about a loan",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the man, what advantage does the college offer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Convenient class times",
+              "(B) Small class sizes",
+              "(C) Advanced level courses",
+              "(D) Reduced tuition"
+            ]
+          },
+          "answer": {
+            "text": "(A) Convenient class times",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644167eccc8cae769bfd8c"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "EASY",
+  "id": "62644167eccc8cae769bfd98"
+}

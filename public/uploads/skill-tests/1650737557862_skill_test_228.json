@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 228",
+  "questions": [
+    {
+      "question": {
+        "text": "The impressive floral display at the building entrance is ___ made up of blue flowers, with a few red ones artfully placed throughout.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)enough",
+          "(B)exclusively",
+          "(C)primarily",
+          "(D)everywhere"
+        ]
+      },
+      "answer": {
+        "text": "(C)primarily",
+        "explanation": "Primarily = Mainly"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c233d"
+    },
+    {
+      "question": {
+        "text": "Everybody employed by this office___a professional degree.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)has",
+          "(B)have",
+          "(C)to have",
+          "(D)is having"
+        ]
+      },
+      "answer": {
+        "text": "(A)has",
+        "explanation": "(A) The singular verb form “has” agrees with the singular subject “everybody”. Choice (B) is a plural verb. Choice (C) is an infinitive so cannot be used as the main verb. Choice (D) is present continuous, a form usually not used with a stative verb such as “have”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2349"
+    },
+    {
+      "question": {
+        "text": "Dr. Chan’s groundbreaking research on hospital services has effectively redefined the basic ___ of patient care.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)conceptualize",
+          "(B)conceptually",
+          "(C)concept",
+          "(D)conceptual"
+        ]
+      },
+      "answer": {
+        "text": "(C)concept",
+        "explanation": "The answer goes with \"the\", \"of\", and an adjective so we use a noun. <br> Concept of st = Meaning of st"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2345"
+    },
+    {
+      "question": {
+        "text": "The MNS Railroad's most ___ passenger route runs through the White Mountain region and the Still River valley.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)picture",
+          "(B)pictures",
+          "(C)picturing",
+          "(D)picturesque"
+        ]
+      },
+      "answer": {
+        "text": "(D)picturesque",
+        "explanation": "The word \"most\" implies that this is a superlative adjective or adverb so we choose \"picturesque\".  <br>  Picturesque = Scenic = Beautiful"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2343"
+    },
+    {
+      "question": {
+        "text": "You will find the manual very helpful ___ any problems you encounter when you first use the software.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)must solve",
+          "(B)be solved",
+          "(C)will solve",
+          "(D)in solving"
+        ]
+      },
+      "answer": {
+        "text": "(D)in solving",
+        "explanation": "Helpful in + V-ing"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c234f"
+    },
+    {
+      "question": {
+        "text": "It is important to dress___when going on a job interview.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)profess",
+          "(B)profession",
+          "(C)professional",
+          "(D)professionally"
+        ]
+      },
+      "answer": {
+        "text": "(D)professionally",
+        "explanation": "(D) This is an adverb of manner modifying the verb dress. Choice (A) is a verb. Choice (B) is a noun. Choice (C) is an adjective."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c234b"
+    },
+    {
+      "question": {
+        "text": "The environmental protection plans submitted to the council were developed by various organizations working ___ of each other.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)closely",
+          "(B)collaboratively",
+          "(C)primarily",
+          "(D)independently"
+        ]
+      },
+      "answer": {
+        "text": "(D)independently",
+        "explanation": "Independent of sb/st >< dependent on sb/st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2358"
+    },
+    {
+      "question": {
+        "text": "You can expect___your first paycheck before the end of your first month of employment.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)receive",
+          "(B)to receive",
+          "(C)receiving",
+          "(D)recipient"
+        ]
+      },
+      "answer": {
+        "text": "(B)to receive",
+        "explanation": "(B) The verb “expect” is followed by an infinitive verb. Choice (A) is base form or present tense. Choice (C) is a gerund or present participle. Choice (D) is a noun."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2356"
+    },
+    {
+      "question": {
+        "text": "The new restaurant on Park Avenue has ___ much excitement because of the international reputation of its executive chef.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)marketed",
+          "(B)equipped",
+          "(C)generated",
+          "(D)received"
+        ]
+      },
+      "answer": {
+        "text": "(C)generated",
+        "explanation": "Generate = Create = Make"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2352"
+    },
+    {
+      "question": {
+        "text": "It is always advisable to verify departure times, ___ flight schedules may change after a ticket is issued.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)therefore",
+          "(B)since",
+          "(C)against",
+          "(D)concerning"
+        ]
+      },
+      "answer": {
+        "text": "(B)since",
+        "explanation": "Since = Because"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c235f"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644195eccc8cae769c236e"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 214",
+  "questions": [
+    {
+      "question": {
+        "text": "Please refer to the employee handbook for further instructions relating ___ requests for vacation and personal leave.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)toward",
+          "(B)about",
+          "(C)with",
+          "(D)to"
+        ]
+      },
+      "answer": {
+        "text": "(D)to",
+        "explanation": "Related to st"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c203a"
+    },
+    {
+      "question": {
+        "text": "Because so few people showed___for the meeting, we decided to postpone it to a later date.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)through",
+          "(B)down",
+          "(C)off",
+          "(D)up"
+        ]
+      },
+      "answer": {
+        "text": "(D)up",
+        "explanation": "(D) “Show up” means “appear” or “arrive”. (A), (B), and (C) cannot be logically used in this sentence."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2038"
+    },
+    {
+      "question": {
+        "text": "Please leave your luggage ___ the bus for loading.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)among",
+          "(B)between",
+          "(C)from",
+          "(D)beside"
+        ]
+      },
+      "answer": {
+        "text": "(D)beside",
+        "explanation": "(D) “Beside” means “next to”. Choices (A) and (B) need more than one bus as a reference point. Choice (C) means “direction away”; it is not logical."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2032"
+    },
+    {
+      "question": {
+        "text": "Mr. Camelio promises ___ the error right away.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)will correct",
+          "(B)correcting",
+          "(C)to correct",
+          "(D)corrects"
+        ]
+      },
+      "answer": {
+        "text": "(C)to correct",
+        "explanation": "(C) “Promises” is followed by the infinitive. Choice (A) is the future tense. Choice (B) is the gerund. Choice (D) is the present tense."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2042"
+    },
+    {
+      "question": {
+        "text": "You should check your messages ___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)as soon as",
+          "(B)twice a day",
+          "(C)seldom",
+          "(D)rarely"
+        ]
+      },
+      "answer": {
+        "text": "(B)twice a day",
+        "explanation": "(B) “Twice a day” can appear at the beginning or end of a sentence. Choice (A) links two events. Choices (C) and (D) should come between the auxiliary and main verb."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c203c"
+    },
+    {
+      "question": {
+        "text": "The bell captain suggested that more porters___hired.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) are",
+          "(B) have",
+          "(C) be",
+          "(D) do"
+        ]
+      },
+      "answer": {
+        "text": "(C) be",
+        "explanation": "(C) The causative “suggest” is followed by the simple form of the verb. Choice (A) is the plural form. Choices (B) and (D) are simple forms, but are not logical."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2046"
+    },
+    {
+      "question": {
+        "text": "The office is right___the street from the subway station.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)next",
+          "(B)across",
+          "(C)under",
+          "(D)between"
+        ]
+      },
+      "answer": {
+        "text": "(B)across",
+        "explanation": "(B) “Across the street from” means “on the other side of the street”. Choices (A), (C), and (D) are not followed by “from”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c204c"
+    },
+    {
+      "question": {
+        "text": "Baggage will not be ___ for check-in more than three hours before the departure of any Blue Skies Airline flight.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)accepted",
+          "(B)accepts",
+          "(C)accepting",
+          "(D)acceptingly"
+        ]
+      },
+      "answer": {
+        "text": "(A)accepted",
+        "explanation": "Accept st for st  <br> No noun comes after the verb so we are using passive voice."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c204a"
+    },
+    {
+      "question": {
+        "text": "I___eat at expensive restaurants because I don’t have a lot of extra money.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)always",
+          "(B)often",
+          "(C)usually",
+          "(D)seldom"
+        ]
+      },
+      "answer": {
+        "text": "(D)seldom",
+        "explanation": "(D) “Seldom” means “almost never”. Choices (A), (B), and (C) are all opposite in meaning."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2044"
+    },
+    {
+      "question": {
+        "text": "___ it was late, Ms. Glaser stayed to finish her work.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Although",
+          "(B)During",
+          "(C)Since",
+          "(D)While"
+        ]
+      },
+      "answer": {
+        "text": "(A)Although",
+        "explanation": "(A) The clauses contrast; use “although”. Choice (B) is not used with clauses. Choices (C) and (D) are not logical."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c2054"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644193eccc8cae769c2066"
+}

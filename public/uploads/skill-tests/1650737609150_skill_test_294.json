@@ -1,0 +1,695 @@
+{
+  "name": "Skill Test 294",
+  "questions": [
+    {
+      "question": {
+        "text": "<b><p align=\"right\"> Lamberts Bank <br>206 Rampton Hill<br> Thompson, WY 82073-3341</p></b>June 26<br>Mr. Michael Hunter<br>92 Woodvale Road <br>Wilton, WY 82007<br><br>Dear Mr Hunter:<br><br>Your application for a bank account has been successful, and we are able to offer you the following:<br>-  Checkbook<br>-  Check guarantee/debit card<br>- Use of Lamberts automatic teller machines (ATM’s) and CONNEX  ATM’s<br>- Online banking and 24-hour telephone banking<br><br>A copy of the bank account conditions that apply to your account is enclosed.<br><br>Please deposit a minimum of $100 into your account- Once this has cleared, we will send your check guarantee/debit card to you.<br><br>Thank you for your business.<br><Br>Sincerely,<bR>Jean Villiers (Ms.) <br>Accounts Manager",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the bank writing to Mr. Hunter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He lost his check book and check guarantee card.",
+              "(B)There are new charges to his account.",
+              "(C)He asked to open an account.",
+              "(D) He needed instructions for using the ATM's."
+            ]
+          },
+          "answer": {
+            "text": "(C)He asked to open an account.",
+            "explanation": "Information can be inferred from: \"Your application for a bank account has been successful\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is Mr. Hunter asked to do after receiving the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Telephone the bank",
+              "(B)Register online",
+              "(C)Sign a contract",
+              "(D)Make a deposit"
+            ]
+          },
+          "answer": {
+            "text": "(D)Make a deposit",
+            "explanation": "Information in the sentence: \"Please deposit a minimum of $100 into your account\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ef6"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Avina Nature Reserve</p></b>The Avina Nature Reserve Access (ANRA) card allows you, your passengers, and your vehicle to enter the Avina Nature Reserve at Amber Falls. Daily, Weekly, monthly, and annual cards are available. These can be purchased for a fee of S10, $25, $40, and $60, respectively, at the visitor information center located at the park's entrance. Cards can also be ordered online at www.avinapark.com. Online orders will be delivered to your address within approximately a week of your order.<br><br>As a special courtesy to annual cardholders, we currently offer a 50 percent discount on fees charged for facilities and services including camping, swimming, boat rentals, and fishing equipment rentals. Please note that visitors are required to make all payments at the time of purchase using cash or a personal credit card.<br><br>Please note that proof of purchase of an ANRA card is not sufficient to enter the park; the actual card is required. Once on the premises of the Avina Nature Reserve, please make sure your card is in an area of your car, such as on the dashboard, that is clearly visible from the outside. Also, since the ANRA card carries the license plate number of the vehicle registered with the Avina Nature Reserve, it cannot be used with another vehicle.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the information probably intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Park guests",
+              "(B) Job applicants",
+              "(C) Parking area attendants",
+              "(D) Local tour guides"
+            ]
+          },
+          "answer": {
+            "text": "(A) Park guests",
+            "explanation": "Information can be inferred from: \"The Avina Nature Reserve Access (ANRA) card allows you, your passengers, and your vehicle to enter the Avina Nature Reserve at Amber Falls.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How much does a monthly pass cost?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $10",
+              "(B) $25",
+              "(C) $40",
+              "(Ꭰ) $60"
+            ]
+          },
+          "answer": {
+            "text": "(C) $40",
+            "explanation": "Information in the sentence: \"Daily, weekly, monthly, and annual cards are available. These can be purchased for a fee of 10 dollars, 25 dollars, 40 dollars, and 60 dollars respectively at the visitor information center located at the park's entrance.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about the ANRA card?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is available for a discounted price online.",
+              "(B) It is valid for only one vehicle.",
+              "(C) It may be used for more than one year,",
+              "(D) It can be used to charge expenses at the park,"
+            ]
+          },
+          "answer": {
+            "text": "(B) It is valid for only one vehicle.",
+            "explanation": "Information in the sentence: \"Also, since the ANRA card carries the license plate number of the vehicle registered with the Avina Nature Reserve, it cannot be used with another vehicle.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What are ANRA cardholders advised to do after entering the park?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Receive a stamp on their card",
+              "(B) Keep their card on view inside their cars",
+              "(C) Obtain a proof of purchase for their card",
+              "(D) Submit their card to the information Center"
+            ]
+          },
+          "answer": {
+            "text": "(B) Keep their card on view inside their cars",
+            "explanation": "Information in the sentence: \"Once on the premises of the Avina Nature Reserve, please make sure your card is in an area of your car, such as on the dashboard, that is clearly visible from the outside.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2ef9"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><b> Excelon Travel Services, Inc.</b><br>711 Market Street<br>San Francisco, California 94102</p><br>Dear Mr. Mirza:<br>Thank you for giving Excelon Travel Services the opportunity to arrange your family's vacation travel plans. As an additional service to you, we have provided an overview of your travel and hotel arrangements (all times are local):<br><table align =\"center\"><tr><td> <b> Date </b> </td><td> <b> Flight No.</b> </td><td><b> Place/Time Depart </b></td> <td> <b> Place/Time Arrive </b> </td > </td></tr><tr><td> March 3</td><td> CM 045</td> <td> San Francisco-8:40 A.M.</td> <td> Honolulu-10:50 A.M.</td> <td> </td></tr><tr><td> March 10</td><td> CM 1226</td> <td> Honolulu—l:00 P.M.</td><td> San Francisco-8:50 P.M.</td><td> </td></tr></table><br>Upon your arrival at Honolulu, your rental car will be waiting for you—just go to the Fritz Rentals service desk. As we discussed, room reservations have been made at the Mahalo Hotel; directions to the hotel will be available at the car rental desk.<br><br>We pride ourselves on over twenty years of providing the highest level of customer satisfaction and would very much appreciate your feedback on your experience with Excelon Travel Services. To help us continue to improve, please visit our Web site at www.excelonts.com and fill out our customer satisfaction survey.<br><br>Once again, thank you very much for your business.<br><br>Sincerely,<br>Janet S. Ono<br>Customer Service Associate<br>Excelon Travel Services",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why will Mr. Mirza travel to Honolulu?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To conduct a business transaction",
+              "(B)To attend a conference",
+              "(C)To set up a Web site",
+              "(D)To go on vacation with his family"
+            ]
+          },
+          "answer": {
+            "text": "(D)To go on vacation with his family",
+            "explanation": "Information in the sentence: \"Thank you for giving Excelon Travel Services the opportunity to arrange your family's vacation travel plans.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Where will Mr. Mirza get directions?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At the travel agency",
+              "(B) At the Fritz Rentals desk",
+              "(C) At the Mahalo Hotel",
+              "(D) At Excelon’s Web site"
+            ]
+          },
+          "answer": {
+            "text": "(B) At the Fritz Rentals desk",
+            "explanation": "Information in the sentences: \"Upon your arrival at Honolulu, your rental car will be waiting for you—just go to the Fritz Rentals service desk. As we discussed, room reservations have been made at the Mahalo Hotel; directions to the hotel will be available at the car rental desk.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Ono ask Mr. Mirza to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Call her when he gets to Honolulu",
+              "(B) Send payment as soon as possible",
+              "(C) Complete a survey",
+              "(D) Give her his e-mail address"
+            ]
+          },
+          "answer": {
+            "text": "(C) Complete a survey",
+            "explanation": "Information in the sentence: \"We pride ourselves on over twenty years of providing the highest level of customer satisfaction and would very much appreciate your feedback on your experience with Excelon Travel Services.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2efd"
+    },
+    {
+      "question": {
+        "text": "4 JUNE - Readers of one of the largest business newspapers in Singapore can now access the paper on the Web. <i>Shenton Way Gazette</i> launched www.shentonway gazette.com yesterday, and the Web site already has thousands of registered users.<br><br>\"We are extremely pleased to offer enterprise professionals an even more convenient way to keep themselves informed,\" said the <i>Gazette's</i> editor in chief, Nathan Wong, at a news conference immediately after the launch. The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small business owners but is now distributed throughout the city.<br><br>Although the <i>Gazette</i> will continue to be published and distributed Monday to Friday, some stories will be updated on the Web site several times a day, \"Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for.\" Mr. Wong said.<br><br>Every story on the site will have a form at the end through which readers can post comments or e-mail the Writer directly, \"We hope to make the site a hub for interaction,” said Mr. Wong. “As the city's main business newspaper, we need to hear from Singaporean business professionals.\"<br><br>The <i>Gazette</i> will be celebrating twenty years of publication on 27 July. A special print edition of the paper will contain a commemorative insert featuring a detailed time line of its history and accompanying photos of the central business district through the years. The paper's online archives are also scheduled to open that day, granting readers access to every article since the inception of the <i>Gazette</i>.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the article written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To describe a business opportunity",
+              "(B) To profile an editor in chief",
+              "(C) To celebrate a company's fifth anniversary",
+              "(D) To publicize a new service"
+            ]
+          },
+          "answer": {
+            "text": "(D) To publicize a new service",
+            "explanation": "Information can be inferred from: \"Readers of one of the largest business newspapers in Singapore can now access the paper on the Web.\""
+          }
+        },
+        {
+          "question": {
+            "text": "When did the Web site launch?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On June 3",
+              "(B) On June 4",
+              "(C) On July 26",
+              "(D). On July 27"
+            ]
+          },
+          "answer": {
+            "text": "(A) On June 3",
+            "explanation": "\"Shenton Way Gazette launched www.shentonway gazette.com yesterday, and the Web site already has thousands of registered users.\" Additionally, \"4 June\" is stated at the beginning of the passage. Therefore, it can be inferred that the website was launched on June 3. "
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the regular print edition of the Gazette?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is printed every day of the week.",
+              "(B) It contains color photographs.",
+              "(C) It covers national events.",
+              "(D) It is distributed internationally."
+            ]
+          },
+          "answer": {
+            "text": "(C) It covers national events.",
+            "explanation": "Information in the sentence: \"The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small business owners but is now distributed throughout the city.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, how can readers use the Website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To place an advertisement",
+              "(B) To join a mailing list",
+              "(C) To contact reporters",
+              "(D) To e-mail articles"
+            ]
+          },
+          "answer": {
+            "text": "(C) To contact reporters",
+            "explanation": "Information in the sentence: \"Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"granting\" in paragraph 5, line 9, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) transferring",
+              "(B) permitting",
+              "(C) acknowledging",
+              "(D) naming"
+            ]
+          },
+          "answer": {
+            "text": "(B) permitting",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2eff"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> £50m Print Works to Open</p></b><br>The city of Reading this week landed one of the biggest and most significant investments in the city in years-a £50m print works that promises 1,000 jobs. The Scorpia Group, one of Europe's largest independent printing companies, has chosen a site on Compton Way for its new plant. This was the former Hartland Steelworks location.<bR><bR>Local leaders are delighted at the prospect of hundreds of highly skilled jobs and training opportunities being created in the Reading area, Robert Andrews, chief executive of the Reading1 City Investment Initiatives said, “The scale and nature of this project will give a huge boost to the local economy”<br><Br>The printing plant will offer top-quality and fast color production of magazines, catalogs, and other publications. The Compton Way site is owned by Scorpia's development partner, which was asked to draw up plans for the site. The company has chosen the Compton Way site on the basis of its location, the financial grants that are available from the central government, and the local labor market.<br><bR>The chief executive of Scorpia said, “The location of our new plant, with access to the road network and rail freight links, and the reputation of the workforce in the region had a big impact on our decision-making process. In addition, the attitude and cooperation of local authorities in Reading is a positive example to the rest of the country of how to attract new investments”.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the article mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Job openings at a steelworks factory",
+              "(B)Investment opportunities in Europe",
+              "(C)The proposed site of a new plant",
+              "(D)New laws enacted by the Reading City Council"
+            ]
+          },
+          "answer": {
+            "text": "(C)The proposed site of a new plant",
+            "explanation": "Information in the sentence: \"The Scorpia Group, one of Europe's largest independent printing companies, has chosen a site on Compton Way for its new plant.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a reason for choosing the location on Compton Way?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It has good road and rail links,",
+              "(B)It has been enlarged recently.",
+              "(C)The government offers financial assistance,",
+              "(D)Plenty of labor is available locally."
+            ]
+          },
+          "answer": {
+            "text": "(B)It has been enlarged recently.",
+            "explanation": " “The location of our new plant, with access to the road network and rail freight links\" => Eliminate A<br>The company has chosen the Compton Way site on the basis of its location, the financial grants that are available from the central government, and the local labor market.=> Eliminate C&D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f03"
+    },
+    {
+      "question": {
+        "text": "To: Robert Manilo rmanilo@manilomasonry.com<br>From: Hannah Schubert hschubert@wlink.net<br>Date: August 25<br>Subject: Your request<br><br>Hello Mr. Manilo, <br><br>Thank you for your e-mail. Of course I would be happy to write a comment about the job your company completed at my house. I will also post the comment in the “What Customers Are Saying\" section of your company’s Web site. if that is OK with you. <br><br>Here is my comment. “We are so happy we chose Manilo Masonry to install a flagstone patio, a walkway, and an outdoor fireplace at our home. The quality of the craftsmanship is top-notch, and the job was completed three days earlier than the estimated finish date. Mr. Manilo himself was present for every aspect of the project, from the planning stages to final inspection. I intend to use Manilo Masonry again in the future to repave our driveway.\" <br><br> Thanks again for doing such a great job. <br> Hannah Schubert",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What did Mr. Manllo ask Ms. Schubert to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Fill out a form",
+              "(B)Call a prospective customer",
+              "(C)Create a Web site for his company",
+              "(D)Provide feedback on his work"
+            ]
+          },
+          "answer": {
+            "text": "(D)Provide feedback on his work",
+            "explanation": "Information can be inferred from: \"Of course I would be happy to write a comment about the job your company completed at my house.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Schubert indicate about Maniio Masonry?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)its prices are reasonable.",
+              "(B)It uses the finest materials.",
+              "(C)It promises to finish jobs quickly.",
+              "(D)Its owner was personally involved in the project."
+            ]
+          },
+          "answer": {
+            "text": "(D)Its owner was personally involved in the project.",
+            "explanation": "Information in the sentence: \"Mr. Manilo himself was present for every aspect of the project, from the planning stages to final inspection.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Ms. Schubert probably hire Manilo Masonry to work on next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Her driveway",
+              "(B)Her fireplace",
+              "(C)Her patio",
+              "(D)Her walkway"
+            ]
+          },
+          "answer": {
+            "text": "(A)Her driveway",
+            "explanation": "Information in the sentence: \"I intend to use Manilo Masonry again in the future to repave our driveway.\""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f05"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Memorandum</p></b><bR>To: Motor Pool Users<br>From: Hafid Benabou, Director<br>Date: February 27<br>Subject: Motor Pool Checkout Card<br><br>Company policy states that everyone who uses a company vehicle must have a valid motor pool checkout (MPC) card. AU MFC cards will expire April 30. Current cardholders should apply for renewal by March 31. New cards will be approved only for employee drivers fulfilling the requirements below.<br><bR>1.Vehicles are lent ONLY to carry out company business.<br>2.All drivers must be in compliance with all current motor vehicle laws.<br>3.All drivers must complete an eight-hour National Safety Council (NSC) defensive driving course before an MPC card will be issued.<br><bR>Please fax MPC card requests to Mark Fernandez (1149 27384). Include your driver’s license number and expiration date, a certified copy of your driving record (obtainable from the central police station), and a copy of your NSC defensive driving certificate. To enroll in the defensive driving course (next session, March 15)，phone Jennifer Latourche (ext. 2525).",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To announce a change in staffing assignments",
+              "(B)To notify employees of a new course",
+              "(C)To remind employees of a company policy",
+              "(D)To introduce new staff members"
+            ]
+          },
+          "answer": {
+            "text": "(C)To remind employees of a company policy",
+            "explanation": "Information can be inferred from: \"Company policy states that everyone who uses a company vehicle must have a valid motor pool checkout (MPC) card.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does NOT need to be faxed with the card request?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Driver's license information",
+              "(B)A copy of a driving course certificate",
+              "(C)A copy of a driving record",
+              "(D)A copy of the old MPC card"
+            ]
+          },
+          "answer": {
+            "text": "(D)A copy of the old MPC card",
+            "explanation": "\"Include your driver’s license number and expiration date, a certified copy of your driving record (obtainable from the central police station), and a copy of your NSC defensive driving certificate.\" => Eliminate A, B & C"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f09"
+    },
+    {
+      "question": {
+        "text": "December 4<br><bR>Benedetto Consulting Services<br> Riva Schiavoni 5321 <br>Venice, Italy<br><br>Dear Sir/Madam:<br><br>I am interested in applying for the managing consultant position you have posted on your Web site. I believe that my background and experience make me an attractive candidate for your consideration.<br><br>After graduating from State University, I founded a small computer graphic-design company, Online Style. This company became increasingly successfuI over the years, I hold 65 percent of the shares and continue on its board of directors as chairperson, although 1 have relinquished my position as general manager and stepped down as CEO.<br><br>The agency I now direct, Business First, provides consulting services for companies interested in improving the effectiveness of their advertising. Despite the success of this new business venture, I am seeking at this time to relocate to Venice for personal reasons.<bR><br>As you can see from the enclosed resume, I have a broad background in business development and marketing as well as advertising. Because of my diverse experience, I have developed strong skills in financial consulting, I have also acquired expertise in designing presentations for large audiences and planning successful business meetings.<br><br>I believe my skills and abilities fit the description of the person you are seeking. While I am knowledgeable about general business issues m both the domestic and international arenas I will want to thoroughly understand those that are unique to your business, and I am confident that [ can do so rapidly. One of your requirements, maintaining good community relations, happens to be one of my greatest strengths. I would be happy to provide you with names of people who can personally testify to this.<bR><br>I would welcome the opportunity to discuss how my skills could benefit your organization. Please find my tetephone number and e-mail address in my resume. I look forward to hearing from you.<br><bR>Sincerely,<bR>Estelle Juti",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "How is Ms. Juti currently involved with Online Style?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She is the business manager,",
+              "(B)She is the chairperson of the board of directors.",
+              "(C)She is the financial consultant.",
+              "(D)She is the head graphic designer."
+            ]
+          },
+          "answer": {
+            "text": "(B)She is the chairperson of the board of directors.",
+            "explanation": "Information in the sentence: \"I hold 65 percent of the shares and continue on its board of directors as chairperson\""
+          }
+        },
+        {
+          "question": {
+            "text": "What kind of service does Business First provide?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Marketing",
+              "(B)Foreign investment",
+              "(C)Consulting",
+              "(D)Computer repair"
+            ]
+          },
+          "answer": {
+            "text": "(C)Consulting",
+            "explanation": "Information in the sentence: \"The agency I now direct, Business First, provides consulting services for companies interested in improving the effectiveness of their advertising.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Juti say about why she wants to relocate to Venice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Her new company is not successful.",
+              "(B)Her reasons are personal.",
+              "(C)She needs more experience.",
+              "(D)Her family is in Venice."
+            ]
+          },
+          "answer": {
+            "text": "(B)Her reasons are personal.",
+            "explanation": "Information in the sentence: \"I am seeking at this time to relocate to Venice for personal reasons.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Juti NOT say is one of her qualifications?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She has worked in many different countries.",
+              "(B) She has extensive business experience.",
+              "(C) She has a background in advertising.",
+              "(D) She has expertise in arranging business meetings and presentations."
+            ]
+          },
+          "answer": {
+            "text": "(A) She has worked in many different countries.",
+            "explanation": "\"I have a broad background in business development and marketing as well as advertising. Because of my diverse experience, I have developed strong skills in financial consulting, I have also acquired expertise in designing presentations for large audiences and planning successful business meetings.\" => Eliminate B, C & D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f0c"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><b> Milltown Community Theater</b><br>Board Meeting Minutes<br> Sunday, November 16<br>Milltown Public Library</p><br>OPENING: President Eliot Rogers conducted the meeting. He introduced the new board member, Anita Russell Ms. Russell has volunteered at the theater since its beginning. She most recently worked to successfully secure financial support for next seasons productions.<br><br>MINUTES: Minutes from the September 28 meeting were approved with, minor corrections.<bR><bR>FINANCIAL REPORT: Die financial statements from October were reviewed by Patty Schmidt, Treasurer. She explained that recent reductions noted in the operating fund were due to a rise in the price of heating oil Schmidt noted that a grant has been received from the Acme Savings Bank. These funds will be used, to initiate a summer program for children.<br><br>DEVELOPMENT COMMITTEE:  Members of the committee led discussions of recent attempts to obtain new grants, other fund-raising possibilities, and an initiative to attract publicity for the theater through local businesses.<br><br>NEXT BOARD MEETING: The next meeting of the board, will be on. Sunday January 25, at 2:00 PM. in the Milltown Public Library.<br><br>Meeting adjourned, at 3:45 RM,<br> Respectfully submitted,<br>Nancy Fordham.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who was in charge of conducting the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Eliot Rogers",
+              "(B)Anita Russell",
+              "(C)Patty Schmidt",
+              "(D)Nancy Fordham"
+            ]
+          },
+          "answer": {
+            "text": "(A)Eliot Rogers",
+            "explanation": "Information in the sentence: \"President Eliot Rogers conducted the meeting.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What has recently increased?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The cost of gifts for new board members",
+              "(B)Fees for administering a grant",
+              "(C)Expenses for a summer program for children",
+              "(D)The cost of heating fuel"
+            ]
+          },
+          "answer": {
+            "text": "(D)The cost of heating fuel",
+            "explanation": "Information in the sentence: \"She explained that recent reductions noted in the operating fund were due to a rise in the price of heating oil Schmidt noted that a grant has been received from the Acme Savings Bank.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What was NOT discussed in the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Efforts to increase funding",
+              "(B) Advertising in the local community",
+              "(C) Plans to attract new volunteers",
+              "(D) The report of the September meeting"
+            ]
+          },
+          "answer": {
+            "text": "(C) Plans to attract new volunteers",
+            "explanation": "Members of the committee led discussions of recent attempts to obtain new grants, other fund-raising possibilities, and an initiative to attract publicity for the theater through local businesses. => Eliminate A&B<br>Minutes from the September 28 meeting were approved with, minor corrections. => Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f0f"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Peterson Turbines<br>500 Main Boulevard<br>Peoria, IL 55490</p></b><bR>June 20<br><br>Mr. Fred Higgins President<br>First Rate Lawn Supply <br>31 Nightshade Street<br> Peoria, IL 55490<br><br>Dear Mr. Higgins:<br><br>Three years ago we chose to buy lawn sprinkler valves from you for our new headquarters because we knew of you as a neighborhood business that lives up to the reputation of its company slogan: \"Quality is our main priority.\"<br><br>As you may recall, your sales representative Andrew Peters spoke to me at length about our needs. I told him that we were more interested in durability than in saving a few dollars‘ Andrew said that you carried both brass and plastic valves, brass for $75 each and plastic for $50 each, both from reliable manufacturers. We knew that the brass are usually good for 6 years. Andrew assured us that the plastic would hold up as well, if not better.<br><br>On Andrew’s recommendation our company purchased 48 plastic automatic sprinkler valves from you. Over the past 3 months the sleeve connecting the top of the valve to the main water pipe has burst or cracked on 12 of the valves. Last Sunday one-third of the lawn was flooded for a full day, since 2 valves broke while our small maintenance crew was out handling a problem in another building across town.<br><br>The result is that besides repairing considerable damage to the lawn (estimates run about $1,000), we will need to replace the 12 valves.<br><br>We are aware that our warranty expired a year ago. However, since the plastic valves were purchased on your recommendation, we think you should be willing to stand behind your work and provide the labor to install brass valves. We are willing to pay for the new valves themselves.<br><br>Sincerely yours,<br>Maria Palmer <br>Maintenance supervisor",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When did Peterson Turbines purchase valves from First Rate Lawn Supply?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Three months ago",
+              "(B)Six months ago",
+              "(C)One year ago",
+              "(D) Three years ago"
+            ]
+          },
+          "answer": {
+            "text": "(D) Three years ago",
+            "explanation": "Information in the sentence: \"Three years ago we chose to buy lawn sprinkler valves from you for our new headquarters\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why did Peterson Turbines choose to do business with First Rate Lawn Supply?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)First Rate had offered a substantial discount",
+              "(B)First Rate had a reputation for commitment to quality,",
+              "(C)First Rate had the best selection of products.",
+              "(D)First Rate had relocated to a convenient neighborhood."
+            ]
+          },
+          "answer": {
+            "text": "(B)First Rate had a reputation for commitment to quality,",
+            "explanation": "Information in the sentence: \"Three years ago we chose to buy lawn sprinkler valves from you for our new headquarters because we knew of you as a neighborhood business that lives up to the reputation of its company slogan: \"Quality is our main priority.\"\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Andrew Peters?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An employee of First Rate Lawn Supply",
+              "(B)The owner of Peterson Turbines",
+              "(C)A colleague of Maria Palmer",
+              "(D)A salesperson at the valve manufacturer"
+            ]
+          },
+          "answer": {
+            "text": "(A)An employee of First Rate Lawn Supply",
+            "explanation": "Information can be inferred from: \"As you may recall, your sales representative Andrew Peters spoke to me at length about our needs. \""
+          }
+        }
+      ],
+      "id": "626441c9eccc8cae769c2f12"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "EASY",
+  "id": "626441c9eccc8cae769c2f15"
+}

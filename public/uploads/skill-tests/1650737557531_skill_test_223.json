@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 223",
+  "questions": [
+    {
+      "question": {
+        "text": "___5:00, the subway becomes very crowded.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)When",
+          "(B)After",
+          "(C)Since",
+          "(D)While"
+        ]
+      },
+      "answer": {
+        "text": "(B)After",
+        "explanation": "(B) After establishes a logical time reference. Choices (A), (C), and (D) are not logical."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21f9"
+    },
+    {
+      "question": {
+        "text": "The airport was___Mr. Debionne had expected.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)the busiest",
+          "(B)busier than",
+          "(C)busy as",
+          "(D)as busy"
+        ]
+      },
+      "answer": {
+        "text": "(B)busier than",
+        "explanation": "(B) Comparisons of two things use “more” or “-er” and “than”. Choice (A) is the superlative form. Choices (C) and (D) are equal comparisons that each omit one “as”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21fc"
+    },
+    {
+      "question": {
+        "text": "A good chef is always ready to___recipes.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)adapt",
+          "(B)adoption",
+          "(C)adept",
+          "(D)adjourn"
+        ]
+      },
+      "answer": {
+        "text": "(A)adapt",
+        "explanation": "(A) “Adapt” means “modify”. Choices (B), (C), and (D) look similar to the correct answer but do not fit the context of the sentence."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21ff"
+    },
+    {
+      "question": {
+        "text": "The personnel director screened the job applicants___arranging interviews.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)because",
+          "(B)until",
+          "(C)since",
+          "(D)before"
+        ]
+      },
+      "answer": {
+        "text": "(D)before",
+        "explanation": "(D) “Before” establishes a logical time relationship between the clauses. Choices (A), (B), and (C) are not logical."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2202"
+    },
+    {
+      "question": {
+        "text": "The board of directors will meet___October 10.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)for",
+          "(B)to",
+          "(C)on",
+          "(D)in"
+        ]
+      },
+      "answer": {
+        "text": "(C)on",
+        "explanation": "(C) “On” is used with specific dates. Choice (A) indicates a purpose. Choice (B) indicates destination. Choice (D) means “inside”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2205"
+    },
+    {
+      "question": {
+        "text": "Ms. Nyen was giving her speech when the microphone___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)is failing",
+          "(B)fails",
+          "(C)had failed",
+          "(D)failed"
+        ]
+      },
+      "answer": {
+        "text": "(D)failed",
+        "explanation": "(D) The simple past tense is used here to indicate an action that interrupted another action in progress in the past. Choice (A) is present continuous. Choice (B) is present tense. Choice (C) is past perfect."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2208"
+    },
+    {
+      "question": {
+        "text": "The clerk___the computer manual from the secretary.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)lent",
+          "(B)to loan",
+          "(C)loaned",
+          "(D)borrowed"
+        ]
+      },
+      "answer": {
+        "text": "(D)borrowed",
+        "explanation": "(D) “Borrow” is used with “from”. This sentence means that the manual belonged to the secretary and the clerk used it. Choices (A), (B), and (C) would use “to” instead of “from” and would indicate that the manual belonged to the clerk and the secretary used it."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c220b"
+    },
+    {
+      "question": {
+        "text": "The status report___the financial projections were both late.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)or",
+          "(B)and",
+          "(C)but",
+          "(D)nor"
+        ]
+      },
+      "answer": {
+        "text": "(B)and",
+        "explanation": "(B) “Both” is used with “and” to connect two similar ideas. Choice (A) indicates a choice. Choice (C) indicates a “contradiction or contrast”. Choice (D) is used with neither."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c220e"
+    },
+    {
+      "question": {
+        "text": "A firm will not ___if its employees are unhappy.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)prosper",
+          "(B)prosperous",
+          "(C)prosperity",
+          "(D)prospering"
+        ]
+      },
+      "answer": {
+        "text": "(A)prosper",
+        "explanation": "(A) The verb form is needed here to complete the future tense with “will”. Choice (B) is an adjective. Choice (C) is a noun. Choice (D) is a gerund."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2211"
+    },
+    {
+      "question": {
+        "text": "The intern___a fax machine before coming to work at our office.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)had used never",
+          "(B)had never used",
+          "(C)never had used",
+          "(D)used had never"
+        ]
+      },
+      "answer": {
+        "text": "(B)had never used",
+        "explanation": "(B) “Never” goes between the auxiliary and the main verb. Choices (A), (C), and (D) place “never” in the wrong position."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2214"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644195eccc8cae769c2217"
+}

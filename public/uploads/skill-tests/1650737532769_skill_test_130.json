@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 130",
+  "questions": [
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan=\"4\" align =\"center\"> <h4> FFFS Seminar Schedule and Price Guide</h4> </td></tr><tr><td align =\"center\"> Orlando </b> </td><td align =\"center\"> \"3 Weeks to Riches!\" </td><td align =\"center\"> 3 weeks </b> </td><td align =\"center\"> $1,500</td></tr><tr><td align =\"center\"> New York</b> </td><td align =\"center\"> \"The Big Apple is Yours\" </td><td align =\"center\"> 5 days </b> </td><td align =\"center\"> $750</td></tr><tr><td align =\"center\"> Boston </b> </td><td align =\"center\"> \"Revolutionary\" </td><td align =\"center\"> 13 days </b> </td><td align =\"center\"> $1,200</td></tr><tr><td align =\"center\"> Seatle</b> </td><td align =\"center\"> \"Prepare for Your Rainy Day\" </td><td align =\"center\"> 20 days </b> </td><td align =\"center\"> $3,000</td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0409.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0409.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0a1f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Hello, everyone. I would like to begin today’s seminar by asking you all to consider a few questions. First, how many of you would like to be rich? Everyone? Exactly. Second, how many of you would like to be happy? Everyone? Of course! <b> Q2 I can promise you all that if you follow a few simple steps, you will be able to make your financial and life goals a reality.</b> The Fast Forward Financial System, or FFFS, that I have developed is an easy step-by-step guide to living the good life. <b> Q3 Today’s seminar is just an introduction of course. In order to fulfill your financial potential, you will need to enroll in one of our immersion programs.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. What is the longest course?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Orlando",
+              "(B) Boston",
+              "(C) New York",
+              "(D) Seattle"
+            ]
+          },
+          "answer": {
+            "text": "(A) Orlando",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the listener most likely at the seminar?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are rich.",
+              "(B) They want to get rich.",
+              "(C) They are bored.",
+              "(D) They were invited by a friend."
+            ]
+          },
+          "answer": {
+            "text": "(B) They want to get rich.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the speaker trying to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sell real estate",
+              "(B) Sell seminar packages",
+              "(C) Sell vacations",
+              "(D) Sell small businesses"
+            ]
+          },
+          "answer": {
+            "text": "(B) Sell seminar packages",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0a23"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td><b> Model</b> </td><td > <b> Scanning </td><td > <b> Sorting </td><td > <b> Stapling </td></tr><tr><td> Omega K </td><td > &#10003;</td><td > &#10003;</td><td > </td></tr><tr><td> Clariform X1</td><td > &#10003;</td> <td > &#10003;</td> <td> &#10003;</td></tr><tr><td> Sanita 46-J </td><td > </td><td > </td><td > </td></tr><tr><td> Kirian XYB-4/td><td > </td><td > &#10003;</td><td> </td></tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "179466053-1578898002182.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/179466053-1578898002182.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0a27"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> W-Br: Hi, Ken. Thanks for making a chart comparing the features of the copy machines we’re considering for our office. I know we’ve already talked about price, so looking at this information, <b> Q1 I think we can go with the one without all the extra features. </b>  We really don’t need them for the work we do. Also .. uh ... one question: <b> Q2 should we have it shipped by express or regular delivery? </b>  We need it by the beginning of next week. Either way, <b> Q3 you’ll need to talk to Pedro. He’ll give you the corporate credit card to make the purchase. </b> Thanks for taking care of this. <br><br><b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Look at the graphic. Which device would the speaker like to buy?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Omega K",
+              "(B) Clariform X1",
+              "(C) Sanita 46-J",
+              "(D) Kirian XYB-4"
+            ]
+          },
+          "answer": {
+            "text": "(C) Sanita 46-J",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker ask about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The budget code for a purchase",
+              "(B) The location of a vendor",
+              "(C) The price of an item",
+              "(D) The best shipping method"
+            ]
+          },
+          "answer": {
+            "text": "(D) The best shipping method",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker mention Pedro?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He will be moving offices.",
+              "(B) He services the computers.",
+              "(C) He schedules deliveries",
+              "(D) He has a credit card"
+            ]
+          },
+          "answer": {
+            "text": "(D) He has a credit card",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417beccc8cae769c0a2b"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"60%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan=\"6\" align =\"center\"> <h4> Common Area Cleanliness Checklist</h4> </td></tr><tr><td align =\"center\"><b>Area </b> </td><td align =\"center\"> <b> Monday </td><td align =\"center\"> <b> Tuesday </b> </td><td align =\"center\"> <b> Wednesday</td> <td align =\"center\"> <b> Thursday </b> </td><td align =\"center\"> <b> Friday</td> </tr><tr><td align =\"center\"> Kitchen</b> </td><td align =\"center\"> Scott W.</td><td align =\"center\"> Scott W.</td><td align =\"center\"> Scott W.</td><td align =\"center\"> Bill T. </b> </td><td align =\"center\"> Bill T.</td></tr><tr><td align =\"center\"> Foyer </b> </td><td align =\"center\"> Bill T. </td><td align =\"center\"> Bill T. </td><td align =\"center\"> Hillary P. </td><td align =\"center\"> Hillary P. </b> </td><td align =\"center\"> Hillary P.</td></tr><tr><td align =\"center\"> Rec A.</b> </td><td align =\"center\">Lawrence P.</td><td align =\"center\">Lawrence P.</td><td align =\"center\">Lawrence P.</td><td align =\"center\"> Hillary P. </b> </td><td align =\"center\"> Scott W.</td></tr><td align =\"center\"> Lounge C</b> </td><td align =\"center\">Hillary P.</td><td align =\"center\">Hillary P.</td><td align =\"center\">Bill T.</td><td align =\"center\"> Scott W. </b> </td><td align =\"center\"> Lawrence P.</td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0410.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417beccc8cae769c0a29"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Thank you all for coming to this meeting on such short notice. <b> Q3 It has come to my attention that the Human Resource Department has been overwhelmed lately with reports about messes in the common areas. As your regional manager</b>, I feel it is my responsibility to take ownership of this problem before it gets completely out of control. Just so everybody is clear, the common areas include the kitchen, the foyer, recreation room A, and lounge c on the second floor. I don’t know who is responsible for this recent run of uncleanliness, but from now on we are going to assign a staff member to monitor the condition of each area and sign off on it at the end of every day. We will do this until I feel everyone has learned to respect the space. Be sure to check the schedule to see which area you will be responsible for."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is speaking to the staff?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Human Resources",
+              "(B) The regional manager",
+              "(C) The CEO",
+              "(D) The sales manager"
+            ]
+          },
+          "answer": {
+            "text": "(B) The regional manager",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which employee was given responsibility for two common areas on the same day?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lawrence R",
+              "(B) Hillary p.",
+              "(C) Scott w.",
+              "(D) Bill T."
+            ]
+          },
+          "answer": {
+            "text": "(B) Hillary p.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated in the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The staff will get reprimanded.",
+              "(B) The staff will need to work weekends,",
+              "(C) Everyone will get holiday bonus.",
+              "(D) There have been a lot of complaints."
+            ]
+          },
+          "answer": {
+            "text": "(D) There have been a lot of complaints.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417beccc8cae769c0a2d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "24823550-1568101682202-09.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/24823550-1568101682202-09.png",
+            "mime": "image/png",
+            "id": "6264417beccc8cae769c0a31"
+          }
+        ],
+        "sound": [
+          {
+            "name": "151897432-1578898038262.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/151897432-1578898038262.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417beccc8cae769c0a33"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> M-Cn: Thank you all for being here at tonight’s city planning meeting. <b> Q1 First on the agenda is the budget for the bike path project. </b>  We have almost all the funds we need. <b> Q2 We’re applied for a grant from a private foundation that would cover the money that we still need to begin the project. </b>  If this foundation agrees to fund our project, we’ll be able to start construction of the bycicle paths next April. They’ll be built along the canal and run all the way into the city center. Based on our research, <b> Q3 we anticipate that our bike paths will considerably lessen the traffic congestion on our roads. </b> <br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of the project is the speaker discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A school expansion",
+              "(B) A new sports arena",
+              "(C) A bus service",
+              "(D) A bicycle route"
+            ]
+          },
+          "answer": {
+            "text": "(D) A bicycle route",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic.  How much money is still needed to begin the project?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $30,000",
+              "(B) $40,000",
+              "(C) $20000",
+              "(D) $65,000"
+            ]
+          },
+          "answer": {
+            "text": "(A) $30,000",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what major advantage will the project have?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will reduce traffic.",
+              "(B) It will bring more stores to the area.",
+              "(C) It will attract talented professionals.",
+              "(D) It will lover the cost of public transportation."
+            ]
+          },
+          "answer": {
+            "text": "(A) It will reduce traffic.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417beccc8cae769c0a35"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_434.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_434.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a38"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(M-Au):  May I have your attention, please? There has been a room change for one of <u>this afternoon's management training sessions.</u> <u>More people registered for the workshop Creating Spreadsheets than expected, so that training session has been moved to Conference Room A, which is a larger room.</u> No other changes are anticipated at this time, but be sure to check for updates throughout the afternoon. <u>We'll post any schedule changes on the boards outside of the meeting rooms.</u>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely is the announcement being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a board of directors meeting",
+              "(B)At a training workshop",
+              "(C)At a product launch",
+              "(D)At an employment fair"
+            ]
+          },
+          "answer": {
+            "text": "(B)At a training workshop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was a room changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To accommodate more people",
+              "(B)To provide a bigger stage",
+              "(C)To allow the event to run longer",
+              "(D)To offer access to the Internet"
+            ]
+          },
+          "answer": {
+            "text": "(A)To accommodate more people",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the announcement, how can listeners learn about updates?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By logging on to a conference Web site",
+              "(B)By stopping by the registration desk",
+              "(C)By requesting a text message on their phones",
+              "(D)By checking information boards"
+            ]
+          },
+          "answer": {
+            "text": "(D)By checking information boards",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a3a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_432.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_432.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a3d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(W-Am):  Good morning, Radio 82 listeners. On today's show we'll be joined by <u> Adam Brennan, the lead singer from the rock music group Thunderbear.</u> This group, based right here in Toronto, gained a worldwide following after the release of their debut album, Room for Two, last year. And <u>next month the group will begin their first European tour.</u> Mr. Brennan will be joining us shortly to talk about the upcoming tour. Until then,<u> let's listen to one of the hit songs from the group's album.</u>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is Adam Bernnam?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An album producer",
+              "(B)A rock musical",
+              "(C)A concert organizer",
+              "(D) A radio show host"
+            ]
+          },
+          "answer": {
+            "text": "(C)A concert organizer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the group Thunderbear do next month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Start a tour",
+              "(B)Release a new album",
+              "(C)Move to Toronto",
+              "(D)Produce a music video"
+            ]
+          },
+          "answer": {
+            "text": "(B)Release a new album",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners hear next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An advertisement",
+              "(B)A news report",
+              "(C)A schedule of events",
+              "(D)A song"
+            ]
+          },
+          "answer": {
+            "text": "(D)A song",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a3f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_437.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_437.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a42"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(W-Am):  Hello, XPA radio listeners. This is Meg Williams, with news of events around the local area. This weekend, <u>the Hartman Medical Clinic is hosting a health and wellness fair.</u> There will be activities for the whole family — including cooking demonstrations and children’s games — plus lots of information about diet and exercise. And doctors from the clinic will be offering eye examinations. <u>They've reduced the cost for the eye exams, so this is a good time to have your vision checked.</u> <u>You'll need an appointment, though. If you're interested, be sure to visit the Hartman Web site, at www.Hartman.com, to sign up.</u>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the announcement about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A health fair",
+              "(B)A library service",
+              "(C)A store opening",
+              "(D)A fitness center"
+            ]
+          },
+          "answer": {
+            "text": "(A)A health fair",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will be offered at reduced cost?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sports apparel",
+              "(B)New food products",
+              "(C)Eye exams",
+              "(D)Fitness center memberships"
+            ]
+          },
+          "answer": {
+            "text": "(C)Eye exams",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the announcement, why should listeners visit the Hartman Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To get driving directions",
+              "(B)To order a product",
+              "(C)To see a price list",
+              "(D)To make an appointment"
+            ]
+          },
+          "answer": {
+            "text": "(D)To make an appointment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a44"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_436.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_436.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a47"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(W-Br):  And finally this evening, on behalf of the Organization of Film Musicians, I'm delighted to announce the winner of the lifetime achievement award. This award goes to <u>Rebecca Langhorn, one of our most exceptional composers of music for films</u>.<u>I met Rebecca on her very first project, when we collaborated on the soundtrack for the movie A Year in Denmark.</u> Since then, Rebecca has gone on to compose music for more than 50 other movies, and her music has become familiar to audiences worldwide. <u>We now have a short video of movie clips for you, highlighting some of Rebecca's best-known pieces.</u>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is Rebecca Langhorn known for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Composing music for films",
+              "(B)Writing shows for television",
+              "(C)Conducting an orchestra",
+              "(D)Acting in theater productions"
+            ]
+          },
+          "answer": {
+            "text": "(A)Composing music for films",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How does the speaker know Rebecca Langhorn?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They grew up in the same town.",
+              "(B)They studied at the same university.",
+              "(C)They worked together on a project.",
+              "(D)They performed together in a music group."
+            ]
+          },
+          "answer": {
+            "text": "(C)They worked together on a project.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will most likely happen next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A band will play a song.",
+              "(B)A video will be shown.",
+              "(C)More awards will be announced.",
+              "(D)The audience will ask questions."
+            ]
+          },
+          "answer": {
+            "text": "(B)A video will be shown.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a49"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_435.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_435.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a4c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(M-Cn):  Hi, Ms. Patel, it's Matthew Schwartz from Green Grounds. I just wanted <u>to confirm the landscaping details for the office park you manage.</u> As we discussed,<u>we'll be planting 70 new trees and bushes throughout the property. We'll also put in a large flower garden in the courtyard.</u> You mentioned that you might want us to do some additional work near the pond. If you could call me and explain what you'd like to have done there, <u>I can prepare a final price estimate for you.</u> We look forward to working with you on this project."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the message mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Plans for an upcoming project",
+              "(B)An agenda for a meeting",
+              "(C)An interview schedule for a candidate",
+              "(D)Details of a property sale"
+            ]
+          },
+          "answer": {
+            "text": "(A)Plans for an upcoming project",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a real estate agency",
+              "(B)At a city park",
+              "(C)At an equipment-rental store",
+              "(D)At a landscaping company"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a landscaping company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the message, what will the speaker do after talking to Ms. Patel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Prepare a cost estimate",
+              "(B)Inspect a building",
+              "(C)Advertise a property",
+              "(D)Telephone a colleague"
+            ]
+          },
+          "answer": {
+            "text": "(A)Prepare a cost estimate",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a4e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_438.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_438.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a51"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "(M-Au):  Welcome aboard Parkwood Transit Line B. This train runs from Parkwood to Wellington, with several stops in between. Unfortunately, <u> because of repairs on the Wellington bridge, trains are running more slowly than usual.</u> We apologize for any inconvenience this may cause. Be advised that <u>if you are headed for the International Airport, you should get off the train at Wellington and switch to Line C,</u> where the Airport Express train will be waiting. <u> At this time, we request that all passengers have their tickets ready for inspection,</u> as the conductor will be coming through in just a few minutes."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem is mentioned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A station is closed for repairs.",
+              "(B)Some baggage has been misplaced.",
+              "(C)Service is slower than usual.",
+              "(D)A flight is sold out."
+            ]
+          },
+          "answer": {
+            "text": "(C)Service is slower than usual.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What should passengers going to the airport do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Transfer to another train",
+              "(B)Check their luggage",
+              "(C)Take a shuttle bus",
+              "(D)Pay an additional fee"
+            ]
+          },
+          "answer": {
+            "text": "(A)Transfer to another train",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners instructed to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Wait on the platform",
+              "(B)Claim their bags",
+              "(C)Present their tickets",
+              "(D)Go to the boarding gate"
+            ]
+          },
+          "answer": {
+            "text": "(C)Present their tickets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0a53"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "6264417ceccc8cae769c0a56"
+}

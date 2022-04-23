@@ -1,0 +1,694 @@
+{
+  "name": "Skill Test 287",
+  "questions": [
+    {
+      "question": {
+        "text": "<p style=\"text-align: center;\"><b>This office closed for renovations&nbsp;</b></p> <p><br /> Please be advised that the Shinjuku branch office of Tokyo English Newspaper (TEN) is closed for the summer as we undergo substantial improvements to our publishing offices. The Shinjuku office of TEN will re-open on 1 September.<br /> Note that TEN&#39;s Summer Journalism Internship program is being held at our Yoyogi Park branch and runs from 1 July to 1 September. This program offers internship sessions of one week, two weeks, and four weeks for those interested in writing articles and editorials. Our Yoyogi Park branch is located across the street from the Yoyogi Park metro station on the Chiyoda line.<br /> TEN enjoys a circulation of more than 10,000 readers, a number that continues to grow. For the past three years, Tokyo English Newspaper has been voted Top English Newspaper in Japan by the editors of Global Travel Guide magazine. For more information, visit www.tokyoenglishnewspaper.or.jp or call 03-5521-5935.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where would this notice likely be seen?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a listing of job openings",
+              "(B) On a university bulletin board",
+              "(C) In the lobby of a travel center",
+              "(D) On the door of a newspaper office"
+            ]
+          },
+          "answer": {
+            "text": "(D) On the door of a newspaper office",
+            "explanation": "Information in the sentence: \"Please be advised that the Shinjuku branch office of Tokyo English Newspaper(TEN) is closed for the summer as we undergo substantial improvements to our publishing offices.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "Why has the Shinjuku branch of TEN closed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The building has been sold.",
+              "(B) The workplace is being remodeled.",
+              "(C) The branch is moving to a new location.",
+              "(D) The establishment has gone out of business."
+            ]
+          },
+          "answer": {
+            "text": "(B) The workplace is being remodeled.",
+            "explanation": "Information in the sentence: \"Please be advised that the Shinjuku branch office of Tokyo English Newspaper(TEN) is closed for the summer as we undergo substantial improvements to our publishing offices.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT indicated about TEN?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is available only online.",
+              "(B) It has more than one office.",
+              "(C) It has been praised in a magazine.",
+              "(D) It recruits summer interns."
+            ]
+          },
+          "answer": {
+            "text": "(A) It is available only online.",
+            "explanation": "The Shinjuku office of TEN will re-open on 1 September. → Eliminate B<br>For the past three years, Tokyo English Newspaper has been voted Top English Newspaper in Japan by the editors of Global Travel Guide magazine → Eliminate C. <br>Note that TEN's Summer Journalism Internship program is being held at our Yoyogi Park branch and runs from 1 July to 1 September. → Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d73"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> <i>Ryke Photography</i><br>Cameras and photography supplies<br>www.rykephotograpliy.com</p></b><br>August 15<br><br>Hien Tran<br> 324 Oak Lane<br> Columbus, OH 43085<br><br>Dear Ms. Tran:<br><br>Thank you for renting from Ryke Photography. The camera you ordered from us will be arriving shortly (if you have not received it already). It has been thoroughly cleaned and tested prior to shipping. We are confident that you will be pleased with it, but if you experience any problems, please let us know right away.<br><br>Our records indicate that we have sent you the following items:<br>  •1 Manning 6100 camera (35-70 millimeter zoom lens)<br>  •2 lens caps<br>  •1 camera strap<br>  •1 hard-sided case<br><br>Your rental period ends on October 15. If the above items are not returned by this date, we will charge you for the purchase of replacement items.<br><br>When returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided. Affix the return label to the package and drop it off at your local Hart Courier office, or call 482-555¬0711 to arrange for a pickup.<br><br>Thank you again for your order.<br> Sincerely,<br>Paul Denning <br>Owner",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To give instructions about returning a camera",
+              "(B)To describe how a new camera is different from earlier models",
+              "(C)To explain how to use a camera",
+              "(D)To ask for a customer's opinion about a camera"
+            ]
+          },
+          "answer": {
+            "text": "(A)To give instructions about returning a camera",
+            "explanation": "Information in the sentences: \"When returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided. Affix the return label to the package and drop it off at your local Hart Courier office, or call 482-555¬0711 to arrange for a pickup.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the camera?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Ms. Tran picked it up at Ryke Photography.",
+              "(B)Ms. Tran has reported a problem with it.",
+              "(C)It was purchased by Ms. Tran.",
+              "(D)It was shipped with accessories."
+            ]
+          },
+          "answer": {
+            "text": "(D)It was shipped with accessories.",
+            "explanation": "Information in the sentence: \"When returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d71"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/802186_1485065450958.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Tickets to an exhibition",
+              "(B)Additions to a menu",
+              "(C)A free beverage",
+              "(D)A discount on a meal"
+            ]
+          },
+          "answer": {
+            "text": "(D)A discount on a meal",
+            "explanation": "Information in the sentences: \"Beginning next week, for the entire month of May, you can enjoy a delightful luncheon buffet for only $ 7.00 per person at the Spectrum Restaurant in the Amwell Exhibition Center.<br>That's one-third below our normal price.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How long will the offer be available?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)One day",
+              "(B)One week",
+              "(C)One month",
+              "(D)Three months"
+            ]
+          },
+          "answer": {
+            "text": "(C)One month",
+            "explanation": "Information in the sentence: \"Beginning next week, for the entire month of May, you can enjoy a delightful luncheon buffet for only $7.00 per person at the Spectrum Restaurant in the Amwell Exhibition Center.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d77"
+    },
+    {
+      "question": {
+        "text": "<b> Ann Novak [1:31 P.M.] </b><br>Hello, everyone. Last week when we met, I asked you to come up with strategies to bring attention to the community garden program. Does anyone have progress to reports? <br><b> Jay Goodwin [1:32 P.M.] </b><br>I reached out to Stuart Chan of City Wide Now, the local newspaper. You probably know his \"City Living\" column. <br><b> Mike Louden [1:33 P.M.] </b><br>The one that runs on Mondays? I never miss it! <br><b> Jay Goodwin [1:34 P.M.] </b><br>He has a large online following, too. He'd like to interview me for an upcoming issue. So that's happening next week. <br><b> Ann Novak [1:34 P.M.] </b><br>Wonderful. Will you talk about the community garden in general? <br><b> Jay Goodwin [1:35 P.M.] </b><br>I explained to Stuart that we are surveying members of the garden about issues regarding access to water. So he wants to focus on that. <br><b> Mike Louden [1:36 P.M.] </b><br>Lori and I are writing up the survey results. Ann. I'm getting ready to send you a draft. As soon as you have approved it, I can post it on our Web site. <br><b> Ann Novak [1:37 P.M.] </b><br>OK. I'll look it over this afternoon.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Ms. Novak?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She missed last weekend's meeting.",
+              "(B) She has just returned from a trip.",
+              "(C) She does not like Mr. Goodwin's idea.",
+              "(D) She gave her colleagues an assignment."
+            ]
+          },
+          "answer": {
+            "text": "(D) She gave her colleagues an assignment.",
+            "explanation": "Sign: Ms. Novak said \"I asked you to come up with strategies to bring attention to the community garden program\" "
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Mr. Chan?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A city official",
+              "(B) A local reporter",
+              "(C) A job candidate",
+              "(D) An expert gardener"
+            ]
+          },
+          "answer": {
+            "text": "(B) A local reporter",
+            "explanation": "Sign: \"Stuart Chan of City Wide Now, the local newspaper\""
+          }
+        },
+        {
+          "question": {
+            "text": "At 1:33 P.M., what does Mr. Louden most likely mean when he writes, \"I never miss it\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He enjoys participating in community activities.",
+              "(B) He always meets project deadlines.",
+              "(C) He subscribes to City Wide Now.",
+              "(D) He reads a column regularly."
+            ]
+          },
+          "answer": {
+            "text": "(D) He reads a column regularly.",
+            "explanation": "Mr. Louden knows well about the schedule of \"City Living\" column"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Louden indicate he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Conduct a survey",
+              "(B) Post a document online",
+              "(C) Prepare interview questions"
+            ]
+          },
+          "answer": {
+            "text": "(B) Post a document online",
+            "explanation": "He said \"As soon as you have approved it, I can <b>post it on our Web site.</b>\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d7d"
+    },
+    {
+      "question": {
+        "text": "<p style=\"text-align: center;\"><strong>Wanted: Pottery Assistants</strong></p>\n\n<p><br />\nPotter&#39;s Lair, a pottery production studio based in Bradford, English, is seeking two full-time assistants. --- [1] ---. Qualified candidates must have a solid understanding of ceramic production and be comfortable learning a process and then replicating it many times throughout the day. Consistency is crucial. --- [2] ---. Candidates will be observed closely at first by the artist and must be able to handle constructive criticism so that they can improve the quality of their work. Tasks involve preparing clay for the artist, sanding final pieces, mixing and applying glazes, and cleaning the studio at the end of each work day. Payment is &pound;8-&pound;12 per hour, depending on experience. --- [3] ---.<br />\nTo apply, send your resume and cover letter to yesenia@potterslair.com. Applicants will first be screened through a short phone conservation, then a select few will be invited to participate individually in a working interview. --- [4] ---. Once selected, assistants will be asked to sign a 90-day contract. During this trial period, assistants will be evaluated by the artist to determine of they have the skills necessary to be brought on as permanent employees.</p>\n",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is implied about the work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It involves a lot of repetition",
+              "(B) It allows for a flexible schedule.",
+              "(C) It does not require prior experience.",
+              "(D) It does not involve artist supervision."
+            ]
+          },
+          "answer": {
+            "text": "(A) It involves a lot of repetition",
+            "explanation": "Information in the sentences: \"Qualified candidates must have a solid understanding of ceramic production and be comfortable\nlearning a process and then replicating it many times throughout the day. Consistency is crucial.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about successful candidates for the pottery assistant job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will work some overtime hours.",
+              "(B) They are initially hired on a temporary basis.",
+              "(C) They are interviewed as a group to save time.",
+              "(D) They will be responsible for bringing their own tools."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are initially hired on a temporary basis.",
+            "explanation": "Information in the sentences: \"Once selected, assistants will be asked to sign a 90-day contract. During this trial period, assistants will be evaluated by the artist to determine if they have the skills\nnecessary to be brought on as permanent employees.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? <br>\"This will allow them to show off their skills in person.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "\"them\" in this sentence refers to \"applicants\" and \"in person\" refers to \"individually\". Therefore, the fourth position is the most suitable. \n\n"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d7f"
+    },
+    {
+      "question": {
+        "text": "To: Mei Ying mying@brightstar.com <br>From: Pedro Alvarez palvarez@tbkfoods.com<br> Subject: Tasty Foods<br> Date: November 4<br>-------------------<br>Dear Ms. Ying:<br><br>We appreciate the feedback we received from you when you took our recent breakfast foods survey; your feedback was important to us in developing our new Tasty Breakfast Foods line of products. As a token of our appreciation, we are sending you some free .samples of Tasty Breakfast Foods products. They should arrive within two weeks.<br><br>In about three months, you may be asked to participate in another telephone consumer survey for Tasty Breakfast Foods. If you would prefer not to be contacted about participating, please send an e-mail to me, or telephone me at 232-555-0151.<br><br>Be sure to check the Tasty Breakfast Foods Web site, www.tastybreakfastfoods.com, for information about where you can purchase our new products. You will also find nutrition information about the complete line of Tasty Breakfast Foods products as well as discount coupons.<br><br>Sincerely,<br>Pedro Alvarez <br>Product Manager",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the e-mail sent to Ms. Ying?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To Invite her to a meeting",
+              "(B)To answer a question she asked about a product",
+              "(C)To thank her for her help",
+              "(D)To explain why a shipment was delayed"
+            ]
+          },
+          "answer": {
+            "text": "(C)To thank her for her help",
+            "explanation": "Information in the sentence: \"We appreciate the feedback we received from you when you took our recent breakfast foods survey; your feedback was important to us in developing our new Tasty Breakfast Foods line of products.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is being sent to Ms. Ying?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A survey",
+              "(B)Nutrition information",
+              "(C)Consumer reports",
+              "(D)Some product samples"
+            ]
+          },
+          "answer": {
+            "text": "(D)Some product samples",
+            "explanation": "Information in the sentence: \"As a token of our appreciation, we are sending you some free .samples of Tasty Breakfast Foods products. They should arrive within two weeks.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned as a feature of the Tasty Breakfast Foods Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A collection of recipes using the products",
+              "(B)Consumers' opinions about the quality of the products",
+              "(C)A list of prices for the products",
+              "(D)A list of stores where the products are available"
+            ]
+          },
+          "answer": {
+            "text": "(D)A list of stores where the products are available",
+            "explanation": "Information in the sentence: \"Be sure to check the Tasty Breakfast Foods Web site, www.tastybreakfastfoods.com, for information about where you can purchase our new products.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d81"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"><b> Associate Publicist Wanted</b> </p><p align =\"center\"> <b>Blackhorse Publishing House</b> </p><br>Blackhorse Publishing House products a variety of contemporary works including fiction, nonfiction, and poetry. Some of our fiction authors include Simon Delacorte, Peter Simkin-Hall, and Katarina Sanchez. --- [1] ---. Our nonfiction list focuses primarily on the areas of gardening, home design, architecture, and cooking. <br>We are looking for an associate publicist to join our busy team. --- [2] ---. The successful candidate will support senior staff as well as lead publicity campaigns for authors. He or she will also organize and oversee event bookings for authors, including national and international speaking tours and other public appearances at festivals and bookstores, among other venues. <br>Ideal candidates will have 1-2 years of experience in trade publishing, either in a publicity or an editorial role. --- [3] ---. Job applicants must have wide knowledge of social media use in publishing as well as expertise with word-processing systems, excellent language and verbal skills, and commendable attention to detail. --- [4] ---.<br>If this sounds like you, please e-mail a cover letter and your resume no later than September 21 to efine@blackhorsepublishing.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To promote an upcoming job fair",
+              "(B) To notify employees about changes in senior staffing",
+              "(C) To encourage recent graduates to gain internship experience",
+              "(D) To invite qualified individuals to apply for a job"
+            ]
+          },
+          "answer": {
+            "text": "(D) To invite qualified individuals to apply for a job",
+            "explanation": "Sign: \"Associate Publicist Wanted\""
+          }
+        },
+        {
+          "question": {
+            "text": "What do Mr. Delacorte and Ms. Sanchez have in common?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They edit architecture books.",
+              "(B) They have the same publisher.",
+              "(C) They work as event planners.",
+              "(D) They have given international speaking tours"
+            ]
+          },
+          "answer": {
+            "text": "(B) They have the same publisher.",
+            "explanation": "Sign: \"Some of our fiction authors include Simon Delacorte, Peter Simkin-Hall, and Katarina Sanchez\" => Both of them work at Blackhorse Publishing House"
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned as one of the responsibilities of an associate publicist?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Arranging author appearances",
+              "(B) Updating word processing systems",
+              "(C) Interviewing prospective interns",
+              "(D) Attending professional conferences"
+            ]
+          },
+          "answer": {
+            "text": "(A) Arranging author appearances",
+            "explanation": "Sign: \"He or she will also organize and oversee event bookings for authors, including national and international speaking tours and other public appearances at festivals and bookstores, among other venues.\" => relating to the responsibilities of an associate publicist"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br>“Two professional references from these positions are essential.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Sign: \"Ideal candidates will have 1-2 years of experience in trade publishing, <b>either in a publicity or an editorial role</b>.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d88"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> MEMO </h3><br>To:Employees<br>From:James Allsop<br> Date:November 2<br>Subject:Office Services quality assurances survey<br><br>To help us determine user satisfaction with the travel agencies that arrange business trips for employees of the Lambert Corporation, Office Services would appreciate your answering the following questions. Please return the survey to me by November 30. Thank you for participating. <br> <br> --------------------------- <br> <br>@PS@/kstoeic/images/4077065_1485065451706.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To advertise a travel opportunity",
+              "(B)To rate an experience on an airplane",
+              "(C)To gather opinions from employees",
+              "(D)To request arrangements for a business trip"
+            ]
+          },
+          "answer": {
+            "text": "(C)To gather opinions from employees",
+            "explanation": "Information in the sentence: \"To help us determine user satisfaction with the travel agencies that arrange business trips for employees of the Lambert Corporation, Office Services would appreciate your answering the following questions.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem did the employee have with Jetrex Travel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Someone else received her tickets.",
+              "(B)The travel agents were not polite.",
+              "(C)She was booked on the wrong airline.",
+              "(D)The wrong account number was charged."
+            ]
+          },
+          "answer": {
+            "text": "(A)Someone else received her tickets.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d85"
+    },
+    {
+      "question": {
+        "text": "From: Employee List<br>From: Sophie Jang<br>Date: 31 March<br>Re: Second-quarter updates<br><br>First of all, I want to thank everyone for a successful first quarter. To help ensure success in the next quarter, let me give you some updates about adjustments to personnel that have been instituted recently. <br>I am pleased to announce that Christine Moreau has been promoted to accounting supervisor. I have asked Xun Wong and his team to ensure that the responsibilities of Ms. Moreau's previous role as our budget specialist are covered while we work with human resources to recruit a permanent replacement. <br>As you know, Samir Abbas retired a few weeks ago after more than twenty years with the company. Taking his place as credit analyst is Claudia Sandoval. Ms. Sandoval has more than seven years of experience with New Zealand Credit Bank and should have no trouble acclimating to her new position here at Anbaum. Please take a moment to stop by her office in room 128 and introduce yourself. <br><br>Sincerely,<br>Sophie Jang, Finance Manager<br>Aubaum Company",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Ms. Jang send the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To encourage employees to apply for a promotion",
+              "(B) To summarize recent changes in staff assignments",
+              "(C) To welcome several new employees to the company",
+              "(D) To announce changes in the company's hiring policy"
+            ]
+          },
+          "answer": {
+            "text": "(B) To summarize recent changes in staff assignments",
+            "explanation": "Information in the sentence: \"Let me give you some updates about adjustments to personnel that have been instituted recently.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "According to the e-mail, what position is currently open?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Accounting supervisor",
+              "(B) Budget specialist",
+              "(C) Credit analyst",
+              "(D) Finance manger"
+            ]
+          },
+          "answer": {
+            "text": "(B) Budget specialist",
+            "explanation": "Information in the sentences: \"I have asked Xun Wong and his team to ensure that the responsibilities of Ms. Moreau's previous role as our budget specialist are covered while we work with human resources to recruit a permanent replacement.\" "
+          }
+        },
+        {
+          "question": {
+            "text": "Who no longer works at Anbaum Company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Jang",
+              "(B) Ms. Moreau",
+              "(C) Mr. Wong",
+              "(D) Mr. Abbas"
+            ]
+          },
+          "answer": {
+            "text": "(D) Mr. Abbas",
+            "explanation": "Information in the sentence: \"Samir Abbas retired a few weeks ago\" "
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about Ms. Sandoval?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She holds a degree in finance.",
+              "(B) She moved to New Zealand seven years ago.",
+              "(C) She was recently hired.",
+              "(D) She will supervise the accounting department."
+            ]
+          },
+          "answer": {
+            "text": "(C) She was recently hired.",
+            "explanation": "Information in the sentence \"Taking his place as credit analyst is Claudia Sandoval.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d8a"
+    },
+    {
+      "question": {
+        "text": "To: Isla Garrick igarrick@gandgre.co.au<br>From: Owen Clement oclement@conggreveads.co.au<br>Subject: New service<br>Date: January 7<br><br>Dear Ms. Garrick, <br>I noticed that you placed an order recently, and before we fill it, I wanted to tell you about an exciting opportunity. Congreve Advertising is now offering another way for you to reach your customers: automated text messages. We're combining our eye-catching lawn advertisements withe the latest mobile phone technology to create a quick, easy method of increasing your customer base. We're already helped many property rental agents in your area, and we're giving free trials to new users. <br>Our automated text-messaging service involves just a few simple steps. <br>1. Go to our Web site, congreveads,co,au. Click on the Registration page and select New User. You will be guided through our quick and easy registration process, which will allow you to set up an account. <br>2. Once your account is set up, you can start entering the automated responses that you want interested renters to receive. Include the details about each property. You can also add images, audio, and videos, as well as links to Web sites. <br>3. Select a unique keyword for each property. This is what prospective renters will text in order to receive more information about rental. The keyword shouldn't be too long or difficult to spell, and it should be easy for customers to remember. <br>4. Then wait. Apartment seekers will pass by the property and see the keyword. When they text it, they will instantly receive the message you programmed! <br>As part of your free trial, we'll print new rental signs for one of your properties so that your advertisements include the keyword. And, if you contact me by Friday, I'll add two more properties to the order. So, in addition to a month of our text-messaging service, you'll get updated signs for three rental units, all at no cost to you. After the trial period, you can choose from six reasonably priced packages, which include the option of sending daily updates to preferred customers. <br>I look forward to hearing from you! <br>Owen Clement",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is implied about Ms. Garrick?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is interested in finding a rental property.",
+              "(B) She works as a property rental agent.",
+              "(C) She recently bought a new mobile telephone.",
+              "(D) She sends text messages frequently."
+            ]
+          },
+          "answer": {
+            "text": "(B) She works as a property rental agent.",
+            "explanation": "Sign: \"We're already helped many property rental agents in your area, and we're giving free trials to new users.\" => Congreve Advertising has provided their services to some businesses as Ms. Garrick's"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Congreve Advertising?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is a newly created company.",
+              "(B) It fills orders quickly.",
+              "(C) It is providing a new service.",
+              "(D) It recently merged with another company."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is providing a new service.",
+            "explanation": "Sign: \"Congreve Advertising is now offering another way for you to reach your customers: automated text messages\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about the automated responses?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are different for each property.",
+              "(B) They can be sent to an e-mail address.",
+              "(C) They include pictures taken by Congreve Advertising.",
+              "(D) They require apartment seekers to create a password."
+            ]
+          },
+          "answer": {
+            "text": "(A) They are different for each property.",
+            "explanation": "Sign: \"Once your account is set up, you can start entering the automated responses <b>that you want interested renters to receive.</b>\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the e-mail, why should Ms. Garrick contact Mr. Clement by Friday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To renew a subscription",
+              "(B) To talk about fees",
+              "(C) To schedule a property viewing",
+              "(D) To receive free services"
+            ]
+          },
+          "answer": {
+            "text": "(D) To receive free services",
+            "explanation": "Sign: \"And, if you contact me by Friday, I'll add two more properties to the order\", Mr. Clement said"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d91"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c6eccc8cae769c2d98"
+}

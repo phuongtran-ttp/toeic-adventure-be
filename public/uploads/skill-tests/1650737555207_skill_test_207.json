@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 207",
+  "questions": [
+    {
+      "question": {
+        "text": "Tanner Publications is currently seeking a copy editor with previous experience ___ excellent communication skills.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)such",
+          "(B)but",
+          "(C)and",
+          "(D)unless"
+        ]
+      },
+      "answer": {
+        "text": "(C)and",
+        "explanation": "We connect the two noun phrases using \"and\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1da2"
+    },
+    {
+      "question": {
+        "text": "Mi-Sun Park’s artwork ___ combines classical elements with modern materials and techniques.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)skill",
+          "(B)skilled",
+          "(C)skillful",
+          "(D)skillfully"
+        ]
+      },
+      "answer": {
+        "text": "(D)skillfully",
+        "explanation": "We are giving more information on the verb \"combines\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1da5"
+    },
+    {
+      "question": {
+        "text": "Due to the ongoing renovations in the lobby, please do not enter the building through the north entrance until you are ___ otherwise.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)notified",
+          "(B)realized",
+          "(C)achieved",
+          "(D)searched"
+        ]
+      },
+      "answer": {
+        "text": "(A)notified",
+        "explanation": "Notify sb = Tell sb"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1da8"
+    },
+    {
+      "question": {
+        "text": "In recognition of Elaine Tang’s exceptional service to ___ company, the human resources director will honor her at tonight’s employee awards ceremony.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)ours",
+          "(B)our",
+          "(C)us",
+          "(D)we"
+        ]
+      },
+      "answer": {
+        "text": "(B)our",
+        "explanation": "The answer comes before a noun so we use \"our\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1dab"
+    },
+    {
+      "question": {
+        "text": "Ms. Reston and Mr. Parnthong were two of the senior partners ___ visited the clients last week.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)who",
+          "(B)when",
+          "(C)what",
+          "(D)whose"
+        ]
+      },
+      "answer": {
+        "text": "(A)who",
+        "explanation": "This is a relative clause with human subject so we use \"who\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1dad"
+    },
+    {
+      "question": {
+        "text": "Randy Waters will be doing a product demonstration ___ the electronics convention in Atlanta.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)out",
+          "(B)at",
+          "(C)into",
+          "(D)across"
+        ]
+      },
+      "answer": {
+        "text": "(B)at",
+        "explanation": "At a convention"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1db1"
+    },
+    {
+      "question": {
+        "text": "Silveira & Ogawa Corporation’s successful new line of cookware has helped to boost the company's ___ performance this quarter.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)financial",
+          "(B)interested",
+          "(C)available",
+          "(D)believable"
+        ]
+      },
+      "answer": {
+        "text": "(A)financial",
+        "explanation": "Financial performance = Activities related to money"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1db3"
+    },
+    {
+      "question": {
+        "text": "The clothing shop is ___ because it sells quality uniforms at competitive prices.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)successful",
+          "(B)success",
+          "(C)succeed",
+          "(D)successfully"
+        ]
+      },
+      "answer": {
+        "text": "(A)successful",
+        "explanation": "The answer comes after \"is\" so we use an adjective. \"Success\" needs to go with \"a\" to be the answer."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1db7"
+    },
+    {
+      "question": {
+        "text": "Before ___ the envelope, please be sure you have enclosed all of the documents listed in your orientation packet.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)seal",
+          "(B)sealing",
+          "(C)is sealed",
+          "(D)was sealed"
+        ]
+      },
+      "answer": {
+        "text": "(B)sealing",
+        "explanation": "Before + V-ing"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1db9"
+    },
+    {
+      "question": {
+        "text": "Tomorrow we will meet with a ___ of consultants who specialize in staff training and team building.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)group",
+          "(B)supply",
+          "(C)measure",
+          "(D)fraction"
+        ]
+      },
+      "answer": {
+        "text": "(A)group",
+        "explanation": "\"Supply\", \"measure\", and \"fraction\" are not used for humans so we choose \"group\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1dbd"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644193eccc8cae769c1dc3"
+}

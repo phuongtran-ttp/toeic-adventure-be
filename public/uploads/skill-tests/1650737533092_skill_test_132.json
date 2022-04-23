@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 132",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_471.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_471.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0a9e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Good afternoon, this is Casey Davis from CRPX, with your local weather report. <strong>Q1&nbsp;This week&#39;s hot weather will end this afternoon when we&#39;ll finally get some rain.</strong> You can expect some light showers starting around one o&#39;clock. <strong>Q2&nbsp;The rain shouldn&#39;t affect this weekend&#39;s harvest parade;</strong> but, if you&#39;re going to the parade, <strong>Q3&nbsp;you may want to take an umbrella just in case.</strong> By Monday, we&#39;ll have sunshine again, and temperatures will return to around seventeen degrees.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will the weather be like this afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Rainy",
+              "(B)Hot",
+              "(C)Windy",
+              "(D)Snowy"
+            ]
+          },
+          "answer": {
+            "text": "(A)Rainy",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What event will take place this weekend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A football match",
+              "(B)A picnic",
+              "(C)A parade",
+              "(D)An outdoor market"
+            ]
+          },
+          "answer": {
+            "text": "(C)A parade",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker recommend taking to the event?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A warm coat",
+              "(B)An umbrella",
+              "(C)A bottle of water",
+              "(D)A snack"
+            ]
+          },
+          "answer": {
+            "text": "(B)An umbrella",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0aa0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_478.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_478.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0aa3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): |&#39;m happy to say that last week our company signed an exclusive deal with Yamaguchi Distributors in Tokyo.&nbsp;<strong>Q1 This is great news &mdash; Japan&#39;s a whole new market for us.</strong> The people at Yamaguchi were very impressed with our new line of folding commuter bicycles. There&#39;s one thing though &mdash; while <strong>Q2&nbsp;everyone at Yamaguchi loved the design,</strong> they did suggest that we expand our color selection. So, <strong>Q3&nbsp;before we start production, we&#39;re going to conduct a survey</strong> in several Japanese cities to see which colors people like best.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the speaker pleased about the deal with Yamaguchi Distributors?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The deal took many months to complete.",
+              "(B)Yamaguchi Distributors offers many services.",
+              "(C)It is an opportunity to enter a new market.",
+              "(D)Production costs will be reduced."
+            ]
+          },
+          "answer": {
+            "text": "(C)It is an opportunity to enter a new market.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did Yamaguchi Distributors like about the bicycles?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The materials used",
+              "(B)The price",
+              "(C)The weight",
+              "(D)The design"
+            ]
+          },
+          "answer": {
+            "text": "(D)The design",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the company going to do before starting production?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Open a branch office",
+              "(B)Invest in new technology",
+              "(C)Conduct a survey",
+              "(D)Hire more employees"
+            ]
+          },
+          "answer": {
+            "text": "(C)Conduct a survey",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0aa5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_474.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_474.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417ceccc8cae769c0aa8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Welcome to What&rsquo;s Going On, where we give you the latest news about books, films, and more. I&#39;m Jim Harlow, your host. To start our show, <strong>Q1&nbsp;I&#39;d like to recommend Ann Nolan&#39;s new novel called Where the Wind Settles Down.</strong> It&#39;s an intriguing story about a small town in New Mexico in the 1930s. Of course, we&#39;re exceptionally proud of <strong>Q2&nbsp;Ann Nolan, since she&#39;s lived in our town for many years.</strong> I&#39;m sure the book&#39;s going to be a best-seller, and I encourage you to pick up a copy. <strong>Q3&nbsp;Up next, I&#39;ll have a review of the latest album release from the band Tribal Journey.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the speaker mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A travel documentary",
+              "(B)A novel",
+              "(C)A magazine article",
+              "(D)A play"
+            ]
+          },
+          "answer": {
+            "text": "(B)A novel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about Ann Nolan?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She will be signing books.",
+              "(B)She will give a lecture.",
+              "(C)She is a local resident.",
+              "(D)She attended school in New Mexico."
+            ]
+          },
+          "answer": {
+            "text": "(C)She is a local resident.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners hear next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An interview",
+              "(B)A commercial",
+              "(C)A music review",
+              "(D)A news update"
+            ]
+          },
+          "answer": {
+            "text": "(C)A music review",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417ceccc8cae769c0aaa"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_497.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_497.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0aad"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br) And in local news &mdash; if you&#39;re headed to the south side of Halver City this weekend, keep in mind that <strong>Q1&nbsp;several streets will be closed for the neighborhood&#39;s annual arts festival</strong>.&nbsp;<strong>Q2&nbsp;Drivers will be asked to use detours around the south side from Friday morning to Sunday afternoon. </strong>To help city residents get to the event easily, <strong>Q3&nbsp;the transit office will be providing complimentary shuttle buses between the festival and the City Hall parking area.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will take place this weekend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A holiday parade",
+              "(B) An automobile show",
+              "(C) A sporting event",
+              "(D) An arts festival"
+            ]
+          },
+          "answer": {
+            "text": "(D) An arts festival",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are drivers asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Observe speed restrictions",
+              "(B) Use alternate routes",
+              "(C) Avoid parking on streets",
+              "(D) Allow extra travel time"
+            ]
+          },
+          "answer": {
+            "text": "(B) Use alternate routes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will be available for free?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) City maps",
+              "(B) Event tickets",
+              "(C) Bus service",
+              "(D) Neighborhood tours"
+            ]
+          },
+          "answer": {
+            "text": "(C) Bus service",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0aaf"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4103.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4103.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0ab1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): And before we leave, I just wanted to talk a bit <strong>Q1&nbsp;about our department&#39;s monthly luncheon.</strong>&nbsp;<strong>Q2&nbsp;As you all know, we had to postpone last month&#39;s gathering because of that big client project.</strong><strong> </strong>Thankfully, we were able to pull together and meet the deadline. To reward us for our hard work, the company has agreed to pay for this month&#39;s luncheon. But before I call the restaurant, <strong>Q3&nbsp;we have to decide whether we want to do this on Thursday, the 21st, or Friday, the 22nd.</strong> I&#39;d like everyone to check their calendars and let me know which day works best.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What event is being rescheduled?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A sales conference",
+              "(B) A department seminar",
+              "(C) A business luncheon",
+              "(D) A retirement party"
+            ]
+          },
+          "answer": {
+            "text": "(C) A business luncheon",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was the event postponed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A budget had not been approved yet.",
+              "(B) A restaurant was already booked.",
+              "(C) A speaker canceled unexpectedly.",
+              "(D) A client project had to be finished."
+            ]
+          },
+          "answer": {
+            "text": "(D) A client project had to be finished.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners asked to help select?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A menu",
+              "(B) A location",
+              "(C) A date",
+              "(D) A guest list"
+            ]
+          },
+          "answer": {
+            "text": "(C) A date",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ab4"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_495.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_495.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0ab6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am) Good afternoon. <strong>Q1&nbsp;This is Andrea Jones with another edition of American Byways &mdash; Radio KBH&#39;s country music program.</strong> We&#39;re thrilled to have the award-winning singer and songwriter, Maybelle Cander, as our special guest. On today&#39;s program, she&#39;ll talk about the making of her latest album, which was released just last week. <strong>Q2&nbsp;She&#39;ll also tell us about her nationwide concert tour, which is planned for this summer.</strong> KBH will be a sponsor of her local appearance. Before we talk with our guest today. <strong>Q3&nbsp;I&#39;m going to play the top hit from her latest recording.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A musician",
+              "(B) A museum guide",
+              "(C) A radio host",
+              "(D) A film producer"
+            ]
+          },
+          "answer": {
+            "text": "(C) A radio host",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will happen this summer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An award will be presented.",
+              "(B) A performer will go on tour.",
+              "(C) An album will be recorded.",
+              "(D) A cultural center will open."
+            ]
+          },
+          "answer": {
+            "text": "(B) A performer will go on tour.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speaker do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Play some music",
+              "(B) Announce an event schedule",
+              "(C) Thank some sponsors",
+              "(D) Give a lecture"
+            ]
+          },
+          "answer": {
+            "text": "(A) Play some music",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ab9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4109.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4109.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0abb"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Bettina, <strong>Q1&nbsp;this is Philip from human resources at XT Research</strong>. Congratulations on your new job here as a research analyst- we look forward to welcoming you on Monday. Since you&#39;re starting so soon, there wasn&#39;t time to mail you our standard employment contract, <strong>Q2&nbsp;so I&#39;ll have that ready for you to sign as soon as you get here. </strong>Once it&#39;s signed, I&#39;ll send a copy to payroll. Also, there&#39;s been a change to the orientation session you&#39;ll be attending that morning, <strong>Q3&nbsp;Usually, Keiko Mori conducts those sessions but she&#39;ll be away on business so Dan Bates will run the session instead. </strong>See you on Monday.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "In what department does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Research",
+              "(B) Payroll",
+              "(C) Sales",
+              "(D) Personnel"
+            ]
+          },
+          "answer": {
+            "text": "(D) Personnel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the listener asked to sign on Monday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An employment contract",
+              "(B) A paycheck",
+              "(C) An application form",
+              "(D) A purchase order"
+            ]
+          },
+          "answer": {
+            "text": "(A) An employment contract",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Dan Bates leading a session on Monday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It was the only time that he was available.",
+              "(B) He was recently promoted.",
+              "(C) The usual presenter will be away.",
+              "(D) The listener requested a change."
+            ]
+          },
+          "answer": {
+            "text": "(C) The usual presenter will be away.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0abe"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_496.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_496.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0ac0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Hello and welcome to the tenth annual Video Game Expo. My name is Jay Patel, and I&#39;m the president of Ludlow Enterprises, one of the official sponsors of this year&#39;s trade show. I&rsquo;m here to tell you about an exciting opportunity.&nbsp;<strong>Q1 Our company is developing a new video game</strong>, and <strong>Q2&nbsp;we want your story ideas! Send us an e-mail describing your vision for the plot of the next Ludlow adventure game. Q3&nbsp;If your idea is selected as the winner, we&#39;ll arrange for you to travel to Tokyo, with all expenses paid, for next year&#39;s Video Game Expo.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does Ludlow Enterprises produce?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Television shows",
+              "(B) An electronics magazine",
+              "(C) Sports gear",
+              "(D) Video games"
+            ]
+          },
+          "answer": {
+            "text": "(D) Video games",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners invited to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Nominate candidates",
+              "(B) Submit ideas",
+              "(C) Test products",
+              "(D) Write reviews"
+            ]
+          },
+          "answer": {
+            "text": "(B) Submit ideas",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what prize will be awarded?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A free trip to a trade show",
+              "(B) Dinner with a celebrity",
+              "(C) Electronic equipment",
+              "(D) An appearance on television"
+            ]
+          },
+          "answer": {
+            "text": "(A) A free trip to a trade show",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ac3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4107.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4107.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0ac5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): At a press conference today, <strong>Q1&nbsp;the governor announced that a new hospital will be built in Starks County.&nbsp;Q2&nbsp;The governor emphasized that the hospital will create over 300 jobs - helping to boost the local employment rate.&nbsp;Q3&nbsp;After the break. I&#39;ll talk with some local citizens of Starks County.</strong> They&#39;ve raised concerns that the proposed site for the project will have a negative impact on wildlife in the area.</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will be built in the community?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A hospital",
+              "(B) A community center",
+              "(C) A park",
+              "(D) A transit station"
+            ]
+          },
+          "answer": {
+            "text": "(A) A hospital",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What benefit of the project did the governor mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Shorter commutes",
+              "(B) Increased tourism",
+              "(C) A cleaner environment",
+              "(DA) More local jobs"
+            ]
+          },
+          "answer": {
+            "text": "(DA) More local jobs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will be interviewed after the break?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The governor",
+              "(B) Community residents",
+              "(C) A building inspector",
+              "(D) An economics professor"
+            ]
+          },
+          "answer": {
+            "text": "(B) Community residents",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ac8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_492.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_492.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0aca"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): A dependable Internet connection is essential for any profitable business. That&#39;s why so many customers are switching to Hamilton Online. <strong>Q1&amp;2&nbsp;At Hamilton, we guarantee that our Internet service is ten times more reliable than any of our competitors.</strong> But don&#39;t just take our word for it. <strong>Q3&nbsp;Go onto our Web site at hamiltononline.net to read what our customers have written about our service.</strong> We hope you&#39;ll be our next satisfied customer!</p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A cleaning company",
+              "(B) A computer store",
+              "(C) An Internet provider",
+              "(D) An accounting firm"
+            ]
+          },
+          "answer": {
+            "text": "(C) An Internet provider",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker emphasize about the service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its reliability",
+              "(B) Its low prices",
+              "(C) Its speed",
+              "(D) Its ease of use"
+            ]
+          },
+          "answer": {
+            "text": "(A) Its reliability",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what is available on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Promotional codes",
+              "(B) Instructional videos",
+              "(C) Software applications",
+              "(D) Customer reviews"
+            ]
+          },
+          "answer": {
+            "text": "(D) Customer reviews",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0acd"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417deccc8cae769c0ad4"
+}

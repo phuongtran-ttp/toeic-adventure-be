@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 111",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "34663003.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/27/34663003.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c048f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: <strong>Q1&nbsp;Good morning, Stokes Furniture Gallery. </strong>How can I help you?<br /> W-Br: <strong>Q2&nbsp;I&#39;m calling about the bookcases I saw advertised in last Sunday&#39;s newspaper.</strong> The one that was advertised has three shelves; <strong>Q3&nbsp;I&#39;m calling to find out whether that bookcase comes in any other sizes.</strong><br /> M-Au: Yes, in fact, there&#39;s also a taller one with four shelves, but we only have one of those in stock right now.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely does the man work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a bookshop",
+              "(B)At a newspaper office",
+              "(C)At a delivery company",
+              "(D)At a furniture store"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a furniture store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the woman's call?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To schedule a delivery",
+              "(B)To get product information",
+              "(C)To renew a subscription",
+              "(D)To discuss an invoice"
+            ]
+          },
+          "answer": {
+            "text": "(B)To get product information",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Reserve an item",
+              "(B)Check a price",
+              "(C)Change an address",
+              "(D)Confirm some measurements"
+            ]
+          },
+          "answer": {
+            "text": "(A)Reserve an item",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c0497"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "104378591-1568100556530-08.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/104378591-1568100556530-08.png",
+            "mime": "image/png",
+            "id": "6264416eeccc8cae769c0499"
+          }
+        ],
+        "sound": [
+          {
+            "name": "130881290-1578897667560.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/130881290-1578897667560.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c049e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script:</b> <br> W-Br: <b> Q1 Technical Support, may I help you?</b><br>W-Au: Yeah, I was trying to update a spreadsheet when error code 984 popped up. I don’t know what to do. <br>W-Br: We’ve had lots of calls about this lately. <b> Q2 Go ahead and send an error report</b>. We want the software developer to be aware of the problem, too. It’ll also save a copy of the report on your desktop for me to look at. I’ll be over to your office right away. <br>M-Au: Thanks. I’m in office 243. <b> Q3 The project I’m working on is really important, so I’m worried about my data being arased.</b><br>W-Br: I should be able to correct the problem and recover any lost data for you. <br><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A job applicant",
+              "(B) A financial analyst",
+              "(C) A software salesperson",
+              "(D) A computer technician"
+            ]
+          },
+          "answer": {
+            "text": "(D) A computer technician",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic which option should be the man select?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Option 1",
+              "(B) Option 2",
+              "(C) Option 3",
+              "(D) Option 4"
+            ]
+          },
+          "answer": {
+            "text": "(B) Option 2",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he is worried about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Locating a laptop",
+              "(B) Meeting sales goals",
+              "(C) Losing some data",
+              "(D) Missing a deadline"
+            ]
+          },
+          "answer": {
+            "text": "(C) Losing some data",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04a5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "34196938.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/34196938.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c049b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: Peter, could you tell me what you covered during this morning&#39;s staff meeting? I&#39;m sorry I couldn&#39;t make it. <strong>Q1&nbsp;I had a meeting with a client at the same time.</strong><br /> M-Au: No problem. <strong>Q2&nbsp;The most important item on the agenda was the new project-management software. I&#39;m going to set up a separate training session for each department.</strong><br /> W-Am: Oh, really? When are you doing the training for the marketing staff? I want to make sure I&#39;m there.<br /> M-Au: On Monday afternoon. But before that, <strong>Q3&nbsp;I&#39;ll be sending attendees a brochure that describes the new software.</strong> I&#39;d like everyone to take a few minutes to read the information before the training session.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did the woman miss the staff meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She was stuck in traffic.",
+              "(B)She was with a client.",
+              "(C)She was finishing a project.",
+              "(D)She had a doctor's appointment."
+            ]
+          },
+          "answer": {
+            "text": "(B)She was with a client.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the man scheduling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Telephone-marketing workshops",
+              "(B)New-employee orientations",
+              "(C)Department budget discussions",
+              "(D)Software-training sessions"
+            ]
+          },
+          "answer": {
+            "text": "(D)Software-training sessions",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man send to attendees?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A product brochure",
+              "(B)A meeting agenda",
+              "(C)An employee handbook",
+              "(D)A travel itinerary"
+            ]
+          },
+          "answer": {
+            "text": "(A)A product brochure",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04a7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_3810.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_3810.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04a3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Br: Scott, <strong>Q1&nbsp;your first few articles for the politics section of our newspaper have been excellent. </strong>Even though you&#39;re relatively new here, I&#39;d like you to cover the mayor&#39;s press conference on Thursday.<br /> M-Au: That&#39;s the one about education reform in our local schools, right? <strong>Q2&nbsp;I heard the mayor&#39;s going to make an important announcement.</strong> When&#39;s the deadline for the article?<br /> W-Br: In order to make the Sunday edition, <strong>Q3&nbsp;you&#39;ll have to give me your final draft on Friday afternoon.</strong> Oh, and I&#39;m going to send one of our staff photographers to take some pictures to go with your piece.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a newspaper office",
+              "(B)At a government agency",
+              "(C)At a local school",
+              "(D)At a photography studio"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a newspaper office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say about the mayor?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He was recently elected to his position.",
+              "(B)He has been given an award.",
+              "(C)He will make an important announcement.",
+              "(D)He will take pictures with local voters."
+            ]
+          },
+          "answer": {
+            "text": "(C)He will make an important announcement.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When does the man have to complete an assignment?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)On Thursday",
+              "(B)On Friday",
+              "(C)On Saturday",
+              "(D)On Sunday"
+            ]
+          },
+          "answer": {
+            "text": "(B)On Friday",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04ab"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "63513299.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/63513299.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c0493"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: John, <strong>Q1&nbsp;we have a problem with theater 4. People have been complaining about the sound. Q2 They can&#39;t hear what the actors are saying. Can you figure out what&#39;s wrong with the audio equipment?</strong><br /> M-Au: Sure, but it might take some time. <strong>Q1&nbsp;Do you want me to stop the movie now</strong>, or wait until it&#39;s over?<br /> W-Am: So many people have complained I think we should just stop the screening. <strong>Q3&nbsp;I&#39;ll offer everyone in the audience a refund.</strong> Maybe some of them will use it to stay and see another film.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a movie theater",
+              "(B) In a musical instruments shop",
+              "(C) In an electronics store",
+              "(D) In a concert hall"
+            ]
+          },
+          "answer": {
+            "text": "(A) In a movie theater",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A shipment has not arrived.",
+              "(B) Some prices have gone up.",
+              "(C) A performance is sold out.",
+              "(D) Some equipment is not working properly."
+            ]
+          },
+          "answer": {
+            "text": "(D) Some equipment is not working properly.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman give each customer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A free CD",
+              "(B) An event calendar",
+              "(C) A refund",
+              "(D) An autographed poster"
+            ]
+          },
+          "answer": {
+            "text": "(C) A refund",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04a1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "16855923.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/27/16855923.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04a9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: I really like this restaurant, but,&nbsp;<strong>Q1 it&#39;s very hard to talk here &mdash; it&#39;s always so crowded and noisy.</strong><br /> W-Am: Yes, but <strong>Q2&nbsp;the service makes up for it &mdash; one of the waiters told me that they&#39;re all graduates of a professional training program.</strong><br /> M-Au: And it is nice that the restaurant&#39;s only a block away from the movie theater.&nbsp;<strong>Q3 Speaking of which, the movie starts in 20 minutes. We should go ahead and pay.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man dislike about the restaurant?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The food is expensive.",
+              "(B)The menu is limited.",
+              "(C)It is hard to get a reservation.",
+              "(D)It is difficult to hold a conversation."
+            ]
+          },
+          "answer": {
+            "text": "(D)It is difficult to hold a conversation.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say about the wait staff?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They have been professionally trained.",
+              "(B)They are required to memorize the menu.",
+              "(C)They have worked at the restaurant for many years.",
+              "(D)They are relatives of the restaurant’s owner."
+            ]
+          },
+          "answer": {
+            "text": "(A)They have been professionally trained.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speakers probably do after they pay?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Return to the office",
+              "(B)Go shopping",
+              "(C)Catch a flight",
+              "(D)See a movie"
+            ]
+          },
+          "answer": {
+            "text": "(D)See a movie",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04b1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_384.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_384.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04b6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: Hi. <strong>Q1&nbsp;I&#39;m here to check on my order for business cards. </strong>They were supposed to be ready sometime this week.<br /> W-Br: I was just about to call you. <strong>Q2 There&#39;s a problem with your order. It seems that we&#39;re out of card stock in the color you wanted.</strong> We should be getting more in next week, though. M-Au: Oh, I was hoping to have those cards for a conference this weekend. Is there any way I can get them before Friday?<br /> W-Br: Well,&nbsp;<strong>Q3 if you choose a different color for the cards, I can get them printed up and delivered to you by the end of the week.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does the man visit the shop?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To ask about an order",
+              "(B)To purchase a gift",
+              "(C)To leave a brochure",
+              "(D)To exchange an item"
+            ]
+          },
+          "answer": {
+            "text": "(A)To ask about an order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the woman mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A manager is not available.",
+              "(B)A material is out of stock.",
+              "(C)A file was misplaced.",
+              "(D)A name was misspelled."
+            ]
+          },
+          "answer": {
+            "text": "(B)A material is out of stock.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Check a Web site",
+              "(B)Return next week",
+              "(C)Provide a credit card number",
+              "(D)Select another color"
+            ]
+          },
+          "answer": {
+            "text": "(D)Select another color",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04ba"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "14132695.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/14132695.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04b3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Cn: Hi, <strong>Q1&nbsp;I saw on a television commercial that your art-supply store offers classes. </strong>What kinds of courses do you have?<br /> W-Am: Right now we&#39;re offering a variety of classes in drawing, painting, and sculpture. Would any of those interest you?<br /> M-Cn: I&#39;d like to try sculpture.&nbsp;<strong>Q2 But I&#39;ve never studied any type of art before, so I&#39;d be looking for an introductory-level class.</strong><br /> W-Am: Well, our Sculpting for Beginners class is starting tomorrow evening at seven o&#39;clock. If you&#39;d like, I can tell you what supplies you&#39;ll need. <strong>Q3&nbsp;It&#39;s a good idea to buy everything in advance so you have it for the first class.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the woman work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At an art-supply store",
+              "(B)At a university",
+              "(C)At a photography studio",
+              "(D)At a community center"
+            ]
+          },
+          "answer": {
+            "text": "(A)At an art-supply store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is important to the man about the class?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It should take place in the evening.",
+              "(B)It should be taught at a beginner level.",
+              "(C)It should be taught by a particular instructor.",
+              "(D)It should have a reasonable price."
+            ]
+          },
+          "answer": {
+            "text": "(B)It should be taught at a beginner level.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Purchase materials",
+              "(B)Meet with an instructor",
+              "(C)Submit a portfolio",
+              "(D)Fill out a registration form"
+            ]
+          },
+          "answer": {
+            "text": "(A)Purchase materials",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04bc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "29333752.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/29333752.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04b8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Au: Good afternoon, and thank you for calling Sunnydale Furniture, where you&#39;ll find the area&#39;s biggest discounts on all home and office furniture. How can I help you?<br /> W-Am: I was looking through your catalog, and there&#39;s a desk I&#39;m interested in. <strong>Q1&nbsp;I was wondering if you have it on display in your store.</strong> It&#39;s the Putnam model.<br /> M-Au: I&#39;m sorry, <strong>Q2&nbsp;that particular model was recently discontinued.</strong> But it&#39;s been replaced with a very similar style, called the Shipley, and we do have one of those here in the store.<br /> W-Am: OK, great! I&#39;ll be in town later today, so <strong>Q3&nbsp;I&#39;ll stop by to take a look.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To confirm that a price is correct",
+              "(B) To request a store catalog",
+              "(C) To find out if an item is on display",
+              "(D) To check the status of an order"
+            ]
+          },
+          "answer": {
+            "text": "(C) To find out if an item is on display",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say about the Putnam model?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It requires assembly.",
+              "(B) It has been discontinued.",
+              "(C) It has to be shipped from the warehouse.",
+              "(D) It is durable."
+            ]
+          },
+          "answer": {
+            "text": "(B) It has been discontinued.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Compare prices",
+              "(B) Cancel an order",
+              "(C) Check with another supplier",
+              "(D) Visit a store"
+            ]
+          },
+          "answer": {
+            "text": "(D) Visit a store",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04bf"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "35088502.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/27/35088502.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416eeccc8cae769c04c2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: Hello, Mr. Whitman? This is Susan Wright, the editor of Mountain Ridge Magazine.&nbsp;<strong>Q1 I&#39;m calling because I&#39;d like you to write an article for our publication</strong>. We&#39;ve seen previous articles you&#39;ve written on rock climbing, and we&#39;re impressed with your work.<br /> M-Au: I&#39;m glad to hear that. I&#39;ve been reading your magazine for many years, so I&#39;m excited about the opportunity to write for you. <strong>Q2&nbsp;Could you give me more details about the subject you want me to write about?</strong><br /> W-Am: We&#39;d like you to review some rock-climbing equipment that&#39;s just come on the market. <strong>Q3&nbsp;We&#39;ll send you the equipment you&#39;ll be reviewing</strong>.&nbsp;If possible, I&#39;d like to have the review by the end of the month so we can include it in our August issue.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To offer an assignment",
+              "(B)To discuss a sporting event",
+              "(C)To describe a promotion",
+              "(D)To request an interview"
+            ]
+          },
+          "answer": {
+            "text": "(A)To offer an assignment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man inquire about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The cost of a subscription",
+              "(B)The location of an activity",
+              "(C)The payment for a project",
+              "(D)The subject of an article"
+            ]
+          },
+          "answer": {
+            "text": "(D)The subject of an article",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman send the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A schedule",
+              "(B)A contract",
+              "(C)Some equipment",
+              "(D)Some recent issues"
+            ]
+          },
+          "answer": {
+            "text": "(C)Some equipment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416eeccc8cae769c04c5"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "EASY",
+  "id": "6264416eeccc8cae769c04cc"
+}

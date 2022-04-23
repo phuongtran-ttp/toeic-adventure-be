@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 128",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "624401096-1578906650529.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/624401096-1578906650529.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0969"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au: Help. My name is Sandeep Prakash and <b> Q1  I’m a reporter for the Ridgedell Times</b>. I’m calling because I’m writing an article about the new production your theater is putting on this weekend. <b>Q2 I saw on your Web site that you don’t allow photography during the performance, and I was wondering whether you’d be willing to make an exception – I’d really like to take some pictures of the sets and actors to publish with my article. Q3 If not, I could come to one of your dress rehearsals</b>. I’ll be out of town tomorrow morning for a celebrity interview, but I’m free to attend a rehearsal any other time this week. Please give me a call back at 555-0152. Thanks, I look forward to hearing from you. <br><br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An actor",
+              "(B) A journalist",
+              "(C) A book editor",
+              "(D) A play director"
+            ]
+          },
+          "answer": {
+            "text": "(B) A journalist",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the speaker calling the theater?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To obtain permission for photographs",
+              "(B) To plan for a reception",
+              "(C) To reserve seats",
+              "(D) To request a group discount"
+            ]
+          },
+          "answer": {
+            "text": "(A) To obtain permission for photographs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say he can do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Read a script",
+              "(B) E-mail an article",
+              "(C) Give a presentation",
+              "(D) Attend a rehearsal"
+            ]
+          },
+          "answer": {
+            "text": "(D) Attend a rehearsal",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c096d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "78690087-1584094758147.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/78690087-1584094758147.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0972"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome to our quarterly staff meeting. First, I want to encourage you to read the business section in today’s Newville Times. <b> Q1 You’ll see there that we received the award for the best household moving company in the area!</b> But keep mind, there’re a new moving company opening soon in the city. <b> Q2 In order to maintain our successful business, Q3 we’re invested in ten more moving trucks</b> and hired some new drivers. The trucks are expected to be here by the end of the month."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What did the Newville Times recently do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It printed advertisements in color.",
+              "(B) It reduced the subscription fee.",
+              "(C) It announced award winners.",
+              "(D) It merged with another newspaper."
+            ]
+          },
+          "answer": {
+            "text": "(C) It announced award winners.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when he says, “there’s a new moving company opening soon in the city\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A branch location will be built.",
+              "(B) Competition for customers will increase.",
+              "(C) More people will move to the area.",
+              "(D) Road traffic will worsen."
+            ]
+          },
+          "answer": {
+            "text": "(B) Competition for customers will increase.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has the business bought recently?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Vehicles",
+              "(B) Cleaning equipment",
+              "(C) Office furniture",
+              "(D) Computers"
+            ]
+          },
+          "answer": {
+            "text": "(A) Vehicles",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0976"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan=\"2\"> <h4 align=\"center\"> SPRINGDALE MUSIC CLUB'S <br> SATURDAY CONCERT LINE UP</h4> </td></tr><tr><td align=\"center\"> 5:00 P.M-8:00 P.M </td><td align=\"center\"> Barbeque Cook out,<br> bring your own meat!</td> </tr><tr><td align=\"center\"> 8:00 P.M-9:00 P.M </td><td align=\"center\"> Djubai Djinn,<br> all the way from East Timor</td> </tr><tr><td align=\"center\"> 9:00 P.M-10:00 P.M </td><td align=\"center\"> Swingging Deveils,<br> touring from Memphis</td> </tr><tr><td align=\"center\">10:00 P.M-11:00 P.M </b> </td><td align=\"center\"> Rock or Die!<br> Local heroes</td> </tr> <tr><td align=\"center\">11:00 P.M-12:00 P.M </b> </td><td align=\"center\"> Ferocious Four,<br> all the way from New York City </td> </tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0408.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0408.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c096f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> <b> Q1 Springdale Music Club has just expanded its music selection to include world music artists.</b> We are extremely excited to be able to build on our already impressive offering of domestic recording artists! We'll be having a live performance of international sensation, Djubai Djinn, this Saturday at 8:00 P.M. Come early for the cook out too. Bring your own meats though; we can’t feed everyone! <b> Q3 Djubai Djinn will be signing autographs and selling their own albums and merchandise to help promote their US tour, so be sure you bring your money</b> and your dancing feet! For those of you worried that we may be changing our focus too much, fear not! <b> Q2 Springdale Music Club will still keep a healthy emphasis on rock and roll music, and this Saturday’s concert is no exception with 3 rockin’ acts.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Springdale Music Club?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They love all music equally.",
+              "(B) They take pride in location.",
+              "(C) They specialize in country music.",
+              "(D) They have never carried world music before."
+            ]
+          },
+          "answer": {
+            "text": "(D) They have never carried world music before.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What can you infer about the bands?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be great.",
+              "(B) They are jazz musicians.",
+              "(C) The acts following Djubai Djinn play rock and roll.",
+              "(D) It will be loud."
+            ]
+          },
+          "answer": {
+            "text": "(C) The acts following Djubai Djinn play rock and roll.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does Springdale Music Club ask you to bring your money?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The concert will be expensive.",
+              "(B) There is a bar.",
+              "(C) To help support Djubai Djinn’s US tour",
+              "(D) To pay for your meats"
+            ]
+          },
+          "answer": {
+            "text": "(C) To help support Djubai Djinn’s US tour",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0978"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "669767018-1578906681875.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/669767018-1578906681875.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c097a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Am: All right, everyone. <b> Q1 I’m pleased to let you know that the renovation of our outdoor dinning patio is almost finished</b>. We anticipate that the regular customers are very excited about eating outside again! So, that means <b> Q2&3 there’ll be extra shifts for anyone who would like them. Q3 If you’re interested, you can sign up in the break room</b>. Write your name in the time slots that you’ll be available to work. But remember, the sign-up sheet will only be there for a few days. <br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a furniture store",
+              "(B) At a construction company",
+              "(C) At a gardening center",
+              "(D) At a restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the speaker offering the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Additional work shifts",
+              "(B) Free beverages",
+              "(C) Longer breaks",
+              "(D) More vacation time"
+            ]
+          },
+          "answer": {
+            "text": "(A) Additional work shifts",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says \"the sign-up sheet will only be there for a few days\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She needs clarification.",
+              "(B) She will follow the correct procedure.",
+              "(C) Employees should act soon.",
+              "(D) Employees can submit recommendations."
+            ]
+          },
+          "answer": {
+            "text": "(C) Employees should act soon.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0980"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0974"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Hello, this is Sam Booth calling from Crimson Realty. <b> Q1 This message is for Jordan King. I’m happy to say that someone is interested in making an offer on your house. Q2 I would like to stop by with the potential buyer this Thursday to discuss the sale in more detail. </b> Please let me know what time on Thursday you’re available and I’ll arrange a time with the potential buyer. <b> Q3 In the meantime, I suggest you clean up the house so it looks as impressive as possible for Thursday.</b> Thank you."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A potential buyer",
+              "(B) A bank teller",
+              "(C) A real estate agent",
+              "(D) An architect"
+            ]
+          },
+          "answer": {
+            "text": "(C) A real estate agent",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why would the speaker like to arrange a meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To discuss a sale",
+              "(B) To renew a contract",
+              "(C) To draw up a budget",
+              "(D) To introduce his co-worker"
+            ]
+          },
+          "answer": {
+            "text": "(A) To discuss a sale",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker suggest doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Updating a website",
+              "(B) Accepting an offer",
+              "(C) Making the house neat",
+              "(D) Lowering a price"
+            ]
+          },
+          "answer": {
+            "text": "(C) Making the house neat",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c097e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "784084725-1584094779829.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/784084725-1584094779829.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0982"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Do you regularly use videoconferencing to connect with colleagues working in other locations? Well, then Connectivity 3.0 is the program for you. <b> Q2 With normal videoconferencing systems, you need to set up special phone numbers, various access codes, and special equipment for your meeting</b>. Aren’t there better ways to use your time?  <b> Q1 With Connectivity 3.0, just download our application onto your smartphone or tablet and you're ready to immediately join your videoconference. Q3 Visit our Web site to watch a step-by-step video of how easy it is to use</b>. Connectivity 3.0—simplify collaboration."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is Connectivity 3.0?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A videoconferencing application",
+              "(B) A new brand of smartphone",
+              "(C) A store security system",
+              "(D) An Internet service provider"
+            ]
+          },
+          "answer": {
+            "text": "(A) A videoconferencing application",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker mean when he says, “Aren’t there better ways to use your time”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A staff member should join a team.",
+              "(B) Other systems are not as efficient.",
+              "(C) Employees need more training.",
+              "(D) Business hours should be shortened."
+            ]
+          },
+          "answer": {
+            "text": "(B) Other systems are not as efficient.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say listeners can do on a Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) View a demonstration",
+              "(B) Sign up for updates",
+              "(C) Register a product",
+              "(D) Make a purchase"
+            ]
+          },
+          "answer": {
+            "text": "(A) View a demonstration",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0986"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/7828355_1564545580268.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0409.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0409.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0984"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> Welcome to Lake Kitano National Park.<b> Q1 I’m Jane Black, your guide for today.</b> If you look at your map, we’ll start our tour from the Information Center and head to West gate. <b> Q2 Now we usually continue our journey to South gate after a short break, but that path is closed to the public this season. </b> Instead we’ll take the path to East gate and hike up the Kilmore Cliff trail until we reach Lake Kitano. <b> Q3 For those of you who are afraid of heights, Kilmore Cliff is a trail that goes along the 50-meter cliff drop.</b> If you have any concerns please voice them now. Otherwise we’ll begin our tour..."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Residents",
+              "(B) Tourists",
+              "(C) Park employees",
+              "(D) Forest rangers"
+            ]
+          },
+          "answer": {
+            "text": "(B) Tourists",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the map. What place are the listeners unable to go to?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lake Kitano",
+              "(B) East gate",
+              "(C) Kilmore Cliff",
+              "(D) Paradise Garden"
+            ]
+          },
+          "answer": {
+            "text": "(D) Paradise Garden",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman mention about Kilmore Cliff?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is dangerous.",
+              "(B) The views are spectacular.",
+              "(C) People who fear heights may not enjoy it.",
+              "(D) It is 50 meters from the final destination."
+            ]
+          },
+          "answer": {
+            "text": "(C) People who fear heights may not enjoy it.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c098b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "313192312-1578906710860.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/313192312-1578906710860.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c098d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br: Hello, this is Xinyu Wu from the Council for the Arts. <b> Q1 I’m calling to thank you for your generous donation during our recent fund-raiser</b>. Also, <b> Q2 I wanted to ask if you’d like to write something about what inspired you to donate. </b> We’re sending out some promotional material with a schedule of our summer programs soon, and we’re including a few personal stories about what art means to our members and why they think it’s important to support art. <b> Q3 I can stop by your office some morning this week to discuss it with you</b>, if you’d like. I have some meetings near your office building on Tuesday and Wednesday, so let me know if that would work. <br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the speaker thank the listeners for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Buying her artwork",
+              "(B) Introducing her to someone",
+              "(C) Donating some money",
+              "(D) Sending some brochures"
+            ]
+          },
+          "answer": {
+            "text": "(C) Donating some money",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker invite the listener to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Share a story",
+              "(B) Speak at an event",
+              "(C) Attend a debate",
+              "(D) Koin an organization"
+            ]
+          },
+          "answer": {
+            "text": "(A) Share a story",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker say, \"I have some meetings near your office building on Tuesday and Wednesday\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is accepting an invitation.",
+              "(B) She is indicating when she is available.",
+              "(C) She is offering to deliver some documents.",
+              "(D) She is suggesting a change in location."
+            ]
+          },
+          "answer": {
+            "text": "(B) She is indicating when she is available.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0991"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "968471271-1578897712053.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/968471271-1578897712053.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0994"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> M-Au: Looking for a great place to eat? Come to Cooper’s Restaurant! <b> Q1 City Sights Magazine recognized you as one of the top ten restaurants in Pearl City for using all locally grown fruits and vegetables in our dishes. Q2 Cooper’s is conveniently located in the heart of the entertainment district, </b>  so it’s the perfect place to enjoy a meal before a play or concert. Call today for a reservation. We’re open every day from eleven A.M to midnight. <b> Q3 To see our menu and the list of daily specials, visit our Web site</b>. We hope to see you soon! <br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, what is the restaurant known for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Using local ingredients",
+              "(B) Providing cooking lessons",
+              "(C) Featuring international dishes",
+              "(D) Offering outdoor seating"
+            ]
+          },
+          "answer": {
+            "text": "(A) Using local ingredients",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what is near the restaurant?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Public transportation",
+              "(B) Several entertainment venues",
+              "(C) A popular hotel",
+              "(D) The city's waterfront."
+            ]
+          },
+          "answer": {
+            "text": "(B) Several entertainment venues",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why should listeners visits a Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To place an order",
+              "(B) To read a review",
+              "(C) To make a reservation",
+              "(D) To see a menu"
+            ]
+          },
+          "answer": {
+            "text": "(D) To see a menu",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0998"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c098f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Good morning, radio listeners. This is Tim Lester with your Morning Newsflash. <b> Q1 An hour ago, there was a serious collision at the intersection of Smith Avenue and Main street.</b> Traffic is extremely congested and it’s almost impossible to get anywhere downtown. <b> Q2 As a result, tonight’s soccer match has been delayed by two hours to allow spectators time to make it to the stadium.</b> Oh, also remember, during half time there will be a hot dog eating contest. <b> Q3 The winner will receive an airline ticket to Hawaii.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the news report mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A weather forecast",
+              "(B) A road construction project",
+              "(C) A traffic accident",
+              "(D) A cooking contest"
+            ]
+          },
+          "answer": {
+            "text": "(C) A traffic accident",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What event has been delayed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A sports game",
+              "(B) A live concert",
+              "(C) An opening ceremony",
+              "(D) An orientation"
+            ]
+          },
+          "answer": {
+            "text": "(A) A sports game",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the winner of the eating contest receive?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A concert ticket",
+              "(B) A gift certificate",
+              "(C) A cash prize",
+              "(D) A plane ticket"
+            ]
+          },
+          "answer": {
+            "text": "(D) A plane ticket",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c099b"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417aeccc8cae769c09aa"
+}

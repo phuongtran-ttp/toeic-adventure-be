@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 98",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/7389051_1564545884169.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0313.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c003a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b><br> W: Hi, Harold. <b> Q1&2 Just wanted to let you know I’m nearly finished with all of Farnod Computing’s windows. I’m going to move up to the next floor in about twenty minutes. </b> Are you finished with Raptas’ window? <br> M:  Hi, Batty. Yeah, I have finished Raptas’ and I’m going upstairs to the next floor. The windows are already pretty clean up there so I think we can get the job done pretty soon. <br>W:  Great. Before you start on the 4th floor, can you please bring me some more window cleaner? I have run out. <br>M: Sure, I’ll be up in about twenty minutes. It will be good to see how clean your windows are compared to mine. <b> Q3 When we are finished with the windows, we need to start on the carpets.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Window cleaners",
+              "(B) Computer repair technicians",
+              "(C) Telephone operators",
+              "(D) Athletes"
+            ]
+          },
+          "answer": {
+            "text": "(A) Window cleaners",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where is the woman going next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Raptas",
+              "(B) Farnod Computing",
+              "(C) Chaims & Son",
+              "(D) Hecadi Constructing"
+            ]
+          },
+          "answer": {
+            "text": "(C) Chaims & Son",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the speakers probably going to do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Go home",
+              "(B) Eat lunch",
+              "(C) Clean the carpets",
+              "(D) Leave the building"
+            ]
+          },
+          "answer": {
+            "text": "(C) Clean the carpets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c003f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "649149251-1578622136879.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/649149251-1578622136879.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0044"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: Good morning, Mr. Lin. <b> Q1 We have a package for you to pick up here at the Morseville post office</b>. You should have received a missed delivery card when we tried to deliver it a week ago. <br>M-Cn: I’m looking through my mail now, and <b> Q2 I can’t find any notice about a missed delivery</b>. I just got back from vacation. <br>W-Br: Oh, I see. Well, that shouldn’t be a problem. <b> Q3 Just be sure to bring along some form of photo indentification when you come to pick your package up. </b><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A florist",
+              "(B)A bus driver",
+              "(C)A travel agent",
+              "(D)A postal worker"
+            ]
+          },
+          "answer": {
+            "text": "(D)A postal worker",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he can not find?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A credit card",
+              "(B)A delivery notice",
+              "(C)A trip itinerary",
+              "(D)A revised invoice"
+            ]
+          },
+          "answer": {
+            "text": "(B)A delivery notice",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to bring with him?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Proof of payment",
+              "(B)An account number",
+              "(C)Photo identification",
+              "(D)Some packaging supplies"
+            ]
+          },
+          "answer": {
+            "text": "(C)Photo identification",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0047"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "13056468.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/13056468.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0042"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: Hi, Rushali, <b> Q1 can you tell me when the order for the new protective eyewear will be here? </b> We need the goggles next week because the workers on the factory floor will have to wear them to operate the new equipment. <br>W-Br: Oh, I’m glad you brought it up. <b> Q2 The shipment of goggles is due to arrive on Monday morning and requires a manager’s signature, but I’m leaving to go on vacation tomorrow. Will you be able to sign for it? </b><br>M-Cn: No, sorry, <b> Q3 I’ll be busy helping the technicians install the new equipment. </b><br><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man ask the woman about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Travel plans",
+              "(B) Machine repairs",
+              "(C) A delivery date",
+              "(D) A payment amount"
+            ]
+          },
+          "answer": {
+            "text": "(C) A delivery date",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Hide additional staff",
+              "(B) Provide photo identification",
+              "(C) Make a deposit",
+              "(D) Sign for a package"
+            ]
+          },
+          "answer": {
+            "text": "(D) Sign for a package",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why will the man be unavailable?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He will be giving a factory tour to investors.",
+              "(B) He will be assisting some technicians.",
+              "(C) He will be conducting a safety inspection.",
+              "(D) He will be attending a training session."
+            ]
+          },
+          "answer": {
+            "text": "(B) He will be assisting some technicians.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0049"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "568986442-1578622174482.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/568986442-1578622174482.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c004d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: Excuse me. I saw the flyer posted in the window of your gallery advertising art classes. <b> Q1 I wondered if I could sign up for the watercolor painting class on Tuesday evening. </b><br>M-Au: Sorry, <b> Q2 but the classroom is too small to accommodate more than a few people</b>, and that is already full. <br>W-Am: Oh, that’s disappointing. Is there any chance you’ll offer a second class? <br>M-Au: Yes, we’re thinking about holding one on Wednesday night also. <b> Q3 Would you like me to put your name down on the waiting list? </b><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman want to do at the art gallery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Display her paintings",
+              "(B)Interview an artist",
+              "(C)Apply for a job",
+              "(D)Register for a class"
+            ]
+          },
+          "answer": {
+            "text": "(D)Register for a class",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem does the man mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A room is not big enough.",
+              "(B)A director is not available.",
+              "(C)A signature is missing.",
+              "(D)A frame is broken."
+            ]
+          },
+          "answer": {
+            "text": "(A)A room is not big enough.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man offer to do for the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Add her name to a list",
+              "(B)Print out a schedule",
+              "(C)Refund a deposit",
+              "(D)Contact a repair person"
+            ]
+          },
+          "answer": {
+            "text": "(A)Add her name to a list",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c004f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "64854316-1578622203967.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/64854316-1578622203967.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0052"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Hi, Ms. Millet. <b> Q1 It’s Hector Diaz calling from Jackson Real Estate. </b> An apartment has jus been listed that I think you might be interested in. It’s a one-bedroom place that’s available immediately. But best of all, it’s near Fulbright Park. <br>W-Am: Near Fulbright Park? Oh, <b> Q2 that’s wonderful news. The park is very close to my office </b>– that’s exactly what I’d hoped for. <br>M-Cn: Would you like to look at the apartment? <b> Q3 We can get in to see it sometime tomorrow if you’re free. </b><br>W-Am: I’m busy in the morning, but <b>43the afternoon would be fine. </b>Let me write down where it is, and I can meet you there. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business does the man work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An architecture firm",
+              "(B)A construction company",
+              "(C)A real estate agency",
+              "(D)A bank"
+            ]
+          },
+          "answer": {
+            "text": "(C)A real estate agency",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman pleased?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An apartment is conveniently located.",
+              "(B)A job position is opening soon.",
+              "(C)Some funding has been approved.",
+              "(D)Some renovations have been completed."
+            ]
+          },
+          "answer": {
+            "text": "(A)An apartment is conveniently located.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman plan to do tomorrow afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sign some documents",
+              "(B)View a property",
+              "(C)Attend a trade show",
+              "(D)Make a presentation"
+            ]
+          },
+          "answer": {
+            "text": "(B)View a property",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0054"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "72917043-1578902294178.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/72917043-1578902294178.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0057"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Ms. Kim, I’ve finished setting up the tables so it looks like we’re all ready to open the cafe at eight o’clock. Is there anything else you’d like me to do? <br>W-Br: Yes. Someone from the city maintenance department called yesterday and told me that <b> Q1 a crew will be repairing the pavement right outside the cafe today. Q2 I’m worried that customers won’t know we’re open, and we can’t afford to lose the business. </b><br>M-Au: Well, <b> Q3 why don’t I put a sign out front that tells customers we’re open and that they can come in through the side entrance<br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman say will happen today?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An inspection will take place.",
+              "(B)Repair work will begin.",
+              "(C)A private party will be held.",
+              "(D)Some equipment will be installed."
+            ]
+          },
+          "answer": {
+            "text": "(B)Repair work will begin.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman worried about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Delayed deliveries",
+              "(B)Power interruptions",
+              "(C)Paying extra fees",
+              "(D)Losing customers"
+            ]
+          },
+          "answer": {
+            "text": "(D)Losing customers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Put out a sign",
+              "(B)Call some customers",
+              "(C)Extend business hours",
+              "(D)Pick up some supplies"
+            ]
+          },
+          "answer": {
+            "text": "(A)Put out a sign",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0059"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "318568371-1578902320890.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/318568371-1578902320890.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c005c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: <b> Q1 Thank you for taking me to that wonferful concert. Q2 It was a nice way to celebrate the merger of our companies. </b><br>M-Cn: We knew you’d enjoy it. That string quartet performs all over the world. <br>W-Am: I’m not surprised... so, my flight doesn’t leave until noon. <b> Q3 Should I come by your office in the morning to finish the paperwork? </b><br>M-Cn: Oh, Ms. Yamada is handling that. <br>M-Br: Yes, I am. I’ll be in the office by eight in the morning, so <b> Q3 you can stop by anytime after that. </b>There are only a few final documents to sign. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers celebrating?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An increase in sales",
+              "(B)A company merger",
+              "(C)A product launch",
+              "(D)A job promotion"
+            ]
+          },
+          "answer": {
+            "text": "(B)A company merger",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man imply when he says, \"that string quartet performs all over the world\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He will be seeing the show again in another country.",
+              "(B)A music group is often mistaken for a different one.",
+              "(C)Some musicians are very accomplished.",
+              "(D)Some tickets are very difficult to find."
+            ]
+          },
+          "answer": {
+            "text": "(C)Some musicians are very accomplished.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What do the women agree to to in the morning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Arrange a press conference",
+              "(B)Test some equipment",
+              "(C)Complete some paperwork",
+              "(D)Present a proposal"
+            ]
+          },
+          "answer": {
+            "text": "(C)Complete some paperwork",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c005e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "275604908-1578902362557.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/275604908-1578902362557.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0061"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: <b> Q1 I don’t know how I’m going to get through all the resumes </b>that were submitted for the accountant positions we advertised. We received several hundred applications for three positions! <br>M-Au: That is a lot of applications. <b> Q2 I can help you review some of them. Why don’t I take half of them? </b><br>W-Am: That would be great! I don’t have hard copies of them, though. They files are all saved on the computer. <br>M-Au: Okay. <b> Q3 Do you think you can print the ones you want me to work on? </b> I prefer to read through them on paper. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers trying to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Organize a filling system",
+              "(B)Review some resumes",
+              "(C)Schedule a training session",
+              "(D)Revise a budget"
+            ]
+          },
+          "answer": {
+            "text": "(B)Review some resumes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Deviding some work",
+              "(B)Clarifying a procedure",
+              "(C)Moving a deadline",
+              "(D)Placing an advertisement"
+            ]
+          },
+          "answer": {
+            "text": "(A)Deviding some work",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Edit a journal article",
+              "(B)Develop a web design",
+              "(C)Send a resume",
+              "(D)Print some documents"
+            ]
+          },
+          "answer": {
+            "text": "(D)Print some documents",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0063"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "242601769-1578902387655.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/242601769-1578902387655.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0066"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Hi, Rita. Thanks for taking a look at my car to see if it needs any work. I’d like to list it for sale by the end of the week <b> Q1 because I need to buy a larger car. </b><br>W-Am: Well, <b> Q2 I think buyers’ll really like the car because the exterior has been well maintained. </b> However, I can see a few holes in the cloth on the front seat. I’d certainlt recommend having that repaired. <br>M-Cn: Okay. Do you know if it’ll cost a lot to have new fabric put on the seat? <br>W-Am: I have a friend whose does that kind of work, and he’s very affordable. <b> Q3 I’ll look for his card</b>, so you can call him for an estimate. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the man selling his car?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He will be getting a car from his company.",
+              "(B)He plans to take public transportation.",
+              "(C)He needs a bigger vehicle.",
+              "(D)He is moving overseas."
+            ]
+          },
+          "answer": {
+            "text": "(C)He needs a bigger vehicle.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the woman, why will buyers like the car?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is fuel efficient.",
+              "(B)It has all new tires.",
+              "(C)The model is very popular now.",
+              "(D)The outside is in good condition."
+            ]
+          },
+          "answer": {
+            "text": "(D)The outside is in good condition.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Visit a friend",
+              "(B)Find a business card",
+              "(C)Check a catalog",
+              "(D)Measure some fabric"
+            ]
+          },
+          "answer": {
+            "text": "(B)Find a business card",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0068"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "368953521-1578902436558.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/368953521-1578902436558.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c006b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Hi, I’m calling from Burke Country Tours. <b> Q1 We’re interested in having some T-shirts made for our customers </b>and  I saw your advertisement in the newspaper. Could you give me some information about your quantities and prices? <br>W-Br: Certainly. Shirts are eight dollars each, but <b> Q2 if you order a lot of them – that is, more than fifty – you’ll get a fifteen percent discount off of the total price. </b><br>M-Au: That price seems reasonable. So, We’d like to get our company logo printed on the shirts. Is that hard to do? <br>W-Br: No, it’s actually easy. <b> Q3 Just go to our Web site, upload the image of your logo, adn then place your order. </b><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man want to purchase?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Company stationery",
+              "(B)Advertising space in a newspaper",
+              "(C)Promotional clothing",
+              "(D)Web site design tools"
+            ]
+          },
+          "answer": {
+            "text": "(C)Promotional clothing",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How can the man receive a discount?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By referring potential customers",
+              "(B)By signing up for a newsletter",
+              "(C)By paying in advance",
+              "(D)By placing a large order"
+            ]
+          },
+          "answer": {
+            "text": "(D)By placing a large order",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman tell the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Speak with a manager",
+              "(B)Visit a web site",
+              "(C)Make an appointment",
+              "(D)Request a sample"
+            ]
+          },
+          "answer": {
+            "text": "(B)Visit a web site",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c006d"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264416aeccc8cae769c0070"
+}

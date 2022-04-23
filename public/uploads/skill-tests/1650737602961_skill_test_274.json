@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 274",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/5339780_1564545889476.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does James most likely say, “hope you closed the deal!”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He thinks there will be a bonus.",
+              "(B) He has been waiting a long time.",
+              "(C) He loves the Red Lounge.",
+              "(D) There are too many deals open."
+            ]
+          },
+          "answer": {
+            "text": "(B) He has been waiting a long time.",
+            "explanation": "Because he said he would be outside the lounge waiting for Robert at 12:04"
+          }
+        },
+        {
+          "question": {
+            "text": "What can be inferred about Robert by the length of time between James’ messages and Robert’s responses?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He isn’t interested in James.",
+              "(B) He wants time to himself.",
+              "(C) His phone has died.",
+              "(D) He cannot check his phone all the time."
+            ]
+          },
+          "answer": {
+            "text": "(D) He cannot check his phone all the time.",
+            "explanation": "Robert had been with a client and he couldn't check the message."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b55"
+    },
+    {
+      "question": {
+        "text": "To: Operations Team <operations@acemfg.com> <br> From: Thomas Wheeler t.wheeler@acemfg.com <br>Date: Monday, June 16 <br>Subject: New Equipment<br><br>Operations Team, <br><br>The company will order a new set of heavy equipment tomorrow and it will be delivered to the warehouse the following afternoon. Our employees’ work schedule will have to be adjusted according to our new addition of equipment. Please submit a report stating the new tasks and responsibilities of each worker for this equipment by no later than 5:00 P.M. on Thursday. <br>If I am not in the office, please give it to my secretary, Ms. Hardy. <br>Thanks, <br>Thomas Wheeler <br>Director of Manufacturing",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When will the new equipment most likely arrive at the warehouse?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Monday",
+              "(B) On Tuesday",
+              "(C) On Wednesday",
+              "(D) On Thursday"
+            ]
+          },
+          "answer": {
+            "text": "(C) On Wednesday",
+            "explanation": "The information is in: <i>\"The company will order a new set of heavy equipment tomorrow and it will be delivered to the warehouse the following afternoon\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What should be included in the report?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Workers’ contact information",
+              "(B) Workers’ assignments",
+              "(C) Workers’ resumes",
+              "(D) Workers’ suggestions"
+            ]
+          },
+          "answer": {
+            "text": "(B) Workers’ assignments",
+            "explanation": "The information can be inferred from: <i>\" Please submit a report stating the new tasks and responsibilities of each worker for this equipment by no later than 5:00 P.M.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b58"
+    },
+    {
+      "question": {
+        "text": "From: Rick Campbell, Director of R&D <br>To: R&D Department <br>Subject: Change in staff <br>Date: Tuesday, April 4, 3:40 P.M. <br>-----------------------------------------------------------------------------------------------------------------------------------<br>I am writing to share news with you regarding the recent changes in the Research and Development office. Starting April 7, Bob Denkle will be our new project manager in the Research and Development Department. He has just completed a month-long training session and will replace Benjamin Palmer by the end of the week. <br>Mike Garcia, the HR director, will post an announcement of several openings throughout the departments by next week. For those who wish to transfer into a different department within the company, now would be a good time to apply. <br>Please congratulate Benjamin Palmer, as he will transition into a new position in Ion Industries, and welcome Bob Denkle, as he will join our department.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is expected to happen by next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new department will be formed.",
+              "(B) Job postings will be announced.",
+              "(C) An interview will be conducted.",
+              "(D) A training session will take place"
+            ]
+          },
+          "answer": {
+            "text": "(B) Job postings will be announced.",
+            "explanation": "The information is in: <i>\"Mike Garcia, the HR director, will post an announcement of several openings throughout the departments by next week.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Who is leaving the company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Bob Denkle",
+              "(B) Mike Garcia",
+              "(C) Rick Campbell",
+              "(D) Benjamin Palmer"
+            ]
+          },
+          "answer": {
+            "text": "(D) Benjamin Palmer",
+            "explanation": "The information can be inferred from: <i>\"Please congratulate Benjamin Palmer, as he will transition into a new position in Ion Industries, and welcome Bob Denkle, as he will join our department.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b5b"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Re-Fit Closing Stores </h4> February 9-Nemway Group has announced that 80 Re-Fit stores will be closing down around the country in the next six months with 100 more to follow within the year. - [1] - However, the last ten years has seen a steady decline in sales as consumers turned to other clothing retailers such as Zanas and HRM. - [2] - \"I don’t know, I just found the clothing to be outdated,” says a former customer. “They should have updated the styles and offered non-sporty options.”<br> CEO Derrick Greenwich agrees, “We focused so much on particular styles of sportswear that we <b>lost sight of</b> the changing tastes of consumers. We’re working on restructuring the company and offering consumers what they want. We’ll come back bigger than ever.” - [3] -<br> An internal review of the losses will continue to be conducted as nervous shareholders consider their next moves. - [4] - Nemway is hoping that a good portion of the Re-Fit stores will remain in operation as the company struggles to reinvent the brand.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about the Re-Fit brand?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its popularity has dropped dramatically.",
+              "(B) It specializes in sports gear.",
+              "(C) The CEO is renaming the company.",
+              "(D) The brand has a 100-year history."
+            ]
+          },
+          "answer": {
+            "text": "(A) Its popularity has dropped dramatically.",
+            "explanation": "It can be inferred from: <i>\"Nemway Group has announced that 80 Re-Fit stores will be closing down around the country in the next six months with 100 more to follow within the year.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "The phrase “lost sight of” in the second paragraph is closest in meaning to:",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Restricted",
+              "(B) Were not blinded by",
+              "(C) Ignored",
+              "(D) Selected"
+            ]
+          },
+          "answer": {
+            "text": "(C) Ignored",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br> “The clothing store, best known for its affordable but trendy sportswear, was very popular in the 90’s and early 2000’s.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": "Because it mentions about the popular style of clothes, which is opposite to the sentence after [2]."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b5e"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing= 10 cellpadding= 10  style=border-collapse:collapse ><tr> <td colspan =\"2\"> <h4 align =\"center\"> CONTENTS </b> </td></tr><tr BGCOLOR = lavender> <td width=\"40%\"> <b> <i> 9 Easy Snacks</b></i> <br> Donald Cohen provides recipes that are suitable for those who are always on the move. <br><br><b> <i> 14 The Perfect Resort</b></i> <br>Melissa Green discusses the features of the top 10 famous resorts. <br><br><i> <b> 19 Passport Guide</i> </b> <br>Henry Carroll shows you how to apply for a passport in 5 easy steps. <br><br><b> <i> 23 Safety First</i> </b><br>Tricia Oldham discusses basic first aid to first-time travelers.</td> <td width=\"40%\"> <b> <i> 26 Wish You Were Here</b></i> <br>Rebecca Barajas shares her pictures from her amazing trip to New Zealand. <br><br><i> <b> 30 Delicious Diners</i> </b> <br>Barry Eason shares his tasty experiences while on the road. <br><br><b> <i> 33 On a Budget</b> </i> <br><br>Edward Boyd shares tips on how to save money when planning trips. <br><br><i> <b> 35 Light My Way </i> </b> <br>Reviews of the most popular Guidebooks </td> </tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the focus of the booklet?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Food",
+              "(B) Transportation",
+              "(C) Environment",
+              "(D) Traveling"
+            ]
+          },
+          "answer": {
+            "text": "(D) Traveling",
+            "explanation": "The booklet mentions about resortsm travelers, trip,.."
+          }
+        },
+        {
+          "question": {
+            "text": "Where in the booklet would the pictures most likely be found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On page 9",
+              "(B) On page 19",
+              "(C) On page 26",
+              "(D) On page 30"
+            ]
+          },
+          "answer": {
+            "text": "(C) On page 26",
+            "explanation": "The information can be inferred from: <i>\"Rebecca Barajas shares her pictures from her amazing trip to New Zealand.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the table of contents, who talks about using less money?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Green",
+              "(B) Mr. Carroll",
+              "(C) Mr. Eason",
+              "(D) Mr. Boyd"
+            ]
+          },
+          "answer": {
+            "text": "(D) Mr. Boyd",
+            "explanation": "It can be inferred from: <i>\"Edward Boyd shares tips on how to save money when planning trips.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b61"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/4543719_1564545890865.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What will take place on Saturday and Sunday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An office party",
+              "(B) A meeting with clients",
+              "(C) A renovation",
+              "(D) Cleaning services"
+            ]
+          },
+          "answer": {
+            "text": "(D) Cleaning services",
+            "explanation": "The information is in: <i>\"The floors will be polished and cleaned over the weekend.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Ginger Lin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The secretary",
+              "(B) The manager",
+              "(C) The technician",
+              "(D) The security guard"
+            ]
+          },
+          "answer": {
+            "text": "(B) The manager",
+            "explanation": "Based on her reminding and managing everyone's tasks."
+          }
+        },
+        {
+          "question": {
+            "text": "At 5:04, what does Lance Sibley mean by “to be on the safe side”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The offices may not be safe.",
+              "(B) The client may need help.",
+              "(C) Just as a precaution",
+              "(D) He’s given a warning."
+            ]
+          },
+          "answer": {
+            "text": "(C) Just as a precaution",
+            "explanation": "If you say you are doing something to be on the safe side, you mean that you are doing it in case something undesirable happens, even though this may be unnecessary."
+          }
+        },
+        {
+          "question": {
+            "text": "What will Janet Leigh most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Check her e-mail",
+              "(B) Contact the Finance Department",
+              "(C) Call some employees",
+              "(D) Print out some reports"
+            ]
+          },
+          "answer": {
+            "text": "(A) Check her e-mail",
+            "explanation": "Because Dimitri Roberts and Karen Walker both said they would send an e-mail."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b64"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Helping Hands </h4><p align =\"center\"> 8732 Bakersfield Avenue, Santa Clara, California </p><p align =\"center\"> www.helpinghands.com </p> <br><p align =\"center\"> Regional Manager—Employment Opportunity </p> <br>Helping Hands has been dedicated to providing quality, affordable housing for low-income individuals and families. For over 25 years, we have been acquiring multifamily communities and improving the properties to maintain their availability for those earning less than 50 percent of the area's average income. Our properties are currently located in cities throughout the state of Texas—including Austin, Dallas, and Houston—with plans to expand to make more homes available to more people. <br> We are looking for someone for the position of regional manager. The new manager will be stationed in Austin and will supervise and evaluate the performance of on-site management and ensure that the properties are well- maintained. The candidate must have a bachelor’s degree or higher in a business or management field, have a minimum of three years of experience in supervising other personnel, and possess certain certificates (more details in the application page). <br> Applications can be submitted in person Monday through Friday from 9:00 A.M. to 5:00 P.M. or through mail or e-mail. They will be accepted only if they are received before 5:00 P.M. on October 14.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is mentioned about Helping Hands?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It offers community service for senior citizens.",
+              "(B) It is committed to nature conservation.",
+              "(C) It is sponsored by the government.",
+              "(D) It is supplying homes to a disadvantaged group."
+            ]
+          },
+          "answer": {
+            "text": "(D) It is supplying homes to a disadvantaged group.",
+            "explanation": "The information can be inferred from: <i>\"Helping Hands has been dedicated to providing quality, affordable housing for low-income individuals and families.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the successful candidate required to work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In Santa Clara",
+              "(B) In Austin",
+              "(C) In Dallas",
+              "(D) In Houston"
+            ]
+          },
+          "answer": {
+            "text": "(B) In Austin",
+            "explanation": "The information is in: <i>\"The new manager will be stationed in Austin\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT suggested about the position?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It includes supervision of the local staff.",
+              "(B) It requires an academic degree.",
+              "(C) It needs official documents.",
+              "(D) It is limited to only California residents."
+            ]
+          },
+          "answer": {
+            "text": "(D) It is limited to only California residents.",
+            "explanation": "(A) - The new manager will be stationed in Austin and will supervise and evaluate the performance of on-site management and ensure that the properties are well- maintained.<br>(B) - The candidate must have a bachelor’s degree or higher in a business or management field<br>(C) - The candidate must have a minimum of three years of experience in supervising other personnel, and possess certain certificates (more details in the application page)."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b67"
+    },
+    {
+      "question": {
+        "text": "To: cmason@centersports.com <br>From: sdixon@instaprinting.com <br>Date: November 3 <br>Subject: Your Inquiry<br><br>Dear Mr. Mason, <br>We are responding to the inquiry you made through our website yesterday. Insta Printing promises to provide faster, cheaper, and more reliable service than any of our competitors in the area. And we also guarantee to beat any price offered by a competitor. <br>As per your request, our company would be happy to help design and print jerseys for your soccer team. Besides casual wear, our company also has plenty of experience producing athletic wear for sports teams and clubs. <br>Customers can choose from a variety of materials and printing methods. These include denim, cotton, flannel, nylon and many more, and there are several printing methods including screen printing, heat press, and direct-to-garment printing. <br>Please feel free to contact me directly at 712-555-9804 to discuss the details <b>further</b> about working with Insta Printing. We look forward to working with you and helping your organization achieve its goals. <br><br>Sincerely, <br>Stephen Dixon<br>Client Relations Representative, Insta Printing",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Dixon send the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To give a quote for a project",
+              "(B) To explain a new policy",
+              "(C) To persuade a client to agree on a deal",
+              "(D) To confirm a reservation"
+            ]
+          },
+          "answer": {
+            "text": "(C) To persuade a client to agree on a deal",
+            "explanation": "Based on the information given in: \"We are responding to the inquiry you made through our website yesterday... We look forward to working with you and helping your organization achieve its goals.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Mason want to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Purchase a set of shirts",
+              "(B) Apply for a position",
+              "(C) Devise a new printing technique",
+              "(D) Expand business internationally"
+            ]
+          },
+          "answer": {
+            "text": "(A) Purchase a set of shirts",
+            "explanation": "It can be inferred from: <i>\"As per your request, our company would be happy to help design and print jerseys for your soccer team.\"</i> that Mr. Mason's request is to design and print jerseys for his soccer team."
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about Insta Printing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It opened a second branch yesterday.",
+              "(B) It offers various production options.",
+              "(C) It only produces athletic wear.",
+              "(D) It sponsors a local soccer team."
+            ]
+          },
+          "answer": {
+            "text": "(B) It offers various production options.",
+            "explanation": "The information can be inferred from: <i>\"Besides casual wear, our company also has plenty of experience producing athletic wear for sports teams and clubs.\nCustomers can choose from a variety of materials and printing methods. These include denim, cotton, flannel, nylon and many more, and there are several printing methods including screen printing, heat press, and direct-to-garment printing.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “further” in paragraph 4, line 1, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) urgently",
+              "(B) officially",
+              "(C) additionally",
+              "(D) carefully"
+            ]
+          },
+          "answer": {
+            "text": "(C) additionally",
+            "explanation": "<b>further:</b>more or extra."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b6a"
+    },
+    {
+      "question": {
+        "text": "(Man) - [1] - I remember when Sergio Hernandez first came to work here at Trout & Lee. He was a young man of thirty with a heart and mind filled with ambition and drive. - [2] - It is that ambition and drive, along with a lot of integrity and intelligence, that made him one of the most valuable players in the garment business and US one of the most successful companies. <br>- [3] - I can’t help but remember how emotional I was when I left the company to pursue a life of leisure last year. - [4] - I know the speech Serg. gave then came back to help me during the difficult transition into living without an office to go to and colleagues to be continually inspired by, and I hope the few humble words I’ve strung together will remind him of how well-respected he is and what an astounding life he has lived as he goes through the same process",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is implied about Mr. Hernandez?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is the CEO of Trout & Lee.",
+              "(B) He is receiving a promotion.",
+              "(C) He is transferring to a new department.",
+              "(D) He is retiring from the company."
+            ]
+          },
+          "answer": {
+            "text": "(D) He is retiring from the company.",
+            "explanation": "According to the content of the passage, this man is showing his gratitude to Sergio Hernandez, from the time Sergio Hernandez joined the company."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Trout & Lee?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is an international company.",
+              "(B) It is a real estate company.",
+              "(C) It has manufacturing plants in the U.S.",
+              "(D) It has existed for many decades."
+            ]
+          },
+          "answer": {
+            "text": "(D) It has existed for many decades.",
+            "explanation": "It can be inferred from: <i>\"He was a young man of thirty with a heart and mind filled with ambition and drive. - [2] - It is that ambition and drive, along with a lot of integrity and intelligence, that made him one of the most valuable players in the garment business and US one of the most successful companies.\"</i> that Sergio Hernandez has been working in Trout & Lee for years, therefore, Trout & Lee has existed for many decades."
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned about Mr. Hernandez?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When he started working for the company",
+              "(B) The type of employee he was",
+              "(C) The type of industry he worked in",
+              "(D) His position in the company"
+            ]
+          },
+          "answer": {
+            "text": "(D) His position in the company",
+            "explanation": "(A) - I remember when Sergio Hernandez first came to work here at Trout & Lee. He was a young man of thirty with a heart and mind filled with ambition and drive.<br>(B) -  It is that ambition and drive, along with a lot of integrity and intelligence<br>(C) - ...that made him one of the most valuable players in the garment business and US one of the most successful companies."
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the marked positions [1], [2], [3], or [4] does this sentence best belong? <br> “I feel it a great honor to be asked to speak about him here today.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Because the first passage has mentioned about Sergio Hernandez."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b6d"
+    },
+    {
+      "question": {
+        "text": "We are pleased to announce that Teresa Park has joined the Severin Law Firm as an associate attorney. Ms. Park graduated with high honors from Naridell University Law School, where she specialized in copyright and trademark law. While attending school, she worked as a clerk in the legal aid office at the university. This past summer, she completed an internship at Delmar and Associates, a legal firm whose client base includes writers, musicians, and other professionals in the publishing industry. Ms. Park has an exceptional record of service and will be a valuable asset to our team. Please join us this Thursday at 3:00 P.M. in the main conference room to welcome her to our office.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the notice most likely posted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a law office",
+              "(B) In a talent agency",
+              "(C) In a recording studio",
+              "(D) In a publishing company"
+            ]
+          },
+          "answer": {
+            "text": "(A) In a law office",
+            "explanation": "The information is in: <i>”We are pleased to announce that Teresa Park has joined the Severin Law Firm as an associate attorney. “</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What are employees invited to do on Thursday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Watch a musical performance",
+              "(B) Join a community service group",
+              "(C) Attend a professional conference",
+              "(D) Meet a new staff member"
+            ]
+          },
+          "answer": {
+            "text": "(D) Meet a new staff member",
+            "explanation": "The information can be inferred from: <i>”Ms. Park has an exceptional record of service and will be a valuable asset to our team. Please join us this Thursday at 3:00 P.M. in the main conference room to welcome her to our office.”</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b70"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c2eccc8cae769c2b73"
+}

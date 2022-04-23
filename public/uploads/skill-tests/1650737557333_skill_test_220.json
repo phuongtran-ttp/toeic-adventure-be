@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 220",
+  "questions": [
+    {
+      "question": {
+        "text": "Antique cars are seen very ___ these days because they are extremely expensive to maintain.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)hardly",
+          "(B)uneasily",
+          "(C)weakly",
+          "(D)infrequently"
+        ]
+      },
+      "answer": {
+        "text": "(D)infrequently",
+        "explanation": "\"Uneasily\" and \"weakly\" are not used to describe frequency. <br> \"Hardly\" means almost never so it does not go with \"very\".  <br> Therefore, we use \"infrequently\".  <br> Infrequently >< Frequently"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2181"
+    },
+    {
+      "question": {
+        "text": "The Harrison Community Bank will open a branch in the center of Harrison, only a kilometer ___ their headquarters in the financial district.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)all around",
+          "(B)up until",
+          "(C)far ahead",
+          "(D)away from"
+        ]
+      },
+      "answer": {
+        "text": "(D)away from",
+        "explanation": "Distance + away from somewhere"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2183"
+    },
+    {
+      "question": {
+        "text": "The inventory should be completed by the end of the week if everything goes ___ plan.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)in addition to",
+          "(B)agreeing with",
+          "(C)relating to",
+          "(D)according to"
+        ]
+      },
+      "answer": {
+        "text": "(D)according to",
+        "explanation": "According to plan = Without troubles"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2187"
+    },
+    {
+      "question": {
+        "text": "Franklin Catering Company offers a ___ range of menu choices for both lunch and dinner.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)satisfied",
+          "(B)hopeful",
+          "(C)dividing",
+          "(D)broad"
+        ]
+      },
+      "answer": {
+        "text": "(D)broad",
+        "explanation": "Broad = Wide"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2189"
+    },
+    {
+      "question": {
+        "text": "Commuters can help reduce pollution by occasionally leaving ___ cars at home and using public transportation.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)them",
+          "(B)their",
+          "(C)theirs",
+          "(D)they"
+        ]
+      },
+      "answer": {
+        "text": "(B)their",
+        "explanation": "The answer comes before a noun so we use \"their\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c218d"
+    },
+    {
+      "question": {
+        "text": "After receiving numerous ___ about the defective headlight bulbs, our customer-service department has agreed to issue full refunds.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)referrals",
+          "(B)repairs",
+          "(C)compensations",
+          "(D) complaints"
+        ]
+      },
+      "answer": {
+        "text": "(D) complaints",
+        "explanation": "Complaint about st <br> Repair of st <br> Compensation for st <br> Referral to st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c218f"
+    },
+    {
+      "question": {
+        "text": "Following her ___ to sales director, Ms. Lin assumed responsibility for the firm’s marketing activities.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)development",
+          "(B)delivery",
+          "(C)promotion",
+          "(D)acceptance"
+        ]
+      },
+      "answer": {
+        "text": "(C)promotion",
+        "explanation": "Promotion to + job position = Moving to a higher job position"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2193"
+    },
+    {
+      "question": {
+        "text": "In order to guarantee your room reservation at the Palembang Hotel, please reply to this e-mail ___ 24 hours.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)within",
+          "(B)about",
+          "(C)since",
+          "(D)into"
+        ]
+      },
+      "answer": {
+        "text": "(A)within",
+        "explanation": "Within + Time/Period of time = Before a certain time or during a period."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2195"
+    },
+    {
+      "question": {
+        "text": "Local manufacturers have been ___ to hire additional employees until productivity improves.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)hesitate",
+          "(B)hesitation",
+          "(C)hesitated",
+          "(D)hesitant"
+        ]
+      },
+      "answer": {
+        "text": "(D)hesitant",
+        "explanation": "The answer goes with \"have been\" and \"to\" so we use an adjective.<br>Hesitant = Uncertain"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2199"
+    },
+    {
+      "question": {
+        "text": "The mail office will soon be able to send out packages more ___ because of the updated processing procedures.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)quick",
+          "(B)quicker",
+          "(C)quickest",
+          "(D)quickly"
+        ]
+      },
+      "answer": {
+        "text": "(D)quickly",
+        "explanation": "We are giving more information on the verb \"to send\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c219b"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644195eccc8cae769c21a1"
+}

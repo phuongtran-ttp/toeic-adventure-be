@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 92",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0310.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0310.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfe9e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M1: OK, Ms. Mendez. <b> Q1 The total cost to repaint the foyer will be around four thousand dollars.</b><br>That includes after service for six months if you have any problems with our work. <br>W: Hmm... That’s more expensive than I thought it would be. Our budget was three thousand dollars. Why is the price so high? <br>M2: <b> Q2 I can explain why the price is over your budget</b>. It is because the old paint is peeling badly in some areas. We have to remove it all before repainting, which takes a long time. If you had repainted it earlier it would be less expensive. <br>M1:  In the future I would recommend painting it every 7 years. <br>W: OK. I thought I was being over charged, but that makes sense. <b> Q3 You can go ahead and begin painting on the first weekend of August.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of work are the men doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Remodeling the foyer",
+              "(B) Renovating the bathrooms",
+              "(C) Repainting the foyer",
+              "(D) Renovating the kitchen"
+            ]
+          },
+          "answer": {
+            "text": "(C) Repainting the foyer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What can the man explain?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Why she has a low budget",
+              "(B) Why the price is above her budget",
+              "(C) Why the foyer isn’t ready to be painted",
+              "(D) Why the foyer is peeling"
+            ]
+          },
+          "answer": {
+            "text": "(B) Why the price is above her budget",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When does the woman want the men to begin work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The second week of September",
+              "(B) Anytime during August",
+              "(C) After August",
+              "(D) The first Saturday of August"
+            ]
+          },
+          "answer": {
+            "text": "(D) The first Saturday of August",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfea1"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h3> Supply Cabinet Inventory</td>  </tr> <tr> <td align =\"center\"> <b> Item</td>  <td align =\"center\"> <b> Quanlity</td> </tr> <tr> <td align =\"center\">Cacbon Paper </td>  <td align =\"center\"> 50  </td> </tr> <tr> <td align =\"center\"> Tracing Paper </td>  <td align =\"center\"> 25 </td> </tr> <tr> <td align =\"center\"> Wrapping Paper</td>  <td align =\"center\"> 5  </td> </tr> <tr> <td align =\"center\"> Business Cards </td>  <td align =\"center\"> 0 </td> </tr> <tr> <td align =\"center\"> Headset</td>  <td align =\"center\"> 0  </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0312.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0312.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfea3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Ms. Franklin, here is the inventory list in case we need to order anything. <b> Q1 Please let me know by today because the supply company is closing for Christmas soon.</b><br>W: I see. Well, Christmas is coming up so <b> Q2 we will need to wrap a lot of gifts for the staff presents. Also, I’m tired of holding my phone while typing and we don’t have anything for me to use. Can you please order me something?</b><br>M: Yes, no problem. I will order that for you. Also, we are out of business cards and we have some new employees beginning after Christmas.<b> Q2 I suggest we have business cards ready </b> when they arrive, otherwise we may look unprofessional. <br>W:  Good idea. Go ahead and order those too. <b> Q3 Can you please send me the order form so I can double-check it before you send it away?</b><br>M:  I’ll email it to you soon."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why do they need to send the order today?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Because the company is closing for Christmas.",
+              "(B) Because the company is closing for New Years.",
+              "(C) The company doesn’t have the item.",
+              "(D) They have delayed the order."
+            ]
+          },
+          "answer": {
+            "text": "(A) Because the company is closing for Christmas.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What will the man NOT order for the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wrapping paper",
+              "(B) A headset",
+              "(C) Business cards",
+              "(D) Carbon paper"
+            ]
+          },
+          "answer": {
+            "text": "(D) Carbon paper",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Send her the order form",
+              "(B) Send her a headset",
+              "(C) Revise the memo",
+              "(D) Send a receipt"
+            ]
+          },
+          "answer": {
+            "text": "(A) Send her the order form",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfea6"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h3>Nutrition Information </h3> <b> Serving Size 150 grams </b></td>  </tr> <tr> <td align =\"center\"> <b>Calories</td>  <td align =\"center\"> <b> 200 </td> </tr> <tr> <td align =\"center\"> Fat </td>  <td align =\"center\"> 5 grams </td> </tr> <tr> <td align =\"center\"> Protein </td>  <td align =\"center\"> 10 grams </td> </tr> <tr> <td align =\"center\"> Sugar</td>  <td align =\"center\"> 28 grams </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0311.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0311.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfea8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Excuse me? <b> Q1 I’m on a diet at the moment so I’m looking for some healthier food options.</b> I like to have cereal in the morning, can you recommend something for me? My nutritionist said I should eat a lot of protein. <br>M: There are many different breakfast options. One of my favorites is the new Protein Plus range. It has oats, fruits, and extra protein added. Here, take a look. <br>W: Hmm, this looks delicious! <b>  Q2 But my nutritionist said I should keep my sugar intake below 20 grams a day.</b> One serving of this cereal contains 28 grams! <br>M: Yes. In that case, <b> Q3 I recommend that you try having eggs in the morning with some coffee.</b> Then you can eat some sugar later in the day."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the woman trying to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Gain some weight",
+              "(B) Eat foods with more sugar",
+              "(C) Skip breakfast",
+              "(D) Lose some weight"
+            ]
+          },
+          "answer": {
+            "text": "(D) Lose some weight",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which ingredient is the woman concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fat",
+              "(B) Sugar",
+              "(C) Protein",
+              "(D) Eggs"
+            ]
+          },
+          "answer": {
+            "text": "(B) Sugar",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man recommend the woman do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Have some bacon and eggs",
+              "(B) Just drink coffee in the morning",
+              "(C) Don’t eat breakfast",
+              "(D) Have coffee and eggs"
+            ]
+          },
+          "answer": {
+            "text": "(D) Have coffee and eggs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfeab"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h3> Nutrition Information</h3> <br> <b> Serving Size: 150 grams </b></td>  </tr> <tr> <td align =\"center\"> <b> Calories</td>  <td align =\"center\"> <b> 110</td> </tr> <tr> <td align =\"center\">Fat </td>  <td align =\"center\"> 5 g  </td> </tr> <tr> <td align =\"center\"> Sugar </td>  <td align =\"center\"> 22 g </td> </tr> <tr> <td align =\"center\"> Sodium </td>  <td align =\"center\"> 60 mg </td> </tr> <tr> <td align =\"center\"> Caffeine </td>  <td align =\"center\"> 80 mg </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0313.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfead"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M:  Hi,  <b> Q1 I’m competing in a triathlon next week and I need some energy bars or drinks to have during the race</b>. It’s a six-hour race so it will be exhausting. I’d like something that is low in fat and will give me a boost of energy quickly. <br>W:  Wow! That sounds exhausting. We actually have a new range of energy gels. My personal favorite is this one; it’s called Flammer Gel. <br>M:  Oh wow! I’ve never heard of energy gels. That’s convenient. <b> Q2 Oh, this looks great. It is basically just sugar</b>. That’s perfect! <br>W: It also has caffeine which is really helpful. Our other products don’t have that. <b> Q3 But I suggest you don’t have too much caffeine before you take this because this has quite a lot. </b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the man looking for a certain product?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is on a diet.",
+              "(B) He doesn’t like sugar.",
+              "(C) He is an athlete.",
+              "(D) He has a test soon."
+            ]
+          },
+          "answer": {
+            "text": "(C) He is an athlete.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which of the ingredients is the man interested in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fat",
+              "(B) Sugar",
+              "(C) Caffeine",
+              "(D) Protein"
+            ]
+          },
+          "answer": {
+            "text": "(B) Sugar",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Drink a lot of caffeine before taking it",
+              "(B) Don’t drink a lot of caffeine before taking it",
+              "(C) Drink some caffeine before bed",
+              "(D) Drink some caffeine in the morning"
+            ]
+          },
+          "answer": {
+            "text": "(B) Don’t drink a lot of caffeine before taking it",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfeb0"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h3>Frankie’s Dry Cleaning </h3> </td>  </tr> <tr> <td align =\"center\"> <b>Fabric</td>  <td align =\"center\"> <b> Price </td> </tr> <tr> <td align =\"center\">Polyester </td>  <td align =\"center\"> $10 </td> </tr> <tr> <td align =\"center\"> Cotton </td>  <td align =\"center\"> $12 </td> </tr> <tr> <td align =\"center\"> Wool</td>  <td align =\"center\"> $20 </td> </tr> <tr> <td align =\"center\"> Silk</td>  <td align =\"center\"> $30 </td> </tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0312.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0312.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfeb2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Hi, I need this suit cleaned. <b> Q1 I’m going overseas on a business trip on the weekend and all my suits are getting a bit old now</b>. How much would it cost to clean this? <br>W:  Hmm...  <b> Q2 Usually twenty dollars.</b> But this one will cost a bit more. <br>M: Really? On your price list, it says twenty dollars. <br>W: Well, yes, but you’re very tall. This suit is going to take longer to clean and require more products. It will incur an additional surcharge. <br>M: Hmm... Maybe I will take it somewhere else. That doesn’t seem fair. <br>W: <b> Q3 OK. I will do it for twenty dollars</b>. And whenever you need a suit cleaned, please come back to me."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the man say he will do on the weekend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Go on a vacation",
+              "(B) Host a business lunch",
+              "(C) Go on a business trip",
+              "(D) Get some new suits"
+            ]
+          },
+          "answer": {
+            "text": "(C) Go on a business trip",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What is the suit made of?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Polyester",
+              "(B) Silk",
+              "(C) Cotton",
+              "(D) Wool"
+            ]
+          },
+          "answer": {
+            "text": "(D) Wool",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She won’t do it for twenty dollars.",
+              "(B) She will do it for twenty dollars.",
+              "(C) She will do it for more than twenty dollars.",
+              "(D) She will do it by next week."
+            ]
+          },
+          "answer": {
+            "text": "(B) She will do it for twenty dollars.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfeb5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6685636_1562639930152.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6685636_1562639930152.png",
+            "mime": "image/png",
+            "id": "62644168eccc8cae769bfeb8"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0313.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfeba"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Hi, Jimmy. Just checking up on you. <b> Q1 Are you finished installing the wiring for the lighting in the Olive Cosmetics building?</b> <br> M: I’m nearly finished. There were some problems with the electrical box so I had to fix some old fuses, so it took longer than expected. <br> W: <b> Q2 OK. I’m nearly finished the lighting on the first floor</b>, but <b> Q3 I need help installing some cables in the roof</b>. Can you come downstairs when you are finished? <br> M: Sure. This will take me another twenty minutes then I will come down."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Plumbers",
+              "(B) Office workers",
+              "(C) Electricians",
+              "(D) Carpet cleaners"
+            ]
+          },
+          "answer": {
+            "text": "(C) Electricians",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where is the woman currently working?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Trinity Construction",
+              "(B) Mullberry & Co.",
+              "(C) Olive Cosmetics",
+              "(D) Torrenz Inc."
+            ]
+          },
+          "answer": {
+            "text": "(A) Trinity Construction",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Install some piping in the wall",
+              "(B) Install some cables in the ground",
+              "(C) Install some cables in the roof",
+              "(D) Install some new software on the computers"
+            ]
+          },
+          "answer": {
+            "text": "(C) Install some cables in the roof",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfebc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0301.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0301.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfebf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Hello, I’m Steven from Home Appliance Mart. <b> Q1 I’m here to install the UHD television that you ordered last week.</b> <br> W: Yes, come right this way. We would like to mount the television on this wall. We plan to use it for presentations and training seminars. <br>M: Oh, no. <b> Q2 It looks like I forgot the tools that I need to screw the television to the wall mount.</b> I’m sorry. I’ll have to come back tomorrow morning. <br>W: Oh, that’s all right.<b> Q3 However, please call me before you come tomorrow to make sure that someone is in the office to meet you.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A training seminar",
+              "(B) The installation of a television",
+              "(C) The date of a presentation",
+              "(D) A software upgrade"
+            ]
+          },
+          "answer": {
+            "text": "(B) The installation of a television",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The necessary tools are unavailable.",
+              "(B) The office is closed.",
+              "(C) The wall is too weak.",
+              "(D) The phone number was wrong."
+            ]
+          },
+          "answer": {
+            "text": "(A) The necessary tools are unavailable.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely will the man do first tomorrow?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Order a replacement part",
+              "(B) Consult an instruction manual",
+              "(C) Contact the woman",
+              "(D) Fill out a work order"
+            ]
+          },
+          "answer": {
+            "text": "(C) Contact the woman",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfec1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0302.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0302.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfec4"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: Hello, Mr. Weaver. <b> Q1 You are one of the final applicants that we are considering for the teaching position at Belmont University.</b>  How do you think your previous jobs have prepared you to teach at our university? <br>M:  <b> Q2 Well, I used to be an editor-in-chief at a literary magazine.</b>  Therefore, I think it has prepared me well to teach in the English literature department at your university. I would be able to help students to become better writers. <br>W: Well, I think you are right about that. You seem to be qualified for the position. As you may know, we don’t pay a lot for this position. <b> Q3 However, if you take a job with US, you would receive a lot of time off during the summer vacation.</b><br>M: Actually, that’s one of the reasons I chose this job."
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What position is the man applying for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lecturer",
+              "(B) Editor",
+              "(C) Journalist",
+              "(D) Superintendent"
+            ]
+          },
+          "answer": {
+            "text": "(A) Lecturer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What makes the man qualified for the position?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) His academic background",
+              "(B) His previous work experience",
+              "(C) His public popularity",
+              "(D) His eloquence"
+            ]
+          },
+          "answer": {
+            "text": "(B) His previous work experience",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What extra benefit does the woman mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Health insurance",
+              "(B) Flexible hours",
+              "(C) A lot of free time",
+              "(D) Regular incentives"
+            ]
+          },
+          "answer": {
+            "text": "(C) A lot of free time",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfec6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0303.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0303.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfec9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W: <b> Q1 Chris, how are the renovations going in the dining room?</b> Do you think we’ll be ready to reopen by this Saturday? <br>M:  No, definitely not. The shipment of floor tiles still hasn’t arrived. <b> Q2 Because the floor space is so large, it’ll take at least a week to finish the entire project.</b><br>W: Ah, I see. Well, we have a lot of dinner reservations for the weekend. What should I do about that? <br>M: <b> Q3 Why don’t you call everyone who already made a reservation and offer them a 20% discount on their next meal by way of compensation?</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An interior renovation",
+              "(B) A product launch",
+              "(C) A luncheon reservation",
+              "(D) A budget proposal"
+            ]
+          },
+          "answer": {
+            "text": "(A) An interior renovation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say about the dining room?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It needs more lighting.",
+              "(B) It is quite cold.",
+              "(C) It is spacious.",
+              "(D) It is too loud."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is spacious.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest the woman do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Repaint the walls a brighter color",
+              "(B) Compensate guests who have reservations",
+              "(C) Draft a budget proposal",
+              "(D) Open a bank account"
+            ]
+          },
+          "answer": {
+            "text": "(B) Compensate guests who have reservations",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfecb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0304.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0304.mp3",
+            "mime": "audio/mp3",
+            "id": "62644168eccc8cae769bfece"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Hi, Linda. I’m responsible for putting together a slide show for Greg’s going-away party this Friday.<b> Q1 However, I can’t find many pictures.</b> Do you happen to have any photos of Greg that you could send to me? <br>W: What? Greg is leaving the company? I had no idea. <br>M: Yeah, he is taking a job at a design company. <b> Q2 He said the job is more suited to his skills.</b><br>W: Oh, I’m happy for him. I have a few photos from last year’s Christmas party. <b> Q3 I’ll find the ones with Greg in them and e-mail them to you.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the man concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Getting his camera fixed",
+              "(B) Receiving sick leave from work",
+              "(C) Preparing for a party",
+              "(D) Introducing a client"
+            ]
+          },
+          "answer": {
+            "text": "(C) Preparing for a party",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the man, why does Greg like his new job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It offers better vacation time.",
+              "(B) It pays a higher salary.",
+              "(C) It matches his abilities.",
+              "(D) It provides health benefits."
+            ]
+          },
+          "answer": {
+            "text": "(C) It matches his abilities.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely will the woman do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Take a group photo",
+              "(B) Attend a Christmas party",
+              "(C) Contact Greg",
+              "(D) Send an e-mail attachment"
+            ]
+          },
+          "answer": {
+            "text": "(D) Send an e-mail attachment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644168eccc8cae769bfed0"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "EASY",
+  "id": "62644168eccc8cae769bfed3"
+}

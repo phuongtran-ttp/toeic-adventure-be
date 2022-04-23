@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 270",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/5204329_1562640047126.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Mr. Sanchez?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He works for an accounting company",
+              "(B) He is related to Ted Galeznic.",
+              "(C) He was recently married.",
+              "(D) He will visit Chicago on Friday."
+            ]
+          },
+          "answer": {
+            "text": "(B) He is related to Ted Galeznic.",
+            "explanation": "Because Ted Galeznic would have a drink with Javier Sanchez."
+          }
+        },
+        {
+          "question": {
+            "text": "At 9:11, what does Ms. Knight mean when she writes, “I can reach out to them”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She can thank them.",
+              "(B) She can contact them.",
+              "(C) She can visit them.",
+              "(D) She can assist them."
+            ]
+          },
+          "answer": {
+            "text": "(B) She can contact them.",
+            "explanation": "<b>reach out to</b>: to contact somebody in order to get help\n"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2aba"
+    },
+    {
+      "question": {
+        "text": "ToAccounting Departmentdesigners@ptcdesign.com <br>FromRobert Brown <robertbrown@ptcdesign.com><br>DateMonday, March 29<br>Subject: Upcoming Meeting<br><br>Hello everyone, <br>Our client from Japan, Mr. Sato, will be arriving the day after tomorrow to discuss an upcoming merger of our two companies. I ask that our accounting department work together to produce a financial statement for the first quarter in preparation for this meeting. Anyone who needs further data in order to complete this document should e-mail me without hesitation. Please finish this task by Tuesday afternoon. This document needs to detail all of our company’s financial activities, including all of our assets and investments. <br><br>Thanks, <br><br>Robert Brown, CEO <br>PTC Design",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When is Mr. Sato scheduled to arrive at Mr. Brown’s company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On March 28",
+              "(B) On March 29",
+              "(C) On March 30",
+              "(D) On March 31"
+            ]
+          },
+          "answer": {
+            "text": "(D) On March 31",
+            "explanation": "The information is in: <i>\"Our client from Japan, Mr. Sato, will be arriving the day after tomorrow\"</i> and to day is March 29."
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely will contact Mr. Brown?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Employees who want to transfer to the accounting department",
+              "(B) Employees who need additional information",
+              "(C) Employees who need a deadline extension",
+              "(D) Employees who disagree about a merger"
+            ]
+          },
+          "answer": {
+            "text": "(B) Employees who need additional information",
+            "explanation": "The information can be inferred from: <i>\"Anyone who needs further data in order to complete this document should e-mail me without hesitation.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2abd"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\"> American Architects Society Annual Awards</h3>You are cordially invited to attend this year's event, to be held at the Merriton Hotel in Houston,Texas, on Friday, July 24. As a member, you may bring up to two guests. <br> <br><b> 7:00 P.M: Reception<br>7:30 P.M: Welcome speech and introduction by Barry Humphreys, President of the American Architects Society <br>7:45 P.M: Dinner—Vegetarian options available—please specify when confirming attendance <br>9:00 P.M: Awards ceremony—Best Design, Best Newcomer, Best Residential Building, Best Public Building —Presented by comedian Alex Dashwood<br>10:30 P.M:  A special live performance from award-winning band The Pop Tones </b><br><br>RSVP to Event Coordinator Janice Harton at janice.harton@amarchsoc.net no later than April 21.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the invitation recipients?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Directors for building companies",
+              "(B) Members of an association",
+              "(C) Architects for the local government",
+              "(D) Award ceremony nominees"
+            ]
+          },
+          "answer": {
+            "text": "(B) Members of an association",
+            "explanation": "It can be inferred from: <i>\"As a member, you may bring up to two guests.\"</i> that those who receive the invitation are members."
+          }
+        },
+        {
+          "question": {
+            "text": "How can attendance be confirmed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By calling the Merriton Hotel",
+              "(B) By e-mailing Barry Humphreys",
+              "(C) By visiting Alex Dashwood",
+              "(D) By contacting a coordinator"
+            ]
+          },
+          "answer": {
+            "text": "(D) By contacting a coordinator",
+            "explanation": "The information is in: <i>\"RSVP to Event Coordinator Janice Harton at janice.harton@amarchsoc.net no later than April 21.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ac0"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\"> Northshore Financial News</h3>June 29-A local mainstay at Northshore City may soon go national. - [1] - The Northshore Creamery first opened its doors in 1951 by owner Bill Bradley and has become an iconic landmark of the city with it's huge rotating ice cream cone on the roof of the shop. Over the years it has remained a local favorite hangout for the residents of the city and soon captured the eyes of tourists driving through. - [2] - Bill Jr. took over the business and expanded the shop to keep up with the demand of locals and tourists. Northshore Creamery was even selected as a top-ten shop to visit by Travel 8c Tour Magazine. <br>In 1988, Northshore Creamery was featured in the hit Hollywood movie Future Then and Now, which made it the top ice cream shop to visit by out-of-towners and tourists. - [3] - Efforts were made by various corporations to buy the business from the Bradley family, but Bill Jr. and his son William insisted on keeping the business within the family, which pleased the residents of Northshore. - [4] - “We’re keeping things small in scale and we’re slowly expanding,” explained William. “In order to keep the quality of our ice cream fresh and just the way my grandfather created his recipes, we don't want to take any short cuts, which is why we need time.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To advertise the products of a shop",
+              "(B) To explain the details of a new business venture",
+              "(C) To discuss the history of a family business",
+              "(D) To explain the prices of the products"
+            ]
+          },
+          "answer": {
+            "text": "(C) To discuss the history of a family business",
+            "explanation": "You can see the passage mentions about the year of establishment, the person taking over and the events that happened in the years of the business."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Northshore Creamery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It was purchased by a large corporation.",
+              "(B) It became famous in town because of a movie.",
+              "(C) It is the pride and joy of the locals.",
+              "(D) It doesn’t have enough money to expand."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is the pride and joy of the locals.",
+            "explanation": "The information can be inferred from: <i>\"Over the years it has remained a local favorite hangout for the residents of the city and soon captured the eyes of tourists driving through.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? <br>  “Now, the family is ready to open two new franchises in neighboring cities and, within 5 years, plan to open 6 new shops around the country.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "The sentence before position [4] talk about that Bill Jr and Willia, insisted on keeping the business within the family instead of buying the business from the Bradley family."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ac3"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\"> Announcement from Acreton City Council </h3><p align = \"right\"> April 3</p> Acreton City Council will be creating a new task force charged with reducing unnecessary spending over the next fiscal year. The team of twelve people will be comprised of local business leaders, union representatives, civil servants, and financial consultants. Group members are due to be selected by the end of this month and will begin work almost immediately the following month planning ways to reduce annual local government costs by 10% over the next year by eliminating waste.<br>Applications for a position are being accepted at this time. Please contact the city council at admin@acretoncc.gov for any information about getting yourself or your organization involved in the project.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the announcement mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The formation of a new employment union",
+              "(B) The creation of a financial oversight committee",
+              "(C) The launch of a recruitment effort",
+              "(D) The start of a change in local legislation"
+            ]
+          },
+          "answer": {
+            "text": "(B) The creation of a financial oversight committee",
+            "explanation": "The information iss in: <i>\"Acreton City Council will be creating a new task force charged with reducing unnecessary spending over the next fiscal year. The team of twelve people will be comprised of local business leaders, union representatives, civil servants, and financial consultants,\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "When is the group due to begin work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At the beginning of May",
+              "(B) At the end of the year",
+              "(C) At the beginning of the summer",
+              "(D) At the end of this month"
+            ]
+          },
+          "answer": {
+            "text": "(A) At the beginning of May",
+            "explanation": "It can be inferred from: <i>\"Group members are due to be selected by the end of this month and will begin work almost immediately the following month..\" that the following month is May."
+          }
+        },
+        {
+          "question": {
+            "text": "What should interested parties do to get involved?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign a petition",
+              "(B) Attend a meeting",
+              "(C) Send an e-mail",
+              "(D) Fill out a form"
+            ]
+          },
+          "answer": {
+            "text": "(C) Send an e-mail",
+            "explanation": "The information iss in: <i>\"Please contact the city council at admin@acretoncc.gov for any information about getting yourself or your organization involved in the project.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ac6"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/6994127_1562640048446.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "At 2:16, what does Margaret Lee mean when she writes “There’s no problem on our end”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Her team can achieve their goals.",
+              "(B) Her team can help the other teams,",
+              "(C) Their project will take some time.",
+              "(D) The problems will be minimal."
+            ]
+          },
+          "answer": {
+            "text": "(A) Her team can achieve their goals.",
+            "explanation": "Because Janet Logan tols her about Mr. King wanted his order a couple of weeks earlier than origianlly planned and asked her is this might be possible."
+          }
+        },
+        {
+          "question": {
+            "text": "For what type of company does Janet Logan work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A shoe shop",
+              "(B) A clothing manufacturer",
+              "(C) A fashion magazine",
+              "(D) A menswear boutique"
+            ]
+          },
+          "answer": {
+            "text": "(B) A clothing manufacturer",
+            "explanation": "The conversation mentions about fabrics, sewing machines, long-sleeve men's dress shirts."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the discussion, which department needs the most time?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Lee’s department",
+              "(B) Mr. Brown’s department",
+              "(C) Mr. William’s department",
+              "(D) Ms. Logan’s department"
+            ]
+          },
+          "answer": {
+            "text": "(B) Mr. Brown’s department",
+            "explanation": "Ms. Lee's department has already finished.<br> Mr. Brown's department can finish in two days.<br> Mr. William's department can finish within 2-4 hours."
+          }
+        },
+        {
+          "question": {
+            "text": "What will Janet Logan most likely tell Mr. King?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) That his order will be delayed for a month",
+              "(B) That his order can be completed within two weeks",
+              "(C) That his request will be difficult to achieve",
+              "(D) That his order can be completed early accommodate one of our best clients this way."
+            ]
+          },
+          "answer": {
+            "text": "(D) That his order can be completed early accommodate one of our best clients this way.",
+            "explanation": "Because Mr. King wants his order finished earilier than planned."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ac9"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\">  Unsworthy Manufacturing</h3><b>Date:</b>Wednesday, October 17 <br><b>Subject: </b> Recycling<br><br>In response to pressure from local environmental groups, as of November 1 we will be separating all of our industrial waste for recycling. Collections will be made twice weekly on Tuesdays and Fridays from the regional recycling center, which will be supplying colored receptacles for different kinds of waste. All oils should be placed in the green container. All metals and glass belong in the red one. All paper waste should go into the blue one. Plastics will be collected for recycling as normal. <br>As this new policy also carries a financial benefit to the company, managers in all manufacturing bays are responsible for ensuring that the new protocols for waste disposal are followed, and failure to comply with the policy could result in disciplinary action. <br>Further information about our updated environmental practices will shortly be available on the website. Training sessions for managers will be held on Monday, October 22, but please contact me if you have any further questions in the meantime. <br><br>Regards, <br>Davis Jeeland<br>Operations Director, Unsworthy Manufacturing",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the reason for the change?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The company owners want to save money on labor.",
+              "(B) A new recycling center opened near the business.",
+              "(C) The local government changed its regulations.",
+              "(D) Environmentalists in the area requested it"
+            ]
+          },
+          "answer": {
+            "text": "(D) Environmentalists in the area requested it",
+            "explanation": "The information is in: <i>\"In response to pressure from local environmental groups\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What can be inferred about Unsworthy Manufacturing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has good relations with local authorities.",
+              "(B) It already recycles its plastic industrial waste.",
+              "(C) It recently increased its workforce.",
+              "(D) It updates its environmental policy regularly."
+            ]
+          },
+          "answer": {
+            "text": "(B) It already recycles its plastic industrial waste.",
+            "explanation": "The information is in: <i>\"All oils should be placed in the green container. All metals and glass belong in the red one. All paper waste should go into the blue one. Plastics will be collected for recycling as normal.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What should supervisors do next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Attend a workshop on new procedures",
+              "(B) Update the company’s website",
+              "(C) Make room for new waste receptacles",
+              "(D) Inform their teams of the changes"
+            ]
+          },
+          "answer": {
+            "text": "(A) Attend a workshop on new procedures",
+            "explanation": "It can be inferredfrom: <i>\"Training sessions for managers will be held on Monday, October 22\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2acc"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\">  Normanville Farmers’ Market</h3> April 9 <br>Dear Normanville Resident, <br>This year’s first Normanville Farmers’ Market will be open on Saturday, April 14, on Clark Street, between Main street and Park street. The farmers’ market will be available between 9:00 A.M. and 5:00 P.M. The mayor of Normanville, Tom Daley, will be present to deliver an address at the opening ceremony. A lot of local farmers, food vendors, and street performers will be at the venue. <br>“This vibrant market will give our local farmers a nice place to sell their fresh produce. Additionally, because we cut out some middle processes, our prices are lower than those of average grocery stores,” said Suzy Hammer, executive director of the Normanville Farmers’ Association. <br>Ms. Hammer also mentioned that currently there is not enough parking space to accommodate shoppers. The Normanville Farmers’ Association plans on expanding parking space in the coming months after the market has opened this Saturday. In the meantime, she advises Normanville residents who will visit the market to use public transportation in order to avoid parking difficulties. <br>The Normanville Farmers’ Market is different from other grocery stores that supply mass-produced food products. The market will provide organic produce that is full of essential vitamins and minerals. As you know, the market will also help the local economy. <br>Please come this Saturday and see what the Normanville Farmers’ Market has to offer! <br> Sincerely,<br> Normanville Farmer’s Association",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the letter written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To describe a policy change",
+              "(B)  To introduce a new grocery store",
+              "(C)  To advertise a market opening",
+              "(D) To announce election results"
+            ]
+          },
+          "answer": {
+            "text": "(C)  To advertise a market opening",
+            "explanation": "It can be inferred from: <i>\"This year’s first Normanville Farmers’ Market will be open on Saturday, April 14, on Clark Street\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Hammer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is a vendor at a farmer’s market",
+              "(B) She represents other farmers",
+              "(C) She owns a family-run farm",
+              "(D) She is the mayor of Normanville"
+            ]
+          },
+          "answer": {
+            "text": "(B) She represents other farmers",
+            "explanation": "Based on her speech."
+          }
+        },
+        {
+          "question": {
+            "text": "What problem is mentioned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Inadequate parking spots",
+              "(B) Unfair product pricing",
+              "(C) Lack of quality control",
+              "(D) Inclement weather"
+            ]
+          },
+          "answer": {
+            "text": "(A) Inadequate parking spots",
+            "explanation": "The information is in: <i>\"In the meantime, she advises Normanville residents who will visit the market to use public transportation in order to avoid parking difficulties.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a benefit of shopping at the venue?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A boost for the local economy",
+              "(B) Competitive prices",
+              "(C) Healthy produce",
+              "(D) Longer opening hours"
+            ]
+          },
+          "answer": {
+            "text": "(D) Longer opening hours",
+            "explanation": "(A) - As you know, the market will also help the local economy.<br>(B) - Additionally, because we cut out some middle processes, our prices are lower than those of average grocery stores<br>(C) - The market will provide organic produce that is full of essential vitamins and minerals."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2acf"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\">  Lost and Found</h3>Parkway City is bracing for another holiday season and urging its citizens and tourists to keep track of their belongings. - [1] - Every year, more than 2000 items show up at the city lost and found located at Parkway City Hall. “But we get even more lost items during the holiday season,” explained Jean King, the managing director of the lost and found. “From around November 25 to January 2, we get a 25% increase in the number of items that are brought to US.”<br>- [2] - Everything from keys, sunglasses, umbrellas, and jewelry to electronic devices, luggage, and shopping bags full of newly purchased items have been brought to the center over the years. “The strangest item we got was a suitcase full of period piece costumes,” says Jean. “The intern working for a film at the time was happy to get it back.”<br>- [3] - If the items are not claimed within 90 days, they are auctioned off at a public event to raise money for the community center - [4] –",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To advertise an event for the holidays",
+              "(B) To warn citizens of increased crimes",
+              "(C) To inform people about lost and found items",
+              "(D) To give information about an auction"
+            ]
+          },
+          "answer": {
+            "text": "(C) To inform people about lost and found items",
+            "explanation": "The information can be inferred from: <i>\"Every year, more than 2000 items show up at the city lost and found located at Parkway City Hall.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Jean King?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She searches for lost items.",
+              "(B) She works for the city.",
+              "(C) She is an intern.",
+              "(D) She manages the community center."
+            ]
+          },
+          "answer": {
+            "text": "(B) She works for the city.",
+            "explanation": "It can be inferred from: <i>\"Jean King, the managing director of the lost and found\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the lost items?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are not kept indefinitely at the center.",
+              "(B) They are usually claimed by their owners.",
+              "(C) They are destroyed when unclaimed.",
+              "(D) They are generally new items."
+            ]
+          },
+          "answer": {
+            "text": "(A) They are not kept indefinitely at the center.",
+            "explanation": "The information is in: <i>\" If the items are not claimed within 90 days, they are auctioned off at a public event to raise money for the community center.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br> “Many people do come to claim their missing items, but a vast majority is still left unclaimed.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Because the sentence after position [3] mention about how much the time the items are not claimed."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ad2"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>This Amazing World Photography Competition</strong></p> <p>The monthly travel magazine This Amazing World is offering a discounted subscription rate for those who sign up during the month of November. This Amazing World has been in print for over 30 years and offers readers insider tips and expert know-how to help you plan the vacation of your dreams.<br /> The magazine includes vacation package advertisements, reviews from travelers, and insightful essays to introduce you to various cultures, cuisines, and travel destinations.<br /> Submit your travel photos to our This Amazing World Photography Competition for a chance to win a fantastic vacation to Scotland! The winner of the top prize will receive round-trip tickets and a $2,000 travel voucher for a hotel stay for two people.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is mentioned about the magazine?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is a literary journal.",
+              "(B) It includes a recipe book as a supplement.",
+              "(C) It provides travel advice.",
+              "(D) It has an online version."
+            ]
+          },
+          "answer": {
+            "text": "(C) It provides travel advice.",
+            "explanation": "The information can be inferred from: <i>\"This Amazing World has been in print for over 30 years and offers readers insider tips and expert know-how to help you plan the vacation of your dreams.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the competition?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is sponsored by professional photographers.",
+              "(B) It awards a complimentary vacation to the winner.",
+              "(C) It accepts digital photos only.",
+              "(D) It features photos of Scotland"
+            ]
+          },
+          "answer": {
+            "text": "(B) It awards a complimentary vacation to the winner.",
+            "explanation": "It can be inferred from <i>\"Submit your travel photos to our This Amazing World Photography Competition for a chance to win a fantastic vacation to Scotland! The winner of the top prize will receive round-trip tickets and a $2,000 travel voucher for a hotel stay for two people.\"</i> that you can get a fantstic vacation in Scotland."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2ad5"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c0eccc8cae769c2ad8"
+}

@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 32",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2131.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2131.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be766"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "How will the new equipment be delivered  to the factory? <br>(A) I don't know how to operate it yet. <br><b> (B) I think it'll come by truck </b><br>(C)  On this delivery form,"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be76b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2230.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2230.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be771"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Could you tell me how often the bus leaves for Madrid? <br><b>  A) There’s one every hour</b><br>B) Only two pieces, please<br>C) No, she’s the trainer"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be775"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2520.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2520.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be76f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "You’ve seen the new company letterhead, haven’t you? <br>*A)Yes, it’s very impressive<br>B) Because it’s still too new<br>C) No, I work for a company"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be777"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "687603150-1493270386070.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/687603150-1493270386070.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be773"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Why don’t I give you a ride to the airport on Monday morning? <br><b> (A)Thanks, but I've already arranged for a taxi. </b>  <br>(B) To attend a training session for our international clients, <br>(C) I called to confirm my flight"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be77a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2231.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2231.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be77d"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "What do you like to do in your spare time? <br><b> A) I depends on the weather</b><br>B) I suggested it<br>C) At about half past four"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be782"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2133.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2133.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be784"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Do you think this advertisement would look better with blue writing, or with orange? <br>(A) Yes, it's the best I’ve seen so far. <br><b>  (B) Why don't you try green instead? </b><br> (C) Aren't you going to?"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be789"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2523.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2523.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be780"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Does your hotel have any rooms available? <br>*A) I’m afraid we’ve booked through next week<br>B) Yes, I can come tomorrow<br>C) No, there’s not enough room for both cars"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be787"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2232.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2232.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be78b"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Tomorrow is the deadline for this project, isn’t it? <br><b> A) Yes, Mr. Doyle wants it done by noon</b><br>B) The line’s over there<br>C) I’m sorry. I’m not wearing a watch"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be78f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2134.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2134.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be791"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "These client files are ordered  alphabetically, aren't they? <br>(A) haven't placed the order yet <br><b>  (B) Yes, by last name</b><br> (C) The first one you come across."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be796"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2233.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2233.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be798"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Has anyone seen the signed purchase orders? <br>A) It says “ no parking” <br>B) I’ll have the salad, please<br><b>  C) I haven’t seen them</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be79d"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644157eccc8cae769be7a5"
+}

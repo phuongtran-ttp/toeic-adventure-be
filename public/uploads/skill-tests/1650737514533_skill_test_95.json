@@ -1,0 +1,769 @@
+{
+  "name": "Skill Test 95",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6024026_1557990285856.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6024026_1557990285856.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769bff5e"
+          }
+        ],
+        "sound": [
+          {
+            "name": "718541343-1584092153937.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/718541343-1584092153937.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff60"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-am: Excuse me sir,<b> Q1 I think you might be sitting in my seat. My ticket says I’m supposed to be in seat A by the window.</b><br>M-Cn: <b> Q2 I’m sure I’m in 14A. </b> Let’s look at your boarding pass. Hmm, I see the problem, <b> Q2 You’re seated right behind me.</b><br>W-Am: Oh, thanks, but...would you mind changing places with me? My colleague's going to be sitting in 14B, and we have some business to discuss on the trip. <br>M-Cn: Sure, that's fine. I just want a window seat. <b> Q3 We probably should tell the flight attendant about the switch, though.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the conversation?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To explain a procedure",
+              "(B) To resolve a problem",
+              "(C) To improve a service",
+              "(D) To negotiate a price"
+            ]
+          },
+          "answer": {
+            "text": "(B) To resolve a problem",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which seat was the woman originally assigned to?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 14A",
+              "(B) 14B",
+              "(C) 15A",
+              "(D) 15C"
+            ]
+          },
+          "answer": {
+            "text": "(C) 15A",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man recommend doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Checking an airport arrival monitor",
+              "(B) Asking about a meal selection",
+              "(C) Requesting a discount voucher",
+              "(D) Notifying flight staff of a change"
+            ]
+          },
+          "answer": {
+            "text": "(D) Notifying flight staff of a change",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff64"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0304.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0304.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff68"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> M: Hello, this is Tim Mason speaking. I live on Maria Street. <b> Q1 All the electricity at my house has gone out.</b> <br>W: I’m very sorry, sir. It looks like a tree fell on a power line and knocked out all the power on your street. <br>M: Yeah, that’s what I expected. Do you know how long it will take to restore the electricity? <br>W: <b> Q2 Because of all the storm damage, our repair teams are behind schedule. Q3 In the meantime, I suggest you stay at a family member or friend’s house.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem does the man report?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Internet access has been disconnected.",
+              "(B) A delivery has not arrived yet.",
+              "(C) A power outage occurred.",
+              "(D) Some equipment has malfunctioned."
+            ]
+          },
+          "answer": {
+            "text": "(C) A power outage occurred.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where most likely does the woman work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At an electronics store",
+              "(B) At a power company",
+              "(C) At a toy factory",
+              "(D) At a communications provider"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a power company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Take shelter elsewhere",
+              "(B) Report the incident to the police",
+              "(C) Restart his computer",
+              "(D) Arrive ahead of schedule"
+            ]
+          },
+          "answer": {
+            "text": "(A) Take shelter elsewhere",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff6c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "3756324_1557990286511.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/3756324_1557990286511.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769bff6a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "646427960-1584092173628.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/646427960-1584092173628.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff6e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br:  Hi, Arlo. How’s the townhouse renovation project going? <br>M-Cn:  Good! <b> Q1 The house is old, but it doesn’t have any structural problems—we've made a lot of progress.</b><br>W-Br:  Great! I’d really like to put this property on the market in the beginning of April —it's the best time to sell a house. Will all the work be completed by then? <br>M-Cn:  Let me check my calendar. So...we've just completed the floor installation, and <b> Q2 we’re going to start painting next week</b>. So yes, we should be done by the end of March. <br>W-Br: OK! <b> Q3 Could you send me some information about your total expenses?</b> It’ll help me come up with a price for the house."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely is the man's profession?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Landscape architect",
+              "(B) Construction manager",
+              "(C) Plumber",
+              "(D) Hardware store owner"
+            ]
+          },
+          "answer": {
+            "text": "(B) Construction manager",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What stage of the renovation will begin next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Stage 1",
+              "(B)  Stage 2",
+              "(C) Stage 3",
+              "(D) Stage 4"
+            ]
+          },
+          "answer": {
+            "text": "(C) Stage 3",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to send?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An invitation",
+              "(B) A list of costs",
+              "(C) Some photos",
+              "(D) A Web site address"
+            ]
+          },
+          "answer": {
+            "text": "(B) A list of costs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff71"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0305.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0305.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff73"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> W: Hello, I need to send a package to my brother who lives overseas in Germany. What delivery method would be best? <br>M: Well, it really depends on what you’re sending. <b> Q1 Because we are a public post office, we don’t offer that many options.</b> <br>W: <b> Q2 Actually, it was my brother’s birthday last week, but I forgot. So I’m in a hurry to send this package.</b> Also, what I’m sending is somewhat fragile. <br>M: <b> Q3 In that case, I suggest you use a private delivery service.</b> Private companies provide a larger variety of services that we don’t offer."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the man work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At an immigration office",
+              "(B) At a public school",
+              "(C) At a post office",
+              "(D) At a travel agency"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a post office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman in a hurry?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is late to work.",
+              "(B) She forgot an important event.",
+              "(C) She must meet a deadline.",
+              "(D) She has another appointment."
+            ]
+          },
+          "answer": {
+            "text": "(B) She forgot an important event.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man recommend?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Making a phone call",
+              "(B) Visiting a different business",
+              "(C) Sending an e-mail",
+              "(D) Canceling a subscription"
+            ]
+          },
+          "answer": {
+            "text": "(B) Visiting a different business",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff76"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6174154_1557990287305.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6174154_1557990287305.png",
+            "mime": "image/png",
+            "id": "6264416aeccc8cae769bff78"
+          }
+        ],
+        "sound": [
+          {
+            "name": "195701859-1584092197846.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/195701859-1584092197846.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff7b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au: <b> Q1 Judy, did you know we’re considering buying Yantz Foods</b>? I just read the report - have you seen it? <br>W-Am:  No, not yet. What does it say? <br>M Au:  Well, we still wouldn’t be the biggest company in the industry, but we’d be much more competitive. The first page shows the industry market shares. <br>W-Am: So, <b> Q2 it looks like we’re already the second biggest, </b> and acquiring Yantz Foods will definitely keep our market  share larger than Bowlton’s. <br>M-Au: That’s right, I think acquiring the company would be the right move. <br>W-Am: Well now that I’m reading the report <b> Q3 I’m not sure .I see that Yantzs profits went down last quarter - maybe it isn't such a good idea.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A marketing campaign",
+              "(B) A business acquisition",
+              "(C) An annual budget",
+              "(D) Employment figures"
+            ]
+          },
+          "answer": {
+            "text": "(B) A business acquisition",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Armer Company",
+              "(B) Yantz Foods",
+              "(C) Bowlton",
+              "(D) The Park Group"
+            ]
+          },
+          "answer": {
+            "text": "(A) Armer Company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman say she is not convinced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The man is not familiar with a business strategy.",
+              "(B) Some figures are not accurate.",
+              "(C) She does not want to hire new employees.",
+              "(D) A company’s profits have decreased."
+            ]
+          },
+          "answer": {
+            "text": "(D) A company’s profits have decreased.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff7f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0306.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0306.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff7d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> W: Hi, Mr. Winston. This is Sharon Smith. <b> Q1 I was the person interested in buying the used Speedster sports car that you showed me last week</b>. I checked my financial situation and I’ve decided to go ahead with the purchase. <br>M: Hi, Ms. Smith. Well, unfortunately, we already sold that car to somebody yesterday. However, I have a similar model that you could look at. The car is used, but it is in great shape and just had new tires put on it. <br>W: Oh, that’s too bad that you already sold the model. <b> Q2 That car had a really good safety rating, which is what I consider most important when buying a car.</b> <br>M: I see. Well, this similar model also has a five-star safety rating. <b> Q3 Why don’t you come here this week? You can take a look at it and take it for a test drive.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business does the man work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An auto repair shop",
+              "(B) An insurance company",
+              "(C) An automobile dealership",
+              "(D) A construction contractor"
+            ]
+          },
+          "answer": {
+            "text": "(C) An automobile dealership",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say is her top priority when she makes a purchase?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Affordability",
+              "(B) Popularity",
+              "(C) Design",
+              "(D) Safety"
+            ]
+          },
+          "answer": {
+            "text": "(D) Safety",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Replacing a broken part",
+              "(B) Evaluating a different model",
+              "(C) Visiting a new branch",
+              "(D) Paying a deposit"
+            ]
+          },
+          "answer": {
+            "text": "(B) Evaluating a different model",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff81"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0307.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0307.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff85"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> M: Hello, Judy. <b> Q1 Have you got a moment to discuss last week’s sales figures?</b> <br>W: <b> Q2 I’m actually on my way to a meeting, but you can ask me something briefly. <br>M: Q1 The sales figures for your branch are much lower than they have ever been.</b> The board of directors is pretty upset about it. Is everything OK at the office? <br>W: Well, not really. There are some problems with my staff at the moment and they aren’t working like they used to. There is a conflict between some of the staff. I know it’s affecting sales figures and it is a serious problem. <br>M: Really? <b> Q3 Do you think we need to fire someone?</b> <br>W: I think that’s the only solution. I’m going to see how they go in the next week and I will make a decision."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) High sales figures",
+              "(B) A staff conflict",
+              "(C) Low sales figures",
+              "(D) New training manual"
+            ]
+          },
+          "answer": {
+            "text": "(C) Low sales figures",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman mean when she says “I’m actually on my way to a meeting”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She doesn’t have a lot of time to talk.",
+              "(B) She can stay and chat for a long time,",
+              "(C) She is asking the man out to lunch.",
+              "(D) She will send him an e-mail later on."
+            ]
+          },
+          "answer": {
+            "text": "(A) She doesn’t have a lot of time to talk.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What possible solution does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To employ more staff members",
+              "(B) That the woman should be fired",
+              "(C) They should have lunch together.",
+              "(D) The woman might have to fire someone."
+            ]
+          },
+          "answer": {
+            "text": "(D) The woman might have to fire someone.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff87"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0308.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0308.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff8a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> W: Hello, Mr. Morgan. This is Debra. <b> Q1 We have a bit of a problem. The person that was supposed to give the keynote speech next week is sick.</b> So we need to find a replacement. Would you be able to do it? <br>M: I’ll be out of town for the next four days on business and when I get back I’ll be quite busy. <br>W: I see. <b> Q2 The board of directors would love to have you do the speech.</b> They really liked it last time you delivered it. <br>M: <b> Q3 Thanks, but I’ll have to pass on it.</b> I just have too much on my plate at the moment. If I had some more time to prepare, I would have considered it. <br>W: OK, I understand. I’ll let the board know. I hope you have a safe trip. <br>M: Thanks for your understanding, Debra."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The person who was supposed to give the speech is sick.",
+              "(B) The person who was giving the speech said they don’t want to.",
+              "(C) There is no keynote speech anymore.",
+              "(D) The keynote speech is cancelled."
+            ]
+          },
+          "answer": {
+            "text": "(A) The person who was supposed to give the speech is sick.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She asks him to find someone to do the speech.",
+              "(B) She says she will deliver the speech.",
+              "(C) She asks him to deliver the keynote speech.",
+              "(D) She says the board is not happy."
+            ]
+          },
+          "answer": {
+            "text": "(C) She asks him to deliver the keynote speech.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man imply when he says “Thanks, but I’ll have to pass on it”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He will deliver the speech.",
+              "(B) He doesn’t want to deliver the speech,",
+              "(D) He needs some more information.",
+              "(c) He will talk to the board of directors."
+            ]
+          },
+          "answer": {
+            "text": "(B) He doesn’t want to deliver the speech,",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff8c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0309.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0309.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff8f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> W: Tristar Logistics, how can I help you? <br>M: Hello. <b> Q1 I have a delivery coming today but I won’t be at the office all day. Can you reschedule to deliver for another day?</b> <br>W: No problem. If you prefer, we can leave it with someone at your office? <br>M: <b> Q2 That won’t work for me</b>. The delivery contains some expensive pieces of art so I want to personally receive it. <br>W:  That’s fine. When would you like it delivered? <br>M: Before midday would be perfect. <br>W: <b> Q3 OK, if you could give me your cell phone number, I can have the delivery man call you when he is in your neighborhood.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the man calling Tristar Logistics?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To reschedule a delivery",
+              "(B) To cancel his order",
+              "(C) To change his address",
+              "(D) To update his details"
+            ]
+          },
+          "answer": {
+            "text": "(A) To reschedule a delivery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does he imply when he says “That won’t work for me”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It contains important documents.",
+              "(B) He will pay with a money order.",
+              "(C) He doesn’t want them to leave it with someone at the office.",
+              "(D) He wants it left at the office."
+            ]
+          },
+          "answer": {
+            "text": "(C) He doesn’t want them to leave it with someone at the office.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she wants?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The office address",
+              "(B) His cell phone number",
+              "(C) The order number",
+              "(D) His building number"
+            ]
+          },
+          "answer": {
+            "text": "(B) His cell phone number",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff91"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0310.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0310.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff94"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> M1: Hi Ruth, hi Greg.<b> Q1 Unfortunately, there is going to be a delay on the delivery of your computer equipment.</b> We won’t be able to deliver it until tomorrow. <br> W: We needed that equipment today. <b> Q2 We are going to miss some important deadlines without that equipment.</b> <br>M2: If we miss that deadline, we might lose some very important clients. Is there any possible way you can get it to US today? <br>M1: I’m sorry it’s not possible. We haven’t received the equipment at our distribution center yet. <br>W: OK. I know another supplier who can guarantee same-day delivery. <b> Q3 I’m going to call them and ask if they can supply US with the equipment.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The delivery of some furniture",
+              "(B) The signing of a rental contract",
+              "(C) The drafting of a document",
+              "(D) The delivery of computer equipment"
+            ]
+          },
+          "answer": {
+            "text": "(D) The delivery of computer equipment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem do the speakers have?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They don’t need the equipment.",
+              "(B) They will miss some important deadlines.",
+              "(C) They need to train their new staff.",
+              "(D) They haven’t found the documents."
+            ]
+          },
+          "answer": {
+            "text": "(B) They will miss some important deadlines.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest they do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Accept the late order",
+              "(B) Cancel the order",
+              "(C) Call another supplier",
+              "(D) Rent some equipment"
+            ]
+          },
+          "answer": {
+            "text": "(C) Call another supplier",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff96"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264416aeccc8cae769bff99"
+}

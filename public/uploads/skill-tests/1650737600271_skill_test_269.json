@@ -1,0 +1,746 @@
+{
+  "name": "Skill Test 269",
+  "questions": [
+    {
+      "question": {
+        "text": "<p style=\"text-align: center;\"><strong>Grandview Business News</strong></p> <p>The Burnelle&rsquo;s launched their meal delivery service for busy families just six months ago, and the business is flourishing, exceeding expectations. - [1] - Their small shop Farm-to-Table, located in Central Grandview Heights, has been forced to increase staff by 120% to keep up with demand. The whole premise of the idea came up after Rachel and Robert Burnelle had their first child. Both working parents had constantly turned to fastfood for their meals and realized that many of their friends did as well. They wanted healthier options which most fast-food fanchises don&rsquo;t provide. - [2] - The business is so popular that they have been getting orders from outside the city. &ldquo;The response has been overwhelming,&quot; says Rachel. &ldquo;Our customers especially appreciate the freshness and quality of our meals.&rdquo; Janet, a customer from the start added, &ldquo;Not only is the food healthy, it&rsquo;s not that much more expensive than fast-food meals, but it&rsquo;s much better for you.&rdquo; - [3] -<br /> The Burnelles say they are planning to expand their delivery routes and open three Farm-to-Table grocery shops with ready-made meals around the city of Grandview within the next year. - [4] &ndash;</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the article about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The changing role of fast food companies",
+              "(B) The importance of healthy eating",
+              "(C) The expansion of farmland at Grandview",
+              "(D) The success and growth of a small business"
+            ]
+          },
+          "answer": {
+            "text": "(D) The success and growth of a small business",
+            "explanation": "It can be inferred from: <i>\"The Burnelle’s launched their meal delivery service for busy families just six months ago, and the business is flourishing, exceeding expectations.\" that the bussiness is flourishing which has the same meaning with successful."
+          }
+        },
+        {
+          "question": {
+            "text": "What is the main selling point of Farm-to-Table meals according to the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is delivered very quickly.",
+              "(B) It is very inexpensive.",
+              "(C) It is healthy.",
+              "(D) It is delicious."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is healthy.",
+            "explanation": "The information is in: <i>\"They wanted healthier options which most fast-food fanchises don’t provide.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong?<br> “That is when the Burnelles decided to quit their office jobs and start their own healthy food delivery service for working people.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(B) [2]",
+            "explanation": "Because the sentences before [2] mention about the Burnelles had first child and they had to turned to fastfood for their meal but they wanteda healthier options than fastfood."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a90"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Duluth City</strong></p> <p align=\"center\"><strong>5th Annual Summer Fun Festival</strong></p> <p align=\"center\"><strong>Sunday, July 23</strong></p> <p>10:00 A.M. to 6:00 P.M. <i>Local Nature Art Competition</i><br /> Duluth artists will be displaying their paintings of local nature and wildlife in the Duluth Community Center. Visitors are asked to cast their vote for their favorite painting. The winner will be announced at the start of the singing competition.<br /> <br /> 11:00 A.M. to 12:00 P.M. <i>Magic Show</i><br /> Please join us for an astonishing magic show. Magician Mick Turner is famous for his creative and entertaining magic tricks.<br /> <br /> 12:00 P.M. to 2:00 P.M. <i>Live Jazz Concert</i><br /> Enjoy live jazz in the park performed by New-York-based jazz band The Holloway Band. They will be playing a variety of jazz standards. They will also have their most recent record for sale.<br /> <br /> 10:00 A.M. to 7:00 P.M. <i>Renewable Energy Expo</i><br /> Local company Sunshine Energy will be displaying some of its newest renewable energy projects, including solar panels and portable cell phone chargers.<br /> <br /> 7:00 P.M. to 9:00 P.M. <i>Singing Competition</i><br /> Local residents are encouraged to take part in this year&rsquo;s singing competition. Those who would like to participate can register by visiting our website at www.duluthcitysff.com and filling out the necessary</p> <p>&nbsp;</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When will the winner of the art competition be announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 2:00 P.M.",
+              "(B) 6:00 P.M.",
+              "(C) 7:00 P.M.",
+              "(D) 9:00 PM."
+            ]
+          },
+          "answer": {
+            "text": "(C) 7:00 P.M.",
+            "explanation": "It can be inferred from: <i>\"The winner will be announced at the start of the singing competition.\" </i> and the singing competititon is from 7 p.m. to 9 p.m.\n"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the schedule, what will be available for purchase?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A work of art",
+              "(B) A musical album",
+              "(C) A cell phone accessory",
+              "(D) A solar panel"
+            ]
+          },
+          "answer": {
+            "text": "(B) A musical album",
+            "explanation": "As you can see in the schedule of Live Jazz Concert which would be performed by The Holloway Band that <i>\"They will also have their most recent record for sale.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "How can participants sign up for the singing competition?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By visiting an information booth",
+              "(B) By contacting the community center",
+              "(C) By visiting a website",
+              "(D) By sending an e-mail"
+            ]
+          },
+          "answer": {
+            "text": "(C) By visiting a website",
+            "explanation": "The information is in: <i>\"Those who would like to participate can register by visiting our website at www.duluthcitysff.com and filling out the necessary.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a8b"
+    },
+    {
+      "question": {
+        "text": "To: All Employees <staff@jointsystems.com> <br>From: Fred Hanes <fhanes@jointsystems.com><br>Subject: Community Park Cleanup <br>Date: February 12<br><br>Joint Systems is a company that tries to take every opportunity to give back to our community. Therefore, I am urging all of our employees to take part in the upcoming community park cleanup sponsored by the city of Harrisburg. Without the dedication of volunteers, our parks and public spaces would not be free of litter. Donate some of your free time to keeping Harrisburg a beautiful and inviting city. <br> The community park cleanup will be held next Friday, February 18, from 1:00 to 5:00 P.M. Employees who wish to participate will leave work at lunchtime, yet will still be paid as if they had worked a full day. Volunteers are asked to bring supplies such as protective outerwear, tools, insect repellent, trash bags, and snacks. <br> A shuttle bus will depart from the company parking lot at 1:20 P.M. on Friday to take volunteers to the volunteer location. If you have a specific preference concerning the type of work you would like to do, please contact Event Organizer Don Lewis at 435- 555-6768. <br> We appreciate everyone’s enthusiasm and support. <br>Fred Hanes<br> Human Resources, Joint Systems",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To organize a business trip",
+              "(B) To request updated information",
+              "(C) To offer additional skills training",
+              "(D) To promote a community event"
+            ]
+          },
+          "answer": {
+            "text": "(D) To promote a community event",
+            "explanation": "The information is in: <i>\"Joint Systems is a company that tries to take every opportunity to give back to our community.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What would probably NOT be necessary for participants?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A company uniform",
+              "(B) A mosquito spray can",
+              "(C) A rake",
+              "(D) A sandwich"
+            ]
+          },
+          "answer": {
+            "text": "(A) A company uniform",
+            "explanation": "The information can be inferred from: <i>\"Volunteers are asked to bring supplies such as protective outerwear, tools, insect repellent, trash bags, and snacks.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the e-mail, what is Mr. Lewis responsible for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Raising awareness about food waste",
+              "(B) Analyzing customer feedback",
+              "(C) Assigning individuals tasks",
+              "(D) Cleaning a community center"
+            ]
+          },
+          "answer": {
+            "text": "(C) Assigning individuals tasks",
+            "explanation": "The information is in: <i>\"If you have a specific preference concerning the type of work you would like to do, please contact Event Organizer Don Lewis at 435- 555-6768.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a8e"
+    },
+    {
+      "question": {
+        "text": "<p style=\"text-align: center;\"><strong><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Attention Shoppers</span></span></strong></p> <p><br /> <span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">We regret to inform you that there has been a general recall on all Kent brand ladders manufactured between March 30 and July 30 this year.<br /> <br /> <b>&bull; The ladders do not comply with mandatory safety standards and could be unstable.<br /> &bull; The ladders could move while standing on them and could contribute to dangerous falls.<br /> &bull; Do not use the ladders for any reason. Contact the Kent Company to receive a refund or a replacement product. Customers will receive a full refund even without proof of purchase as long as they return the ladders.</b><br /> <br /> The Kent Company can be reached by calling 1-800-555-2493. Press 8 in order to be transferred to a representative who deals exclusively with product recalls. We sincerely apologize for this inconvenience.</span></span></p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely could this notice be found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a real estate office",
+              "(B) At a hardware store",
+              "(C) At a movie theater",
+              "(D) At a grocery store"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a hardware store",
+            "explanation": "It can be inferred from: <i>\"We regret to inform you that there has been a general recall on all Kent brand ladders manufactured between March 30 and July 30 this year.\"</i> that the notice is at Kent Company which manufactures ladders."
+          }
+        },
+        {
+          "question": {
+            "text": "What are customers warned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Using a defective product",
+              "(B) Renewing a warranty",
+              "(C) Submitting an order form",
+              "(D) Filing a complaint"
+            ]
+          },
+          "answer": {
+            "text": "(A) Using a defective product",
+            "explanation": "The information is in: <i>\"The ladders do not comply with mandatory safety standards and could be unstable.\n• The ladders could move while standing on them and could contribute to dangerous falls.\n• Do not use the ladders for any reason.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the notice, how can more information be obtained?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By filling out a form",
+              "(B) By consulting an instruction manual",
+              "(C) By contacting a company",
+              "(D) By watching a video tutorial"
+            ]
+          },
+          "answer": {
+            "text": "(C) By contacting a company",
+            "explanation": "<i>\"Contact the Kent Company to receive a refund or a replacement product.\"<i/>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a95"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Movies in the Park</strong></p> <p>This fall Glenwood Springs Park will host a weekly Movies in the Park night for residents of Glenwood Springs. In cooperation with various local business sponsors including Paxton Inc. and GS Mall, family-friendly movies will be shown every Friday night at the center of the park. Tickets are not necessary for these events because they are free to the public.<br /> <br /> Running from September through November, Movies in the Park promises a wonderful line-up of fun and touching movies for the whole family. You are encouraged to bring blankets and chairs as well as picnic snacks. Movie starting times depend on sunset times, so it is advised to come early to secure your spot beforehand. Please visit our website at www.glenwoodsprings.org/movies to see a schedule of upcoming films and a list of our local sponsors.<br /> <br /> In the event of heavy rain, low temperatures, or strong winds, the film screening may be canceled. If this occurs, the announcement for the film cancelation will be made both on our website and on the local radio. You can also ask about event cancelations by calling the Glenwood Springs Department of Parks and Recreation at 715-555-5358.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the flyer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce park renovation plans",
+              "(B) To publicize a community event",
+              "(C) To solicit donations",
+              "(D) To promote a new film"
+            ]
+          },
+          "answer": {
+            "text": "(B) To publicize a community event",
+            "explanation": "It can be inferred from the first passage that a weekly Movies in the Park night will be hosted for residents and it is free to the public. Therefore, it is a public event"
+          }
+        },
+        {
+          "question": {
+            "text": "Who will provide funding for Movies in the Park?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A local radio station",
+              "(B) The residents in Glenwood Springs",
+              "(C) The Department of Parks and Recreation",
+              "(D) The businesses in Glenwood Springs"
+            ]
+          },
+          "answer": {
+            "text": "(D) The businesses in Glenwood Springs",
+            "explanation": "It can be inferred from <i>\"In cooperation with various local business sponsors including Paxton Inc. and GS Mall.\"</i> that local business is the businesses in Glenwood Springs."
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a recommendation for participants?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Bringing food",
+              "(B) Purchasing tickets in advance",
+              "(C) Consulting a schedule",
+              "(D) Arriving early"
+            ]
+          },
+          "answer": {
+            "text": "(B) Purchasing tickets in advance",
+            "explanation": "(A) - You are encouraged to bring blankets and chairs as well as picnic snacks.<br>(C) - Please visit our website at www.glenwoodsprings.org/movies to see a schedule of upcoming films and a list of our local sponsors.<br>(D) - Movie starting times depend on sunset times, so it is advised to come early to secure your spot beforehand."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the flyer, why would the phone number be used?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To make a reservation",
+              "(B) To inquire about a schedule change",
+              "(C) To ask for driving directions",
+              "(D) To cancel an appointment"
+            ]
+          },
+          "answer": {
+            "text": "(B) To inquire about a schedule change",
+            "explanation": "The information can be inferred from: <i>\"You can also ask about event cancelations by calling the Glenwood Springs Department of Parks and Recreation at 715-555-5358.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a97"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse> <tr> <td colspan =\"4\"> <h4 align =\"center\"> Sanchez Motors </h4> </td></tr> <tr> <td align =\"center\"> <b> ABOUT </td> <td align =\"center\"> NEWS</td><td align =\"center\"> MODELS</td><td align =\"center\"> SERVICES COMMUNITY  </td></tr> <tr> <td colspan =\"4\"> <h4 align=\"center\"> About Sanchez Motors </h4> <br>Carlos Sanchez always had the dream of owning his own car dealership ever since he started working as an assistant in an auto repair shop. After saving his money for ten years, he finally opened Sanchez Motors and has been serving the community with integrity and pride ever since. Sanchez Motors <b>carries</b> all kinds of vehicles, from sports cars and vans to SUVs and trucks. Not sure what car fits your needs? Then come on down and try driving a variety of vehicles to see what’s right for you.<br>Until the end of the year, Sanchez Motors is giving you an amazing offer on our popular line of Spitfire pickup trucks and stark SUVs. If you make a down payment of just $3,000, you will be eligible for an extremely low interest rate on your monthly installments.<br>Sanchez Motors is located off Highway 5, just outside of the town of Stockton. We are open 7 days a week, from 9:00 A.M. to 9:00 P.M. Don’t hesitate, and come pay us a visit!</td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Mr. Sanchez?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He works at an auto repair shop.",
+              "(B) He started his own business.",
+              "(C) He is a race car driver.",
+              "(D) He designs a variety of vehicles."
+            ]
+          },
+          "answer": {
+            "text": "(B) He started his own business.",
+            "explanation": "The information is in: <i>\"After saving his money for ten years, he finally opened Sanchez Motors and has been serving the community with integrity and pride ever since.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “carries” in paragraph 1 is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) moves",
+              "(B) manufactures",
+              "(C) sells",
+              "(D) develops"
+            ]
+          },
+          "answer": {
+            "text": "(C) sells",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Sanchez Motors?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It allows customers to test products.",
+              "(B) It operates a store in downtown Stockton.",
+              "(C) It offers vehicle customization.",
+              "(D) It closes on weekends."
+            ]
+          },
+          "answer": {
+            "text": "(A) It allows customers to test products.",
+            "explanation": "Based on the information given in: <i>\"Not sure what car fits your needs? Then come on down and try driving a variety of vehicles to see what’s right for you.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is available to customers until the end of the year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Discounts on sports cars and vans",
+              "(B) An extended warranty at no extra cost",
+              "(C) A special payment option",
+              "(D) A free oil change with any purchase"
+            ]
+          },
+          "answer": {
+            "text": "(C) A special payment option",
+            "explanation": "The information can be inferred from: <i.\"Until the end of the year, Sanchez Motors is giving you an amazing offer on our popular line of Spitfire pickup trucks and stark SUVs. If you make a down payment of just $3,000, you will be eligible for an extremely low interest rate on your monthly installments.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a9a"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/9330073_1562639935940.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who are most likely participating in this group discussion?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The general public",
+              "(B) All employees of the company",
+              "(C) Employees from different countries",
+              "(D) Managers and other group leaders of the company"
+            ]
+          },
+          "answer": {
+            "text": "(D) Managers and other group leaders of the company",
+            "explanation": "Based on the context of the conversation, Patricia asked the others to share their ideas about the upcoming Leadership Workshop and Lawrence talk about his group."
+          }
+        },
+        {
+          "question": {
+            "text": "What’s being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The best presentations from the meeting",
+              "(B) The best speakers at the company",
+              "(C) The schedule for the workshop",
+              "(D) International co-workers"
+            ]
+          },
+          "answer": {
+            "text": "(C) The schedule for the workshop",
+            "explanation": "Patricia asked the others to share their ideas about the upcoming Leadership in her second message."
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:15, what does Adam Cruz mean when he writes “I’m flattered by your vote of confidence”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He’s thankful that people want him to be manager.",
+              "(B) He's grateful that people see him as a good leader.",
+              "(C) He’s happy he has been selected by his co-workers for the job.",
+              "(D) He’s honored that his international experience has been recognized."
+            ]
+          },
+          "answer": {
+            "text": "(B) He's grateful that people see him as a good leader.",
+            "explanation": "Because Jimmy  praised Adam for having experience managing employees in a number of countries and Isabella suggest Adam presenting at the workshop."
+          }
+        },
+        {
+          "question": {
+            "text": "What will Patricia Noble probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Email some information to a co-worker",
+              "(B) Set up a meeting for employees",
+              "(C) Meet with international workers",
+              "(D) Call co-workers about the changes"
+            ]
+          },
+          "answer": {
+            "text": "(A) Email some information to a co-worker",
+            "explanation": "Because Adam asked her to send him a guidline if she had one."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a9d"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Wrightman Towers</strong></p> <p align=\"center\"><b>1234 Broadway Street</b></p> <p align=\"center\"><b>New York, NY 49858</b></p> <p>- [1] - Located in the financial district of the city, Wrightman Towers offers spectacular views of the city landscape and offers office spaces that are ideal for any company that wishes to operate within the heart of New York. Just one block from the subway station and located within walking distance of public buses and taxis, Wrightman Towers is conveniently located. - [2] - The first-floor lobby offers security as employees and residents must scan their way through the security gates to the elevators behind. At the same time the spacious lobby is welcoming with its luxurious interior designs and friendly staff of attendants. - [3] -<br /> The third and fourth floors are available for rent to businesses and corporations. High ceilings and tall glass windows offer open space and beautiful natural lighting. Hurry and send in your requests today. - [4] - Only serious inquiries will be taken and interviews must be conducted in person. Please visit our website at www.wrightmantowers.com/rent for more information. You can take a virtual tour of the premises</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about the rental space?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is only for private residents.",
+              "(B) It is only for businesses.",
+              "(C) It is available to the public.",
+              "(D) It is very expensive."
+            ]
+          },
+          "answer": {
+            "text": "(B) It is only for businesses.",
+            "explanation": "The information can be inferred from: <i>\"Located in the financial district of the city, Wrightman Towers offers spectacular views of the city landscape and offers office spaces that are ideal for any company that wishes to operate within the heart of New York.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the location of Wrightman Towers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is near public transportation.",
+              "(B) It has heavy traffic around the building.",
+              "(C) There are no parking spaces.",
+              "(D) It is just outside the city."
+            ]
+          },
+          "answer": {
+            "text": "(A) It is near public transportation.",
+            "explanation": "Information in:<i>\"Just one block from the subway station and located within walking distance of public buses and taxis, Wrightman Towers is conveniently located.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is featured on the website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A listing of all occupied spaces",
+              "(B) An exclusive discount promo code",
+              "(C) A virtual tour of the rental space",
+              "(D) A history of the building"
+            ]
+          },
+          "answer": {
+            "text": "(C) A virtual tour of the rental space",
+            "explanation": "The information is in: <i>\"Please visit our website at www.wrightmantowers.com/rent for more information.You can take a virtual tour of the premises.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong?<br> “These spaces are in high demand.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "You can see the sentences before position [4] mention about the third and fourth floors are available for rent."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2aa0"
+    },
+    {
+      "question": {
+        "text": "<h4> Clean and Green </h4> The town of Korden has much to celebrate as the new hydrogen fuel car company, Newmark, plans to open a massive manufacturing plant in the next few months. - [1] - Newmark already supplies some of the greenest cities around the world including Vancouver, Singapore, Honolulu, and Amsterdam with hydrogen-fueled public buses and taxis. - [2] - The company is forecast to grow by 120% in the next 5 years. Furthermore, the opening of the plant in Korden is expected to bring in 300 new jobs. - [3] - The old Handai facilities will be the site of the new Newmark facilities. The mayor of Korden is also working to provide government subsidies to those who purchase a hydrogen-fueled car in hopes that the gas guzzling conventional cars eventually become a thing of the past. - [4] -",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main topic of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Alternative energy sources",
+              "(B) Environmentally friendly cities",
+              "(C) The opening of a new factory",
+              "(D) The future of car companies"
+            ]
+          },
+          "answer": {
+            "text": "(C) The opening of a new factory",
+            "explanation": "The information can be inferred from: <i>\"The town of Korden has much to celebrate as the new hydrogen fuel car company, Newmark, plans to open a massive manufacturing plant in the next few months.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen to the old car factories?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be destroyed and rebuilt.",
+              "(B) They will be the new site of the hydrogen fuel car company.",
+              "(C) They will be turned into office buildings.",
+              "(D) They will house all the old conventional cars."
+            ]
+          },
+          "answer": {
+            "text": "(B) They will be the new site of the hydrogen fuel car company.",
+            "explanation": "The information is in: <i>\"The old Handai facilities will be the site of the new Newmark facilities.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Korden?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will become one of the greenest cities.",
+              "(B) Its economy will stay stagnant.",
+              "(C) It will attract new car companies.",
+              "(D) It will grow economically."
+            ]
+          },
+          "answer": {
+            "text": "(D) It will grow economically.",
+            "explanation": "Information can be inferred from: <i>\"The company is forecast to grow by 120% in the next 5 years.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong?<br> “This is welcome news for a town that has suffered economically after the closure of its car manufacturing plants in the 1990’s and after its stagnant growth since then.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1 ]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Based on the infoemation given in: <i>\"he company is forecast to grow by 120% in the next 5 years. Furthermore, the opening of the plant in Korden is expected to bring in 300 new jobs.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2aa3"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"80%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse >  <tr> <td align =\"center\"> <b> Time </td>  <td align =\"center\"> <b>  Monday</td><td align =\"center\"> <b> Tuesday</td>  <td align =\"center\"> <b>Wednesday</td> <td align =\"center\"> <b> Thursday</td> <td align =\"center\"> <b>Friday</td> </tr> <tr> <td align =\"center\">9:00 A.M - 11:00 A.M </td>  <td> Yoga Level 1 Room 4 </td> <td> </td>  <td align =\"center\"> Fitness Training Room 1</td> <td> Kickboxing Level1: Room 3 </td><td> </td></tr>  <tr> <td align =\"center\"> 11:00 A.M - 2:00 P.M  </td>  <td> </td> <td> Weight Training: Room 2 </td>  <td>  </td> <td>  </td><td> Yoga Level 2: Room 4 </tr>   <tr> <td> 2:00 P.M - 4:00 P.M</td>  <td> Cycling: Room 1</td> <td> Kickboxing Level 2: Room 3 </td>  <td>  </td> <td> Nutrition Advice: Room 5 (book a personal appointment at reception) </td> <td> </td></tr>   <tr> <td align =\"center\"> 4:00 P.M - 6:00 P.M</td>  <td> Yoga Level 3: Room 4</td> <td> </td>  <td> Fitness Training: Room 1  </td> <td>   </td> <td> Marathon Training Room 2 </td> </tr>  </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely would this calendar be seen?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In the sports section of a newspaper",
+              "(B) In a welcome packet for a cooking class",
+              "(C) On the wall in a gym facility",
+              "(D) In a program for a sports tournament"
+            ]
+          },
+          "answer": {
+            "text": "(C) On the wall in a gym facility",
+            "explanation": "Based on the information given in the calendar, there are yoga, weight training, fitness training,.. - which are courses at a gym facility."
+          }
+        },
+        {
+          "question": {
+            "text": "Which activities take place in the same room?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Yoga and kickboxing",
+              "(B) Marathon training and cycling",
+              "(C) Yoga and nutrition advice",
+              "(D) Cycling and fitness training"
+            ]
+          },
+          "answer": {
+            "text": "(D) Cycling and fitness training",
+            "explanation": "They both take place in room 1."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2aa9"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c0eccc8cae769c2aad"
+}

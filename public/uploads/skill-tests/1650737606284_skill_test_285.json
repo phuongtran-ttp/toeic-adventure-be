@@ -1,0 +1,668 @@
+{
+  "name": "Skill Test 285",
+  "questions": [
+    {
+      "question": {
+        "text": "To: Mario Gonzalez mgonz@protemp.com <br>From: Estela Morales<emorales@calxadlrectcorp.com><br>Subject: Application<br>Date:July 20<br>□ GDC<br><br> -------------------------------------------<br><br>Dear Mr.,Gonzalez, <br><br>Thank you for your application for the junior accounting position here at Caixa Direct. <br><br>All applications and resumes are first reviewed by two of our senior staff members. If you are selected for an interview following that review, you will be contacted by our personnel officer, Ricardo Martinez, who will set up an appointment. At that time, we will ask for names and contact information for three references. <br><br>Attached is a copy of our most recent annual report, as you requested. Thank you again for your interest in Caixa Direct Corporation. <br><br>Yours truly, <br><br>Estela Morales <br>Office Manager <br>Caixa Direct Corporation",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To inquire about an open position",
+              "(B)To confirm receipt of an application",
+              "(C)To request delivery of a document",
+              "(D)To report on a first meeting"
+            ]
+          },
+          "answer": {
+            "text": "(B)To confirm receipt of an application",
+            "explanation": "Information in the sentence: \"Thank you for your application for the junior accounting position here at Caixa Direct.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will contact Mr. Gonzalez to arrange a meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The senior accountant",
+              "(B)The records officer",
+              "(C)The personnel officer",
+              "(D)The office manager"
+            ]
+          },
+          "answer": {
+            "text": "(C)The personnel officer",
+            "explanation": "Information in the sentence: \"If you are selected for an interview following that review, you will be contacted by our personnel officer, Ricardo Martinez, who will set up an appointment.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is being sent with the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A bank statement",
+              "(B)A staff directory",
+              "(C)A company report",
+              "(D)A job description"
+            ]
+          },
+          "answer": {
+            "text": "(C)A company report",
+            "explanation": "Information in the sentence: \"Attached is a copy of our most recent annual report, as you requested.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d15"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> If you are planning to visit the International Culinary Institute (ICI), please make arrangements in advance. Our guides can best meet your individual needs if the instructions outlined below are followed. <br><br>- Visitors from other nations should notify the director of public relations in writing. Domestic visitors should contact the information services division. <br> - Upon arrival, visitors to the ICI headquarters should go to the lobby of Concord Hall, where the receptionist will notify their hosts. <br>- Visitors staying at or attending meetings at the Kinsley Conference Center should go directly to the conference center. </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the notice describe?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The location of Id's headquarters",
+              "(B)The importance of Id's work",
+              "(C)Correct procedures for visiting ICI",
+              "(D)Courses offered at ICI"
+            ]
+          },
+          "answer": {
+            "text": "(C)Correct procedures for visiting ICI",
+            "explanation": "Information in the sentences: \"If you are planning to visit the International Culinary Institute (ICI), please make arrangements in advance. Our guides can best meet your individual needs if the instructions outlined below are followed.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Whom should people from other countries contact before coming to ICI?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An employee of the information services division",
+              "(B)An ICI guide",
+              "(C)The receptionist at the Kinsley Conference center",
+              "(D)The director of public relations"
+            ]
+          },
+          "answer": {
+            "text": "(D)The director of public relations",
+            "explanation": "Information in the sentence: \"Visitors from other nations should notify the director of public relations in writing.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d18"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <b>Los Angeles </b>—This week marks the opening of Prime International Bank’s latest United States branch office. The office, located in the center of Los Angeles, will deal primarily with international investment and business loans. Other United States branches are located in New York City, Houston, and Chicago; the company’s main offices have always been in Hong Kong. <br><br>Ms. Theresa Mody has been named as manager of the new office. Prior to coming to Los Angeles, Ms. Mody was in charge of Prime International’s Rio de Janeiro branch. <br><br>Mr. Reginald Shao, senior vice president for United States operations, will be in Los Angeles to celebrate the opening of the new branch and to meet with members of the local business community. <br><br>Prime International is the world’s eighth-largest bank. With the opening of this newest branch, it now has offices in 28 cities in 12 countries worldwide. </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is Prime International's newest branch located?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)In Los Angeles",
+              "(B)In New York City",
+              "(C)In Rio de Janeiro",
+              "(D)In Houston"
+            ]
+          },
+          "answer": {
+            "text": "(A)In Los Angeles",
+            "explanation": "Information in the sentence: \"The office, located in the center of Los Angeles\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Hong Kong mentioned in the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Branch offices of many United States banks are located there.",
+              "(B)Prime International has its headquarters there.",
+              "(C)It has a large business community.",
+              "(D)Ms. Mody has been in charge of operations there."
+            ]
+          },
+          "answer": {
+            "text": "(B)Prime International has its headquarters there.",
+            "explanation": "Information in the sentence: \"the company’s main offices have always been in Hong Kong.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Mr. Shao planning to travel to Los Angeles?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To make a hiring decision",
+              "(B)To apply for a business loan",
+              "(C)To replace the current manager",
+              "(D)To make business contacts"
+            ]
+          },
+          "answer": {
+            "text": "(D)To make business contacts",
+            "explanation": "Information in the sentence: \"Mr. Reginald Shao, senior vice president for United States operations, will be in Los Angeles to celebrate the opening of the new branch and to meet with members of the local business community.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In how many cities does Prime International have offices?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)4",
+              "(B)8",
+              "(C)12",
+              "(D)28"
+            ]
+          },
+          "answer": {
+            "text": "(D)28",
+            "explanation": "Information in the sentence: \"With the opening of this newest branch, it now has offices in 28 cities in 12 countries worldwide.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d1b"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h3 style=\"text-align: center;\"> Office Supply Monthly </h4> <br> Desktop copiers are popular among small business owners and telecommuters because they offer the convenience of on-site copying at a reasonably low cost. Our team of reviewers took a look at two popular desktop copiers to determine which one would best meet the needs of a typical small business.<br><br>The Jet AL-1400 copier is a good choice for consumers on a budget. Its print quality is good, and it performs at a reasonable 22-page-per-minute pace. However, with a maximum use limit of 3,600 pages per month. It is not a machine that can withstand heavy use. While it is suitable for a home office, the Jet AL-1400 does not necessarily perform well enough for a busy office that needs to produce a large number of copies.<br><br>Clearmark’s 4000 desktop copier is slightly more expensive than the Jet AL-1400. it is 50 square centimeters larger and about 8 kilograms heavier. The larger size allows the Cleamnark 4000 to handle more work; it can reproduce as many as 7,000 pages per month at speeds of up to 35 pages per minute.<br><br>Both copiers produce high-quality prints that rival some high-end machines, but for businesses looking for a relatively inexpensive copier that is stable and substantial, the Clearmark 4000 is definitely the way to go. </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main purpose of this article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To advertise a copy machine.",
+              "(B)  To recommend a copy-machine retailer.",
+              "(C) To compare the features of popular copy machines.",
+              "(D)To explain the best way to maintain a copy machine. "
+            ]
+          },
+          "answer": {
+            "text": "(C) To compare the features of popular copy machines.",
+            "explanation": "Information can be inferred from: \"Our team of reviewers took a look at two popular desktop copiers to determine which\none would best meet the needs of a typical small business.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article suggest about the AL-1400 copier?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is adequate for a home office.",
+              "(B)Its print quality is poor.",
+              "(C)It requires frequent maintenance.",
+              "(D)It can be carried to and from work."
+            ]
+          },
+          "answer": {
+            "text": "(A)It is adequate for a home office.",
+            "explanation": "Information in the sentence: \"While it is suitable for a home office, the Jet AL-1400 does not necessarily perform well enough for a busy office that needs to produce a large number of copies.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT indicated about the Clearmark 4000 copier?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will soon be discontinued.",
+              "(B) It produces high-quality prints.",
+              "(C) It is reasonably priced.",
+              "(D) It can be placed on top of a desktop."
+            ]
+          },
+          "answer": {
+            "text": "(A) It will soon be discontinued.",
+            "explanation": "Clearmark’s 4000 desktop copier is slightly more expensive than the Jet AL-1400. => Eliminate C&D<br>Both copiers produce high-quality prints that rival some high-end machines => Eliminate B"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d1e"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h4 style=\"text-align: center;\"> Comtex Credit Card Buyer Protection Plan</h4> <br> As a Comtex cardholder, you are automatically covered by the Buyer Protection Plan, which insures purchases made with your credit card for a full 90 days from the date of purchase. The Buyer Protection Plan provides insurance for loss or theft of, and accidental damage to, covered items purchased with your card anywhere in the world. The amount of coverage is limited to the amount charged to your Comtex credit card for the item. <br><br>To file a claim, call 555-0143. Failure to give notice within 45 days of the date of loss or damage may result in denial of your claim. Once you report a loss, a Comtex credit associate will set up a claim file for you and send you a claim form. You must send the completed form along with all requested documentation to the claims office within 60 days of your receipt of the claim form. </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "When does insurance coverage take effect?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)When the cardholder applies for it",
+              "(B)As soon as the buyer calls the credit associate",
+              "(C)Ninety days after a credit card is issued",
+              "(D)On the day an item is purchased with the card"
+            ]
+          },
+          "answer": {
+            "text": "(D)On the day an item is purchased with the card",
+            "explanation": "Information in the sentence: \"As a Comtex cardholder, you are automatically covered by the Buyer Protection Plan, which insures purchases made with your credit card for a full 90 days from the date of purchase.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How soon after an item Is lost must a cardholder notify the company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Within 7 days",
+              "(B)Within 45 days",
+              "(C)Within 60 days",
+              "(D)Within 90 days"
+            ]
+          },
+          "answer": {
+            "text": "(B)Within 45 days",
+            "explanation": "Information in the sentence: \"Failure to give notice within 45 days of the date of loss or damage may result in denial of your claim.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d21"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h3 style=\"text-align: center;\"> Stanton Greeting Cards Ltd,</h3> <p align =\"center\"> Quality greeting cards for every occasion </p> <br> <h4>Submission guidelines for Artwork </h4>Many of our cards feature artwork that has been created by freelance artists. We invite submissions of original artwork representing various styles (traditional to contemporary) and media (drawings, paintings, collages, photographs, etc.). <br><br>Please carefully follow these guidelines for submitting your work.<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  • Submit no more than ten pieces of artwork at one time.<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Submit slides, high-quality color copies, or photographic reproductions of your work. Do not send us the originals.<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Each submission should be 5\" x 7\" (13 cm x 18 cm) In size.<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Print your name, address, phone number, and e-mail address on the back of EACH piece you submit.<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Include a self-addressed, stamped envelope so we can return your work to you.<br><br>Due to the large number of submissions we receive, it may take up to six weeks for us to respond to you. We will send you a contract with payment and copyright details if your work is accepted. Stanton Greeting Cards pays $250 per piece.<br><br>Submissions should be sent to our art department:<br><br><h4> Stanton Greeting Cards Ltd.<br>Attention: Artwork Reviewer <br>P.O. Box 9051 <br>Auckland 1142 </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom are the guidelines intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Artwork reviewers",
+              "(B)Freelance artists",
+              "(C)Gallery owners",
+              "(D)Greeting card writers"
+            ]
+          },
+          "answer": {
+            "text": "(B)Freelance artists",
+            "explanation": "Information in the sentences: \"Many of our cards feature artwork that has been created by freelance artists. We invite submissions of original artwork representing various styles (traditional to contemporary) and media (drawings, paintings, collages, photographs, etc.).\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Stanton Greeting Cards Ltd.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Its cards are all the same size.",
+              "(B)Most of Its cards feature photographic images.",
+              "(C)It pays for the delivery of returned submissions.",
+              "(D)It receives more submissions than it can use."
+            ]
+          },
+          "answer": {
+            "text": "(D)It receives more submissions than it can use.",
+            "explanation": "Information in the sentence: \"Due to the large number of submissions we receive, it may take up to six weeks for us to respond to you.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d24"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h4>Available in October from Success Publishing Company </h4> <br> <b>The Stock Market for the Novice Investor by Jerome Silva </b> <br><br>Jerome Silva, bestselling author of The Golden Portfolio, has come out with a smart and practical book on investing in the stock market. While there are countless books on the subject, few financial writers truly connect with first-time investors or understand how bewildering it can be to make a first move into today’s stock market. Silva’s book includes easy-to-follow steps for choosing the right stock, knowing when to buy and sell, and managing a portfolio over time in order to maximize profits. Hardcover. 342 pages.<br><br><h4>The <i>Middle Ground</i> by Hannah Morton </h4>Negotiating is a critical skill in the business world, yet many people find it a difficult one to master. Morton has identified this problem, and she sets out to address it in her first book, The Middle Ground. The book includes a chapter on the relevant theory and research on negotiation, several chapters on successful bargaining approaches, and a final chapter containing situational role-plays for practice. Hardcover. 289 pages.<br><br><h4><i>Breaking Out in Business</i> by Vik Chandran </h4>Chandran’s book is a must-read for anyone wishing to start a new business. Based on his own experience, Chandran offers expert guidance on topics such as creating a business plan, identifying markets, and raising capital. He also gives readers a list of common mistakes to avoid in the first five years. Paperback. 210 pages. </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To describe recent research findings",
+              "(B)To introduce useful business publications",
+              "(C)To list the required reading materials for a course",
+              "(D)To compare the works of well-known authors"
+            ]
+          },
+          "answer": {
+            "text": "(B)To introduce useful business publications",
+            "explanation": "Information in the lines: \"Silva’s book includes easy-to-follow steps for choosing the right stock, knowing when to buy and sell, and managing a portfolio over time in order to maximize profits.\", \"The book includes a chapter on the relevant theory and research on negotiation, several chapters on successful bargaining approaches, and a final chapter containing situational role-plays for practice.\" and \"Chandran’s book is a must-read for anyone wishing to start a new business.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Mr. Silva's book?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is one of many books written on the subject.",
+              "(B)It is written for experts in the field.",
+              "(C)It advocates a cautious approach to investing.",
+              "(D)It is currently available in a paperback edition."
+            ]
+          },
+          "answer": {
+            "text": "(A)It is one of many books written on the subject.",
+            "explanation": "Information in the sentence: \"While there are countless books on the subject, few financial writers truly connect with first-time investors or understand how bewildering it can be to make a first move into today’s stock market.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a part of Ms. Morton's book?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Research into how people negotiate",
+              "(B)Advice on how to bargain",
+              "(C)Reasons why negotiations fail",
+              "(D)Role-play scenarios for further practice"
+            ]
+          },
+          "answer": {
+            "text": "(C)Reasons why negotiations fail",
+            "explanation": "The book includes a chapter on the relevant theory and research on negotiation, several chapters on successful bargaining approaches, and a final chapter containing situational role-plays for practice. => Eliminate A, B & D"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Mr. Chandran?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He has retired from corporate life.",
+              "(B)He has worked with Mr. Silva and Ms. Morton.",
+              "(C)He has experience of setting up a business.",
+              "(D)He has published several books with Success Publishing Company."
+            ]
+          },
+          "answer": {
+            "text": "(C)He has experience of setting up a business.",
+            "explanation": "Information in the sentence: \"Based on his own experience, Chandran offers expert guidance on topics such as creating a business plan, identifying markets, and raising capital.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d27"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr><td> <h3 style=\"text-align: center;\">Swansea Art and Music Festival Welcomes Back Leader</h4> <br> <b>Wednesday, March 12 </b> —Event organizers announced yesterday that Meg Inoue will once again take on coordination of the Swansea Art and Music Festival this year. During Ms. Inoue’s original eight-year tenure as executive director, the festival became a financial success and achieved international recognition. But interest in the festival has decreased and attendance has dwindled since she stepped down three years ago to take a position as president of the Edinburgh Choir Association.<br><br>Ms. Inoue was bora in Tokyo but grew up in London, where she earned a degree in business. Her interest in the arts eventually led her to the Swansea festival, where she displayed a talent for selecting visual and performing artists who appealed to critics and the general public alike. And while she brought some well-known artists and performers to the festival, she also sought out and promoted new ones.<br><br>Avani. Mitra is one of many who believe this festival was a stepping-stone to a successful career. “I had only played at small, local events before this festival,” Ms. Mitra explained. “Then suddenly I was performing before a large—and very appreciative—crowd. It was wonderful. That experience led to a recording contract.” <br><br>Many in Swansea were shocked by Ms. Inoue’s decision to leave for Edinburgh to help that city’s Choir Association increase its profile. City leaders and festival sponsors hope that her return will bring renewed vitality to the Swansea event and again make it a springboard for new talents in the arts. Michael Brannigan, chief executive officer of festival sponsor Clearview Bank, believes that if anyone can accomplish this goal, it is Ms. Inoue. “She has an instinct that leads her to terrific new performers,” he said. “I’m very glad she’s back.” <br> </td></tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To publicize a new festival",
+              "(B)To advertise an event's sponsor",
+              "(C)To announce an executive's promotion",
+              "(D)To discuss the return of an event's director"
+            ]
+          },
+          "answer": {
+            "text": "(D)To discuss the return of an event's director",
+            "explanation": "Information in the sentence: \"Event organizers announced yesterday that Meg Inoue will once again take on coordination of the Swansea Art and Music Festival this year.\""
+          }
+        },
+        {
+          "question": {
+            "text": "The phrase \"appealed to\" in paragraph 2, line 3, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)asked",
+              "(B)pleased",
+              "(C)applied",
+              "(D)demanded"
+            ]
+          },
+          "answer": {
+            "text": "(B)pleased",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "In what city did Ms. Inoue work for three years?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)London",
+              "(B)Swansea",
+              "(C)Edinburgh",
+              "(D)Tokyo"
+            ]
+          },
+          "answer": {
+            "text": "(C)Edinburgh",
+            "explanation": "Information in the sentence: \"But interest in the festival has decreased and attendance has dwindled since she stepped down three years ago to take a position as president of the Edinburgh Choir Association.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Ms. Mitra?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A performer",
+              "(B)An administrator",
+              "(C)A bank officer",
+              "(D)A visual artist"
+            ]
+          },
+          "answer": {
+            "text": "(A)A performer",
+            "explanation": "Information in the sentences: \"Avani. Mitra is one of many who believe this festival was a stepping-stone to a successful career. “I had only played at small, local events before this festival,” Ms. Mitra explained. “Then suddenly I was performing before a large—and very appreciative—crowd. It was wonderful. That experience led to a recording contract.”"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article suggest about Ms. Inoue?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She hopes to perform with new artists.",
+              "(B)She is expected to increase festival attendance.",
+              "(C)She must travel extensively as part of her work.",
+              "(D)She has had extensive training in music and art."
+            ]
+          },
+          "answer": {
+            "text": "(B)She is expected to increase festival attendance.",
+            "explanation": "Information in the sentence: \"City leaders and festival sponsors hope that her return will bring renewed vitality to the Swansea event and again make it a springboard for new talents in the arts.'"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d2a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "63034425.png",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/30/63034425.png",
+            "mime": "image/png",
+            "id": "626441c6eccc8cae769c2d2d"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Longer pool hours",
+              "(B)Additional membership fees",
+              "(C)Reduced admission rates",
+              "(D)Free swimming lessons"
+            ]
+          },
+          "answer": {
+            "text": "(C)Reduced admission rates",
+            "explanation": "Information in the sentence: \"Monthly passes to the West Springfield Swim Center are available at a 50 percent discount to Pendleton members.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What are people asked to bring to the gym office?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A receipt",
+              "(B)An application form",
+              "(C) A coupon",
+              "(D)A membership card"
+            ]
+          },
+          "answer": {
+            "text": "(D)A membership card",
+            "explanation": "Information in the sentence: \"To receive the discount, members must show a valid membership card.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d2f"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> How to Perform a Global Reset</h4> Resetting your television remote-control device will delete individual settings and restore all functions to the standard manufacturer settings, To perform a global reset, follow the steps below.<br><b>Step 1</b><br>Hold the POWER button down for five seconds and release. <br><b>Step 2</b><br>Press the right ARROW button. You will hear a short beep. <br><b>Step 3</b><br>Press CLEAR. The red light at the top should turn off. If it remains lit, press the button again before proceeding to step 4. <br><b>Step 4</b><br>Enter your user code. A green light will flash. Indicating that the standard settings are restored. <br>If desired, you can now reprogram your remote to customize the settings.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What do the instructions explain?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) How to turn on lights remotely",
+              "(B) How to remove customized settings",
+              "(C) How to order additional television channels",
+              "(D) How to improve picture quality"
+            ]
+          },
+          "answer": {
+            "text": "(B) How to remove customized settings",
+            "explanation": "Based on the information: \"Resetting your television remote-control device will delete individual settings and restore all functions to the standard manufacturer settings\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the instructions, what step might need to be repeated?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Step 1",
+              "(B) Step 2",
+              "(C) Step 3",
+              "(D) Step 4"
+            ]
+          },
+          "answer": {
+            "text": "(C) Step 3",
+            "explanation": "Sign: \"If it remains lit, press the button again before proceeding to step 4.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2d32"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c6eccc8cae769c2d35"
+}

@@ -1,0 +1,576 @@
+{
+  "name": "Skill Test 282",
+  "questions": [
+    {
+      "question": {
+        "text": "<h4> Fosberg Pharmaceutical Corporation </h4>Fosberg Pharmaceutical Corporation covers business-related travel expenses when employees travel for the company. Lodging-arrangement requests should be submitted to the Corporate Travel Department via the online travel request form. Requests must include the employee's full name, the hotel name and contact information, the reservation dates, and the purpose for travel. <br>Once the Corporate Travel Department has made reservations and payment, the employee will receive a confirmation number to present to the hotel clerk upon check-in. The room will be paid for in advance, but the employees should be prepared to put any additional charges incurred during the trip on a personal credit card. Requests for reimbursement of additional charges should be submitted upon return.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the policy about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Enrolling in an employee benefits program",
+              "(B) Making arrangements for corporate travel",
+              "(C) Requesting a new job assignment",
+              "(D) Finding accommodations for visiting clients"
+            ]
+          },
+          "answer": {
+            "text": "(B) Making arrangements for corporate travel",
+            "explanation": "Information in sentence: \" Lodging-arrangement requests should be submitted to the Corporate Travel Department via the online travel request form. Requests must include the employee's full name, the hotel name and contact information, the reservation dates, and the purpose for travel.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is a confirmation number needed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To replace a credit card",
+              "(B) To receive a discount",
+              "(C) To avoid additional charges",
+              "(D) To verify a reservation"
+            ]
+          },
+          "answer": {
+            "text": "(D) To verify a reservation",
+            "explanation": "Information in sentence: \"Once the Corporate Travel Department has made reservations and payment, the employee will receive a confirmation number to present to the hotel clerk upon check-in.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c8f"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> In recognition of your generosity as a museum member, you are invited to attend a special reception celebrating the opening of the A. C. Hamilton Wing for European Art at the Canterville Museum. <br><br> To commemorate the occasion, a speech will be given by Dr. Florian Pirotta of Denmont University: <br>\"The Landscape Paintings of Carlo Giulini.\" <br><br>Friday, February 25, 6:30 P.M.<br>Light refreshments will be served.<br><br><i>This event is made possible in part by a contribution from the Elisabeth Kristeller Memorial Foundation</i>.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who would mostly likely receive the invitation?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Members of the Canterville Museum",
+              "(B)Art students at local universities",
+              "(C)Owners of prominent art galleries",
+              "(D)Artists who were trained in Europe"
+            ]
+          },
+          "answer": {
+            "text": "(A)Members of the Canterville Museum",
+            "explanation": "Information in the sentence \"In recognition of your generosity as a museum member, you are invited to attend a special reception celebrating the opening of the A. C. Hamilton Wing for European Art at the Canterville Museum.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the main subject of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Contemporary photography",
+              "(B)The life of Elisabeth Kristeller",
+              "(C)Artwork by Carlo Giulini",
+              "(D)An ongoing construction project"
+            ]
+          },
+          "answer": {
+            "text": "(C)Artwork by Carlo Giulini",
+            "explanation": "Information in the line \"The Landscape Paintings of Carlo Giulini.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c96"
+    },
+    {
+      "question": {
+        "text": "<b> David Lee 10:01 A.M. </b> <br>Hi Sylvia. Can you cover my 1:30 shift this afternoon? I'm scheduled to work at the concession stand. <br><b> Sylvia Ritter 10:02 A.M. </b><br>Not a problem. Are you feeling ill? <br><b> Sylvia Ritter 10:08 A.M. </b><br>Sorry to hear about your car! So would you be available to work my evening shift at the box office next Tuesday? I'll be hosting a friend visiting from Canada that day. <br><b> David Lee 10:09 A.M. </b><br>I'd be happy to. I'll talk with you soon.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do Mr. Lee and Ms. Ritter most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a cafe",
+              "(B) At a theater",
+              "(C) At a travel agency",
+              "(D) At an auto repair shop"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a theater",
+            "explanation": "Based on the words \"concession stand\", \"box office\""
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:09 A.M., what does Mr. Lee mean when he writes, \"I'd be happy to\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is able to take Ms. Ritter's shift.",
+              "(B) He will pay the repair bill.",
+              "(C) He can meet with Ms. Ritter at 1:30",
+              "(D) He will approve a request for time off."
+            ]
+          },
+          "answer": {
+            "text": "(A) He is able to take Ms. Ritter's shift.",
+            "explanation": "Refer to the previous question \"So would you be available to work my evening shift at the box office next Tuesday? \""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c98"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Swann’s <br> Department stores </h3> <br> Dear Frequent Customer, <br><br>Our summer sale is about to start and we want to tell you about the substantial savings we are offering during this annual event. For two weeks only, every item in our women’s clothing and accessory department will be offered to loyal customers at a marked-down price of 25 percent off the lowest price! You can view our items on our Web site at www. s wannsdepartments. com. <br><br>This incredible sale will begin on June 1 and end on June 14. Just bring this letter in to the store to receive our unbelievable savings. We know you won’t want to miss this one! <br><br>Sincerely, <br>HaroCdSwann<br>Harold Swann, Manager Swann’s Department Stores",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of this letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To advertise a store opening",
+              "(B)To promote a new line of clothing",
+              "(C)To announce a change in store management.",
+              "(D)   To inform readers of special savings"
+            ]
+          },
+          "answer": {
+            "text": "(D)   To inform readers of special savings",
+            "explanation": "Information in the sentence \"Our summer sale is about to start and we want to tell you about the substantial savings we are offering during this annual event.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the letter say is available on the store's Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Discount coupons",
+              "(B)Pictures of products",
+              "(C)Directions to the store",
+              "(D)Store hours"
+            ]
+          },
+          "answer": {
+            "text": "(B)Pictures of products",
+            "explanation": "Information in the sentence \"You can view our items on our Web site at www. s wannsdepartments. com.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c94"
+    },
+    {
+      "question": {
+        "text": "To: Amalia Esparza <aesparza@mymail.com><br>From: Dinesh Gadhavi M <DGadhavi@onthehorisonsvcs.com><br>Date: 15 May<br>Subject: Opportunity available<br>Hello Ms. Esparza, <br>Thank you for becoming a client of On the Horizon Services. We are committed to helping you find a rewarding career. Based on the information you provided during our telephone interview, I found a promising opportunity. If you are interested in the job described below, please e-mail me today. We can then get started on writing a cover letter to submit with your resume and application. <br>Job Title: Office Assistant<br>Company: Prescott Medical Center<br>Location: Monroe Township<br>Responsibilities: <br>Assist with scheduling of appointments<br>Prepare and mail billing statements<br>Enter patient data in a digital medical records system<br><br>Sincerely, <br>Dinesh Gadhavi, Career Counselor<br>On the Horizon Services<br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does Mr. Gadhavi write the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To schedule a job interview.",
+              "(B) To welcome a new employee",
+              "(C) To promote his company's services",
+              "(D) To inform a client about a job opening"
+            ]
+          },
+          "answer": {
+            "text": "(D) To inform a client about a job opening",
+            "explanation": "Information in sentence: \"We are committed to helping you find a rewarding career. Based on the information you provided during our telephone interview, I found a promising opportunity.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Gadhavi ask Ms. Esparza to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Update her resume today",
+              "(B) Contact him with a decision soon",
+              "(C) Make an appointment with a doctor",
+              "(D) Provide him with a list of references"
+            ]
+          },
+          "answer": {
+            "text": "(B) Contact him with a decision soon",
+            "explanation": "Information in sentence: \"If you are interested in the job described below, please e-mail me today.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a responsibility of the office assistant?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Checking patients in on arrival",
+              "(B) Sending bills to patients",
+              "(C) Scheduling appointments",
+              "(D) Recording patient information"
+            ]
+          },
+          "answer": {
+            "text": "(A) Checking patients in on arrival",
+            "explanation": "Information in sentence: \"Responsibilities: <br>Assist with scheduling of appointments<br>Prepare and mail billing statements<br>Enter patient data in a digital medical records system\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c9f"
+    },
+    {
+      "question": {
+        "text": "<h3>Lo Wai Books</h3><i>Hong Kong’s largest provider<br>of books in English</i><br><br> <p align =\"center\">Shipping for International Orders </p>We accept orders from overseas. To purchase products from Lo Wai Books, please use the online order form. After an order has been placed, you may print the form as a record itemizing the products and quantities purchased, prices, and an estimated shipping date. <br><br> Because each region of the world requires different shipping rates, the shipping charges will be calculated separately. Please note that any extra charges resulting from shipping rates in individual regions will be listed in an e-mail sent to you once your order has been processed. Online orders take up to three days to process. <br><br> Although Lo Wai Books offers shipping by sea for large orders, we prefer to send overseas orders by air. Please select ‘‘International Orders: Air Freight” to have your order shipped by air. Please note that methods other than air freight can delay your order by as much as three months.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT included on the order form?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Prices of individual products",
+              "(B)Overseas shipping charges",
+              "(C)An approximate shipping date",
+              "(D)The quantities of ordered items"
+            ]
+          },
+          "answer": {
+            "text": "(B)Overseas shipping charges",
+            "explanation": "Information in the sentence: \"After an order has been placed, you may print the form as a record itemizing the products and quantities purchased, prices, and an estimated shipping date.\" => Eliminate A, C & D"
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about online orders?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are processed in three days or less",
+              "(B)They should be confirmed by the buyer in an e-mail message.",
+              "(C)They are preferred in the case of large orders.",
+              "(D)They allow the buyer a lower shipping rate."
+            ]
+          },
+          "answer": {
+            "text": "(A)They are processed in three days or less",
+            "explanation": "Information in the sentence: \"Online orders take up to three days to process.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the company recommend that customers do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Review shipping charges on the company Web site",
+              "(B)Request that orders be shipped by air",
+              "(C)Expect delays in all international shipments",
+              "(D)Watch for special discount offers"
+            ]
+          },
+          "answer": {
+            "text": "(B)Request that orders be shipped by air",
+            "explanation": "The information in the sentence: \"Although Lo Wai Books offers shipping by sea for large orders, we prefer to send overseas orders by air.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ca1"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"><b> Flyte Bakery </b></p> <br>All baked goods are handmade on the premises including <br>&nbsp;&nbsp;&nbsp;&nbsp; - Cakes<br>&nbsp;&nbsp;&nbsp;&nbsp;- Seasonal fruit pies<br>&nbsp;&nbsp;&nbsp;&nbsp;- Breads and pastries<br>&nbsp;&nbsp;&nbsp;&nbsp;- Cookies<br>- Personalized desserts for anniversaries, weddings, birthdays, and other special occasions (Please order at least one week beforehand.) <br><br>Catering for corporate events and private parties is now available! To learn more about our rates, telephone us during the business hours below. <br> <br><i> Monday - Saturday; 6 AM-7 P.M., Sunday: 6 A.M. -6 P.M. </i> <br><br>Location: 192 South Street, Sydney <br>Tel: (02) 9272-6555",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What item would need to be ordered in advance?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  An autumn harvest apple pie",
+              "(B)A personalized birthday cake",
+              "(C)Whole wheat bread",
+              "(D)Chocolate chip cookies"
+            ]
+          },
+          "answer": {
+            "text": "(B)A personalized birthday cake",
+            "explanation": "Information in the sentence \"- Personalized desserts for anniversaries, weddings, birthdays, and other special occasions (Please order at least one week beforehand.)\""
+          }
+        },
+        {
+          "question": {
+            "text": "For what information are customers directed to call the bakery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Store hours",
+              "(B)Baking recipes",
+              "(C)Driving directions",
+              "(D)Catering prices"
+            ]
+          },
+          "answer": {
+            "text": "(D)Catering prices",
+            "explanation": "Information in the sentences \"Catering for corporate events and private parties is now available! To learn more about our rates, telephone us during the business hours below.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2c9d"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Travel Watch </h3> <br>By Eduardo Espinosa, <i>Traveler’s Plus</i> staff writer<br><br>In this month’s “Travel Watch,” I want to highlight the new fall fares to Europe offered by Flier’s Choice Airlines. This airline, a long-time favorite of the budget traveler, offers discounted, round- trip airfares to popular destinations like Madrid, Amsterdam, Paris, and Rome. But we especially like the great deals to Germany. These are the lowest available fares on the market at hundreds of dollars less than other advertised fall airline prices. <br><br>Flier’s Choice offers these fares between September 23 and November 30, but you must make a reservation by August 5 to receive these low prices. For more information on specific destinations and fares, visit our magazine’s Web site at www.travelersplus.com. <br><br>Check back in next month’s issue for great deals on hotels in Japan’s most popular destinations.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the article written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To promote a new airline",
+              "(B)To encourage readers to subscribe to a magazine",
+              "(C)To announce a tour of Europe",
+              "(D)To alert readers to low prices"
+            ]
+          },
+          "answer": {
+            "text": "(D)To alert readers to low prices",
+            "explanation": "Information in the sentences: \"In this month’s “Travel Watch,” I want to highlight the new fall fares to Europe offered by Flier’s Choice Airlines. This airline, a long-time favorite of the budget traveler, offers discounted, round- trip airfares to popular destinations like Madrid, Amsterdam, Paris, and Rome. But we especially like the great deals to Germany. These are the lowest available fares on the market at hundreds of dollars less than other advertised fall airline prices.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the article suggest about Traveler's Plus magazine?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is intended for professionals in the travel industry.",
+              "(B)It focuses on European travel.",
+              "(C)It is published monthly.",
+              "(D)It can be found on Flier's Choice aircraft."
+            ]
+          },
+          "answer": {
+            "text": "(C)It is published monthly.",
+            "explanation": "Information in the sentences: \"In this month’s “Travel Watch,” I want to highlight the new fall fares to Europe offered by Flier’s Choice Airlines.\" and \"Check back in next month’s issue for great deals on hotels in Japan’s most popular destinations.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about the airfares?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are available until the end of the year.",
+              "(B)They are listed on the magazine's Web site.",
+              "(C)They are offered by several different airlines.",
+              "(D)They are available only to Traveler's Plus subscribers."
+            ]
+          },
+          "answer": {
+            "text": "(B)They are listed on the magazine's Web site.",
+            "explanation": "Information in the sentence: \"For more information on specific destinations and fares, visit our magazine’s Web site at www.travelersplus.com.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ca8"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"><b>MEMO </b></p> <br>Date: July 25<br>To: Canary Wharf Productions Employees<br>From: Althea Lee, Human Resources<br>Re: Building escalators<br><br>Escalators in the first-floor lobby will be closed beginning on Monday, August 1, so that a new motor and handrail can be installed. Barring unexpected delays, they will be back in service by the following Monday. <br><br>To access the second floor of the building, take the stairway located next to the service elevator on the east side of the building. Do NOT use the freight elevator itself, as it is reserved for equipment, supplies, and other heavy items, and cannot accommodate additional traffic from employees. If you need an elevator, use the passenger elevators near the Baywater Street entrance on the north side of the building",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why are the escalators being closed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They need to be expand to accommodate increased traffic.",
+              "(B) They have been replaced by a new elevator.",
+              "(C) Maintenance is being performed on them.",
+              "(D) A special event is taking place in the lobby."
+            ]
+          },
+          "answer": {
+            "text": "(C) Maintenance is being performed on them.",
+            "explanation": "Information in the sentence \"Escalators in the first-floor lobby will be closed beginning on Monday,'August 1, so that a new motor and handrail can be installed.\""
+          }
+        },
+        {
+          "question": {
+            "text": "For how long are the escalators expected to be closed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A few hours",
+              "(B)One day",
+              "(C)Two days.",
+              "(D)One week"
+            ]
+          },
+          "answer": {
+            "text": "(D)One week",
+            "explanation": "Information in the sentence \"Barring unexpected delays, they will be back in service by the following Monday.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2caa"
+    },
+    {
+      "question": {
+        "text": "<h4 align=\"center\"> PRIVATE SALE</h4>This 3-bedroom, 2-bathroom property sits on a 2,000-square-foot elevated site in a location overlooking the Botanical Gardens. It is convenient to the Central Business District and public transportation. The home has been fully upgraded to include modern appliances, new carpets, and air-conditioning. The property includes a detached, refurbished office. Off-street parking is available. <br>Property valuation (January): $325,000<br>No agents, please. <br>Listing #: PA39384",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A gardening center",
+              "(B) A retail store",
+              "(C) An office building",
+              "(D) A private house"
+            ]
+          },
+          "answer": {
+            "text": "(D) A private house",
+            "explanation": "Base on words like bedroom, bathroom, home, appliances, etc"
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the property?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Next to an industry park",
+              "(B) In an apartment building",
+              "(C) Near the Botanical Gardens",
+              "(D) In a rural area"
+            ]
+          },
+          "answer": {
+            "text": "(C) Near the Botanical Gardens",
+            "explanation": "Information in sentence: \"This 3-bedroom, 2-bathroom property sits on a 2,000-square-foot elevated site in a location overlooking the Botanical Gardens.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the property?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  It is currently under contract.",
+              "(B) It has no parking garage",
+              "(C) It is being sold through a real estate agency.",
+              "(D) Its price has been reduced."
+            ]
+          },
+          "answer": {
+            "text": "(B) It has no parking garage",
+            "explanation": "Information in sentence: \"Off-street parking is available\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2ca6"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c6eccc8cae769c2cb3"
+}

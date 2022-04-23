@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 118",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c069c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, my name is Alice Keller. <b> Q1 I’m calling to reserve some tables for a private party next Thursday. Q2 I have been a loyal customer of your restaurant for years, and trust it will be the perfect place for my wedding after-party</b>. We are expecting around fifty guests and will pay for food and drinks to be served to all guests. <b> Q3 One of our requests is that vegetarian options be available for some guests.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the speaker calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To order delivery food",
+              "(B) To advertise a cooking class",
+              "(C) To report a problem",
+              "(D) To make a reservation"
+            ]
+          },
+          "answer": {
+            "text": "(D) To make a reservation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speaker celebrate next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A birthday",
+              "(B) A promotion",
+              "(C) A retirement",
+              "(D) A wedding"
+            ]
+          },
+          "answer": {
+            "text": "(D) A wedding",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker want the listener to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Contact some guests",
+              "(B) Decorate a space",
+              "(C) Meet special dietary needs",
+              "(D) Prepare an estimate"
+            ]
+          },
+          "answer": {
+            "text": "(C) Meet special dietary needs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c069e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06a1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome to the Taylor Footwear factory. <b> Q1 On this tour, you will see how shoes are made and packaged before they are shipped to our distributors. Q2 One aspect that makes our factory special is that everything is done by hand</b>. Unlike most factories, where automated machines do all the work, at Taylor Footwear factory, everything is done by a team of experienced shoemakers. <b> Q3 Before this tour ends, everyone will get a chance to try making soles of leather sandals themselves with the assistance of some of our staff members.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the factory produce?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Appliances",
+              "(B) Clothes",
+              "(C) Toys",
+              "(D) Shoes"
+            ]
+          },
+          "answer": {
+            "text": "(D) Shoes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is special about the factory?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its size",
+              "(B) Its production method",
+              "(C) Its automated machines",
+              "(D) Its location"
+            ]
+          },
+          "answer": {
+            "text": "(B) Its production method",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners do at the end of the tour?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Participate in a hands-on experience",
+              "(B) Receive a free product sample",
+              "(C) Have refreshments",
+              "(D) Return to the tour bus"
+            ]
+          },
+          "answer": {
+            "text": "(A) Participate in a hands-on experience",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06a3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06a6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 The last item on today’s meeting agenda is preparations for next week’s business conference in Germany</b>. Linda Wong from marketing and Chris Owen from sales will be representing our company at the conference. <b> Q2 This conference will connect us with more clients and more advantageous business opportunities. Q3 Therefore, everyone is asked to e-mail a departmental status report in the first quarter to both Ms. Wong and Mr. Owen before the end of the week to help them prepare</b>. Thank you."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What will happen next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A budget proposal",
+              "(B) A business event",
+              "(C) A performance evaluation",
+              "(D) A shareholders’ meeting"
+            ]
+          },
+          "answer": {
+            "text": "(B) A business event",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What benefit does the speaker mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fewer complaints",
+              "(B) Reduced travel time",
+              "(C) Access to clients",
+              "(D) Strengthened security"
+            ]
+          },
+          "answer": {
+            "text": "(C) Access to clients",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the listeners asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Delete unnecessary data",
+              "(B) Submit a report",
+              "(C) Contact clients directly",
+              "(D) E-mail an order confirmation"
+            ]
+          },
+          "answer": {
+            "text": "(B) Submit a report",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06a8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0404.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0404.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06ab"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome to the opening ceremony for this year’s Young Novelists Seminar. <b> Q1 This seminar is available to students from high school to university and will help aspiring would-be novelists grow and develop into the masters of tomorrow. Q2 The first thing we ask everyone to do is to fill out a name tag and attach it to your clothes</b>. There are over one hundred students here, and it’s difficult to keep track of everyone. <b> Q3 Next up, Natasha Marsh, the renowned literary critic, is going to give the opening speech of the ceremony</b>. Please listen up. She has some inspiring words for everyone today."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Professional novelists",
+              "(B) University professors",
+              "(C) Potential writers",
+              "(D) Prospective clients"
+            ]
+          },
+          "answer": {
+            "text": "(C) Potential writers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the listeners asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fill out a questionnaire",
+              "(B) Attach a name tag",
+              "(C) Introduce themselves",
+              "(D) Read a book"
+            ]
+          },
+          "answer": {
+            "text": "(B) Attach a name tag",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Natasha Marsh?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An athlete",
+              "(B) A children’s author",
+              "(C) An event organizer",
+              "(D)A guest speaker"
+            ]
+          },
+          "answer": {
+            "text": "(D)A guest speaker",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06ad"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0405.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0405.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06b0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "This is Ron Brixton from CCR News. I’m here at the WingTip shoe store next to Hyde Park, where <b> Q1 hundreds of people have been camping overnight, waiting to buy the new running shoe the company will release tomorrow. Q2 Some people have camped here overnight or taken the day off work to be here. From the look of it, you’d think they were giving the shoes away</b>. The shoe is a huge upgrade on WingTip’s last pair of shoes because of their new Boost technology. The Boost technology is made with three stripes of an innovative material the company has developed, which contains thousands of specially formulated foam pellets called “energy capsules”. To show appreciation to its most loyal customers,<b> Q3 WingTip are giving out a limited edition pair on the first day of sales, which features the signature of the Chicago Blue’s star forward Jerry Halliwell.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, what is happening today?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new product is being released.",
+              "(B) The store is closing down.",
+              "(C) Their staff is all quitting.",
+              "(D) The company is recording a commercial"
+            ]
+          },
+          "answer": {
+            "text": "(A) A new product is being released.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker mean when she says “you’d think they were giving the shoes away”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The store is giving the shoes away.",
+              "(B) There are a lot of people waiting to buy the product.",
+              "(C) They ran out of stock.",
+              "(D) A few people were upset about the product."
+            ]
+          },
+          "answer": {
+            "text": "(B) There are a lot of people waiting to buy the product.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what is WingTip offering on the first day of sales?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 10% discount",
+              "(B) A new pair of headphones",
+              "(C) Free shoes",
+              "(D) Special edition shoes"
+            ]
+          },
+          "answer": {
+            "text": "(D) Special edition shoes",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06b2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0406.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0406.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06b5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Our next guest speaker is Gary Hardwell, CEO of Broadbank industries. His company is responsible for funding our latest work, building wells in Africa. <b> Q1 The value of his contributions can be seen on the walls of his office, which are lined with pictures of the villages he has provided with clean drinking water</b>. In the last year, Broadbank Industries has donated over 12 million dollars and built over 3000 wells across the poorest regions of Africa. This has grown into Mr. Hardwell’s greatest passion, and <b> Q2 he now spends about six months of each year in Africa overseeing his workers and ensuring his money is being spent in the right places.  think it’s safe to say that Mr. Hardwell should leave some room on his walls</b>. In the next year, he intends to increase well production by 10 percent. He has written a book about his experiences titled Water is Life: Giving Back to the World. <b> Q3 Today he will preview the book and show US some video footage of the work he is doing in Africa</b>. Please put your hands together for Mr. Hardwell."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, how can we see the value of Mr. Hardwell’s work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has paintings on his walls.",
+              "(B) He has a lot of pictures on his walls.",
+              "(C) He has a lot of fan mail in his office.",
+              "(D) He has a special award on his desk."
+            ]
+          },
+          "answer": {
+            "text": "(B) He has a lot of pictures on his walls.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker say, “I think it’s safe to say that Mr. Hardwell should leave some room on his walls”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To discuss another issue",
+              "(B) To suggest he is going to continue doing more work",
+              "(C) To recommend a friend to him",
+              "(D) To make sure the audience is familiar with him"
+            ]
+          },
+          "answer": {
+            "text": "(B) To suggest he is going to continue doing more work",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Mr. Hardwell do today?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Share some of his business knowledge",
+              "(B) Preview the book and show some video",
+              "(C) Read some excerpts from his book",
+              "(D) Read a chapter from his book"
+            ]
+          },
+          "answer": {
+            "text": "(B) Preview the book and show some video",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06b7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0407.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0407.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06ba"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, Ms. Francis. <b> Q1 This is Barry Walls from Calvin Fashion. We received your design portfolio last month. Q2 I’m sorry I didn’t call you sooner; I was out of town on a business trip</b>. I really liked your designs; it is exactly the kind of look we are going for in our summer collection. I would like to meet you for dinner in the next few days and show you the designs we are interested in. <b> Q3 If you are happy with the arrangement, we can go back to my office and prepare a contract</b>. Please get back to me as soon as possible so we can arrange a time. I really look forward to working with you."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lawyers office",
+              "(B) Fashion company",
+              "(C) Airline company",
+              "(D) Accounting firm"
+            ]
+          },
+          "answer": {
+            "text": "(B) Fashion company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker say “I was out of town on a business trip”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To explain why he hadn’t called",
+              "(B) To arrange an appointment",
+              "(C) To sign the contract",
+              "(D) To discuss the building plan"
+            ]
+          },
+          "answer": {
+            "text": "(A) To explain why he hadn’t called",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker offer to the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A free plane ticket",
+              "(B) Another portfolio",
+              "(C) A deposit for rent",
+              "(D) A possible contract"
+            ]
+          },
+          "answer": {
+            "text": "(D) A possible contract",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06bc"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h4>Order form 5521673 <br> Customer: Winbox Computers</h4> </td>  </tr> <tr> <td align =\"center\"> <b>Item</td>  <td align =\"center\"> <b> Quantity </td> </tr> <tr> <td align =\"center\">Cold meat tray </td>  <td align =\"center\"> 3 </td> </tr> <tr> <td align =\"center\"> Mixed salad plates </td>  <td align =\"center\"> 5 </td> </tr> <tr> <td align =\"center\"> 12 pack bread rolls</td>  <td align =\"center\"> 2 </td> </tr> <tr> <td align =\"center\"> Cutlery sets</td>  <td align =\"center\"> 10 </td> </tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0408.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0408.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06bf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, this is George Benson from Winbox Computers. We made a catering order two weeks ago but we need to make some changes. <b> Q1 We have added some additional businesses to the luncheon, Q2 so we are going to need to increase the number of cold meat trays we ordered to 10 and the mixed salad plates to 8</b>. Everything else can remain the same. Our order number is 5521673. <b> Q3 Please give me a call back to confirm the changes. Thanks</b>."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of event is being catered?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A business dinner",
+              "(B) A business luncheon",
+              "(C) A corporate breakfast",
+              "(D) An annual picnic"
+            ]
+          },
+          "answer": {
+            "text": "(B) A business luncheon",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which items were not changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Cold meat trays and mixed salad plates",
+              "(B) 12 pack of bread rolls",
+              "(C) Cutlery sets",
+              "(D) Cutlery sets and bread rolls"
+            ]
+          },
+          "answer": {
+            "text": "(D) Cutlery sets and bread rolls",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the listener asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Send an email confirmation",
+              "(B) Call the man to confirm the change",
+              "(C) Don’t change the order",
+              "(D) Cancel the whole order"
+            ]
+          },
+          "answer": {
+            "text": "(B) Call the man to confirm the change",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06c1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "1141386_1562639931299.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/1141386_1562639931299.png",
+            "mime": "image/png",
+            "id": "62644177eccc8cae769c06c4"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0409.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0409.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06c6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, all. Welcome to the annual Florist Convention. It’s a pleasure to see so many people here today. <b> Q1 My name is Juliette White and I am the president of the Maryland Florist Association</b>. Today will be a great day filled with a lot of informative seminars and practical examples of how to improve your skills in all areas of floristry. <b> Q2 First thing in the morning, everyone should meet at 9:00 A.M. on the street in front of the tulip garden</b>. In the tulip garden we have the most diverse collection of tulips in England. At the moment, most are blooming so it’s a fantastic opportunity to see how you can make new and exciting arrangements.<b> Q3 One more thing I suggest is that you visit the aviary before you go home. The combination of the animal life and flowers is truly a sight to behold.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) President of the Maryland Florist Association",
+              "(B) President of the annual Florist Convention",
+              "(C) President of the tulip garden",
+              "(D) President of the rest area"
+            ]
+          },
+          "answer": {
+            "text": "(A) President of the Maryland Florist Association",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where will the listeners go first?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The aviary",
+              "(B) Begonia street",
+              "(C) Dragon Lake",
+              "(D) Azalea Road"
+            ]
+          },
+          "answer": {
+            "text": "(D) Azalea Road",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker encourage listeners to do before they leave?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Visit the tulip garden",
+              "(B) Buy some flowers",
+              "(C) Pick some roses",
+              "(D) Visit the aviary"
+            ]
+          },
+          "answer": {
+            "text": "(D) Visit the aviary",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06c8"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan =\"2\" align =\"center\"> <h3>HEIRLOOM TOMATOES!<h4> <br><b> Prices are per pound~</b> </td>  </tr> <tr> <td align =\"center\"> Black Cherry</td>  <td align =\"center\"> $1.09 </td> </tr> <tr> <td align =\"center\">Brandywine </td>  <td align =\"center\"> $1.39</td> </tr> <tr> <td align =\"center\"> Black Krim </td>  <td align =\"center\"> $2.64 </td> </tr> <tr> <td align =\"center\"> Amana Orange </td>  <td align =\"center\"> $1.30 </td> </tr> </table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0410.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06cb"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, Granville Produce shoppers. <b> Q1 It’s our first birthday, and we’re commemorating it with a special offer this week through Sunday</b>. You’ll be able to take advantage of our great savings.<b> Q2 Make sure you stop by our heirloom tomato corner, where you can find our award-winning selection of heirloom tomatoes of every variety and color. Q3 By far the best deal is the Brandywine this season. Normally at $2.50 per pound, the Brandywine won’t last long</b>. Don’t wait! Come into Granville Produce right away before all of the fresh, delicious vegetables are gone. Thank you for being our loyal customers over the past year. We hope to make this birthday the first of many!"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "When will the special sale be over?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Monday",
+              "(B) Saturday",
+              "(C) Sunday",
+              "(D) It is weekly."
+            ]
+          },
+          "answer": {
+            "text": "(C) Sunday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Granville Produce?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They have a wide variety of potatoes.",
+              "(B) They highlight their heirloom tomatoes.",
+              "(C) They are an inexpensive grocer.",
+              "(D) They have been in business for several years."
+            ]
+          },
+          "answer": {
+            "text": "(B) They highlight their heirloom tomatoes.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Why is the Brandywine such a good deal?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is cheaper than the Black Krim.",
+              "(B) It is a delicious tomato.",
+              "(C) It is normally over a dollar more expensive per pound.",
+              "(D) It is normally not in season."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is normally over a dollar more expensive per pound.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06cd"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "62644177eccc8cae769c06d0"
+}

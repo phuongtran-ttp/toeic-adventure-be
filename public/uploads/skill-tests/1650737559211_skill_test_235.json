@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 235",
+  "questions": [
+    {
+      "question": {
+        "text": "We feel___about coming to an agreement on this issue soon.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)hoping",
+          "(B)hopeful",
+          "(C)hopefully",
+          "(D)to hope"
+        ]
+      },
+      "answer": {
+        "text": "(B)hopeful",
+        "explanation": "(B) “Hopeful” is an adjective describing how we feel. Choice (A) is a gerund. Choice (C) is an adverb. Choice (D) is an infinitive."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c250e"
+    },
+    {
+      "question": {
+        "text": "___in today’s business world is difficult, and many new businesses fail.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Compete",
+          "(B)To compete",
+          "(C)Competing",
+          "(D)Have competed"
+        ]
+      },
+      "answer": {
+        "text": "(C)Competing",
+        "explanation": "(C) This is a gerund used as the subject of the sentence. Choice (A) is a base form verb. Choice (B) is an infinitive. Choice (D) is present perfect tense."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2511"
+    },
+    {
+      "question": {
+        "text": "There is not much agriculture in this area because the___yearly rainfall is so low.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)available",
+          "(B)avenging",
+          "(C)avaricious",
+          "(D)average"
+        ]
+      },
+      "answer": {
+        "text": "(D)average",
+        "explanation": "(D) “Average” means “typical amount”. Choices (A), (B), and (C) look similar to the correct answer but do not fit the context of the sentence."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2514"
+    },
+    {
+      "question": {
+        "text": "Please use the parking spaces that___for visitors.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)designates",
+          "(B)designated",
+          "(C)are designating",
+          "(D)have been designated"
+        ]
+      },
+      "answer": {
+        "text": "(D)have been designated",
+        "explanation": "(D) Someone else has designated the spaces, so passive voice is needed. Choices (A), (B), and (C) are all active voice."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2517"
+    },
+    {
+      "question": {
+        "text": "Participants___fly to the convention can get a group rate.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)they",
+          "(B)who",
+          "(C)which",
+          "(D)whom"
+        ]
+      },
+      "answer": {
+        "text": "(B)who",
+        "explanation": "(B) The relative pronoun who acts as the subject of the adjective clause and refers to “participants”. Choice (A) is not a relative pronoun. Choice (C) is used to refer to things, not people. Choice (D) is an object pronoun."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c251a"
+    },
+    {
+      "question": {
+        "text": "The department requires someone with___in international law.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)exploration",
+          "(B)experience",
+          "(C)explanation",
+          "(D)expectancy"
+        ]
+      },
+      "answer": {
+        "text": "(B)experience",
+        "explanation": "(B) The department needs someone with a background, or experience,in international law. Choices (A), (C), and (D) look similar to the correct answer but do not fit the context of the sentence."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c251d"
+    },
+    {
+      "question": {
+        "text": "If the smoke alarm rings,___the building quickly.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)leaves",
+          "(B)will leave",
+          "(C)is leaving",
+          "(D)leave"
+        ]
+      },
+      "answer": {
+        "text": "(D)leave",
+        "explanation": "(D) Commands require the base form of the verb. Choice (A) is present tense. Choice (B) is future. Choice (C) is present continuous."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2520"
+    },
+    {
+      "question": {
+        "text": "Pens and stationery___kept in the top drawer.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)are",
+          "(B)is",
+          "(C)was",
+          "(D)am"
+        ]
+      },
+      "answer": {
+        "text": "(A)are",
+        "explanation": "(A) The plural verb “are” agrees with the plural subject “pens” and “stationery”. Choices (B), (C), and (D) are all singular forms."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2523"
+    },
+    {
+      "question": {
+        "text": "The chief engineer is knowledgeable and___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)industrious",
+          "(B)industry",
+          "(C)industrial",
+          "(D)industries"
+        ]
+      },
+      "answer": {
+        "text": "(A)industrious",
+        "explanation": "(A) The adjective “industrious” describes the noun “engineer”. Choices (B) and (D) are nouns. Choice (C) is an adjective but is not used to describe people."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2526"
+    },
+    {
+      "question": {
+        "text": "Ms. Neil___the general manager of the hotel since 2004.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)is",
+          "(B)has been",
+          "(C)had been",
+          "(D)had"
+        ]
+      },
+      "answer": {
+        "text": "(B)has been",
+        "explanation": "(B) This is a present perfect verb used to describe a situation that started in the past and continues to the present. Choice (A) is simple present tense. Choice (C)is past perfect. Choice (D) is simple past."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2529"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644197eccc8cae769c252c"
+}

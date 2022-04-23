@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 238",
+  "questions": [
+    {
+      "question": {
+        "text": "My cousin was very ___ when he got the job.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)surprise",
+          "(B)surprised",
+          "(C)surprising",
+          "(D)surprises"
+        ]
+      },
+      "answer": {
+        "text": "(B)surprised",
+        "explanation": "(B) “Someone else surprised Mr. Hopper”; use the past participle. Choice (A) is the simple form. Choice (C) is the present participle. Choice (D) is the present tense."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c257d"
+    },
+    {
+      "question": {
+        "text": "The computer operators work at night ___ on weekends.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)nor",
+          "(B)but",
+          "(C)neither",
+          "(D)and"
+        ]
+      },
+      "answer": {
+        "text": "(D)and",
+        "explanation": "(D) “And” joins equal terms. Choice (A) needs neither after the verb. Choice (B) implies a contrast. Choice (C) is used with “nor”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2580"
+    },
+    {
+      "question": {
+        "text": "We___finish this work soon because the deadline is approaching.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)have",
+          "(B)had to",
+          "(C)have to",
+          "(D)will have"
+        ]
+      },
+      "answer": {
+        "text": "(C)have to",
+        "explanation": "(C) “Have to” plus the base form of a verb indicates necessity. Choices (A) and (D) lack the word “to”. Choice (B) is past tense so cannot be used in this sentence about the present."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2583"
+    },
+    {
+      "question": {
+        "text": "This___is very important, so think it over carefully.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)decidedly",
+          "(B)decisive",
+          "(C)decision",
+          "(D)decide"
+        ]
+      },
+      "answer": {
+        "text": "(C)decision",
+        "explanation": "(C) A noun is required to act as the subject of the sentence. Choice (A) is an adverb. Choice (B) is an adjective. Choice (D) is a verb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2586"
+    },
+    {
+      "question": {
+        "text": "___off the lights before you leave the office.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Turn",
+          "(B)Turned",
+          "(C)Turning",
+          "(D)Will turn"
+        ]
+      },
+      "answer": {
+        "text": "(A)Turn",
+        "explanation": "(A) This is an imperative verb, telling the listener what to do. Choice (B) is past tense. Choice (C) is present participle or a gerund. Choice (D) is future tense."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2589"
+    },
+    {
+      "question": {
+        "text": "The new rug looks very nice___that table.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)bottom",
+          "(B)floor",
+          "(C)down",
+          "(D)under"
+        ]
+      },
+      "answer": {
+        "text": "(D)under",
+        "explanation": "(D) This is a preposition of place describing the position of the rug. Choices (A) and (B) are nouns. Choice (C) is an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c258c"
+    },
+    {
+      "question": {
+        "text": "The books that he recommended___not very interesting.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)was",
+          "(B)were",
+          "(C)is",
+          "(D)did"
+        ]
+      },
+      "answer": {
+        "text": "(B)were",
+        "explanation": "(B) “Were” agrees with the plural noun “books”. Choices (A) and (C) are singular. Choice (D) is an auxiliary verb and cannot be used without a main verb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c258f"
+    },
+    {
+      "question": {
+        "text": "Mr. Kim is not a particularly interesting speaker, and several people fell asleep___his lecture.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)although",
+          "(B)while",
+          "(C)because",
+          "(D)during"
+        ]
+      },
+      "answer": {
+        "text": "(D)during",
+        "explanation": "(D) “During” is a preposition, placed before a noun, describing when the people fell asleep. Choices (A), (B), and (C) are used to introduce a clause."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2592"
+    },
+    {
+      "question": {
+        "text": "Our business is rapidly___and we are hiring many new people.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)expand",
+          "(B)expands",
+          "(C)expanding",
+          "(D)has expanded"
+        ]
+      },
+      "answer": {
+        "text": "(C)expanding",
+        "explanation": "(C) The present participle form is needed to complete the present continuous verb “is expanding”. Choices (A) and (B) are simple present tense. Choice (D) is present perfect."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2595"
+    },
+    {
+      "question": {
+        "text": "The building___during the heavy thunderstorm last night.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)damage",
+          "(B)damaged",
+          "(C)was damaged",
+          "(D)was damaging"
+        ]
+      },
+      "answer": {
+        "text": "(C)was damaged",
+        "explanation": "(C) The subject of the sentence, “the building”, received the action, so a passive- voice verb is required. Choices (A), (B), and (D) are all active-voice forms."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644197eccc8cae769c2598"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644197eccc8cae769c259b"
+}

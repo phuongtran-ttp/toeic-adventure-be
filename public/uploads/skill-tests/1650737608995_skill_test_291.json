@@ -1,0 +1,712 @@
+{
+  "name": "Skill Test 291",
+  "questions": [
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> Thank you for purchasing a new Romulus camera!</p></b>Please take a moment to fill out this card and officially register your purchase with us. In return, we will enter your name into a drawing to win one of a variety of prizes including a new ROHUJIUS television and a Romulus T35 portable CD player!<br><br>Name : Abdul Khosa<br>Address: 43 Springdale Rd., Penn, Wolverhampton WV4 3HN<br><br> Please return to Romulus Ltd., 515 Shanley Road, Liverpool L88 4HG.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of goods does Romulus Ltd. produce?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Music CDs",
+              "(B)Electronics",
+              "(C)Software",
+              "(D)Videos"
+            ]
+          },
+          "answer": {
+            "text": "(B)Electronics",
+            "explanation": "Information can be inferred from: \"Thank you for purchasing a new Romulus camera!\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Mr. Khosa?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He has requested a mail-order catalog.",
+              "(B)He works for Romulus Ltd.",
+              "(C)He will be entered into a contest.",
+              "(D)He has bought a new television."
+            ]
+          },
+          "answer": {
+            "text": "(C)He will be entered into a contest.",
+            "explanation": "Information can be inferred from: \"In return, we will enter your name into a drawing to win one of a variety of prizes including a new ROHUJIUS television and a Romulus T35 portable CD player!\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e51"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>Unadilla Fence and Supply, Inc.</b><br>3220 Rt. 7 East, Unadilla, NY 13849<br>1-800-555-4344<br><br>Sales - Installation - Repairs<br>Residential – Industrial<br>All Types of Fencing<br>Landscape Supplies - Sheds - Outdoor Furniture </p><br>@PS@/kstoeic/images/7617655_1484793092041.png@PE@<br><br>We hereby submit specifications and estimates for the furnishing and installation of the following:<br><br><b>Take down and remove 20 sections of 3-rail fence with attached wire mesh. Install approximately 205 feet of 4-foot-high fence with regular posts. 26 fence sections, 4-foot gates. Top of fence to be as level as possible.</b><br><br>Customer responsible for determining property lines and location of fence, clearing fence line, and obtaining permits.<br>We hereby propose to furnish labor and materials in accordance with the above specifications for the sum of <b>Three Thousand Eight Hundred and Ninety dollars ($3,890)</b>, 50 percent deposit required. Balance due upon completion.<br><br>This proposal may be withdrawn by Unadilla Fence and Supply if not accepted within 30 days.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of document is this?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An advertisement",
+              "(B)A proposal",
+              "(C)A work schedule",
+              "(D)An order form"
+            ]
+          },
+          "answer": {
+            "text": "(B)A proposal",
+            "explanation": "Information in the sentence: \"Proposal submitted to Manesh Goyal \"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "What kind of work is being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Replacement of a fence",
+              "(B)Installation of a patio",
+              "(C)Lawn maintenance",
+              "(D)Furniture repair"
+            ]
+          },
+          "answer": {
+            "text": "(A)Replacement of a fence",
+            "explanation": "Information in the sentence: \"Take down and remove 20 sections of 3-rail fence with attached wire mesh. Install approximately 205 feet of 4-foot-high fence with regular posts. 26 fence sections, 4-foot gates. Top of fence to be as level as possible.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT stated in the document?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The terms may no longer apply after 30 days.",
+              "(B)The total amount must be paid in advance.",
+              "(C)The customer must get permits for the work.",
+              "(D)The materials are included in the price."
+            ]
+          },
+          "answer": {
+            "text": "(B)The total amount must be paid in advance.",
+            "explanation": "\"This proposal may be withdrawn by Unadilla Fence and Supply if not accepted within 30 days.\" => Eliminate A<br>Customer responsible for determining property lines and location of fence, clearing fence line, and obtaining permits.=> Eliminate C<br>We hereby propose to furnish labor and materials in accordance with the above specifications for the sum of Three Thousand Eight Hundred and Ninety dollars ($3,890) => Eliminate D\n\n"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “balance” in paragraph 4, line 3 is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)deficit",
+              "(B)remainder",
+              "(C)resource",
+              "(D)supply"
+            ]
+          },
+          "answer": {
+            "text": "(B)remainder",
+            "explanation": "Based on the meaning to choose the correct answer."
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e53"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Tips for Your Photographs </h3> <br>Maintaining the quality and integrity of photographs is important because photographs are our visual record of the past. By following a few important guidelines, you can ensure that your photographs last a lifetime. <br><br>If photographs are to be displayed, make sure they are placed in frames that have ultraviolet-resistant glass. Exposure to the Sun’s ultraviolet rays can cause colors to fade and can cause black-and-white photographs to turn yellow. In addition, they should be placed in frames that allow space between the glass and the top surface of the photograph. The surface of the photograph can deteriorate if it is in constant contact with glass. <br><br>When storing photographs in albums, make sure the albums contain acid-free paper. Colored paper or magnetic pages should never be used. To store photographs in boxes, use boxes made of metal or acid-free cardboard. Store albums and boxes in a dry environment, as humidity can quickly destroy photographs. <br><br>Finally, be careful when <u>handling</u> photographs, especially historic ones. If you must touch a photograph, your hands should be clean. Skin naturally produces oil, which can be harmful to photographs. You should pick up photographs only by the edges  and should wear clean cotton gloves.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the information mainly discuss?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Submitting photographs for a competition",
+              "(B)Displaying photographs",
+              "(C)  Restoring damaged photographs",
+              "(D) Preserving photographs"
+            ]
+          },
+          "answer": {
+            "text": "(D) Preserving photographs",
+            "explanation": "Information can be inferred from: \"Maintaining the quality and integrity of photographs is important because photographs are our visual record of the past.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the information, what should be avoided?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Stacking old photographs in boxes",
+              "(B)Developing photographs outdoors",
+              "(C)Mounting photographs on acid-free paper",
+              "(D)Placing glass directly on a photograph"
+            ]
+          },
+          "answer": {
+            "text": "(D)Placing glass directly on a photograph",
+            "explanation": "Information in the sentence: \"The surface of the photograph can deteriorate if it is in constant contact with glass.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as being harmful to photographs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The sun",
+              "(B)Metal frames",
+              "(C)Colored paper",
+              "(D)Humidity"
+            ]
+          },
+          "answer": {
+            "text": "(B)Metal frames",
+            "explanation": "Exposure to the Sun’s ultraviolet rays can cause colors to fade and can cause black-and-white photographs to turn yellow. => Eliminate A<br>Colored paper or magnetic pages should never be used. => Eliminate C <br>Store albums and boxes in a dry environment, as humidity can quickly destroy photographs. => Eliminate D\n"
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"handling\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)managing",
+              "(B)examining",
+              "(C)touching",
+              "(D)producing"
+            ]
+          },
+          "answer": {
+            "text": "(C)touching",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e59"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"> <b>Valentino’s Corner</b><br>895 Havana Circle<br>Toronto, Canada<br>Telephone: 905-555-7683<br>***<br>Serving the Greater Toronto area since 1970!<br><b><p align=\"center\"> ***</p></b></p>- Italian & North American dishes <br>- Vegetarian food <br>- Children's menu <br>- Delicious ice cream desserts<br>-  Service provided by an experienced and courteous staff <br>- Delivery & take-out service<br><b></b><br><p align=\"center\">***<br> Hours 8:00 A.M.—10:00 P.M. Sunday—Thursday<br>10:00 A.M.—12:00 A.M. Friday & Saturday</p><p align=\"center\"> ***</p><b>Learn more about our menu on the Web at www.valentinoscorner.ca</b>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of business is Valentino's Corner?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A restaurant",
+              "(B)A bakery",
+              "(C)A pottery shop",
+              "(D)A courier service"
+            ]
+          },
+          "answer": {
+            "text": "(A)A restaurant",
+            "explanation": "Based on words like \"dishes, vegetarian food, children's menu, desserts\"=> Choose A  "
+          }
+        },
+        {
+          "question": {
+            "text": "What information does NOT appear in the advertisement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The types of offerings available to the establishment’s customers",
+              "(B)The hours during which the establishment is open",
+              "(C)How much items cost at the establishment",
+              "(D)How long the establishment has been in business"
+            ]
+          },
+          "answer": {
+            "text": "(C)How much items cost at the establishment",
+            "explanation": "- Italian & North American dishes<br>- Vegetarian food<br>- Children's menu<br>- Delicious ice cream desserts<br>- Service provided by an experienced and courteous staff<br>- Delivery & take-out service<br>=> Eliminate A<br>Hours 8:00 A.M.—10:00 P.M. Sunday—Thursday<br>10:00 A.M.—12:00 A.M. Friday & Saturday<br> => Eliminate B<br>Serving the Greater Toronto area since 1970!=> Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e5c"
+    },
+    {
+      "question": {
+        "text": "<i>From Coins to Credit: Banking Throughout</i> the Ages is a concise history of banks and the banking industry from ancient times to the present. James Gallagher, who has made a career of covering financial news for several newspapers, has done a careful job of investigating his subject Although he presents the facts carefully, Mr. Gallagher has made what could have been a dry book into one that is interesting and enjoyable. By telling amusing anecdotes about historical figures, he makes them come alive. Even people who are not particularly attracted to the subject matter will find this book engrossing.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely is Mr. Gallagher’s job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Banker",
+              "(B) Librarian",
+              "(C) Journalist",
+              "(D) Publisher"
+            ]
+          },
+          "answer": {
+            "text": "(C) Journalist",
+            "explanation": "Information in the sentence: \" James Gallagher, who has made a career of covering financial news for several newspapers\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the reviewer NOT mention about the book?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is very long.",
+              "(B)It is entertaining.",
+              "(C)It describes people from the past.",
+              "(D)It is well researched."
+            ]
+          },
+          "answer": {
+            "text": "(A)It is very long.",
+            "explanation": " \" interesting and enjoyable\"  => Eliminate B<br>\"By telling amusing anecdotes about historical figures\" => Eliminate C<br>\"careful job of investigating\" => Elimiante D"
+          }
+        },
+        {
+          "question": {
+            "text": "The word “dry” in line 5 is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)dull",
+              "(B)vacant",
+              "(C)arid",
+              "(D)humorous"
+            ]
+          },
+          "answer": {
+            "text": "(A)dull",
+            "explanation": "Based on the meaning to choose the correct answer. "
+          }
+        },
+        {
+          "question": {
+            "text": "What does the reviewer suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Most people are not interested in history.",
+              "(B)The banking industry is in a state of chaos.",
+              "(C)Mr. Gallagher is an experienced lecturer.",
+              "(D)The book will appeal to different groups of people."
+            ]
+          },
+          "answer": {
+            "text": "(D)The book will appeal to different groups of people.",
+            "explanation": "Information in the sentence: \"Even people who are not particularly attracted to the subject matter will find this book engrossing.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e57"
+    },
+    {
+      "question": {
+        "text": "<i><b><p align=\"center\"> Great Nature Magazine</p></b></i><h5>CONTENTS</h5><br><br>Pg. 3 <b>This Week’s Environmental News</b><br><br>Pg. 9  <b>Letters to the Editor</b><br> <br>Pg. 12 <b>Cover story: Fire and Ice</b><br>Researcher Amy Vicucci recently spent three months observing a pack of wolves in northern Canada.<br><br> Pg. 30 <b>Secrets of the Marshlands</b><br>Biologists have been researching the behavior of tigers in the marshlands of eastern India and their discoveries may change the way we think about these big cats.<br><br>Pg, 43<b> A Conversation with Laurent Makombo</b><br>Meet the African politician who is campaigning to enact a landmark law for the protection of endangered wildlife in his country<br><br>Pg. 58 <b>And the Winners Are ...</b><br>We received hundreds of submissions from our readers for our 12th annual <i>Great Nature</i> wildlife photography competition. See the winners here.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the topic of the magazine?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Outdoor recreation",
+              "(B)Canadian news",
+              "(C)Wild animals",
+              "(D)Nature photography"
+            ]
+          },
+          "answer": {
+            "text": "(C)Wild animals",
+            "explanation": "Information can be inferred from words and phrases like: \"wolves, tigers, cats, endangered wildlife, annual Great Nature wildlife photography competition\"."
+          }
+        },
+        {
+          "question": {
+            "text": "On what page can an article about new scientific research be found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Page 9",
+              "(B)Page 30",
+              "(C)Page 43",
+              "(D)Page 58"
+            ]
+          },
+          "answer": {
+            "text": "(B)Page 30",
+            "explanation": "Information can be inferred from: \"Biologists have been researching the behavior of tigers in the marshlands of eastern India and their discoveries may change the way we think about these big cats.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e5e"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> July Community Calendar</p></b><br><b>July 10: Reiman Gardens Art Fair</b>Reiman Gardens, 10 A..M. to 4 P.M.<br>The work of over 50 sculptors and designers of garden statues will be on display and for sale to the public. Children’s activities are available all day with musical entertainment provided by pianists Donna and David Wilder at 3:00. Free<br><br><b>July 14: Ames Municipal Band Concert</b><br>Ames Park, 7:30 P.M.<br>The Ames Municipal Band will begin their final month of performances this Thursday. Preconcert entertainment (comedy) begins at 7 P.M. Free<br><br><b>July 30: Rick Macon</b><br>Stephens Auditorium, 8 P.M.<br>Singer Rick Macon is coming to the Stephens Auditorium. Macon has sold more than 18 million records worldwide with such hits as 'Twilight Song” and “Strangers Forever.” Advance tickets will be on sale at Ames Library and Goodall Grocery.<br><br><b>Through August 1: Kite Tales Exhibit</b><br>Pioneer Library, 10 A.M. to 5 P.M.<br>“Colorful Kite Tales” is a documentary poster display that provides basic information about how kites work as well as fun historical facts. Free",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What time does the entertainment at Ames Park begin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At 3:00 P.M.",
+              "(B)At 4:00 P.M.",
+              "(C)At 7:00 P.M.",
+              "(D)At 7:30 P.M."
+            ]
+          },
+          "answer": {
+            "text": "(C)At 7:00 P.M.",
+            "explanation": "Information in the sentence: \"Preconcert entertainment (comedy) begins at 7 P.M.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Where are posters being exhibited?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Pioneer Library",
+              "(B)Ames Park",
+              "(C)Reiman Gardens",
+              "(D)Stephens Auditorium"
+            ]
+          },
+          "answer": {
+            "text": "(A)Pioneer Library",
+            "explanation": "Information in the sentence: \"Pioneer Library, 10 A.M. to 5 P.M. <br>\n“Colorful Kite Tales” is a documentary poster display that provides basic information about how kites work as well as fun historical facts.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Which event is NOT free?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The art fair",
+              "(B)The municipal band concert",
+              "(C)The Rick Macon concert",
+              "(D)The kite exhibit"
+            ]
+          },
+          "answer": {
+            "text": "(C)The Rick Macon concert",
+            "explanation": "Information in the sentences: \"Singer Rick Macon is coming to the Stephens Auditorium. Macon has sold more than 18 million records worldwide with such hits as 'Twilight Song” and “Strangers Forever.” Advance tickets will be on sale at Ames Library and Goodall Grocery.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e66"
+    },
+    {
+      "question": {
+        "text": "<b><p align=\"center\"> INTELICOM<br>Kingston, Ontario</p></b><br>October 22<br>Ms. Susan Newman <br>320 Victoria Street <br>Toronto, Ontario M5H 3N2<br><br>Dear Ms. Newman:<br><br>This is to confirm that the completed forms from your pre-employment health assessment have now been received.. Therefore, I confirm that you will be able to start employment with INTELICOM as an interim administrative assistant in the research department on October 30.<br><br>The terms and conditions of your appointment are as follows:<br><br><b>Salary:</b> Actual salary 22,000 dollars per year (based on 44,000 dollars a year full time).<br><b>Working Pattern:</b> Working commitment is 50 percent of full time. This equates to 128 days to be scheduled, as agreed with the head of the research department and is inclusive of 6 days of annual leave.<br><br><b>Duration of Service:</b>One year.<br><br>Payment of Salary: Please complete a bank authorization form (enclosed) and bring it， together with proof of identity, to the payroll office (fourth floor, Connaught Building) as soon as possible.<br><br>Please sign and date the duplicate copy of this agreement and mail it back to me by October 25, Only when the signed document is received in this office will a contract exist between you and INTELICOM according to the conditions set out above.<br><br>We look forward, to having you with us at INTELICOM.<br><br>Yours sincerely,<br>Ms. R. A. Palermo<br>Director of Human Resource Management<br><b><u> ENDORSEMENT</u></b><br>I have received the original of this letter dated October 22 and accept the appointment on the terms and conditions specified.<br>Signature: _________________________  Date:______________________<br>(Ms. Susan Newman)",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the letter, what has Ms. Newman already done?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has visited the payroll office.",
+              "(B)She has had a health checkup.",
+              "(C)She has signed a contract.",
+              "(D)She has submitted some research."
+            ]
+          },
+          "answer": {
+            "text": "(B)She has had a health checkup.",
+            "explanation": "Information in the sentence: \"This is to confirm that the completed forms from your pre-employment health assessment have now been received.\""
+          }
+        },
+        {
+          "question": {
+            "text": "When will Ms. Newman start work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)On October 10",
+              "(B)On October 22",
+              "(C)On October 25",
+              "(D)On October 30"
+            ]
+          },
+          "answer": {
+            "text": "(D)On October 30",
+            "explanation": "Information in the sentence: \"Therefore, I confirm that you will be able to start employment with INTELICOM as an interim administrative assistant in the research department on October 30.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT indicated in the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A part-time position is being offered to Ms. Newman.",
+              "(B)The contract will take effect as soon as Ms. Newman signs it.",
+              "(C)Ms. Newman will be entitled to six days of vacation each year.",
+              "(D)Ms. Newman's appointment will be for a limited period."
+            ]
+          },
+          "answer": {
+            "text": "(B)The contract will take effect as soon as Ms. Newman signs it.",
+            "explanation": "\"Actual salary 22,000 dollars per year (based on 44,000 dollars a year full time.\" => Eliminate A<br>This equates to 128 days to be scheduled, as agreed with the head of the research department and is inclusive of 6 days of annual leave. => Eliminate C<br>Working commitment is 50 percent of full time. => Eliminate D"
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e63"
+    },
+    {
+      "question": {
+        "text": "MUMBAI, India, June 3 — Star Airways, Mumbai’s dominant airline for the past five years, has reported it is planning to replace its entire aircraft fleet with European- produced Skystream jets.<br>Starting with an initial purchase of 90 jets, Star Airways expects the changeover to take a decade to complete. The new planes will enable the airline to expand its international routes as well as provide replacements for its aging fleet of jet planes. Star Airways and Skystream, in a joint announcement at the Brussels Air Show on Thursday, said that the order included seventeen of the new AWB850 aircraft. This will make Star Airways the first Indian carrier to fly the AWB850, an aim it has had since the powerful jets were first produced.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To describe recent renovations at an airport",
+              "(B)To announce a new business agreement",
+              "(C)To inform investors of updated project plans",
+              "(D)To report on the merger of two airlines"
+            ]
+          },
+          "answer": {
+            "text": "(B)To announce a new business agreement",
+            "explanation": "Information can be inferred from: \"- Star Airways, Mumbai’s dominant airline for the past five years, has reported it is planning to replace its entire aircraft fleet with European- produced Skystream jets.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How long is the change expected to take?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Three years",
+              "(B)Five years",
+              "(C)Ten years",
+              "(D)Seventeen years"
+            ]
+          },
+          "answer": {
+            "text": "(C)Ten years",
+            "explanation": "Information in the sentence: \"Star Airways expects the changeover to take a decade to complete.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT reported as a goal of Star Airways?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To relocate its international headquarters",
+              "(B)To be among the first to use a new aircraft",
+              "(C)To replace the older planes in its fleet",
+              "(D)To increase its number of flight destinations"
+            ]
+          },
+          "answer": {
+            "text": "(A)To relocate its international headquarters",
+            "explanation": "\"This will make Star Airways the first Indian carrier to fly the AWB850, an aim it has had since the powerful jets were first produced.\" => Eliminate B<br>. \"The new planes will enable the airline to expand its international routes as well as provide replacements for its aging fleet of jet planes.\" => Eliminate C&D\n"
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e68"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/7479594_1484793093854.png@PE@ <br><br>Source: <i>International Marketing Trends</i> magazine, reporting on a survey by market research firm Transigo, Ltd. that queried customers on likely colors of future car purchases. Survey conducted among individuals who were planning to purchase a sedan in the next 12 months. Survey respondents were shown photographs of both European and Asian car models.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who conducted the survey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A car manufacturer",
+              "(B)International  Marketing Trends magazine",
+              "(C)A government agency",
+              "(D)Transigo, Ltd"
+            ]
+          },
+          "answer": {
+            "text": "(D)Transigo, Ltd",
+            "explanation": "Information in the sentence: \"International Marketing Trends magazine, reporting on a survey by market research firm Transigo, Ltd.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about black cars?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Affluent individuals strongly preferred black cars.",
+              "(B)Black is equally favored by all age groups.",
+              "(C)Men and women bought black cars in equal numbers last year.",
+              "(D)Black cars are more popular in South America than in Asia."
+            ]
+          },
+          "answer": {
+            "text": "(A)Affluent individuals strongly preferred black cars.",
+            "explanation": "From the survey results, you can see that people with high income (affluent individuals) strongly preferred black cars."
+          }
+        },
+        {
+          "question": {
+            "text": "Based on the survey results, what color car should be used in an advertisement aimed at young adults?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Black",
+              "(B) Red",
+              "(C) Tan",
+              "(D) Blue"
+            ]
+          },
+          "answer": {
+            "text": "(B) Red",
+            "explanation": "From the survey results, you can infer that red car should be used in an advertisement aimed at young adults. "
+          }
+        },
+        {
+          "question": {
+            "text": "What was shown to survey participants?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Charts of color preference",
+              "(B)Drawings of car prototypes",
+              "(C)Pictures of automobiles",
+              "(D)Magazine advertisements"
+            ]
+          },
+          "answer": {
+            "text": "(C)Pictures of automobiles",
+            "explanation": "Information in the sentence: \"Survey respondents were shown photographs of both European and Asian car models.'"
+          }
+        },
+        {
+          "question": {
+            "text": "What group of people were included in the survey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Potential car buyers",
+              "(B)Market researchers",
+              "(C)Factory employees",
+              "(D)Car dealers"
+            ]
+          },
+          "answer": {
+            "text": "(A)Potential car buyers",
+            "explanation": "Information in the sentence: \"Survey conducted among individuals who were planning to purchase a sedan in the next 12 months.\""
+          }
+        }
+      ],
+      "id": "626441c8eccc8cae769c2e6f"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "EASY",
+  "id": "626441c8eccc8cae769c2e78"
+}

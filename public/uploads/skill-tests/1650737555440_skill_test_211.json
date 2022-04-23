@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 211",
+  "questions": [
+    {
+      "question": {
+        "text": "Tolus Restaurant is temporarily closed for ___ and will reopen on September 7.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)renovates",
+          "(B)renovated",
+          "(C)renovations",
+          "(D)renovate"
+        ]
+      },
+      "answer": {
+        "text": "(C)renovations",
+        "explanation": "Be closed for + N <br> Renovation = Repairing and improving"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f04"
+    },
+    {
+      "question": {
+        "text": "The afternoon flight from Tokyo has been canceled ___ a mechanical problem.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)as much as",
+          "(B)due to",
+          "(C)because",
+          "(D)in case"
+        ]
+      },
+      "answer": {
+        "text": "(B)due to",
+        "explanation": "Due to = Because of"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f02"
+    },
+    {
+      "question": {
+        "text": "The itinerary ___with the cruise list.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)be filing",
+          "(B)is filed",
+          "(C)be filed",
+          "(D)is filing"
+        ]
+      },
+      "answer": {
+        "text": "(B)is filed",
+        "explanation": "(B) The sentence requires a conjugated verb and past participle. Choices (A) and (D) use the present participle. Choice (C) uses the simple form of the verb."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f00"
+    },
+    {
+      "question": {
+        "text": "At midnight, the second shift of security guards ___ on duty.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)coming",
+          "(B)to come",
+          "(C)comes",
+          "(D)come"
+        ]
+      },
+      "answer": {
+        "text": "(C)comes",
+        "explanation": "(C) Present tense indicates “habit”, which is logical here; this also requires an -5 ending for the third person (shift). Choice (A) is the progressive. Choice (B) is the infinitive. Choice (D) is present tense but not third person."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1efb"
+    },
+    {
+      "question": {
+        "text": "This report has to be completed___5:00 today at the latest.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)until",
+          "(B)after",
+          "(C)to",
+          "(D)by"
+        ]
+      },
+      "answer": {
+        "text": "(D)by",
+        "explanation": "(D) “By” in this sentence means “before”. Choices (A) and (C) don’t make sense in this sentence. Choice (B) is the opposite of the correct meaning."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f06"
+    },
+    {
+      "question": {
+        "text": "Passengers can check in for the charter flight ___ 8:00 and 12:00 tomorrow.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)between",
+          "(B)with",
+          "(C)through",
+          "(D)from"
+        ]
+      },
+      "answer": {
+        "text": "(A)between",
+        "explanation": "(A) “Between” expresses beginning and ending points. Choice (B) indicates “in the company” of or by means of Choice (C) indicates movement across something. Choice (D) indicates source."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f16"
+    },
+    {
+      "question": {
+        "text": "The training session has been changed from 8:30___9:00.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)at",
+          "(B)to",
+          "(C)in",
+          "(D)by"
+        ]
+      },
+      "answer": {
+        "text": "(B)to",
+        "explanation": "(B) “To” indicates a change in time. Choice (A) is used with one specific time. Choice (C) is used with a period of time (e.g., in two hours). Choice (D) is used with deadlines."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f0f"
+    },
+    {
+      "question": {
+        "text": "Following Ms. Agio’s appointment to the board of directors, the firm’s investment strategy was ___ reevaluated.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)thoroughly",
+          "(B)thorough",
+          "(C)thoroughness",
+          "(D)more thorough"
+        ]
+      },
+      "answer": {
+        "text": "(A)thoroughly",
+        "explanation": "We are giving more information on the verb \"was reevaluated\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f14"
+    },
+    {
+      "question": {
+        "text": "The views expressed on the editorial page are those of the writers alone and do not ___ reflect the opinions of East City News.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)necessarily",
+          "(B)necessity",
+          "(C)necessitate",
+          "(D)necessary"
+        ]
+      },
+      "answer": {
+        "text": "(A)necessarily",
+        "explanation": "We are giving more information on the verb \"do not reflect\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f12"
+    },
+    {
+      "question": {
+        "text": "It is a bit scary riding this elevator because it___at such a rapid rate.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)decreases",
+          "(B)descends",
+          "(C)devalues",
+          "(D)diminishes"
+        ]
+      },
+      "answer": {
+        "text": "(B)descends",
+        "explanation": "(B) “Descends” means “goes down”. Choices (A), (C), and (D) all have the meaning of “goes down” but are not used to describe the motion of an elevator."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f0d"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644193eccc8cae769c1f2d"
+}

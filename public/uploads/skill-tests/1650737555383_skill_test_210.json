@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 210",
+  "questions": [
+    {
+      "question": {
+        "text": "___ is the key to efficiency.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Organized",
+          "(B)Organize",
+          "(C)Organizer",
+          "(D)Organization"
+        ]
+      },
+      "answer": {
+        "text": "(D)Organization",
+        "explanation": "(D) The subject position requires a noun. Choices (A) and (B) are verbs. Choice (C) refers to a person or thing and doesn’t make sense here."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1ea6"
+    },
+    {
+      "question": {
+        "text": "A computer is ___  than a typewriter.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)more efficient",
+          "(B)most efficient",
+          "(C)the most efficient",
+          "(D)the more efficient"
+        ]
+      },
+      "answer": {
+        "text": "(A)more efficient",
+        "explanation": "(A) A comparison of two things uses “more + adjective” or the “-er” form. Choices (B) and (C) use “most”. Choice (D) uses “the”."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1ea4"
+    },
+    {
+      "question": {
+        "text": "Locker Box Software ensures that your personal digital files will remain stored ___ on our online server.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)safely",
+          "(B)potentially",
+          "(C)reportedly",
+          "(D)presently"
+        ]
+      },
+      "answer": {
+        "text": "(A)safely",
+        "explanation": "\"Safely\" matches the meaning of the sentence."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1ea2"
+    },
+    {
+      "question": {
+        "text": "Just walk___that door and you will see the copy machine on the other side.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)under",
+          "(B)around",
+          "(C)between",
+          "(D)through"
+        ]
+      },
+      "answer": {
+        "text": "(D)through",
+        "explanation": "(D) “Through” means to move from one side to the other. Choices (A), (B), and (C) are not logical for the context of a door."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1e9c"
+    },
+    {
+      "question": {
+        "text": "Dr. Smith is a well-respected expert and has___experience in her field.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)extend",
+          "(B)extends",
+          "(C)extensive",
+          "(D)extension"
+        ]
+      },
+      "answer": {
+        "text": "(C)extensive",
+        "explanation": "(C) This is an adjective used to describe the noun “experience”. Choices (A) and (B) are verbs. Choice (D) is a noun."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1eaf"
+    },
+    {
+      "question": {
+        "text": "The ship provisions officer ___ his supplies in large quantities.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)buy",
+          "(B)buys",
+          "(C)buying",
+          "(D)to buy"
+        ]
+      },
+      "answer": {
+        "text": "(B)buys",
+        "explanation": "(B) The present tense indicates habit, which is logical here; this also requires an -s ending for the third person (store owner). Choice (A) is present but not third person. Choice (C) is the progressive. Choice (D) is the infinitive."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1ea8"
+    },
+    {
+      "question": {
+        "text": "The Hotel Nagar in Mumbai requests that you confirm your room reservation ___ May 4.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)now that",
+          "(B)greatly",
+          "(C)very much",
+          "(D)no later than"
+        ]
+      },
+      "answer": {
+        "text": "(D)no later than",
+        "explanation": "No + comparative adjective + than = The maximum number or amount."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1ebb"
+    },
+    {
+      "question": {
+        "text": "The building manager has informed us that the west entrance elevators will be out of ___ for the remainder of the week.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)work",
+          "(B)aid",
+          "(C)service",
+          "(D)help"
+        ]
+      },
+      "answer": {
+        "text": "(C)service",
+        "explanation": "Be out of service/order = Not work"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1eb3"
+    },
+    {
+      "question": {
+        "text": "Mr. Flynn is the person ___ orders office supplies.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)which",
+          "(B)whose",
+          "(C)who",
+          "(D)whom"
+        ]
+      },
+      "answer": {
+        "text": "(C)who",
+        "explanation": "(C) Use “who” to refer to people. Choice (A) refers to things. Choice (B) is possessive. Choice (D) is objective."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1eb9"
+    },
+    {
+      "question": {
+        "text": "The meeting is postponed___Mr. Tan’splane was late.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)although",
+          "(B)while",
+          "(C)because",
+          "(D)with"
+        ]
+      },
+      "answer": {
+        "text": "(C)because",
+        "explanation": "(C) “Because” establishes a logical cause and effect relationship between the two events. Choice (A) indicates contrast; it is not logical unless the plane “was on time”. Choice (B) suggests a simultaneous relationship, not possible because of present tense “is” and past tense “was”. Choice (D) is a preposition and cannot be used to join clauses."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1eb7"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644193eccc8cae769c1ed0"
+}

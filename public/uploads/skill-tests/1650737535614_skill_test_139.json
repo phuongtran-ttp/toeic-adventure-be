@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 139",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_432.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_432.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cd9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Attention, passengers. Because of track work north of Boston, <strong>Q1&nbsp;all arriving trains that pass through that region are operating at slower speeds</strong> and&nbsp;<strong>Q2 experiencing delays of approximately 45 minutes.</strong> At present, the Montreal trains are not affected. Please check the status of your train on the arrivals board, which is updated every ten minutes. Also, please be advised that due to engine trouble, <strong>Q3&nbsp;departing Train 55 to Vermont is not yet ready to receive passengers. Wait for the boarding announcement before proceeding to the track.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is this announcement most likely being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At an airport",
+              "(B) At a bus station",
+              "(C) At a ferry terminal",
+              "(D) At a train station"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a train station",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "For how long will arrivals be delayed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)5 minutes",
+              "(B) 10 minutes",
+              "(C) 45 minutes",
+              "(D) 55 minutes"
+            ]
+          },
+          "answer": {
+            "text": "(C) 45 minutes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are passengers traveling to Vermont told to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Speak to a staff member",
+              "(B) Listen for an announcement",
+              "(C) Proceed to the gate",
+              "(D) Make alternate plans"
+            ]
+          },
+          "answer": {
+            "text": "(B) Listen for an announcement",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cdd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_469.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_469.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cdb"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Thank you for the generous introduction, Mr. Park. I am delighted to be here tonight to receive this prestigious award. Q2 l have been an avid reader since my childhood, but my interest in writing didn&rsquo;t start until I was at university when I wrote for a campus newspaper. </strong>At around the same time, I started writing short stories as a hobby. I never imagined that my hobby would turn into a career! <strong>Q3&nbsp;If Mr. Oberly, my agent,</strong> hadn&rsquo;t encouraged me to submit my writing to publishers ten years ago, I wouldn&rsquo;t be standing here today; so, Mr. Oberly, thank you &ndash; I couldn&rsquo;t have asked for a better agent. I would also like to thank all of my readers - I will continue to share my stories with you</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the speech?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To announce a competition",
+              "(B)To accept an award",
+              "(C)To introduce a speaker",
+              "(D)To promote a book"
+            ]
+          },
+          "answer": {
+            "text": "(B)To accept an award",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is true about the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She is a career advisor.",
+              "(B)She started writing when she was ten.",
+              "(C) She wrote for a university newspaper.",
+              "(D)She works at a publishing company."
+            ]
+          },
+          "answer": {
+            "text": "(C) She wrote for a university newspaper.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Mr. Oberly?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A marketing manager",
+              "(B)A writer",
+              "(C)A book editor",
+              "(D) An agent"
+            ]
+          },
+          "answer": {
+            "text": "(D) An agent",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cdf"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_433.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_433.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0ce3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hello, Mr. Santos. This is Steven Chan. I work with Crawford Relocation Services. <strong>Q1&nbsp;I&rsquo;m looking for an apartment for a client who is moving to the area in two weeks. </strong>Last week you ran an ad in the paper about an apartment for rent on Manor Drive. <strong>Q2&amp;3&nbsp;Is it still available? Could you please call me at 217-555-3222 </strong>with information about that apartment or any other available rental space in that neighborhood? Thank you, and I hope to hear from you soon.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the message?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To inquire about a job applicant",
+              "(B) To ask about accommodations",
+              "(C) To offer help with relocation",
+              "(D) To inform a client of an available apartment"
+            ]
+          },
+          "answer": {
+            "text": "(B) To ask about accommodations",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How does the speaker ask to be contacted?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By telephone",
+              "(B) By e-mail",
+              "(C) By letter",
+              "(D). By fax"
+            ]
+          },
+          "answer": {
+            "text": "(A) By telephone",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Mr. Santos probably do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Attend an event on Manor Drive",
+              "(B) Invite Mr. Santos his house",
+              "(C) Return Mr. Chan's call",
+              "(D) Submit an application form"
+            ]
+          },
+          "answer": {
+            "text": "(C) Return Mr. Chan's call",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0ce7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_4610.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_4610.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0ce5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 I&rsquo;m Alan Lam and you&rsquo;re listening to Business Today on HK Radio One.</strong> Results of the National Manufacturers&rsquo; Association&rsquo;s annual survey were released today. <strong>Q2 Nearly three out of four survey respondents indicated that having high-quality employees is the factor most critical to their success.</strong> The second most commonly selected factor was new product innovation. Most respondents noted that they must create innovative products in order to compete in the global marketplace. <strong>Q3 Surprisingly, low-cost production ranked third in the survey in the past, this has been the number one response, with manufacturers placing an emphasis on inexpensive operations. </strong>Now, it appears, executives are hoping to have high-quality employees and be innovative, too.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is Alan Lam?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A company executive",
+              "(B)A factory worker",
+              "(C)A radio broadcaster",
+              "(D)An economist"
+            ]
+          },
+          "answer": {
+            "text": "(C)A radio broadcaster",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who responded to the survey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Manufacturing executives",
+              "(B)Factory line workers",
+              "(C)Product designers",
+              "(D)Human resources managers"
+            ]
+          },
+          "answer": {
+            "text": "(A)Manufacturing executives",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How did the survey responses differ from those of previous years?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)More new product plans were reported.",
+              "(B)Fewer businesses responded.",
+              "(C)Employee experience was not studied.",
+              "(D)Cost was considered less important."
+            ]
+          },
+          "answer": {
+            "text": "(D)Cost was considered less important.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0ce9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_434.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_434.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0ced"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Good morning. <strong>Q1&nbsp;I&rsquo;m here to talk about the new security system. </strong>This week the security department will be contacting each of you to set up an appointment to get your picture taken. The security department will use the pictures to make an identification card for each employee. You must wear your identification card at all times while you&rsquo;re on company property. <strong>Q2&amp;3&nbsp;Your card will also unlock the doors of the building, so, unlike now, you will not be able to enter the building without it. </strong>We&rsquo;re confident the new security system will make our company a safer place to work.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the meeting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To explain security procedures",
+              "(B) To gather employee information",
+              "(C) To describe upcoming repair work",
+              "(D) To introduce staff members"
+            ]
+          },
+          "answer": {
+            "text": "(A) To explain security procedures",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about the identification cards?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be quite small.",
+              "(B) They will be available at the front desk.",
+              "(C) They will be used to open the doors.",
+              "(D) They will not be required for all employees."
+            ]
+          },
+          "answer": {
+            "text": "(C) They will be used to open the doors.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What charge does the speaker announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The Company will acquire more property.",
+              "(B) The security department will hire new personnel.",
+              "(C) Employees will be required to wear uniforms.",
+              "(D) Access to the building will be restricted."
+            ]
+          },
+          "answer": {
+            "text": "(D) Access to the building will be restricted.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cef"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_435.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_435.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cf2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1&amp;2 Walton&rsquo;s announces the grand opening of our second store this Saturday, March 4. Our new store has the same great selection of furniture </strong>and the same great prices as our original east side location! if you&rsquo;re looking to replace or complete the decor in your home or office, our inventory includes all styles, from antique to modern. Find fashionable, high-quality home and office furnishings at everyday low prices; we&rsquo;ve even got brand-name items for up to half off our regular prices. So come, see, and save! Bring the whole family to our grand opening celebration! There will be light refreshments, music, and door prizes all day long. <strong>Q3&nbsp;Both of our stores are </strong>open Monday through Saturday, from 10 A.M. to 8 P.M. Closed Sundays and holidays.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An annual sale",
+              "(B) A holiday closure",
+              "(C) The remodeling of a store",
+              "(D) The opening of a new location"
+            ]
+          },
+          "answer": {
+            "text": "(D) The opening of a new location",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Walton’s sell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Computers",
+              "(B) Clothing",
+              "(C) Food",
+              "(D) Furniture"
+            ]
+          },
+          "answer": {
+            "text": "(D) Furniture",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How many stores does Walton’s have?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) One",
+              "(B) Two",
+              "(C) Three",
+              "(D) Four"
+            ]
+          },
+          "answer": {
+            "text": "(B) Two",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cf4"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_421.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_421.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cf7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Thank you for calling Stalks Florists.</strong> Our office is currently closed. Our regular business hours are from 9 A.M. to 5 P.M., Monday through Thursday and on Saturday. <strong>Q2&nbsp;For your convenience, we stay open until 8 P.M. on Fridays.</strong> If you leave a message, one of our florists will return your call as soon as possible. <strong>Q3&nbsp;You can also order flower arrangements on the Internet at stalks.com.</strong> And remember, we offer free delivery in most areas of the country. We appreciate your patronage.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business has been reached?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A pizza restaurant",
+              "(B) A flower shop",
+              "(C) A bakery",
+              "(D) A clothing store"
+            ]
+          },
+          "answer": {
+            "text": "(B) A flower shop",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "On which day does the business stay open late?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Monday",
+              "(B) On Thursday",
+              "(C) On Friday",
+              "(D) On Saturday"
+            ]
+          },
+          "answer": {
+            "text": "(C) On Friday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the message suggest visiting a websise?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to place an order",
+              "(B) To make an inquiry",
+              "(C) To find business locations",
+              "(D) To view available products"
+            ]
+          },
+          "answer": {
+            "text": "(A) to place an order",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cfb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_436.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_436.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cf9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 We&rsquo;ll be shutting down production today at one o&rsquo;clock in order to do some routine maintenance on the equipment. Q2 This work should take about two hours to complete.</strong>&nbsp;<strong>Q3 During that time, Everyone should report to the distribution center. A large shipment needs to go out tomorrow, and many of the items in the order are breakable.</strong> <strong>You will be assisting the distribution team to pack these items. </strong>Once the production line is up and running again, you&rsquo;ll be notified to return to your regular stations</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the announcement, why will production be temporarily stopped?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) For equipment maintenance",
+              "(B) For safety improvements",
+              "(C) For workstation upgrades",
+              "(D) For quality reviews"
+            ]
+          },
+          "answer": {
+            "text": "(A) For equipment maintenance",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "For how long is the production line expected to be shut down?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) One hour",
+              "(B) Two hours",
+              "(C) Three hours",
+              "(D) Four hours"
+            ]
+          },
+          "answer": {
+            "text": "(B) Two hours",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the workers do while production is stopped?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Review maintenance manuals",
+              "(B) Complete production reports",
+              "(C) Clean up the factory floor",
+              "(D) Assist with packing items"
+            ]
+          },
+          "answer": {
+            "text": "(D) Assist with packing items",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cfd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_422.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_422.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d01"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 Please join me in congratulating Dave Whitfield, an accomplished master plumber where at Batista construction. Q2 Today marks the twenty-fifth anniversary of Dave&rsquo;s joining the company, </strong>and so we&rsquo;re here to present him with the silver medal for long&ndash;term service. <strong>Q3&nbsp;I first met Dave fifteen years ago when I became an apprentice carpenter,</strong> and it&rsquo;s always been a pleasure to work with him. I just want to say congratulations to Dave, and thank him for all of his contributions which have helped Batista rise to the top of the construction field</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of company does the speaker work at?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A financial services company",
+              "(B) An electronics company",
+              "(C) A construction company",
+              "(D) A jewelry company"
+            ]
+          },
+          "answer": {
+            "text": "(C) A construction company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Dave being congratulated?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is getting married.",
+              "(B) He has found an apprentice.",
+              "(C) He has started a successful business.",
+              "(D) He is celebrating an anniversary"
+            ]
+          },
+          "answer": {
+            "text": "(D) He is celebrating an anniversary",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How many years has the speaker known Dave?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 5",
+              "(B) 15",
+              "(C) 20",
+              "(D) 25"
+            ]
+          },
+          "answer": {
+            "text": "(B) 15",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d05"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_437.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_437.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0d03"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>Hello, this message is for Mr. Sam Matthews. <strong>Q2 My name is Sharon Hartford, and I&rsquo;m calling from the corporate travel department. </strong>I just received your e-mail regarding the airline reservation dates and times you requested to attend the southern regional sales convention in Miami. Unfortunately, all flights are booked for the dates and times that you mentioned, but I&rsquo;d be happy to help you find other flights that fit your schedule. <strong>Q3 If&nbsp;you can give me more information, please give me a call at 555-4141. </strong>Thank you.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the message mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Product availability",
+              "(B) Flight arrangements",
+              "(C) A sales opportunity",
+              "(D) A meeting schedule"
+            ]
+          },
+          "answer": {
+            "text": "(B) Flight arrangements",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Which most likely is Sharon Hartford?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A travel agent",
+              "(B) A convention planner",
+              "(C) A computer technician",
+              "(D) A sales representative"
+            ]
+          },
+          "answer": {
+            "text": "(A) A travel agent",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the caller suggest the man do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Send a fax",
+              "(B) Make a phone call",
+              "(C) Visit her office",
+              "(D) Write an e-mail"
+            ]
+          },
+          "answer": {
+            "text": "(B) Make a phone call",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0d07"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264417feccc8cae769c0d0d"
+}

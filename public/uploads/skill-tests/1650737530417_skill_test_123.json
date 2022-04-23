@@ -1,0 +1,762 @@
+{
+  "name": "Skill Test 123",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "740665990-1578560859941.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/740665990-1578560859941.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0800"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: Hi, my name is Tomoko. <b> Q1 I saw an advertisement for your motorcycle, and I’m interested in purchasing it. Q2 But I have a concern about the price. </b> It’s a little high considering it’s a few years old. Could you lower the price by two hundred dollars? I also read in the ad that you’d be willing to drop the motorcycle off at the buyer’s house, but I live an hour away so I don’t want to make you drive too far. <b> Q3 My friend and I can come pick it up on Saturday, </b> if you accept my offer. Give me a call back tonight at 555-0108. Thanks.<br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the speaker calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To report an accident",
+              "(B)To enquire about an advertise ment",
+              "(C)To point out a mistake",
+              "(D)To give driving directions"
+            ]
+          },
+          "answer": {
+            "text": "(B)To enquire about an advertise ment",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say she is concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A selling price",
+              "(B)The cost of a delivery",
+              "(C)An application requirement",
+              "(D)The time of an event"
+            ]
+          },
+          "answer": {
+            "text": "(A)A selling price",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Test a product",
+              "(B)E-mail a contract",
+              "(C)Pick up an item",
+              "(D)Provide a photograph"
+            ]
+          },
+          "answer": {
+            "text": "(C)Pick up an item",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0802"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "374062778-1578560971289.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/374062778-1578560971289.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0805"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: OK everyone, <b> Q1 this concludes our training on advanced hairstyling techniques.</b> We hope you learned how combining products and tools can help you creat new and exciting hairstyles for your clients. You’ll notice on the way out that I placed some surveys by door. <b> Q3 And let me remind you that there are only a few openings left for our upcoming workshop on hair coloring, so be sure to sign up soon if you’re interested. </b> Have a great afternoon!"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Marketing specialists",
+              "(B)Fashion models",
+              "(C)Interior designers",
+              "(D)Hairstylists"
+            ]
+          },
+          "answer": {
+            "text": "(D)Hairstylists",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says, \"i placed some surveys by the door\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Her documents are missing",
+              "(B)She hopes to receive feedback.",
+              "(C)Participants should depart promptly.",
+              "(D)A task has already been completed."
+            ]
+          },
+          "answer": {
+            "text": "(B)She hopes to receive feedback.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker remind the listeners about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Contacting clients",
+              "(B)Signing up for a workshop",
+              "(C)Submitting a personal profile",
+              "(D)Taking a brochure"
+            ]
+          },
+          "answer": {
+            "text": "(B)Signing up for a workshop",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0807"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "589065379-1578561014698.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/589065379-1578561014698.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c080a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: Thanks for listening to KQSP Radio. <b> Q1 Remember to tune in next Saturday evening for our tenth anniverary celebration. </b> We’ll be playing the top ten songs of the past decade, selected by you, the listeners. <b> Q2 There’s still time to vote for your favorite song. You can do that by sending a text message to 5143. </b> The songs with the most votes will be played during our show next Saturday evening. And coming up after a short break, we’ve got a live in-studio interview with pop singer Ezra Ortiz. <b> Q3 He’ll be telling us about his upcoming world tour. </b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, what will happen next saturday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A recording session",
+              "(B)A fund-raising dinner",
+              "(C)A grand opening",
+              "(D)An anniversary celebration"
+            ]
+          },
+          "answer": {
+            "text": "(D)An anniversary celebration",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker tell the listeners they can do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Vote for their favorite songs",
+              "(B)Take a quiz",
+              "(C)Post questions",
+              "(D)Donate money to the radio station"
+            ]
+          },
+          "answer": {
+            "text": "(A)Vote for their favorite songs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will ezra ortiz be discussing next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)His song-writing process",
+              "(B)The release of a new song",
+              "(C)An upcoming tour",
+              "(D)Music programs in schools"
+            ]
+          },
+          "answer": {
+            "text": "(C)An upcoming tour",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c080c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "135604300-1578561145853.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/135604300-1578561145853.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c080f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Hello, I’m calling from Mahmud’s Printers about the business cards your company recently ordered. So I wanted to talk with you before going through with it. Of course, <b> Q2 I’ll send you an example of the card before we print so many </b>, but <b> Q1 please call me back to confirm the number. Oh, and Q3 regarding the color sheme, </b> I don’t have the exact pale yellow you want for your logo, so I had to change that. I do have a similar hue, though – I hope you like it. Thanks!"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the speaker imply when he says, \"that's a very big order'?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He cannot fill an order in time.",
+              "(B)He will charge more than usual.",
+              "(C)He needs a favor from the listener.",
+              "(D)He thinks a request may be incorrect."
+            ]
+          },
+          "answer": {
+            "text": "(D)He thinks a request may be incorrect.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speaker send the listener?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A signed paper",
+              "(B)A product sample",
+              "(C)A color printer",
+              "(D)A catalog"
+            ]
+          },
+          "answer": {
+            "text": "(B)A product sample",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say he has changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The color of a design",
+              "(B)The placement of some information",
+              "(C)The time of an appointment",
+              "(D)The location of a sign"
+            ]
+          },
+          "answer": {
+            "text": "(A)The color of a design",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0811"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "600250632-1578561187356.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/600250632-1578561187356.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0814"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Hello, I’m the director of the Human Resources Department, and <b> Q1 I’m here to announce a new system for keeping track of your work hours. Instead of scanning employee ID cards at the Security Desk, we have instituted an online system for reporting when you arrive and leave work. Q2 Talk to your Human Resources representative during their office hours to get more detailed information about this new process. </b> You’ll be glad to know that the new system, which will be fully operational by the beginning of next week, <b> Q3 will allow the Payroll Department to send out paychecks faster. </b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the announcement mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Finishing a ream project",
+              "(B)Reporting work hours",
+              "(C)Issuing id badges",
+              "(D)Hiring more workers"
+            ]
+          },
+          "answer": {
+            "text": "(B)Reporting work hours",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, how can employees get more information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)By watching a video",
+              "(B)By reading a file",
+              "(C)By filling out a form",
+              "(D)By speaking with a representative"
+            ]
+          },
+          "answer": {
+            "text": "(D)By speaking with a representative",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the advantage of the new system?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Company sales will increase.",
+              "(B)Computer security will improve.",
+              "(C)Staff will be paid more quickly.",
+              "(D)Project timelines will be updated electronically."
+            ]
+          },
+          "answer": {
+            "text": "(C)Staff will be paid more quickly.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0816"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "501538507-1578561244674.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/501538507-1578561244674.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0819"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: <b> Q1 Thanks for coming to this product development meeting. As you know, we’ve recently reduced the amount of packaging we use for our Tucker Treats snack bags, in order to be more ecofriendly. But Q2 customers aren’t happy because our new packaging now offers smaller quantities of Tucker Treats at their original prices, which means they’re paying more and less food. Our president, Young-Soo Lee, has approved changing the size of the packaging to offer larger quantities of snacks at the original prices. So, Q3 your next task is to come up with a new package design to hold the larger quantities, while still using less plastic. </b> <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What department does the speaker most likely work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Product development",
+              "(B)Advertising",
+              "(C)Legal affairs",
+              "(D)Finance"
+            ]
+          },
+          "answer": {
+            "text": "(A)Product development",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are customer's complaints about tucker treats?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The ingredient list is inaccurate.",
+              "(B)The food amount has decreased.",
+              "(C)The packaging is hard to open.",
+              "(D)The new flavor does not taste good."
+            ]
+          },
+          "answer": {
+            "text": "(B)The food amount has decreased.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What task does the speaker assign to the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Creating some designs",
+              "(B)Conducting market research",
+              "(C)Demonstrating a procedure",
+              "(D)Find potential vendors"
+            ]
+          },
+          "answer": {
+            "text": "(A)Creating some designs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c081b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "745189000-1567148160775-95.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/745189000-1567148160775-95.png",
+            "mime": "image/png",
+            "id": "6264417aeccc8cae769c081e"
+          }
+        ],
+        "sound": [
+          {
+            "name": "691255653-1578561322656.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/691255653-1578561322656.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0820"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: Hi Elizabeth, it’s Becca. Thanks a lot for agreeing to water my plants and get the mail at my jewelry store while I’m in Singapore. <b> Q1 This is my first buying trip, and I’m excited about finding new materials for my jewelry. </b> I left the keys in an envelope under your door. The key to my store is the longest one with the square top, and the smallest one is for the mailbox. <b> Q3 I e-mailed instructions about caring for each of the plants. </b> Don’t worry, though – I only have a few. Thanks again for your help, and see you next week. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the speaker traveling to singapore?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To see family",
+              "(B)To go sightseeing",
+              "(C)To purchase supplies",
+              "(D)To meet overseas clients"
+            ]
+          },
+          "answer": {
+            "text": "(C)To purchase supplies",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which key is for the store?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Key #1",
+              "(B)Key #2",
+              "(C)Key #3",
+              "(D)Key #4"
+            ]
+          },
+          "answer": {
+            "text": "(C)Key #3",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did the speaker send in an e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Special care instructions",
+              "(B)A travel itinerary",
+              "(C)Store blueprints",
+              "(D)A technology article"
+            ]
+          },
+          "answer": {
+            "text": "(A)Special care instructions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0822"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "189967198-1567148172978-98.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/189967198-1567148172978-98.png",
+            "mime": "image/png",
+            "id": "6264417aeccc8cae769c0825"
+          }
+        ],
+        "sound": [
+          {
+            "name": "610679185-1578561368239.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/610679185-1578561368239.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0827"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Next week marks the beginning of our holiday clearance sale here at Sarma’s Department Store. Now, since this is such an important event, <b> Q1 I’ll be asking each of you to work an extra shift or two over the course of the week. </b> We really need a total effort in order to make this sales a success. This is the coupon that’ll be printed in local newspaper. <b> Q2 You’ll notice that we’re offering the largest discount on the merchandise that, truthfully, has not been selling very well this season. </b> We’ll be actively promoting it to reduce our inventory and <b> Q3 make room for the new merchandise that we’ll be receiving in April. </b> <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the speaker ask the listener to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Take inventory",
+              "(B)Decorate the store",
+              "(C)Work extra hours",
+              "(D)Hand out coupons"
+            ]
+          },
+          "answer": {
+            "text": "(C)Work extra hours",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. According to the speaker, what marchandise has not sold well?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Shoes",
+              "(B)Clothing",
+              "(C)Home decor",
+              "(D)Luggage"
+            ]
+          },
+          "answer": {
+            "text": "(D)Luggage",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what will happen in April?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)New merchandise will be arriving.",
+              "(B)A store department will be expanded.",
+              "(C)A web site will be improved.",
+              "(D)Employee work schedules will change."
+            ]
+          },
+          "answer": {
+            "text": "(A)New merchandise will be arriving.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0829"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "26088552-1584094447762.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/26088552-1584094447762.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c082c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 Are you a frequent international traveler who needs reliable mobile phone service? Then switch to CBA Top Mobile. Q2 Our phone service is available in over one hundred and fifty countries and includes texting and calling from those countries. Q3 For comments from our many satisfied users, visit our Web site and click on \"Reviews.” </b> Traveling and staying connected has never been easier."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What service is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A mobile phone service",
+              "(B) An express shipping service",
+              "(C) A financial advising service",
+              "(D) A computer repair service"
+            ]
+          },
+          "answer": {
+            "text": "(A) A mobile phone service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker emphasize about the service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has a five-year warranty.",
+              "(B) It is available in many countries.",
+              "(C) It is the fastest on the market.",
+              "(D) It has competitive prices."
+            ]
+          },
+          "answer": {
+            "text": "(B) It is available in many countries.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say can be found on the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A price list",
+              "(B) Hours of operation",
+              "(C) Product descriptions",
+              "(D) User reviews"
+            ]
+          },
+          "answer": {
+            "text": "(D) User reviews",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c082e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "203670264-1584094467432.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/203670264-1584094467432.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0831"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi Jalil. <b> Q1 This is Kira calling from Seaside Dental. Q2 You have an appointment for next week, but you asked me to let you know if an earlier appointment opened up. Well, I’m calling because we just had a cancellation for this afternoon at four o’clock, so you can see the dentist today if you can come in then.</b> Please call as soon as possible to let me know. <b> Q3 Also, remember, that our office is in a different location now. We’re in the same building, but we’ve moved to the ground floor.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a dental office",
+              "(B) At a laboratory",
+              "(C) At a real estate firm",
+              "(D) At an employment agency"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a dental office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the speaker calling?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To give driving directions",
+              "(B) To offer a different appointment time",
+              "(C) To explain some billing information",
+              "(D) To discuss some test results"
+            ]
+          },
+          "answer": {
+            "text": "(B) To offer a different appointment time",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say has recently changed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A registration requirement",
+              "(B) A fee schedule",
+              "(C) A business location",
+              "(D) A staff member’s hours"
+            ]
+          },
+          "answer": {
+            "text": "(C) A business location",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0833"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417aeccc8cae769c0836"
+}

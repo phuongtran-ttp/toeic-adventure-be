@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 261",
+  "questions": [
+    {
+      "question": {
+        "text": "<br>March 31<br>Annika Dahl<br>7898 Forest Road<br>Boulder, CO 80301<br><br>Dear Ms. Dahl,<br>Thank you for your recent visit. --- 1---. We hope that you are fully satisfied with the quality of care that you received.<br>We would like to know more about your experience at our medical facility through our Patient Care Survey. Please fill out the questionnaire, and make sure that each of the five items ---2---as directed. If you have additional comments, please ---3--- them in the space provided.<br>Keep in mind that the information you provide in the survey will be analyzed and used to improve our services in the future. ---4--- your privacy will be protected. We will not be able to track any of your responses back to you. Thank you for your participation.<br>Stanley Waite<br>Hospital Consumer Assessment",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Please accept our sincere apologies for the treatment you were given.",
+              "(B) We are delighted with your generous donation to the hospital.",
+              "(C) At High Point Medical, we always strive to meet the needs of each patient.",
+              "(D) Our records show that you have been missing your appointments."
+            ]
+          },
+          "answer": {
+            "text": "(C) At High Point Medical, we always strive to meet the needs of each patient.",
+            "explanation": "Based on the previous and following sentences."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) rates",
+              "(B) rating",
+              "(C) is rated",
+              "(D) to rate"
+            ]
+          },
+          "answer": {
+            "text": "(C) is rated",
+            "explanation": "Use the passive form of the present simple"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to include",
+              "(B) include",
+              "(C) included",
+              "(D) inclusion"
+            ]
+          },
+          "answer": {
+            "text": "(B) include",
+            "explanation": "Verb phrase \" <b>Include </b> your privacy\" is the subject of this sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Likewise",
+              "(B) In other words",
+              "(C) Nonetheless",
+              "(D) For instance"
+            ]
+          },
+          "answer": {
+            "text": "(C) Nonetheless",
+            "explanation": "Use 1 suitable conjunction"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2940"
+    },
+    {
+      "question": {
+        "text": "The GizmoTech Technology Showcase will be held at Somerset Hall on Friday, October 3 from 7:00 p.m. to 11:45 p.m. The most highly anticipated item, the GizPhone Gold, is expected to draw a huge crowd of people anxious to purchase the device as soon as it goes on sale at midnight---1---  the event. During the showcase, GizmoTech employees will be --- 2---  available to answer people's questions. Attendees will also have the opportunity to try the device out for themselves after a demonstration of its functions.--- 3--- Given that GizmoTech inventory has been known to sell out in a matter of minutes, this is sure to provide consumers with added incentive to sign up early.<br> Anyone interested is advised to register at www.GizmoTech.com/Showcase as soon as possible---4--- to avoid shut out of the exhibit.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) throughout",
+              "(B) within",
+              "(C) following",
+              "(D) into"
+            ]
+          },
+          "answer": {
+            "text": "(C) following",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) daily",
+              "(B) lately",
+              "(C) normally",
+              "(D) readily"
+            ]
+          },
+          "answer": {
+            "text": "(D) readily",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Best of all, they will be given priority status to buy the phone.",
+              "(B) GizPhone Golds will likely hit shelves a month after the product launch.",
+              "(C) Their products will be sold at marked-down prices to all customers.",
+              "(D) In fact, the company's other products sold remarkably well this year."
+            ]
+          },
+          "answer": {
+            "text": "(A) Best of all, they will be given priority status to buy the phone.",
+            "explanation": "Based on the previous sentence \"Attendees will also have the opportunity to try the device out for themselves after a demonstration of its functions.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) get",
+              "(B) getting",
+              "(C) gotten",
+              "(D) got"
+            ]
+          },
+          "answer": {
+            "text": "(B) getting",
+            "explanation": "as soon as possible + Ving + to verb"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2943"
+    },
+    {
+      "question": {
+        "text": "<br> Attention residents of Sudbury: <br> A neighborhood gathering ---1--- at the community center next Thursday evening. This meeting is open to all local residents.<br> The main issue up for discussion is the implementation of traffic calming measures on Kingston Road. This must be resolved as soon as possible because of the sharp ---2---  in the number of cars using that street. Other issues on the agenda include the garbage collection schedule and the rezoning of Hammersmith Drive. ---3---<br> Refreshments will be served from 7:30 p.m., and business will begin at 8 p.m. Please arrive ---4---to ensure that we have enough time to address everything.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) took place",
+              "(B) will take place",
+              "(C) has taken place",
+              "(D) to take place"
+            ]
+          },
+          "answer": {
+            "text": "(B) will take place",
+            "explanation": "\"next Thursday evening\" is the signal of simple future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) increase",
+              "(B) prohibition",
+              "(C) advance",
+              "(D)exchange"
+            ]
+          },
+          "answer": {
+            "text": "(A) increase",
+            "explanation": "The blank need to fill in a verb. => Choose A is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We appreciate your having taken the time to express your opinions.",
+              "(B) You may familiarize yourself with these issues on our Web site.",
+              "(C) It is our decision to provide alternative routes for those using the street.",
+              "(D) Your decisions have made our community a better place to live in."
+            ]
+          },
+          "answer": {
+            "text": "(B) You may familiarize yourself with these issues on our Web site.",
+            "explanation": "Based on the previous sentence \"Other issues on the agenda include the garbage collection schedule and the rezoning of Hammersmith Drive.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) punctuality",
+              "(B) punctual",
+              "(C) punctualities",
+              "(D) punctually"
+            ]
+          },
+          "answer": {
+            "text": "(D) punctually",
+            "explanation": "verb + adv (adv modifies the verb)"
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2946"
+    },
+    {
+      "question": {
+        "text": "<br> To: Denise Brooks [dbrooks@atland.com]<br> From: Nelson Lee [nlee@atland.com]<br> Subject: Acton<br> Date: January 18<br> Hello Denise,<br> As you know, I have an appointment with a potential client from Acton, the firm interested in purchasing our computer components on a regular basis. Since the meeting will take place in a few days, I have been hard at work trying to finalize a sales ---1---.<br> However, I seem to have misplaced the copy that I printed out. Although I have the file on my hard drive, the printed one is especially important because I wrote some notes on it. --- 2---<br> Could you please check whether the draft was filed away by mistake? ---3---I can get that particular copy back, I'll have to go over the one I have and make notes again. It's essential that we secure the Acton as a ---4--- so I would really appreciate it if you could locate the missing document for me. Thank you.<br> Nelson Lee",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) propose",
+              "(B) proposed",
+              "(C) proposal",
+              "(D) prepositional"
+            ]
+          },
+          "answer": {
+            "text": "(C) proposal",
+            "explanation": "The blank need to fill in a noun. => C is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Please make sure that the final draft is sent to the client immediately.",
+              "(B) Acton’s order must be shipped outs first thing in the morning.",
+              "(C) They are unwilling to agree to the deal unless we revise it.",
+              "(D) I haven't had the time to add these notes into the electronic file."
+            ]
+          },
+          "answer": {
+            "text": "(D) I haven't had the time to add these notes into the electronic file.",
+            "explanation": "Based on the previous sentence \"Although I have the file on my hard drive, the printed one is especially important because I wrote some notes on it.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Though",
+              "(B) Whoever",
+              "(C) Whether",
+              "(D) Unless"
+            ]
+          },
+          "answer": {
+            "text": "(D) Unless",
+            "explanation": "Unless + S + V(s,es), S + will + V"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) developer",
+              "(B)vendor",
+              "(C) supplier",
+              "(D) customer"
+            ]
+          },
+          "answer": {
+            "text": "(D) customer",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2949"
+    },
+    {
+      "question": {
+        "text": "<br> James Gretsky<br> Mythos Computers, Customer Inquiries Department<br> 1511 South Lowell Boulevard, Denver, Colorado, 80236<br> <br> Dear Mr. Gretsky,<br> I recently called your company's customer service line to report a problem with my laptop. I rarely make use of such services because the employees are usually ---1---<br>  However, in this case I was pleasantly surprised. The employee I spoke to, Patrick Kelley, ---2---understood my problem. He was well informed and assured me that he had encountered issues similar to mine before. --- 3---. So I followed his advice and sent my laptop in for repair.<br> Mr. Kelley showed me some of the finest service that I ---4--- in my life. I would appreciate if you could convey my thanks to him, and I will definitely ask for his assistance if I ever experience another problem with my device.<br> Best wishes,<br> Sandra Stevenson",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) secretive",
+              "(B) unhelpful",
+              "(C) enthusiastic",
+              "(D) supportive"
+            ]
+          },
+          "answer": {
+            "text": "(B) unhelpful",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) visibly",
+              "(B) partially",
+              "(C) plausibly",
+              "(D) immediately"
+            ]
+          },
+          "answer": {
+            "text": "(D) immediately",
+            "explanation": "Use an adverb that matches the meaning of the sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He told me he would have to direct my call to his supervisor.",
+              "(B) He suggested I let their technicians take a look at it as soon as possible.",
+              "(C) It is not the responsibility of the manufacturer to detect technical flaws.",
+              "(D) He highly recommended that I visit a local branch to get it repaired."
+            ]
+          },
+          "answer": {
+            "text": "(B) He suggested I let their technicians take a look at it as soon as possible.",
+            "explanation": "Based on the previous sentence \"He was well informed and assured me that he had encountered issues similar to mine before.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) receives",
+              "(B) will be receiving",
+              "(C) have received",
+              "(D) to receive"
+            ]
+          },
+          "answer": {
+            "text": "(C) have received",
+            "explanation": "Use the perfect present tense."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c294c"
+    },
+    {
+      "question": {
+        "text": "<br> <b>Seattle New Light Nursing Home</b><br> We're Here to Help<br> Many elderly people find themselves in nursing homes far from city life and at a considerable ---1--- from family and friends- This is not the case at Seattle New Light Nursing Home.<br> The physical and mental health of seniors is our number one priority. We therefore help residents to ---2--- a healthy degree of social interaction by keeping them occupied with a variety of stimulating activities each day including exercise classes, games, and musical performances.--- 3--- Furthermore, because public transportation, community centers, and  parks are all easily accessible from our location, residents are free to pursue their interests while also benefiting from the daily ---4--- and attention our staff provides.<br> Call us at 206-665-8924 to reserve a time to tour our facilities.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) distance",
+              "(B) distant",
+              "(C) distancing",
+              "(D) distantly"
+            ]
+          },
+          "answer": {
+            "text": "(A) distance",
+            "explanation": "Based of structure \" a/an + adj (considerable) + noun. => the blank need to fill a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) recommend",
+              "(B) maintain",
+              "(C) require",
+              "(D) evaluate"
+            ]
+          },
+          "answer": {
+            "text": "(B) maintain",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) These go a long way toward improving their quality of life.",
+              "(B) Our center is located far from the hectic urban landscape.",
+              "(C) Families may also consider alternative types of physical therapy.",
+              "(D) Some of our patients are not permitted to leave the facility."
+            ]
+          },
+          "answer": {
+            "text": "(A) These go a long way toward improving their quality of life.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) burden",
+              "(B) influence",
+              "(C) care",
+              "(D) caution"
+            ]
+          },
+          "answer": {
+            "text": "(C) care",
+            "explanation": "Based on the meaning of word \" the daily care\""
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c294f"
+    },
+    {
+      "question": {
+        "text": "To: MoRay Productions [inquiries@mcrayprod.com]<br> From: Laura Hahn [lhahn@delrio.com]<br> Subject: Proposal<br> Attachment: Product list<br> <br> To Whom It May Concern,<br> My retail business, Delrio, curnently needs a new---1---for its pros. Delrio mostlys souvenir items, like canvas bags, pouches, and umbrellas, and I was wondering if you could produce some goods I've designed for an upcoming trade fair. This event will provide an opportunity for my company to attract customers and establish a positive ---2---with them. It is therefore very important for the merchandise I sell to appeal to my target market.<br> ---3---everything must be convenient to use and made of durable materials. I have attached a list of products I intend to feature and would like a sample of each one ---4---.<br> Sincerely, <br> Laura Hahn, <br> Delrio CEO",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) manufacture",
+              "(B) manufacturer",
+              "(C) manufacturing",
+              "(D) manufactured"
+            ]
+          },
+          "answer": {
+            "text": "(B) manufacturer",
+            "explanation": "The blank need to fill a noun. <br> \"Delrio\" is name => choose B is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) nuisance",
+              "(B) attitude",
+              "(C) reputation",
+              "(D) condition"
+            ]
+          },
+          "answer": {
+            "text": "(C) reputation",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In this way",
+              "(B) In contrast",
+              "(C) In particular",
+              "(D) In reality"
+            ]
+          },
+          "answer": {
+            "text": "(C) In particular",
+            "explanation": "Use a suitable conjunction with the meaning of sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Perhaps we can discuss the issue further at the trade fair.",
+              "(B) If I like the results, I'd be willing to work with you on a regular basis.",
+              "(C) Once I make the design changes, I will send you the order.",
+              "(D) Your quoted prices are higher than I have budgeted for the items."
+            ]
+          },
+          "answer": {
+            "text": "(B) If I like the results, I'd be willing to work with you on a regular basis.",
+            "explanation": "Based on the previous sentence \"I have attached a list of products I intend to feature and would like a sample of each one.\""
+          }
+        }
+      ],
+      "id": "626441b2eccc8cae769c2952"
+    },
+    {
+      "question": {
+        "text": "Notice to all Northrup Apartment residents:<br> As you know, we have done some (1) _____ facility renovations for the first time. A children's playground in the compound has been added, and the old water pipes have been changed. Also, new walkways have been put in to replace the ones that had holes.<br> Northrup Apartment management (2) _____ you a detailed report of the amount that was spent on materials and labor. You all should have had a chance to go over it carefully by now. Costs will be divided as we earlier (3) _____ during the management-resident meeting. The management will pay 60 percent of the costs and residents will pay the remainder. To offset the share you have claimed responsibility for, your monthly amenities and maintenance bills will increase by $25 beginning next month. (4)_______ .",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) clever",
+              "(B) repetitive",
+              "(C) conservative",
+              "(D) extensive"
+            ]
+          },
+          "answer": {
+            "text": "(D) extensive",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will send",
+              "(B) has sent",
+              "(C) to be sent",
+              "(D) is sending"
+            ]
+          },
+          "answer": {
+            "text": "(B) has sent",
+            "explanation": "Use the perfect present tense."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) declined",
+              "(B) agreed",
+              "(C) encompassed",
+              "(D) attempted"
+            ]
+          },
+          "answer": {
+            "text": "(B) agreed",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Those who haven't paid the charge yet will receive a fine.",
+              "(B) The additional fee will be charged until the expenses are all paid for.",
+              "(C) Please let us know when you will be using the new services.",
+              "(D) This will be imposed after the facility improvements have been approved."
+            ]
+          },
+          "answer": {
+            "text": "(B) The additional fee will be charged until the expenses are all paid for.",
+            "explanation": "Based on the previous sentence \"o offset the share you have claimed responsibility for, your monthly amenities and maintenance bills will increase by $25 beginning next month.\""
+          }
+        }
+      ],
+      "id": "626441b2eccc8cae769c2955"
+    },
+    {
+      "question": {
+        "text": "Win a free ski lift ticket from Schuler!<br> Schuler Gas (1) _______ its customers a chance to win free ski lift tickets. They are worth $149 each and good for the entire day at any of the 15 resorts participating in this promotion.<br> From now until December 26, simply buy over 38 liters of fuel at any Schuler gas station nationwide. Then leave the receipt, complete with your contact information on the back, in the box (2) _____ the exit. Please note that the tickets will be valid for a limited time. (3) ________.<br> Furthermore, they cannot be exchanged for cash. Our raffle on January 1 will determine the winners, who can (4) _______ the tickets at the station the day after we call them. Alternatively, winners can arrange to have them mailed.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) has offered",
+              "(B) was offering",
+              "(C) will have offered",
+              "(D) is offering"
+            ]
+          },
+          "answer": {
+            "text": "(D) is offering",
+            "explanation": "Use the continuous present tense."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) inside",
+              "(B) beside",
+              "(C) upon",
+              "(D) without"
+            ]
+          },
+          "answer": {
+            "text": "(B) beside",
+            "explanation": "The bank need to fill a suitable preposition. "
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You can save more if you buy ski lift tickets for five or more days.",
+              "(B) Each one must be used by the date and time stamped on it.",
+              "(C) Discounts are not applicable if coupons are past their expiration dates.",
+              "(D) The country's ski resorts are among the best the world has to offer."
+            ]
+          },
+          "answer": {
+            "text": "(B) Each one must be used by the date and time stamped on it.",
+            "explanation": "Based on the previous sentence \"Please note that the tickets will be valid for a limited time. \""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) claim",
+              "(B) deliver",
+              "(C) redeem",
+              "(D) pursue"
+            ]
+          },
+          "answer": {
+            "text": "(A) claim",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b2eccc8cae769c2958"
+    },
+    {
+      "question": {
+        "text": "Abbotsburg, May 9 — After a year of construction, the Abbotsburg Community Center will be unveiled next Friday. (1) ______ . Costing nearly $5 million, the center is considered a luxury by some who contend that the money should have been used to (2) _____ local roads instead.<br> Most residents, however, believe the center is a (3) _______ Karen Petrowski, (4) ______ has been appointed the center's director said, \"It will provide residents with the vital social, recreational, and educational opportunities they require.\" And she added, \"We believe that, in time, the entire community will consider it a worthwhile place.\"",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The profitability of the venture could affect its completion.",
+              "(B) It has so far proven quite popular with people of all ages.",
+              "(C) But there was some opposition to the project when it started.",
+              "(D) The city has become a model for other cities to follow."
+            ]
+          },
+          "answer": {
+            "text": "(C) But there was some opposition to the project when it started.",
+            "explanation": "Based on the previous sentence \"Abbotsburg, May 9 — After a year of construction, the Abbotsburg Community Center will be unveiled next Friday.\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) repaired",
+              "(B) repairing",
+              "(C) repairs",
+              "(D) repair"
+            ]
+          },
+          "answer": {
+            "text": "(D) repair",
+            "explanation": "used to + verb"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) commitment",
+              "(B) necessity",
+              "(C) responsibility",
+              "(D) coincidence"
+            ]
+          },
+          "answer": {
+            "text": "(B) necessity",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) instead",
+              "(B) who",
+              "(C) later",
+              "(D) also"
+            ]
+          },
+          "answer": {
+            "text": "(B) who",
+            "explanation": "Use relative adverb \"who\" instead of \"Karen Petrowski\""
+          }
+        }
+      ],
+      "id": "626441b2eccc8cae769c295b"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441b2eccc8cae769c295e"
+}

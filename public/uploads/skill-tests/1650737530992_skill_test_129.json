@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 129",
+  "questions": [
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td align =\"center\" colspan =\"2\"> <b>Late Payment Policy</b></td></tr><tr><td align =\"center\"> <b>Days Late </b></td><td align =\"center\"> <b> Fee </b></td></tr> <tr><td align =\"center\"> 5 </td><td align =\"center\"> $7.50</td></tr><tr><td align =\"center\"> 10 </td><td align =\"center\"> $15.00</td></tr><tr><td align =\"center\"> 15 </td><td align =\"center\"> $22.50</td></tr><tr><td align =\"center\"> 20 </td><td align =\"center\"> $30.00</td></tr></table>",
+        "image": [],
+        "sound": [
+          {
+            "name": "722585769-1584094867250.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/722585769-1584094867250.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09d7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi, <b> Q1 I’m calling from Mansfield Electric Company to remind you that your electricity bill was due Friday, July first. Q2 Since your payment is ten days overdue，a late fee has been added to your account balance. </b> Please pay the bill plus your ten-day late fee on our Web site at www. mansfieldelectrical.com. We also offer an auto-payment feature on our Web site. <b> Q3 If you sign up for this service, you'll be required to provide a credit card or bank account number.</b> After that, your future bills will be paid automatically on the day they are due. If you have questions about this option, please call us at 555-0128. Thank you."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a financial institution",
+              "(B) At a lighting fixture store",
+              "(C) At a utility company",
+              "(D) At a library"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a utility company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. How much is the listener’s late fee?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $7.50",
+              "(B) $15.00",
+              "(C) $22.50",
+              "(D) $30.00"
+            ]
+          },
+          "answer": {
+            "text": "(B) $15.00",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What must the listener provide to sign up for a service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Some contact information",
+              "(B) Some payment details",
+              "(C) An invoice number",
+              "(D) An identification card"
+            ]
+          },
+          "answer": {
+            "text": "(B) Some payment details",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09de"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09e6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> <b> Q1 Welcome, spectators. Please listen to a short announcement before the match begins. Q2 As of today, you are no longer allowed to bring food and drinks from outside into the stadium. Please adhere to this new regulation</b>. However, there are concession stands selling a variety of delicious snacks and beverages at reasonable prices. <b> Q3 In addition, 5 percent of the proceeds made from concession stands will be donated to a charity that helps children with disabilities.</b> Thank you."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the announcement being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a campground",
+              "(B) At a movie theater",
+              "(C) At a concert hall",
+              "(D) At a sports stadium"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a sports stadium",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is being announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new restriction",
+              "(B) Operating hours",
+              "(C) Price changes",
+              "(D) A discount policy"
+            ]
+          },
+          "answer": {
+            "text": "(A) A new restriction",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is said about some proceeds?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be used for a worthy cause.",
+              "(B) They will be put toward updating facilities.",
+              "(C) They will be saved for a special event.",
+              "(D) They will be awarded to some spectators."
+            ]
+          },
+          "answer": {
+            "text": "(A) They will be used for a worthy cause.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09ea"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "146085948-1578897847057.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/146085948-1578897847057.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09da"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> M-Cn: <b> Q1 I want to thank everyone for their participation in this year’s conference of the Association of Tax Accountants</b>  – it’s been a very interesting couple of days in a wonderful city! Before we finish up for the weekend, I want to tell you about a new benefit of membership that the association is offering. By popular request <b> Q2 we are now offering a subscription to our monthly magazine – Tax Accounting for Professionals. </b>  It’s an outstanding, award-winning publication, we’re now offering it free to all association members! If you haven’t joined yet, <b> Q3 be sure to check your conference packet to find out more about membership fees. </b><br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Journal editors",
+              "(B) Corporate lawyers",
+              "(C) Tax accountants",
+              "(D) University professors"
+            ]
+          },
+          "answer": {
+            "text": "(C) Tax accountants",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What do association members receive?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Restaurant vouchers",
+              "(B) A magazine subscription",
+              "(C) A list of job opportunities",
+              "(D) A software application"
+            ]
+          },
+          "answer": {
+            "text": "(B) A magazine subscription",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what information can be found in the conference packet?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Membership fees",
+              "(B) A local map",
+              "(C) E-mail addresses",
+              "(D) A calendar of events"
+            ]
+          },
+          "answer": {
+            "text": "(A) Membership fees",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09e4"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0404.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0404.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09f0"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> <b> Q1 The National Weather Service has issued a tornado warning for Allison County beginning at 4:00 P.M. and lasting until 8:00 P.M. Q2 Therefore, all after-school activities in Allison County have been canceled. Q3 Local residents are urged to take shelter in a basement or windowless room and wait until the tornado has passed.</b> Please stay tuned for more updates."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the speaker discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new curriculum",
+              "(B) A weather warning",
+              "(C) A quarterly report",
+              "(D) A travel advisory"
+            ]
+          },
+          "answer": {
+            "text": "(B) A weather warning",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has been canceled?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Television programs",
+              "(B) Graduation ceremonies",
+              "(C) Educational programs",
+              "(D) Fundraising events"
+            ]
+          },
+          "answer": {
+            "text": "(C) Educational programs",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are local residents advised to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Update their anti-virus software",
+              "(B) Wear protective gear",
+              "(C) Go into a safe place",
+              "(D) Take an alternative route"
+            ]
+          },
+          "answer": {
+            "text": "(C) Go into a safe place",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09f4"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "375050643-1568359316099-098.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/375050643-1568359316099-098.png",
+            "mime": "image/png",
+            "id": "6264417aeccc8cae769c09e0"
+          }
+        ],
+        "sound": [
+          {
+            "name": "16119539-1578906901775.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/16119539-1578906901775.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09e8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: This is Bert Johnson with another installment of Modern Music Today. Before starting the show, I want to remind listeners of this weekend’s jazz festival. <b> Q1 Be sure to visit our Web site to buy discounted tickets. So Q2 the topic of today’s show is movie soundtracks</b>. Last week, we asked listeners to respond to a survey indicating the composer of their favorite movie soundtrack, and the survey results are in. We’re fortunate that one of the top composers live here in the area, and she was kind enough to accept our offer to come in for interview. <b> Q3 Joining me now to discuss her latest work is the composer who received almost 6000 of your votes. </b><br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why are the listeners told to visit a Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To purchase tickets<br><br>Từ vựng: <br>",
+              "(B) To download recordings",
+              "(C)To read concert reviews",
+              "(D) To sign up for notifications."
+            ]
+          },
+          "answer": {
+            "text": "(A) To purchase tickets<br><br>Từ vựng: <br>",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the topic of today's broadcast?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A museum exhibit",
+              "(B) Lives of celebrities",
+              "(C) Music in movies",
+              "(D) Popular musical instruments"
+            ]
+          },
+          "answer": {
+            "text": "(C) Music in movies",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which person will be interviewed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Kondo",
+              "(B) Ms. Asai",
+              "(C) Ms. Fokina",
+              "(D) Ms. Zimmer"
+            ]
+          },
+          "answer": {
+            "text": "(B) Ms. Asai",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09ee"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "201138854-1578897888862.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/201138854-1578897888862.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09f2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> W-Am: Good afternoon. My part in today’s staff meeting will be brief. I’m pleased to annouce that <b> Q1 the company has had a very good year financially. We’ve never seen our sales so high</b>, and this, of course, is directedly attributable to how hard all the staff has worked. I want to thank you for your efforts and let you know that all employees will receive a bonus in December. <b> Q2 You’re probably wondering how much it will be</b>, but I haven’t gotten the final figures yet. Again, many thanks, and now <b> Q3 I’ll turn the meeting over to Eimi, who will talk about the recent updates to our vacations policy. </b>  Eimi? <br><br><b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, that did the company do this year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It hired many people.",
+              "(B) It increased its sales.",
+              "(C) It opened several branch offices.",
+              "(D) It merged with another organization."
+            ]
+          },
+          "answer": {
+            "text": "(B) It increased its sales.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says. \"I haven't gotten the final figures yet\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is frustrated with a colleague.",
+              "(B) She is expecting a promation.",
+              "(C) She will probably miss a project deadline.",
+              "(D) She will give staff more information later."
+            ]
+          },
+          "answer": {
+            "text": "(D) She will give staff more information later.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will Meimi talk about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Changes to a policy",
+              "(B) A job interview",
+              "(C) A staff luncheon",
+              "(D) A performance review"
+            ]
+          },
+          "answer": {
+            "text": "(A) Changes to a policy",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09f8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0405.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0405.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09fa"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Thank you, thank you so much... <b> Q1 It’s an incredible honor to be nominated as Sales Manager of the Year.</b> I have enjoyed working at Optimal Telecommunications since my first day and it’s a privilege to be acknowledged for doing a job that I really love. <b> Q2 This year, our branch broke all the records for cell phone contracts</b> and I have to say <b> Q3 I couldn’t have done this without my talented team.</b> Their passion and persistence has been vital to our success. So, I’d like to say I'm going to share my bonus amongst my team members as a sign of my appreciation for their hard work."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the speech?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To accept a nomination",
+              "(B) To announce a retirement",
+              "(C) To announce a merger",
+              "(D) To request funding"
+            ]
+          },
+          "answer": {
+            "text": "(A) To accept a nomination",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker say: “I couldn’t have done this without my talented team”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She dislikes her team.",
+              "(B) She is asking for some extra awards.",
+              "(C) She wants to thank her colleagues.",
+              "(D) She wants to offer her services."
+            ]
+          },
+          "answer": {
+            "text": "(C) She wants to thank her colleagues.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where most likely does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Cell phone shop",
+              "(B) Computer shop",
+              "(C) Shoe store",
+              "(D) Flower shop"
+            ]
+          },
+          "answer": {
+            "text": "(A) Cell phone shop",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09fd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "877590652-1578897931956.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/877590652-1578897931956.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09ff"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> M-Au: Are you starting a new business venture but are having trouble attracting investors? <b> Q1 Advanced Ideas Incorporated can help. We specialize in creating effective business plans that help you get the funding you need to achieve your goals. </b>  As of last year, we’ve helped over 2000 clients worldwide create successful business plans. Yours could be next! <b> Q2 Check out Web site to see all the positive feedback we’ ve received from satisfied clients. Q3 Call us today at 555-0107 to schedule your consulation – the first time is free. </b> We’re ready to help your business. <br><br><b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What does Advanced Ideas Incorporated specialize in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Investing in real estate",
+              "(B) Producing television advertisements",
+              "(C) Developing business plans",
+              "(D) Organizing special events"
+            ]
+          },
+          "answer": {
+            "text": "(C) Developing business plans",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say is available on the company's Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Registration forms",
+              "(B) Product descriptions",
+              "(C) Industry regulations",
+              "(D) Client feedback"
+            ]
+          },
+          "answer": {
+            "text": "(D) Client feedback",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the company offer free of charge?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An initial consultation",
+              "(B) A trial membership",
+              "(C) Airline tickets",
+              "(D) Promotional merchandise"
+            ]
+          },
+          "answer": {
+            "text": "(A) An initial consultation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0a02"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0406.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0406.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0a04"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript: </b> <br> Hi, everybody. This week we will be renovating the restaurant. The work will be taking place from 8:00 A.M. to 11:30 A.M. for one week. <b> Q1CUnfortunately, we will not be having a breakfast service during this period.</b> If anyone was planning to come in and eat, <b> Q2 you might want to come in the evening.</b> I know a lot of people really love our breakfast menu, so <b> Q3 I will be giving a 10% discount on all dinner meals until renovations are complete.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem does the speaker mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) No breakfast service",
+              "(B) No dinner service",
+              "(C) Extra items on the menu",
+              "(D) There are rats in the kitchen."
+            ]
+          },
+          "answer": {
+            "text": "(A) No breakfast service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when he says, “you might want to come in the evening”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fie will offer free breakfast.",
+              "(B) The dinner menu is better.",
+              "(C) Don’t come during the day.",
+              "(D) They are installing air conditioners."
+            ]
+          },
+          "answer": {
+            "text": "(C) Don’t come during the day.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Serve breakfast at night",
+              "(B) Charge more",
+              "(C) Offer free breakfast",
+              "(D) Offer a discount"
+            ]
+          },
+          "answer": {
+            "text": "(D) Offer a discount",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0a07"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "817369360-1578897963767.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/817369360-1578897963767.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0a09"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> W-Am: <b> Q1 Harper Electronics welcomes you here for a tour of our Innovation Labs, where you’ll see how we develop new products. </b>  We’ll start with a brief video on the history of the company. Then, you’ll visit the labs to see the projects we’re currently working on. <b> Q2 The labs themselves are a restricted area, which means no photographs. At 11:00 A.M, we’ll move to a special visitors conference room. </b>  That isn’t a restricted area. <b> Q3 There, you’ll meet one of Harper Electronics’ lead engineers. She’ll answer any questions you have to finish up our morning together. </b><br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To introduce a tour",
+              "(B) To announce a new procedure",
+              "(C) To describe a new product",
+              "(D) To welcome an employee"
+            ]
+          },
+          "answer": {
+            "text": "(A) To introduce a tour",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says, \"That isn't a restricted area\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Listeners will not need a badge.",
+              "(B) Listeners may take pictures.",
+              "(C) Security staff are not on duty.",
+              "(D) Product samples will not be provided."
+            ]
+          },
+          "answer": {
+            "text": "(B) Listeners may take pictures.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say will happen at the end of the morning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Refreshments will be provided.",
+              "(B) Guests will visit a company gift shop",
+              "(C) There will be a discussion with an employee.",
+              "(D) Surveys will be distributed."
+            ]
+          },
+          "answer": {
+            "text": "(C) There will be a discussion with an employee.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0a0c"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264417aeccc8cae769c0a13"
+}

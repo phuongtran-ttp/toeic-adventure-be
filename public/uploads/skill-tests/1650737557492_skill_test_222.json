@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 222",
+  "questions": [
+    {
+      "question": {
+        "text": "The workers were loading the truck when the boxes___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)have fallen",
+          "(B)fall",
+          "(C)fell",
+          "(D)are falling"
+        ]
+      },
+      "answer": {
+        "text": "(C)fell",
+        "explanation": "(C) The simple past tense is used here to indicate an action that interrupted another action in progress in the past. Choice (A) is present perfect. Choice (B) is present tense. Choice (D) is present continuous."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21d4"
+    },
+    {
+      "question": {
+        "text": "The new manager,___was just hired, will start tomorrow.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)she",
+          "(B)he",
+          "(C)which",
+          "(D)who"
+        ]
+      },
+      "answer": {
+        "text": "(D)who",
+        "explanation": "(D) The relative pronoun “who” introduces the adjective clause and refers to a person, the new manager. Choices (A) and (B) are not relative pronouns. Choice (C) is used to refer to a thing."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21d7"
+    },
+    {
+      "question": {
+        "text": "Mr. Kumar___if he had been delayed.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)would call",
+          "(B)would have called",
+          "(C)will be calling",
+          "(D)will calling"
+        ]
+      },
+      "answer": {
+        "text": "(B)would have called",
+        "explanation": "(B) This is a past unreal conditional, so it uses “would + have + a past participle verb” in the main clause. Choices (A), (C), and (D) are verb forms not used for a past unreal conditional."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21da"
+    },
+    {
+      "question": {
+        "text": "Our___are trying to hire our best employees.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)competition",
+          "(B)competitive",
+          "(C)competitors",
+          "(D)competitively"
+        ]
+      },
+      "answer": {
+        "text": "(C)competitors",
+        "explanation": "(C) “Competitors” is a noun referring to people that acts as the subject of this sentence. Choice (A) is a noun that refers to a situation, not to people. Choice (B) is an adjective. Choice (D) is an adverb."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21dd"
+    },
+    {
+      "question": {
+        "text": "Of all our tour ships, this one is our___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)more bigger",
+          "(B)big",
+          "(C)bigger",
+          "(D)biggest"
+        ]
+      },
+      "answer": {
+        "text": "(D)biggest",
+        "explanation": "(D) Superlative adjectives use “most” or -est. Choice (A) is an incorrect comparative form. Choice (B) is a simple adjective form. Choice (C) is the comparative form."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21e0"
+    },
+    {
+      "question": {
+        "text": "The purser got his assistant___the passenger orientation.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)conducting",
+          "(B)to conduct",
+          "(C)conducted",
+          "(D)conducts"
+        ]
+      },
+      "answer": {
+        "text": "(B)to conduct",
+        "explanation": "(B) The causative “get” is followed by an infinitive verb. Choice (A) is a gerund. Choice (C) is past tense. Choice (D) is present tense."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21e3"
+    },
+    {
+      "question": {
+        "text": "All travel arrangements must be completed___December 5.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)with",
+          "(B)in",
+          "(C)for",
+          "(D)by"
+        ]
+      },
+      "answer": {
+        "text": "(D)by",
+        "explanation": "(D) “By” is used with deadlines or schedules. Choice (A) means “together”. Choice (B) means “inside”. Choice (C) indicates a recipient."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21e6"
+    },
+    {
+      "question": {
+        "text": "The bookcase is___the door.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)beside",
+          "(B)among",
+          "(C)between",
+          "(D)across"
+        ]
+      },
+      "answer": {
+        "text": "(A)beside",
+        "explanation": "(A) “Beside” means “next to”. Choices (B) and (C) require more than one reference point. Choice (D) should be “across from”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21e9"
+    },
+    {
+      "question": {
+        "text": "Ms. Mosley is___member of our advertising team.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)creative",
+          "(B)most creative",
+          "(C)more creative",
+          "(D)the most creative"
+        ]
+      },
+      "answer": {
+        "text": "(D)the most creative",
+        "explanation": "(D) The superlative comparison in the sentences uses “the” and “-est”. Choice (A) is the simple form of the verb. Choice (B) omits “the”. Choice (C) is the comparative form."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21ec"
+    },
+    {
+      "question": {
+        "text": "Meetings are scheduled___in the first-floor auditorium.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)always",
+          "(B)sometimes",
+          "(C)rarely",
+          "(D)every month"
+        ]
+      },
+      "answer": {
+        "text": "(D)every month",
+        "explanation": "(D) The time phrase “every month” can follow the main verb. Choices (A), (B), and (C) cannot follow the main verb."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c21ef"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644195eccc8cae769c21f2"
+}

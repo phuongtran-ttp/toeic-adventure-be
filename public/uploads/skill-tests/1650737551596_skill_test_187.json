@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 187",
+  "questions": [
+    {
+      "question": {
+        "text": "Product  ------- on the purchase order should contain the dimensions of the new office furniture.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) specify",
+          "(B) specifications",
+          "(C) specifically",
+          "(D) specific"
+        ]
+      },
+      "answer": {
+        "text": "(B) specifications",
+        "explanation": "By phrase \"product specifications\""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18e1"
+    },
+    {
+      "question": {
+        "text": "In April, Peterson's Garden Store will hold ___ sessions on gardening basics.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)introduce",
+          "(B)introducing",
+          "(C) introductions",
+          "(D) introductory"
+        ]
+      },
+      "answer": {
+        "text": "(D) introductory",
+        "explanation": "We are giving information on the noun \"sessions\" so we use an adjective.<br> Introductory = Opening"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18df"
+    },
+    {
+      "question": {
+        "text": "Major industries in this district include food processing and aircraft  ___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)manufacturer",
+          "(B)manufactures",
+          "(C)manufactured",
+          "(D)manufacture"
+        ]
+      },
+      "answer": {
+        "text": "(D)manufacture",
+        "explanation": "Because there are two objects and one is a noun so the answer is also a noun. The objects are industries so we choose \"manufacture\" instread of \"manufacturers\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18da"
+    },
+    {
+      "question": {
+        "text": "Perhaps Ms. Hernandez would not ___ with such criticism if she had made her plans for the company clearer to its stockholders.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)having confronted",
+          "(B)have been confronted",
+          "(C)have confronted",
+          "(D)had been confronted"
+        ]
+      },
+      "answer": {
+        "text": "(B)have been confronted",
+        "explanation": "Confront sb with st = Make sb face st <br> This is a type 3 conditional sentence so we choose either \"have confronted\" or \"have been confronted\". However, \"confront\" needs two objects in its active voice so we choose the passive voice."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18e3"
+    },
+    {
+      "question": {
+        "text": "Ivankoff Industries' venture into experimental technologies will be accomplished by utilizing ___ already available within the company.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) purposes",
+          "(B)expenses",
+          "(C) resources",
+          "(D) salaries"
+        ]
+      },
+      "answer": {
+        "text": "(C) resources",
+        "explanation": "Utilize resources = Make profit out of sources of supply"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18ee"
+    },
+    {
+      "question": {
+        "text": "For the past five years, Bolting Technology Ltd. has been a creative ------- in the communications industry.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) motion",
+          "(B) fashion",
+          "(C) code",
+          "(D) force"
+        ]
+      },
+      "answer": {
+        "text": "(D) force",
+        "explanation": "Based on the meaning of words."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18ec"
+    },
+    {
+      "question": {
+        "text": "A 15 percent increase in worker ___ at the Isis Corporation is largely due to a recent investment in 25 new packaging machines.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)advance",
+          "(B)frequency",
+          "(C)analysis",
+          "(D)productivity"
+        ]
+      },
+      "answer": {
+        "text": "(D)productivity",
+        "explanation": "Worker productivity = Workers' ability in making items"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18e9"
+    },
+    {
+      "question": {
+        "text": "Staff members ___ for promotion will be notified by management within ten days.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)ample",
+          "(B)eligible",
+          "(C)superior",
+          "(D)estimated"
+        ]
+      },
+      "answer": {
+        "text": "(B)eligible",
+        "explanation": "Eligible for st = Qualified for st"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18f0"
+    },
+    {
+      "question": {
+        "text": "Mr. Hahn and Ms. Smalls began working at ABCO Corporation at the same time, and ___ hope to be promoted next year.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) many",
+          "(B) few",
+          "(C)one",
+          "(D)both"
+        ]
+      },
+      "answer": {
+        "text": "(D)both",
+        "explanation": "There are two subjects so we use \"both\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18f8"
+    },
+    {
+      "question": {
+        "text": "The Wellborn Science Museum's new astronomy theater has a seating ___ of 250.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)aptitude",
+          "(B)capacity",
+          "(C)demonstration",
+          "(D)compliance"
+        ]
+      },
+      "answer": {
+        "text": "(B)capacity",
+        "explanation": "Seating capacity = Number of seats a place can contain"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c18f5"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264418feccc8cae769c1903"
+}

@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 273",
+  "questions": [
+    {
+      "question": {
+        "text": "<h3 align =\"center\">Blank & Cassell Office Supplies</h3><p align =\"center\"> 55 Belmont Street, Denver, CO 80252</p><p align =\"center\"> Phone: 720-555-0101</p><p align =\"center\"> www.blanckandcassell.com</p>October 4 <br>Elena Cardillo<br>124 Sagebrush Avenue, Apartment B3 <br>Denver, CO 80033<br><br>Dear Ms. Cardillo, <br>To thank you for being such a loyal customer, we would like to invite you to become a member of our new Frequent Buyer Club. It is free to join and will help you save money on future purchases. Once enrolled, you will receive a 5 percent discount on all purchases in our Denver and Boulder stores. The only requirement for  maintaining your membership is to make at least one purchase per year. <br>To sign up, simply complete and send in the enclosed form or visit our Web site at www.blanckandcassell.com. <br><br>Sincerely, <br>Isaac Grantway<br>Customer Service Representative<br>Enclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why was the letter sent to Ms. Cardillo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce an update to a website",
+              "(B) To offer a discount program",
+              "(C) To confirm a recent o der",
+              "(D) To advertise a new store"
+            ]
+          },
+          "answer": {
+            "text": "(B) To offer a discount program",
+            "explanation": "The information can be inferred from: <i>\"To thank you for being such a loyal customer, we would like to invite you to become a member of our new Frequent Buyer Club.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What was sent with the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A bill",
+              "(B) A gift card",
+              "(C) A refund",
+              "(D) An application"
+            ]
+          },
+          "answer": {
+            "text": "(D) An application",
+            "explanation": "You can see the information in: <i>\"To sign up, simply complete and send in the enclosed form or visit our Web site at www.blanckandcassell.com.\n\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b30"
+    },
+    {
+      "question": {
+        "text": "To: Sales Associates Team <br>From: Shein, Clifford<br>Date: November 22<br>Subject: Urgent matter<br><br>Dear Sales Associates, <br>The most recent edition at The Brooktown Weekly ran our advertisement with a misprint. It listed the end of our half-price sale as December 11 instead of December 1. While a correction will appear in the paper's next issue, it is to be expected that not all of our customers will be aware of the error. Therefore, if shoppers ask between December 2 and 11 about the sale, first apologize for the inconvenience and then offer them a coupon for 10% off any item they wish to purchase, either in the store or online. <br>Should customers have any further questions, please direct them to the floor manager. Thank you for your assistance in this matter. <br><br>Clifford Shein, General Manager, Williams Apparel",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is stated about The Brooktown Weekly?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It runs advertisements by Williams Apparel in every edition.",
+              "(B) It misidentified the last day of Williams Apparel’s promotional event.",
+              "(C) It will include discount coupons from Williams Apparel in its next edition.",
+              "(D) It apologized to the general manager of Williams Apparel for an inconvenience."
+            ]
+          },
+          "answer": {
+            "text": "(B) It misidentified the last day of Williams Apparel’s promotional event.",
+            "explanation": "The information can be inferred from: <i>\"The most recent edition at The Brooktown Weekly ran our advertisement with a misprint. \"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Shein ask the sales associates to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Refer customers to the company’s website for additional products",
+              "(B) Refer customers to the store’s advertisement in local newspapers",
+              "(C) Tell customers to discuss additional concerns with a supervisor",
+              "(D) Tell customers about a problem with a new product"
+            ]
+          },
+          "answer": {
+            "text": "(C) Tell customers to discuss additional concerns with a supervisor",
+            "explanation": "The information is in: <i>\"Should customers have any further questions, please direct them to the floor manager. \"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b33"
+    },
+    {
+      "question": {
+        "text": "<h4  align =\"center\">  <i>Auckland Daily Chronicle</i></h4><h4  align =\"center\">  Business Briefs </h4> AUCKLAND (6 June) - Ann Marie Haas, former executive director of Gear Good, a company that develops and sells software for bike-sharing companies, has a new but related position. —[1]—. Beginning in November, she will be general manager of City Wheels, a bike-sharing company in Auckland. — [2]—. The move comes at an opportune moment for both Ms. Haas and City Wheels. Ms. Haas had worked for Gear Good in Wellington since the company was founded five years ago but was yearning to return to Auckland, where she grew up. City Wheels was looking for a new leader to oversee its planned expansion from 50 to 75 bike stations in Auckland. —[3] —. “I’m thrilled to join a company that’s important to residents and tourists alike,” Ms. Haas said. <br>The City Wheels system is simple and affordable for occasional use. —[4] —. The first thirty minutes of biking are free, and after that, the cost is $4 per hour or $20 per day. Ms. Haas said she is enthusiastic about this venture, both for herself and for the city of Auckland. - Tahei Davis, Staff Writer",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To describe the financial difficulties a business is facing",
+              "(B) To announce the launch of a new software company",
+              "(C) To report on an executive's career move",
+              "(D) To assess recent tourism trends in Auckland"
+            ]
+          },
+          "answer": {
+            "text": "(C) To report on an executive's career move",
+            "explanation": "The information can be inferred from: <i>\"Ann Marie Haas, former executive director of Gear Good, a company that develops and sells software for bike-sharing companies, has a new but related position.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does City Wheels expect to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Open an office in Wellington",
+              "(B) Add more bike stations",
+              "(C) Increase its rates",
+              "(D) Offer several new bike tours"
+            ]
+          },
+          "answer": {
+            "text": "(B) Add more bike stations",
+            "explanation": "The information is in: <i>\"City Wheels was looking for a new leader to oversee its planned expansion from 50 to 75 bike stations in Auckland. \"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2, [3]  and [4] does the following sentence best belong?<br> “A modest $5 registration fee is required to begin using City Wheels bikes.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "The sentence after position [4] mentions the cost of hiring bike."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b36"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/6628163_1563420602253.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely is Mr. Shin as he writes to Ms. Cha?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At his office",
+              "(B) At a dining establishment",
+              "(C) At the local post office",
+              "(D) At a train station"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a train station",
+            "explanation": "You can see Ms Cha asks him <i>\"Did you manage to catch the train?\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Where most likely is Ms. Cha as he writes to Mr.Shin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At his office",
+              "(B) At a dining establishment",
+              "(C) At the local post office",
+              "(D) At a train station"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a dining establishment",
+            "explanation": "Based on the information that Ms. Cha asks Mr. Shin if he sent the catering invoice to Mr. Kwon before he left the office."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b39"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/2491878_1563420604128.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the writers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new restaurant",
+              "(B) An outdoor event",
+              "(C) A television show",
+              "(D) An online concert"
+            ]
+          },
+          "answer": {
+            "text": "(B) An outdoor event",
+            "explanation": "The information can be inferred from: <i>\"I finally got the permit from the city council to hold the festival in Greenhill Park.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "At 11:18 A.M. what does Mr. Baudin most likely mean when he writes, “I was worried they weren't going to come around”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He did not think a permit would be granted.",
+              "(B) He did not think the council would attend the event.",
+              "(C) He thought the council meeting would be canceled.",
+              "(D) He thought the trash would not be removed."
+            ]
+          },
+          "answer": {
+            "text": "(A) He did not think a permit would be granted.",
+            "explanation": "Because they got the permit and he thinks that's great news."
+          }
+        },
+        {
+          "question": {
+            "text": "What is Ms. Park expecting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A notice about a permit",
+              "(B) A response from a band",
+              "(C) Changes in the schedule",
+              "(D) Replies from restaurants"
+            ]
+          },
+          "answer": {
+            "text": "(D) Replies from restaurants",
+            "explanation": "The information is in: <i>\"I should have responses from some others by the time we meet on Friday.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Ms. Dougherty?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new colleague",
+              "(B) A performer",
+              "(C) A reporter",
+              "(D) A patron"
+            ]
+          },
+          "answer": {
+            "text": "(B) A performer",
+            "explanation": "Because he agreed to sing with a band for a few numbers."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b3c"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">Saponac State Park</h4> <br> Please note that www.newengIandcxplored.com, a popular commercial tourism website, lists 42 Millinockct Drive as the address of Saponac State Park. Be aware that this is the address for the park’s maintenance facilities, which are located on an unpaved road that is open only to park employees. The Saponac State Park Visitor Center and the official park entrance are located at 66 Debsconeag Way, about 32 miles from the maintenance building. Park visitors must use the park’s main entrance. All marked trails and guided walks begin in this area. From Elkdale, take Highway 82 north, use exit 558 for Ranch Road, and follow the signs approximately 8 miles to the park’s main entrance. All roads leading to the park’s main entrance are paved. For more information, call (207) 555-0117.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the notice most likely intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Park visitors",
+              "(B) Elkdale commuters",
+              "(C) Road-construction workers",
+              "(D) Park-maintenance employees"
+            ]
+          },
+          "answer": {
+            "text": "(A) Park visitors",
+            "explanation": "The information can be inferred from: <i>\"Please note that www.newengIandcxplored.com, a popular commercial tourism Web site, lists 42 Millinockct Drive as the address of Saponac State Park.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about the website www.newenglandexplored.com?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It contains unreliable information.",
+              "(B) It is currently being updated.",
+              "(C) It has information about parks in many countries.",
+              "(D) It was created by Saponac State Park employees."
+            ]
+          },
+          "answer": {
+            "text": "(A) It contains unreliable information.",
+            "explanation": "The information is in: <i>\"Please note that www.newengIandcxplored.com, a popular commercial tourism Web site, lists 42 Millinockct Drive as the address of Saponac State Park. Be aware that this is the address for the park’s maintenance facilities, which are located on an unpaved road that is open only to park employees.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What does the notice include?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Instructions for making reservations",
+              "(B) Directions for driving to the park",
+              "(C) A list of current roadwork projects near the park",
+              "(D) Information about employment opportunities"
+            ]
+          },
+          "answer": {
+            "text": "(B) Directions for driving to the park",
+            "explanation": "The information can be inferred from: <i>\"Park visitors must use the park’s main entrance. All marked trails and guided walks begin in this area. From Elkdale, take Highway 82 north, use exit 558 for Ranch Road, and follow the signs approximately 8 miles to the park’s main entrance. All roads leading to the park’s main entrance are paved.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b3f"
+    },
+    {
+      "question": {
+        "text": "To: Hamza Darzi hdarzi@gady.net <br>From: Anna Leski leski@zengerproducts.com<br>Date: February 8<br>Re: Refresh 2000, <br><br>Dear Mr. Darzi, <br>Thank you for bringing our attention to the issues you have experienced with the Refresh 2000. We take pride in creating high-quality appliances, so we are taking steps to address your concerns immediately. <br>— [1] —. Since the date you purchased your unit, the Refresh 2000 has been redesigned and thoroughly tested. We have shipped one of these updated units to your home address. I am confident that the new version will remove dirt from your carpet to your satisfaction. — [2] —. If it does not, please contact our accounting office in Lakeside at 291-555-0177 for a full repayment of the purchase price. Additionally, we have just transferred all production to a larger building and are refining our manufacturing procedures. — [3] —.<br>Please let me know if there is anything else I can do. — [4] —. On behalf of Zenger, I apologize for the inconvenience this issue has caused, and I hope to serve you again soon. <br><br>Sincerely, <br>Anna Leski, Customer Care Representative <br>Zenger Household Products, Inc. <br>Eastern Regional Office<br> 267 Kelley Avenue <br>Planterville, VA 42558",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To provide details about a delivery",
+              "(B) To respond to a customer",
+              "(C) To announce a new policy for return",
+              "(D) To inform an employee of process changes"
+            ]
+          },
+          "answer": {
+            "text": "(B) To respond to a customer",
+            "explanation": "The information is in: <i>\"Thank you for bringing our attention to the issues you have experienced with the Refresh 2000. We take pride in creating high-quality appliances, so we are taking steps to address your concerns immediately.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely is the Refresh 2000?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A washing machine",
+              "(B) A microwave oven",
+              "(C) A vacuum cleaner",
+              "(D) A dishwasher"
+            ]
+          },
+          "answer": {
+            "text": "(C) A vacuum cleaner",
+            "explanation": "You can infer the information from: <i>\"I am confident that the new version will remove dirt from your carpet to your satisfaction.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT offered as a solution to the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Repairing the purchased item",
+              "(B) Refunding the purchase price",
+              "(C) Offering a replacement product",
+              "(D) Improving manufacturing operations"
+            ]
+          },
+          "answer": {
+            "text": "(A) Repairing the purchased item",
+            "explanation": "(B) - If it does not, please contact our accounting office in Lakeside at 291-555-0177 for a full repayment of the purchase price.<br>(C) - We have shipped one of these updated units to your home address.<br>(D) - Additionally, we have just transferred all production to a larger building and are refining our manufacturing procedures."
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?<br> Our quality control manager will visit the factory and observe those processes to ensure that nothing is being overlooked.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "Because the sentence before position [3] mention about improving manufacturing procedures."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b42"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">Airport Expansion Continues</h4>26 May – A major airport expansion project is under way in Onalia City. The project is estimated to cost $1,6 billion, and a new terminal is scheduled to open for international service in approximately one year. <br>The airport, however, sits on a confined piece of land, which presents significant challenges to increasing the number of takeoffs and landings. If the airport remains limited to its current two runways, the capacity to handle air traffic could be reached within three years. <br>To address the problem, officials overseeing the Onalia City Airport project have contracted a group of engineers from Wilford Engineering to explore the possibility of extending a third runway over the Pacific Ocean. The engineering firm will survey the area for six months before presenting their findings and recommending a plan of action. <br>Runways that extend over water are not unprecedented. This type of runway exists in places such as Gibraltar and Japan, which have faced similar challenges.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is Onalia City Airport undergoing an expansion?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To accommodate flights to other countries",
+              "(B) To provide service to a growing population in surrounding cities",
+              "(C) To compete with a nearby airport",
+              "(D) To reduce flight delays"
+            ]
+          },
+          "answer": {
+            "text": "(A) To accommodate flights to other countries",
+            "explanation": "The information can be inferred from: <i>\"If the airport remains limited to its current two runways, the capacity to handle air traffic could be reached within three years. To address the problem, officials overseeing the Onalia City Airport project have contracted a group of engineers from Wilford Engineering to explore the possibility of extending a third runway over the Pacific Ocean. \""
+          }
+        },
+        {
+          "question": {
+            "text": "In paragraph 2, line 5, the word “handle” is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) touch",
+              "(B) manage",
+              "(C) examine",
+              "(D) release"
+            ]
+          },
+          "answer": {
+            "text": "(B) manage",
+            "explanation": "handle:  to deal with a situation, a person, an area of work or a strong emotion."
+          }
+        },
+        {
+          "question": {
+            "text": "What has Wilford Engineering been hired to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To determine whether a potential runway site is suitable",
+              "(B) To develop a plan for increasing the size of the air traffic control tower",
+              "(C) To investigate how to improve traffic on roads leading to the airport",
+              "(D) To review expansion plans with officials in Gibraltar and Japan"
+            ]
+          },
+          "answer": {
+            "text": "(A) To determine whether a potential runway site is suitable",
+            "explanation": "The information can be inferred from: <i>\"To address the problem, officials overseeing the Onalia City Airport project have contracted a group of engineers from Wilford Engineering to explore the possibility of extending a third runway over the Pacific Ocean. The engineering firm will survey the area for six months before presenting their findings and recommending a plan of action.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Onalia City Airport?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has been open for one year.",
+              "(B) It has earned $1.6 billion in revenue.",
+              "(C) It has sustained structural damage",
+              "(D) It  is located on the coast."
+            ]
+          },
+          "answer": {
+            "text": "(D) It  is located on the coast.",
+            "explanation": "You can see the information in: <i>\"The airport, however, sits on a confined piece of land, which presents significant challenges to increasing the number of takeoffs and landings.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b45"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Dubai Ecological Construction Expo</h4><p align =\"center\"> Exhibit Hall Rules</p><p align =\"center\"> BADGE CONTROL </p>Admission to the exhibit hall is restricted to exhibitors from qualified companies, exposition attendees, and logistics personnel. <br><br>Badges are required on the floor at all limes, including during move-in and move-out days. <br>• Exhibitor badges will be given to the company’s primary contact for distribution to that exhibitor's personnel. <br>• The number of badges assigned to each exhibitor will be based on the size of booth space the company has rented. <br>• Anyone on the floor who is not officially registered will be evicted from the show. <br>• False certification of any individual as a company’s exhibition representative, or misuse of exhibitor badges, will be just cause for removing the exhibit from the floor.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the policy statement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To outline the registration process",
+              "(B) To provide details about setting up exhibits",
+              "(C) To specify who is permitted in the exhibit hall",
+              "(D) To describe facilities that are available to participants"
+            ]
+          },
+          "answer": {
+            "text": "(C) To specify who is permitted in the exhibit hall",
+            "explanation": "The information can be inferred from: <i>\"Admission to the exhibit hall is restricted to exhibitors from qualified companies, exposition attendees, and logistics personnel.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "How will individual team members obtain a badge?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will receive badges from an expo official when they check in.",
+              "(B) They will print out badges directly from the expo registration Web page.",
+              "(C) Personalized badges will be sent to them in the mail.",
+              "(D) A company representative will pass out badges to them."
+            ]
+          },
+          "answer": {
+            "text": "(D) A company representative will pass out badges to them.",
+            "explanation": "The information can be inferred from: \"<i>Exhibitor badges will be given to the company’s primary contact for distribution to that exhibitor's personnel.</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What must a company do to increase the number of employees working at its exhibit?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Rent a larger space for its exhibit",
+              "(B) Request extra exhibitor badges online",
+              "(C) Apply for an exemption to the staff limit",
+              "(D) Speak directly to an expo representative"
+            ]
+          },
+          "answer": {
+            "text": "(A) Rent a larger space for its exhibit",
+            "explanation": "The information can be inferred from: \"<i>The number of badges assigned to each exhibitor will be based on the size of booth space the company has rented.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b48"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/8832270_1564545887782.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the flyer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce the opening of a store",
+              "(B) To advertise a sale on furniture",
+              "(C) To introduce new products",
+              "(D) To inform customers of a business relocation"
+            ]
+          },
+          "answer": {
+            "text": "(B) To advertise a sale on furniture",
+            "explanation": "As you can see in the flyer, it's about sale at Jat Furniture."
+          }
+        },
+        {
+          "question": {
+            "text": "When will the store be closed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On November 28",
+              "(B) On November 29",
+              "(C) On November 30",
+              "(D) On December 9"
+            ]
+          },
+          "answer": {
+            "text": "(A) On November 28",
+            "explanation": "Based on the information given in: <i>\"Coupons will be valid from December 9 to December 28.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b4b"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c2eccc8cae769c2b4e"
+}

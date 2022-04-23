@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 35",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "130283023-1584082412199.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/130283023-1584082412199.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be840"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> M-Au Don't we need a password to log onto the computer? <br>(A) We don't have a logo. <br><b> (B) Yes, but I can’t remember it. </b><br>(C) He's in the computer lab."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be844"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "230254139-1491622960157.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/230254139-1491622960157.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be842"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Where can I buy a cup of coffee? <br>A) No thanks, I’ll have a cup of tea<br>B) I didn’t go anywhere<br>*C) There’s a café downstairs"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be846"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "29284309-1584082436071.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/29284309-1584082436071.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be84a"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> Which of these paint colors would look best in the hallway? <br><b> (A) My preference is the yellow. </b><br>(B) No, it’s just down the hall. <br>(C) I didn’t see what she looked like."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be84e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2714.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2714.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be84c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Who’s in charge of ordering office supplies? <br>A) With a credit card<br>B) Staples and paper clips<br>*C) Ms. Johnson is"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be850"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "559584006-1584082454334.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/559584006-1584082454334.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be854"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Why did we order the cleaning supplies from a different company? <br>(A) Until Tuesday. <br>(B) Through the catalog. <br><b> (C) The prices were much cheaper. </b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be858"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2715.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2715.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be856"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "When did you start working at the embassy? <br>* A) Almost two years ago<br>B) Near city hall<br>C) Do you have any extra?"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be85a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "3579328-1584082474736.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/3579328-1584082474736.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be85e"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> How can we meet the project deadline? <br><b> (A) Well have to work extra hours. </b><br>(B) Can you turn on the projector? <br>(C) The meeting went too long."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be862"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2717.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2717.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be860"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Has the new shipment arrived? <br>A) No problem, I’ll do it<br>B) He took five new ones<br>* C) yes, it came this morning"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be864"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "570968233-1584082491486.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/570968233-1584082491486.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be868"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> Could you help me find my sunglasses? <br><b> (A) Where did you have them last? </b><br>(B) A few more drinking glasses. <br>(C) The rainy season begins next month."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be86c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2718.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2718.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769be86a"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Why aren’t you working on the report? <br>A) Sure, I’d like that<br>*B) It’s finished<br>C) In my office"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769be86e"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "EASY",
+  "id": "62644159eccc8cae769be87c"
+}

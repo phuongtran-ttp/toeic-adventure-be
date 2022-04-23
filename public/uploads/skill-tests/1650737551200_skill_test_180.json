@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 180",
+  "questions": [
+    {
+      "question": {
+        "text": "The airport shuttle ___ every hour from the hotel's front entrance.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) depart",
+          "(B)was departed",
+          "(C)  are departing",
+          "(D) departs"
+        ]
+      },
+      "answer": {
+        "text": "(D) departs",
+        "explanation": "We only use simple present tense in plans or schedules."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1617"
+    },
+    {
+      "question": {
+        "text": "Due to its need for ___ repairs, the Pallot 12Z conveyor belt is scheduled to be replaced by a more efficient model.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)frequent",
+          "(B)frequently",
+          "(C)frequency",
+          "(D)frequents"
+        ]
+      },
+      "answer": {
+        "text": "(A)frequent",
+        "explanation": "We are giving more information on the noun \"repairs\" so we use an adjective."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1612"
+    },
+    {
+      "question": {
+        "text": "The contract ------- states that the tenants must renew their rental-property agreement by March 1.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)clear",
+          "(B)clearly",
+          "(C)clearer",
+          "(D)cleared"
+        ]
+      },
+      "answer": {
+        "text": "(B)clearly",
+        "explanation": "Noun (the contract) + adverb + adjective (states)"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1619"
+    },
+    {
+      "question": {
+        "text": "The company cafeteria menu has been improved and ___ features a greater selection of healthy soups and salads.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) then",
+          "(B)next",
+          "(C)once",
+          "(D)now"
+        ]
+      },
+      "answer": {
+        "text": "(D)now",
+        "explanation": "Once = When <br> \"Next\", as a preposition, is only used at the beginning of a sentence.<br>\"And then\" is only used in describing a series of actions. Therefore, we use \"now\"."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1620"
+    },
+    {
+      "question": {
+        "text": "Please adjust the volume knob ___ so the sound is not too loud.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)slight",
+          "(B)slighter",
+          "(C)slightly",
+          "(D)to slight"
+        ]
+      },
+      "answer": {
+        "text": "(C)slightly",
+        "explanation": "We are giving more information on the verb \"adjust\" so we use an adverb. <br>Adjust = Change"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1623"
+    },
+    {
+      "question": {
+        "text": "The Kwon Group employee handbook contains ------- information about payroll, benefits, and terms of employment.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) every",
+          "(B) entire",
+          "(C) whole",
+          "(D) complete"
+        ]
+      },
+      "answer": {
+        "text": "(D) complete",
+        "explanation": "Based on the meaning of words."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c161e"
+    },
+    {
+      "question": {
+        "text": "On July 23, Mr. Saito will be named chairman of the board ___ president of Tairex Electronics.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)as well as",
+          "(B)more",
+          "(C)added",
+          "(D)such as"
+        ]
+      },
+      "answer": {
+        "text": "(A)as well as",
+        "explanation": "As well as = And also"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1625"
+    },
+    {
+      "question": {
+        "text": "The ensemble consists ___ four members who have been performing together since last August.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)with",
+          "(B)in",
+          "(C)of",
+          "(D)about"
+        ]
+      },
+      "answer": {
+        "text": "(C)of",
+        "explanation": "Consist of = Be formed by"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1631"
+    },
+    {
+      "question": {
+        "text": "Guitarist Carlos Roldan ___ his newest music at a fund-raising concert in Madrid last month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)performed",
+          "(B)performs",
+          "(C)performing",
+          "(D)will perform"
+        ]
+      },
+      "answer": {
+        "text": "(A)performed",
+        "explanation": "There is \"last month\" so we use the verb in its past tense."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c162f"
+    },
+    {
+      "question": {
+        "text": "Mr. Kang started ___ printing business 25 years ago in Pusan, South Korea.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)he",
+          "(B)him",
+          "(C)his",
+          "(D)himself"
+        ]
+      },
+      "answer": {
+        "text": "(C)his",
+        "explanation": "The answer comes before a noun so we use \"his\"."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c162c"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "EASY",
+  "id": "6264418feccc8cae769c1643"
+}

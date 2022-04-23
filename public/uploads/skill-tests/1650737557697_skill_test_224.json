@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 224",
+  "questions": [
+    {
+      "question": {
+        "text": "If there___some restaurants near the hotel, we would not have to spend time and money on taxis.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)were",
+          "(B)was",
+          "(C)will",
+          "(D)would be"
+        ]
+      },
+      "answer": {
+        "text": "(A)were",
+        "explanation": "(A) In an unreal present conditional, “were” is the correct form of the verb “be” in the “if” clause. Choices (B), (C), and (D) are the wrong form to use in the “if” clause."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c221e"
+    },
+    {
+      "question": {
+        "text": "The Mid America Airlines flight___Phoenix will be arriving at Gate 9 in five minutes.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)from",
+          "(B)in",
+          "(C)by",
+          "(D)on"
+        ]
+      },
+      "answer": {
+        "text": "(A)from",
+        "explanation": "(A) “From” is used to indicate the departure point. Choices (B), (C), and (D) cannot be used in this context."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2221"
+    },
+    {
+      "question": {
+        "text": "Every morning, a member of the kitchen staff turns on the ovens and___the coffee.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)brewing",
+          "(B)has brewed",
+          "(C)brews",
+          "(D)brewed"
+        ]
+      },
+      "answer": {
+        "text": "(C)brews",
+        "explanation": "(C) Use the simple present form to match the first verb, turns on, and indicate a habitual action in the present. Choice (A) is a gerund. Choice (B) is present perfect. Choice (D) is past tense."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2224"
+    },
+    {
+      "question": {
+        "text": "The___speech made the audience restless.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)boring",
+          "(B)bored",
+          "(C)bores",
+          "(D)bore"
+        ]
+      },
+      "answer": {
+        "text": "(A)boring",
+        "explanation": "(A) The speech causes the audience to feel restless; it is active so uses the present participle. Choice (B) is the past participle. Choice (C) is present tense. Choice (D) is base form or present tense."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2227"
+    },
+    {
+      "question": {
+        "text": "This year the annual meeting takes place___Toronto.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)on",
+          "(B)for",
+          "(C)by",
+          "(D)in"
+        ]
+      },
+      "answer": {
+        "text": "(D)in",
+        "explanation": "(D) Use in with city locations. Choice (A) is used with dates. Choice (B) indicates a recipient. Choice (C) means “next to”."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c222a"
+    },
+    {
+      "question": {
+        "text": "___we were late, we could not enter the conference hall.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Although",
+          "(B)Because",
+          "(C)Therefore",
+          "(D)However"
+        ]
+      },
+      "answer": {
+        "text": "(B)Because",
+        "explanation": "(B) Because establishes a cause-and-effect relationship. Choice (A) indicates a contrast. Choices (C) and (D) are used with clauses expressing a result."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c222d"
+    },
+    {
+      "question": {
+        "text": "If the traffic is bad,___a bus.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)take",
+          "(B)takes",
+          "(C)taking",
+          "(D)will take"
+        ]
+      },
+      "answer": {
+        "text": "(A)take",
+        "explanation": "(A) Commands require the base form of the verb. Choice (B) is present tense. Choice (C) is present participle. Choice (D) is future."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2230"
+    },
+    {
+      "question": {
+        "text": "I will call you as soon as I___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) arrive",
+          "(B)arrives",
+          "(C)was arriving",
+          "(D)will arrive"
+        ]
+      },
+      "answer": {
+        "text": "(A) arrive",
+        "explanation": "(A) The sentence is a future idea, but this verb is in the time clause so it needs to be in the present tense form. Choice (B) is present tense but doesn’t agree with the subject. Choice (C) is past continuous. Choice (D) is the future form."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2233"
+    },
+    {
+      "question": {
+        "text": "Dresch Power Tools has stopped production of its battery-operated drill ___ poor sales.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)failing",
+          "(B)excluding",
+          "(C)concerning",
+          "(D)following"
+        ]
+      },
+      "answer": {
+        "text": "(D)following",
+        "explanation": "Following = As a result of"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2236"
+    },
+    {
+      "question": {
+        "text": "We will have to___strictly to meet expenses this month.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)economy",
+          "(B) economize",
+          "(C)economist",
+          "(D)economical"
+        ]
+      },
+      "answer": {
+        "text": "(B) economize",
+        "explanation": "(B) A verb is needed to complete the future verb “will have to”. Choices (A) and (C) are nouns. Choice (D) is an adjective."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2238"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644195eccc8cae769c2244"
+}

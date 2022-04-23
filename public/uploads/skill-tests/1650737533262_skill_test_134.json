@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 134",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_499.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_499.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b8d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): Today, <strong>Q1&nbsp;tourists and residents alike gathered at the Keller Center to view the latest exhibit that opened this morning. </strong>The exhibit, called Island Garden, features a wide variety of tropical plants and will run through the end of the month. As many of you know, the Keller Center is renowned for its commitment to the environment. They recently hired architect Sean Briggs to design <strong>Q2&nbsp;a new visitors&#39; center with the requirement that the new building run primarily on energy from solar panels. Q3&nbsp;The center&#39;s board of directors was impressed with the portfolio that Mr. Briggs presented to them, and said that his designs were the strongest they had seen.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did people gather at the Keller Center this morning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To visit a plant exhibit",
+              "(B) To attend an outdoor concert",
+              "(C) To take a gardening class",
+              "(D) To listen to an art lecture"
+            ]
+          },
+          "answer": {
+            "text": "(A) To visit a plant exhibit",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is said about the new building?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is surrounded by water.",
+              "(B) It uses solar energy.",
+              "(C) It has a rooftop cafe.",
+              "(D) It has a sculpture garden."
+            ]
+          },
+          "answer": {
+            "text": "(B) It uses solar energy.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was Sean Briggs chosen?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He submitted the lowest bid.",
+              "(B) He presented the best designs.",
+              "(C) He can start immediately.",
+              "(D) He is a local resident."
+            ]
+          },
+          "answer": {
+            "text": "(B) He presented the best designs.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b8f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "724016239-1578908642357.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/724016239-1578908642357.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b88"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: Before you leave for your first service calls of the day, I have an important announcement. <b> Q1 Hereat Quality Plumbing, we've been using paper invoices for years. Q1&2 Unfortunately, we've had some billing errors because the information you write down on your invoices is often hard to read. Q1 So, each technician will be provided with a laptop computer to use while at the job site</b>. It'll allow you to enter all the information for the work invoice. Training sessions on how to use the new system will begin next week. <b> Q3 Sometime today, please stop by my office to sign up for a session</b>.<br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main purpose of the announcement?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To request employee comments",
+              "(B) To celebrate the signing of a contract",
+              "(C) To ask staff to check their work for errors",
+              "(D) To describe a new company procedure"
+            ]
+          },
+          "answer": {
+            "text": "(D) To describe a new company procedure",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has caused a problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Repair calls are taking too long.",
+              "(B) Some handwriting is unclear.",
+              "(C) Employees are misusing equipment.",
+              "(D) A computer program is not working properly."
+            ]
+          },
+          "answer": {
+            "text": "(B) Some handwriting is unclear.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the listeners asked to do by the end of the day?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign up for a training session",
+              "(B) Turn in outstanding paperwork",
+              "(C) Pick up some new equipment",
+              "(D) Report the number of repairs done"
+            ]
+          },
+          "answer": {
+            "text": "(A) Sign up for a training session",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b94"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_418.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_418.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b96"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): Attention, Pacific Trends shoppers. We&#39;d like to invite you to visit our newly remodeled third floor display area. <strong>Q1&amp;2&nbsp;After several months of renovations, we&#39;ve transformed the entire floor into a bright, open space to showcase our large selection of living room furniture. The additional space has allowed us to display even more creative room layouts and design ideas. </strong>We also now offer complimentary in-store design consultation services. <strong>Q3&nbsp;Speak with a member of our talented design staff today to find the perfect fabric for your sofa or choose the best lighting and accessories to decorate your room.</strong> So be sure to come and take a look!</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely is Pacific Trends?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A furniture store",
+              "(B)An apartment complex",
+              "(C)A real estate agency",
+              "(D)A graphic design firm"
+            ]
+          },
+          "answer": {
+            "text": "(A)A furniture store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What change has taken place at Pacific Trends?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A parking area has been expanded.",
+              "(B)Prices have been significantly reduced.",
+              "(C)A new manager has been hired.",
+              "(D)A display area has been renovated."
+            ]
+          },
+          "answer": {
+            "text": "(D)A display area has been renovated.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why should listeners talk to a staff member?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To arrange a visit to a model home",
+              "(B)To get decorating advice",
+              "(C)To request a catalog",
+              "(D)To sign up for a product demonstration"
+            ]
+          },
+          "answer": {
+            "text": "(B)To get decorating advice",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b9f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_422.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_422.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b9d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Au): <strong>Q1&amp;2&nbsp;I&#39;m Joseph Randall, owner of the area&#39;s most popular bicycle shop. Randall&#39;s has always been famous for its wide selection of bicycles, offering models for riders of all ages.</strong> With so many options, you&#39;re sure to find one you&#39;ll like. And<strong> Q3&nbsp;I&#39;m pleased to announce that now in addition to selling bikes, we also rent them out. </strong>The same brands we have available for purchase are also available as rentals. So stop by Randall&#39;s to buy or rent your bike today!</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An auto repair shop",
+              "(B)A bicycle store",
+              "(C)A travel agency",
+              "(D)A party-supply store"
+            ]
+          },
+          "answer": {
+            "text": "(B)A bicycle store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what is Randall's known for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Offering a lifetime warranty",
+              "(B)Offering on-site training",
+              "(C)Having a large selection",
+              "(D)Having an experienced staff"
+            ]
+          },
+          "answer": {
+            "text": "(C)Having a large selection",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What has Randall's done recently?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sponsored a sporting event",
+              "(B)Opened a second store",
+              "(C)Celebrated an anniversary",
+              "(D)Introduced a rental service"
+            ]
+          },
+          "answer": {
+            "text": "(D)Introduced a rental service",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ba3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_442.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_442.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b9b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): Good evening, and thank you for attending this special performance. <strong>Q1&nbsp;We&#39;re currently experiencing problems with our sound equipment, </strong>but <strong>Q2&nbsp;we expect to begin the concert within the next half hour.</strong> In the meantime, please stop by the merchandise table in the main lobby. You can purchase CDs by tonight&#39;s artists as well as other items. And, <strong>Q3&nbsp;if you&#39;re thirsty, we&#39;re offering complimentary bottles of water to all audience members. </strong>Visit the food stands located near the exits to receive yours now. Thank you for your patience. The show will begin as soon as possible.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A performer has not arrived.",
+              "(B)Some equipment is not working.",
+              "(C)Merchandise has sold out.",
+              "(D)A program has been canceled."
+            ]
+          },
+          "answer": {
+            "text": "(B)Some equipment is not working.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is the announcement taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a music concert",
+              "(B)At a dance performance",
+              "(C)At a sports event",
+              "(D)At a movie showing"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a music concert",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners being offered?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A full refund",
+              "(B)A discounted CD",
+              "(C)A complimentary ticket",
+              "(D)A free beverage"
+            ]
+          },
+          "answer": {
+            "text": "(D)A free beverage",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ba6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "543594131-1578908672862.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/543594131-1578908672862.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0ba1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Au: Hi, Jamie. The vice president just called to say <b> Q1&2 the competition, namely Golden, is going to release a new mobile phone similar to ours. Naturally, we want to get out phone on the market first, so we're going to release our Serena model earlier than originally planned</b>. And that means we really need to get moving on the advertising campaign. <b> Q3 The TV commercials have to be finished a month ahead of the phone's new release date</b>. That does mean our advertising team will be working long hours. I think we should find some way of rewarding the team once the ads are finished. Let me know what you think. <br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What product is the speaker discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A navigation system",
+              "(B) A tablet computer",
+              "(C) A mobile phone",
+              "(D) A wide-screen television"
+            ]
+          },
+          "answer": {
+            "text": "(C) A mobile phone",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker's company plan to release a product early?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Work is ahead of schedule.",
+              "(B) Current models are not profitable.",
+              "(C) Many pre-orders were placed.",
+              "(D) A competitor will market a similar item."
+            ]
+          },
+          "answer": {
+            "text": "(D) A competitor will market a similar item.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the speaker say, \"That does mean our advertising team will be working some long hours\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To acknowledge a difficult situation",
+              "(B) To suggest hiring more employees",
+              "(C) To congratulate the listener for signing a contract",
+              "(D) To stress the importance of satisfying a client"
+            ]
+          },
+          "answer": {
+            "text": "(A) To acknowledge a difficult situation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0ba9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_421.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_421.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0bac"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Br): Hello, and <strong>Q1&nbsp;thank you for calling Palko Incorporated, the leading delivery service in the Franklin area.&nbsp;Q2&nbsp;Last night&#39;s heavy rains have caused poor road conditions, so our offices are closed this morning. </strong>We will not be able to deliver any packages at this time and we apologize for any inconvenience this may cause. We expect to reopen at one this afternoon, so <strong>Q3&nbsp;please&nbsp;call back then if you need to reschedule a delivery or if you have any questions.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of company is Palko Incorporated?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An office-supply business",
+              "(B)A bus company",
+              "(C)A telephone provider",
+              "(D)A delivery service"
+            ]
+          },
+          "answer": {
+            "text": "(D)A delivery service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the office closed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The road conditions are bad.",
+              "(B)It is a public holiday.",
+              "(C)Renovations are being completed.",
+              "(D)Employees are attending a workshop."
+            ]
+          },
+          "answer": {
+            "text": "(A)The road conditions are bad.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Leaving a message",
+              "(B)Checking a Web site",
+              "(C)Calling back later",
+              "(D)Completing a survey"
+            ]
+          },
+          "answer": {
+            "text": "(C)Calling back later",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0bb1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "31978248-1578908715549.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/31978248-1578908715549.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0bb3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W-Br: <b> Q1 The last item on the agenda is the upcoming financial consultations that we offer to all our employees once a year</b>. These consultations are free, one-on-one meetings with certified financial specialists who help people plan for retirement. Keep in mind, <b> Q2 this program is purely voluntary, but we receive excellent feedback on this every year</b>. If you're interested, <b> Q3 there are meeting times available after work hours. You'll need to sign up for one on the Human Resources benefits Web page before Friday.</b><br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To invite employees to apply for a position",
+              "(B) To clarify changes to a vacation policy",
+              "(C) To inform employees about free consultations",
+              "(D) To ask for volunteers to organize a party"
+            ]
+          },
+          "answer": {
+            "text": "(C) To inform employees about free consultations",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says, \"we receive excellent feedback on this every year\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Listeners will be surprised by survey results.",
+              "(B) Listeners will be pleased with a service.",
+              "(C) A product is expected to sell well.",
+              "(D) A budget for a program will not be cut."
+            ]
+          },
+          "answer": {
+            "text": "(B) Listeners will be pleased with a service.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what can the listeners do on a Web page?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Enter vacation time",
+              "(B) Read a job description",
+              "(C) Vote on a proposal",
+              "(D) Schedule a meeting"
+            ]
+          },
+          "answer": {
+            "text": "(D) Schedule a meeting",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0bb8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_448.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_448.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0baf"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(W-Am): <strong>Q1&nbsp;Do you want access to the best healthy food products </strong>on the market? Do you want to choose from the largest variety of fresh fruits and vegetables? <strong>Q1&nbsp;Well, we can help at the Walton Harvest Market, we carry the biggest selection of organic foods in the area. </strong>And, <strong>Q2&nbsp;during the month of March, we&#39;re offering 20 percent off the cost of all dairy products in the stor</strong>e. Don&#39;t miss out on this special promotion! If you&#39;re looking for diet advice, why don&#39;t you schedule an appointment with our store&#39;s nutrition counselor, Maria Sanchez? Maria will help you develop a custom meal plan to suit your needs, and provide you with recipes and cooking tips.<strong> Q3&nbsp;Call 555-0199 today to set up your individual consultation.</strong></p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What business is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A health-food store",
+              "(B)A fitness center",
+              "(C)A kitchen-appliance store",
+              "(D)A chain restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(A)A health-food store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What can customers receive in March?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A free catalog",
+              "(B)Discounted prices",
+              "(C)A trial membership",
+              "(D)Product samples"
+            ]
+          },
+          "answer": {
+            "text": "(B)Discounted prices",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why should listeners call?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To complete a survey",
+              "(B)To request a membership card",
+              "(C)To order some merchandise",
+              "(D)To schedule a consultation"
+            ]
+          },
+          "answer": {
+            "text": "(D)To schedule a consultation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0bb6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4210.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4210.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0bba"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Good afternoon. <strong>Q1&nbsp;I called this meeting for the entire engineering team to discuss a new product the company wants us to develop. </strong>According to recent market surveys, customers would like to see an underwater digital camera in our line of products. So, the company wants to produce a camera that can be used in water up to a hundred feet deep. As you know, our target customer is your average amateur photographer on a budget. <strong>Q2&nbsp;The retail price needs to be reasonable without compromising quality.&nbsp;Q3&nbsp;I&#39;d like for us all to break into small groups to start brainstorming designs. </strong>Later on, we&#39;ll reconvene as a team to go over our various ideas.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Product engineers",
+              "(B)Software designers",
+              "(C)Factory supervisors",
+              "(D)Marketing executives"
+            ]
+          },
+          "answer": {
+            "text": "(A)Product engineers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are listeners told to keep in mind?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The availability of materials",
+              "(B)Production deadlines",
+              "(C)The price of a product",
+              "(D)Safety regulations"
+            ]
+          },
+          "answer": {
+            "text": "(C)The price of a product",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the listeners' next task?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To research competing products",
+              "(B)To propose design ideas",
+              "(C)To take some photographs",
+              "(D)To ask customers for feedback"
+            ]
+          },
+          "answer": {
+            "text": "(B)To propose design ideas",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0bbe"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "6264417deccc8cae769c0bc7"
+}

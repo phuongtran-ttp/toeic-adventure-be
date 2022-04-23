@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 288",
+  "questions": [
+    {
+      "question": {
+        "text": "----------------- <br><br>Samuels Ltd. announced on Monday that it will spend $1 billion to build nylon production and processing facilities in Singapore to serve the Asia Pacific region. Construction of the 45,000-square-meter plant will take two years. When the factory is complete, it will employ over 500 workers and have an estimated annual production of 60,000 tons of nylon and nylon components. According to company spokesperson Michael Tan, the plant will be equipped with the same advanced technology used in Samuels plants in India and Canada, enabling the company to price its nylon competitively. The nylon products will be sold to companies throughout the region for use in various industrial textile applications. <br><br>The Asia Pacific market for nylon has remained strong over the last decade, with the majority of purchases coming from the automobile manufacturers. Samuels is hoping that the efficient production from the new factory will position it to become a leader in the market. It will face stiff competition from Haring Corporation, the current leader, and from several other large chemical companies that ship nylon products into the area from Europe and Africa. <br> <br> -----------------",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the article?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To publicize new merchandise",
+              "(B)To discuss a company's plans for expansion",
+              "(C)To explain a problem with a product",
+              "(D)To describe the layout of a factory"
+            ]
+          },
+          "answer": {
+            "text": "(B)To discuss a company's plans for expansion",
+            "explanation": "Information in the sentence: \"Samuels Ltd. announced on Monday that it will spend $1 billion to build nylon production and processing facilities in Singapore to serve the Asia Pacific region.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Samuels Ltd.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It makes more nylon than any other company in Asia.",
+              "(B)Its products are more durable than those of other companies.",
+              "(C)It manufactures automobiles.",
+              "(D)It owns factories in several countries."
+            ]
+          },
+          "answer": {
+            "text": "(D)It owns factories in several countries.",
+            "explanation": "Information in the sentences: \"Samuels Ltd. announced on Monday that it will spend $1 billion to build nylon production and processing facilities in Singapore to serve the Asia Pacific region.\" and \"According to company spokesperson Michael Tan, the plant will be equipped with the same advanced technology used in Samuels plants in India and Canada, enabling the company to price its nylon competitively.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, why did Samuels Ltd. choose to target the Asia Pacific market?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It can ship in products from its existing plants.",
+              "(B)There is no competition in the region.",
+              "(C)Raw materials are available locally.",
+              "(D)There is a steady demand for the product."
+            ]
+          },
+          "answer": {
+            "text": "(D)There is a steady demand for the product.",
+            "explanation": "Information in the sentence: \"The Asia Pacific market for nylon has remained strong over the last decade, with the majority of purchases coming from the automobile manufacturers.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2db2"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0> <tr> <td> <h3>TECHNOLOGY NEWS: </h3> <br> The new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment. The Washwave removes debris from dishes using ultrasonic waves in the same way that that can be used to clean jewelry. The dishwasher contains a 100-liter tank with two metal converters that release high-frequency sound waves under water. The waves generate high- temperature, high-pressure bubbles that clean dishes using very little detergent. These micro-scrubbing bubbles can reach into small cracks and crevices that sponges or brushes cannot reach. <br><br>A conventional machine consumes 200 to 300 liters of fresh water per use. The Washwave filters the water in its tank for reuse after each cycle. The water in its tank only needs to be changed every other week. This can save the average household 250,000 to 500,000 liters of water annually. The shorter run time of the machine also saves on electricity. The Washwave cleaning cycle lasts only five minutes where a conventional machine usually takes twenty minutes or longer.<br><br>The Washwave unit was introduced in Japan in September, and Dowell is planning to introduce it around the world over the next several years. Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries. For more information, visit www.dowell.com to see demonstration videos, order a brochure, or find a local retailer. </td></tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What Is the information mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Choosing a dishwashing detergent",
+              "(B)  Advances in ways to clean jewelry",
+              "(C)Using sound waves to clean dishes",
+              "(D)A new clothes washing machine"
+            ]
+          },
+          "answer": {
+            "text": "(C)Using sound waves to clean dishes",
+            "explanation": "Information in the sentence: \"The new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How often should the water in the Washwave replaced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Twice a week",
+              "(B)Once a week",
+              "(C)Once every two weeks",
+              "(D)Once a month"
+            ]
+          },
+          "answer": {
+            "text": "(C)Once every two weeks",
+            "explanation": "Information in the sentence: \"The water in its tank only needs to be changed every other week.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the Dowell Company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It will sell the Washwave only In Japan.",
+              "(B)It is a leader in the hospitality industry.",
+              "(C)It plans to start selling the Washwave next year.",
+              "(D)It can adapt the Washwave to different uses."
+            ]
+          },
+          "answer": {
+            "text": "(D)It can adapt the Washwave to different uses.",
+            "explanation": "Information in the sentence: \"Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2db7"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/6978018_1485065453264.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about product prices?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They may vary in different locations.",
+              "(B)They are updated every day.",
+              "(C)They are approximate.",
+              "(D)They are provided by the individual reviewers."
+            ]
+          },
+          "answer": {
+            "text": "(A)They may vary in different locations.",
+            "explanation": "You can infer from two lines: \"Unfortunately, at some point the speakers started making cracking noises whenever the alarm goes off. I guess that's what you'd expect, considering the price.\" and \"The only downside is its steep price.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What do the individual reviews NOT include?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The name of the alarm clock model",
+              "(B)A numerical rating",
+              "(C)Comments about personal experience",
+              "(D)The name of the retailer who sold the product"
+            ]
+          },
+          "answer": {
+            "text": "(D)The name of the retailer who sold the product",
+            "explanation": "Seloa ET - X,  Femi D100, Y-Tech 2700 and Gritto CX2 => The name of the retailer who sold the product =>Eliminate A<br> Rating: 7/10,  Rating 9/10, Rating 10/10 => A numerical rating=>Eliminate B<br>Unfortunately, at some point the speakers started making cracking noises whenever the alarm goes off, I was in for a surprise when I ordered this model online,  had dropped it in deep snow in my backyard and found it days later. It still worked as if nothing had happened. => Comments about personal experience =>Eliminate C"
+          }
+        },
+        {
+          "question": {
+            "text": "What model is probably inexpensive?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The Selona ET-X",
+              "(B)The Ferni D100",
+              "(C)  The Y-Tech 2700",
+              "(D) The Gritto CX2"
+            ]
+          },
+          "answer": {
+            "text": "(A)The Selona ET-X",
+            "explanation": "Information in sentence: \"I guess that's what you'd expect, considering the price.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What disadvantage with her alarm clock does Ms. Ramos point out?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It took a long time to be delivered.",
+              "(B)It was complicated to learn to use.",
+              "(C)It lacks some important features.",
+              "(D)It is relatively expensive."
+            ]
+          },
+          "answer": {
+            "text": "(B)It was complicated to learn to use.",
+            "explanation": "Information in the sentence: \"Requires advanced knowledge to set.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was Mr. Fletcher surprised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)His alarm clock reset the time automatically when he traveled.",
+              "(B)He saw the same model as the one he purchased In a hotel room,",
+              "(C)The model is larger than he expected.",
+              "(D)He found the alarm clock easy to set"
+            ]
+          },
+          "answer": {
+            "text": "(C)The model is larger than he expected.",
+            "explanation": " Information in the sentences: \"I travel a lot, and I need a small handy alarm clock for my frequent hotel stays, I was in for a surprise when I ordered this model online. What happened was the photograph did not reflect its actual size, which makes it unfit for travel.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dba"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Peterman Piano Services </h3> <br> <p align =\"center\"> Family owned for 3 generations </p> <br> • <b>Piano Tuning</b>  - We tune grand, baby grand, upright, or spinet pianos.<br> • <b> Restorations </b> - We bring older pianos back to their original beauty and sound quality. <br>• <b>Repairs </b>- We can fix almost any problem, including damage to parts or materials. <br>If we do not have a part, we can order it.<br>•<b>Wood refinishing</b> - We can make your piano look new again. <br> • <b>Purchases </b>- We buy all types of pianos at excellent prices. <br> •<b>Additional Services</b> - We also provide piano-moving services throughout the area. <br><br> Our address is 23 East Broad Street in Branford, and our telephone number is 670-555-0165.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT a service offered by Peterman Piano Services?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Piano rental",
+              "(B)Piano repair",
+              "(C)Piano tuning",
+              "(D)Piano moving"
+            ]
+          },
+          "answer": {
+            "text": "(A)Piano rental",
+            "explanation": "Repairs - We can fix almost any problem, including damage to parts or materials. If we do not have a part, we can order it. => Eliminate B<br> Piano Tuning - We tune grand, baby grand, upright, or spinet pianos.=> Eliminate C<br>Additional Services - We also provide piano-moving services throughout the area.=> Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about Peterman Piano Services?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It sells new pianos.",
+              "(B)It keeps piano parts in stock.",
+              "(C)It offers discounts to schools.",
+              "(D)It is a new company."
+            ]
+          },
+          "answer": {
+            "text": "(B)It keeps piano parts in stock.",
+            "explanation": "You can infer from the line: \"If we do not have a part, we can order it.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dbd"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> <b>Let Builder’s Advantage Work for You!</b><br><br>Obtain your share in the marketplace by advertising in<br><i>Builder’s Advantage Magazine</i></p> <br>&nbsp; &nbsp; &nbsp;&nbsp; • Glossy, large-format magazine dedicated to the construction industry<br>&nbsp; &nbsp; &nbsp;&nbsp; • Four issues annually<br>&nbsp; &nbsp; &nbsp;&nbsp; • Readership of over 40,000<br>&nbsp; &nbsp; &nbsp;&nbsp; • Distributed to over 250 area businesses in Farmington and Uxbridge counties <br>&nbsp; &nbsp; &nbsp;&nbsp; • Quarter- and half-page advertisements available <br>&nbsp; &nbsp; &nbsp;&nbsp; • Advertisements start as low as $150.00<br>&nbsp; &nbsp; &nbsp;&nbsp; • Discounts offered on advertisements placed in multiple issues <br><br>Call our Public Relations Department at 055-1043 for details.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being offered in the notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Construction services",
+              "(B)A building for rent",
+              "(C)Advertising space",
+              "(D)Magazine subscriptions"
+            ]
+          },
+          "answer": {
+            "text": "(C)Advertising space",
+            "explanation": "Information in the sentence: \"Obtain your share in the marketplace by advertising in Builder’s Advantage Magazine\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Builder's Advantage Magazine?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)It is distributed to homes.",
+              "(B)It is published four times a year.",
+              "(C)It contains full-page advertisements",
+              "(D)It is a new magazine"
+            ]
+          },
+          "answer": {
+            "text": "(B)It is published four times a year.",
+            "explanation": "Information in the sentence: \"Four issues annually\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dc0"
+    },
+    {
+      "question": {
+        "text": "From: customerservice@bakergifts.com <br>To: Harriet Goldsmith hgoldsmith@acvweb.net<br>Subject: Promotion<br>Date: January 10<br><br>Dear Ms. Goldsmith, <br><br>Thank you for your recent online purchase from Baker Gifts. <br><br>To show our appreciation, we’d like to offer you 15 percent off the price of your next online purchase. This promotional discount can be used on any of the hundreds of products available from our Web store at www.bakergift.com. This offer expires on April 15. When you check out, simply enter promotional code XY119674, and 15 percent will be taken off your merchandise total. <br><br>Baker Gifts is proud of our exquisite products and exceptional customer service. We are confident you will find the perfect gift for a special person, or something well deserved for yourself. <br><br>The Customer Service Team",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To provide information about shipping",
+              "(B)To offer a discount on a future purchase",
+              "(C)To inform Ms. Goldsmith that she has won a prize",
+              "(D)To explain how to buy a gift certificate"
+            ]
+          },
+          "answer": {
+            "text": "(B)To offer a discount on a future purchase",
+            "explanation": "Information in the sentence: \"To show our appreciation, we’d like to offer you 15 percent off the price of your next online purchase.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Goldsmith?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has recently bought something online.",
+              "(B)She intends to purchase a gift for herself.",
+              "(C)She is a longtime customer of Baker Gifts.",
+              "(D)She prefers to shop online."
+            ]
+          },
+          "answer": {
+            "text": "(A)She has recently bought something online.",
+            "explanation": "Information in the sentence: \"Thank you for your recent online purchase from Baker Gifts.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dc3"
+    },
+    {
+      "question": {
+        "text": "Thank you for choosing <b> <i>Passages Hotel</b></i>, Kuala Lumpur’s premier hotel and conference center. We greatly value your opinion. Please take a moment to fill out the questionnaire and either leave it in your room or place it in the box located in the hotel’s lobby. <br><br><table width=\"90%\" border=1 cellspacing=0 cellpadding=0><tr><td><b> Rate the following</b></td><td> <b>Excellent </b></td><td><b> Good</b></td><td><b> Fair </b></td><td><b> Poor</b></td><td> <b>Not Used </b></td></tr><tr><td><i> Front desk service</i></td><td>  </td><td> </td><td>  </td><td> X </td><td>  </td></tr><tr><td><i>Concierge service</i> </td><td> X </td><td> </td><td>  </td><td> </td><td>  </td></tr><tr><td><i> Lotus restaurant</i></td><td> X </td><td> </td><td>  </td><td> </td><td>  </td></tr><tr><td> <i>Room service</i></td><td>  </td><td> </td><td>  </td><td> </td><td> X </td></tr><tr><td><i> Housekeeping</i></td><td>  </td><td> X </td><td>  </td><td> </td><td>  </td></tr><tr><td> <i>Business center </i></td><td>  </td><td> X </td><td>  </td><td> </td><td>  </td></tr><tr><td> <i>Overall appearance of hotel</i></td><td> X </td><td> </td><td>  </td><td> </td><td>  </td></tr></table>  <br><br>I have stayed at this hotel a number of times on business and am usually very satisfied. However, this time it seemed that the front desk was understaffed the entire time I stayed here. I had to wait for 20 minutes to check in, and it took over 30 minutes to check out. In addition, it was difficult to contact the front desk from my room. Twice the phone rang without anyone picking up, I realize this was a busy month for the hotel, but enough staff should have been put on duty to accommodate quests.<br><br>Name (optional) : Bindi Shah <br>Contact information (optional): bshah@svpnet.com<br>Date of stay: April 15-18",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What Is NOT indicated about Passages Hotel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It provides meeting space.",
+              "(B) It has hired additional staff.",
+              "(C) It seeks the opinions of its customers.",
+              "(D) It was busy in April."
+            ]
+          },
+          "answer": {
+            "text": "(B) It has hired additional staff.",
+            "explanation": "Thank you for choosing Passages Hotel, Kuala Lumpur’s premier hotel and conference center. → Eliminate A<br> We greatly value your opinion. Please take a moment to fill out the questionnaire → Eliminate C<br>I have stayed at this hotel a number of times on business and am usually very satisfied. However, this time it seemed that the front desk was understaffed the entire time I stayed here. I had to wait for 20 minutes to check in, and it took over 30 minutes to check out. → Eliminate D"
+          }
+        },
+        {
+          "question": {
+            "text": "What did Ms. Shah find unsatisfactory?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Room service",
+              "(B) The restaurant",
+              "(C) The business center",
+              "(D) Front-desk service"
+            ]
+          },
+          "answer": {
+            "text": "(D) Front-desk service",
+            "explanation": "Information in the sentence: \"In addition, it was difficult to contact the front desk from my room.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Shah?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She was in Kuala Lumpur on business.",
+              "(B) She stayed at Passages Hotel for the first time in April.",
+              "(C) She was unhappy with the housekeeping service.",
+              "(D) She received a discount because of the hotel's poor service."
+            ]
+          },
+          "answer": {
+            "text": "(A) She was in Kuala Lumpur on business.",
+            "explanation": "Information in the sentence: \"I have stayed at this hotel a number of times on business\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dc6"
+    },
+    {
+      "question": {
+        "text": "<h4 style=\"text-align: center;\"> Mazahreh Graphics</h4> <p align =\"center\"> Offices in London, New York, and Atlanta <br>P.O, Box 32569 • Atlanta, GA 30301<br></p>September 12<br><br>Nicole Bourg <br>Benchmark Publishing <br>Atlanta, GA 31306-8542<br><br>Dear Ms. Bourg: <br><br>Thank you for the opportunity to meet with you at Benchmark Publishing. It was a pleasure to talk to you about your upcoming publications. I hope that following our conversation, you will consider Mazahreh Graphics when choosing an artist to create book-cover art for the Inspector Andrews mystery series by Sven Jorgensen. <br><br> I’d like to reiterate that Mazahreh Graphics has created cover art for over 300 books, many of which were published in series. We consistently deliver quality work ahead of schedule, at a price I’m sure you will find competitive. I have enclosed additional examples of our recent work that I did not have a chance to show you during our meeting yesterday. <br><br> Again, I enjoyed talking with you and hope to hear from you soon. <br>Sincerely, <br><br>Saman Mazahreh <br>Enclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT indicated about Ms. Bourg?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She has written a series of books.",
+              "(B) She has met with Mr. Mazahreh.",
+              "(C) She is looking for an illustrator.",
+              "(D) She works for a publishing company."
+            ]
+          },
+          "answer": {
+            "text": "(A) She has written a series of books.",
+            "explanation": "Thank you for the opportunity to meet with you at Benchmark Publishing. => Eliminate B&D<br> I hope that following our conversation, you will consider Mazahreh Graphics when, choosing an artist to create book-cover art for the Inspector Andrews mystery series by Sven Jorgensen.=> Eliminate C"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Mazahreh state about his company?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is near the office of Benchmark Publishing.",
+              "(B) Its prices are much lower than those of its competitors.",
+              "(C) It has provided artwork for book covers.",
+              "(D) It can complete work faster than its competitors can."
+            ]
+          },
+          "answer": {
+            "text": "(C) It has provided artwork for book covers.",
+            "explanation": "Information in the sentence: \"I’d like to reiterate that Mazahreh Graphics has created cover art for over 300 books\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mr. Mazahreh include with his letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A contract",
+              "(B) Letters of recommendation",
+              "(C) Samples of artwork",
+              "(D) An invoice"
+            ]
+          },
+          "answer": {
+            "text": "(C) Samples of artwork",
+            "explanation": "Information in the sentence: \"I have enclosed additional examples of our recent work that I did not have a chance to show you during our meeting yesterday.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dc9"
+    },
+    {
+      "question": {
+        "text": "<h4 style=\"text-align: center;\"> <i>Hong Kong Today</i> <br>Hong Kong’s Source of English News </h4> <br><u>Palais Hotel Gets Top Chef</u> <br><br>The Palais Hotel, known by insiders as Hong Kong’s hidden jewel, is about to become very well-known. The hotel’s Jade Restaurant has hired a new executive chef, cooking expert and chef extraordinaire Mei-Yi Gan. Gan, who took over the restaurant last month, has already made her mark by adding some of her signature dishes to the menu. <br><br>Gan has most recently worked as head chef at Hong Kong’s four-star restaurant Room at the Top but is best known for her previous work as editor of East and West, a cooking magazine with an impressive international circulation. Gan studied under Master Chef Chun-Yuen Li, who praised Gan for being “a culinarily gifted student” and possessing “excellent instincts.” <br><br>So far, the Palais Hotel has been aptly nicknamed. Staying in one of the luxurious rooms, or dining at the sophisticated Jade Restaurant, one gets a sense of experiencing something special, something still undiscovered. Based on the meals that Gan has produced there so far, we predict that the addition of this exceptional chef will serve to bring the hidden jewel out of hiding. <br><br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does Ms. Gan currently work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At Jade Restaurant",
+              "(B) At East and West",
+              "(C) At Room at the Top",
+              "(D) At Hong Kong Today"
+            ]
+          },
+          "answer": {
+            "text": "(A) At Jade Restaurant",
+            "explanation": "Information in the sentence: \" The hotel’s Jade Restaurant has hired a new executive chef, cooking expert and chef extraordinaire Mei-Yi Gan.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is Implied about the Palais Hotel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It appeals to travelers on a budget.",
+              "(B) Its restaurant Is large.",
+              "(C) It is not conveniently located.",
+              "(D) It is currently not widely known."
+            ]
+          },
+          "answer": {
+            "text": "(D) It is currently not widely known.",
+            "explanation": "Information in the sentence: \"The Palais Hotel, known by insiders as Hong Kong’s hidden jewel, is about to become very well-known.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Chun-Yuen Li?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A magazine editor",
+              "(B) A hotel manager",
+              "(C) A cooking teacher",
+              "(D) A restaurant manager"
+            ]
+          },
+          "answer": {
+            "text": "(C) A cooking teacher",
+            "explanation": "Information in the sentence: \"Gan studied under Master Chef Chun-Yuen Li, who praised Gan for being “a culinarily gifted student” and possessing “excellent instincts.”"
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dcc"
+    },
+    {
+      "question": {
+        "text": "<table width=\"100%\" border=1 cellspacing=0 cellpadding=0><tr><td> <h3 style=\"text-align: center;\"> Woodsmith, Inc </h3>We are pleased you have purchased handmade, hard wood furniture form Woodsmith, Inc, of Vancouver. We are proud of our long heritage and are confident you will appreciate the quality and craftsmanship that went into the making of your product. Our furniture is meant to last a lifetime. That is why we make every effort to inform our customers how best to treat it. We recommend the following. <br><br>• Use cleaning products that are made specifically for wood such as Bly’s Wood Cleaner. Avoid multisurface cleaners, as these may leave streaks or an oily residue.<br>• To brighten a surface that has dulled, use a paste wax such as Russ Wax. Apply the wax no more than twice per year. Remove the old wax first with a mild, nonalkaline soap-and-water solution.<br>• Avoid wiping the furniture with a dry cloth, as this may leave hairline scratches on the finish.<br>• Avoid placing the furniture directly in front of radiators, heating ducts, and fireplaces.<br>• Do not expose the furniture to direct sunlight, as this may lead to fading.<br><br>We wish you a lifetime of enjoyment from your furniture. We appreciate your business, and we welcome your comments and suggestions. Simply call 604-555-0144 during regular business</td></tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the information mainly discuss?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When to purchase a product",
+              "(B) Where to shop for a product",
+              "(C) How to care for a product",
+              "(D) How to repair a product"
+            ]
+          },
+          "answer": {
+            "text": "(C) How to care for a product",
+            "explanation": "Information in the sentence: \"That is why we make every effort to inform our customers how best to treat it.\" Additionally, you should skim the passage to get the general idea. "
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Woodsmith, Inc.?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its stores are closed on weekends.",
+              "(B) It sells furniture online.",
+              "(C) It is a new company.",
+              "(D) Its products are manufactured by hand"
+            ]
+          },
+          "answer": {
+            "text": "(D) Its products are manufactured by hand",
+            "explanation": "Information in the sentence: \"We are pleased you have purchased handmade, hard wood furniture form Woodsmith, Inc, of Vancouver.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the information, what could happen to hardwood furniture in direct sunlight?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It may overheat.",
+              "(B) It may dry out.",
+              "(C) The finish may crack.",
+              "(D) The color may get lighter."
+            ]
+          },
+          "answer": {
+            "text": "(D) The color may get lighter.",
+            "explanation": "Information in the sentence: 'Do not expose the furniture to direct sunlight, as this may lead to fading.\""
+          }
+        }
+      ],
+      "id": "626441c6eccc8cae769c2dcf"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c6eccc8cae769c2dd2"
+}

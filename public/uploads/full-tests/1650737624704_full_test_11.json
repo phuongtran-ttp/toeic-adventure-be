@@ -1,0 +1,1232 @@
+{
+  "name": "Full Test 11",
+  "questions": [
+    {
+      "question": {
+        "text": "The memo sent by Mr. Lee addressed a few   _____   that were discovered during the quarterly inspection.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) issuing",
+          "(B) issue",
+          "(C) issues",
+          "(D) issued"
+        ]
+      },
+      "answer": {
+        "text": "(C) issues",
+        "explanation": "Position to fill after \"a few\", so this must be a plural noun."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c432d"
+    },
+    {
+      "question": {
+        "text": "September 8 — [1] - This comes as a relief for residents on both sides of the Canadian and American borders as many shoppers from Lockland often take the one-and-a half-hour drive into Canada to shop at the Cashco warehouse there. - [2] - This usually results in long waits at the border and a very crowded Canadian Cashco with more than half the shoppers from across the border. Many Canadian residents of Brentwood are resentful of the large crowds in their tiny town and Lockland residents have complained that the closest American Cashco is located almost 5 hours away. - [3] - \"I'm very excited,\" said Lockland resident Janice Burrows. 'T heard it'll be huge. Maybe Canadians might start coming here to shop. But all kidding aside, we've been petitioning for a branch here for a long time.\" - [4] - The new Lockland Cashco is rumored to become one of the largest warehouses in America with full petrol service, pet center, restaurant, cafeterias, garden center, and medical clinic.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is implied about Canadian residents?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They want a Cashco branch.",
+              "(B) They dislike Americans coming to shop.",
+              "(C) They don’t like going to America.",
+              "(D) They have to travel far to get to a Cashco."
+            ]
+          },
+          "answer": {
+            "text": "(B) They dislike Americans coming to shop.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the article about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The tension at the border",
+              "(B) The competition between neighboring residents",
+              "(C) Cross-border shopping expeditions",
+              "(D) The opening of a new Cashco branch in the near future"
+            ]
+          },
+          "answer": {
+            "text": "(D) The opening of a new Cashco branch in the near future",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br> “A spokesperson for the wholesale giant Cashco confirmed on Monday that a branch will finally open in Lockland next month.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4334"
+    },
+    {
+      "question": {
+        "text": "The policy that requires businesses to provide medical insurance applies only to those  _____  more than twenty-five people.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) employs",
+          "(B) employ",
+          "(C) employed",
+          "(D) employing"
+        ]
+      },
+      "answer": {
+        "text": "(D) employing",
+        "explanation": "\"Employing\" replaces \"which / who employ\""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4336"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">  Bandit Pharmaceuticals</h4><p align =\"center\">  255 Highway Road </p><p align =\"center\">  Boston, MA 48573 </p> <br>April 23<br>Mr. Timothy Jean <br>6844 Sylvia Place<br> Fresno, CA 97658<br><br>Dear Mr. Jean, <br><br>We at Bandit Pharmaceuticals are delighted you have accepted the position of research assistant. You will begin work on May 5. The first day will be an orientation for all new hires with a workplace safety workshop, a seminar explaining your responsibilities on the job, and a tour of the facilities.  -[1  -<br>Because you are coming in from out of town, we would like to make your move as smooth a transition as possible. We understand that you will be arriving on April 29th and staying at the Boston Family Inn for a few days. The inn is about a 10-minute taxi drive to the Bandit Pharmaceutical Headquarters. -[2]- You can go to the front desk at the main lobby and ask for Ms. Jenna Rhimes in human resources. She will help new out-of- town employees settle into the city and answer any questions you may have. I have also attached telephone numbers for places and organizations that may be relevant for your move here. -[3]-<br>If you have any further questions or concerns, please feel free to call me at 555-1234 during my office hours Mondays to Fridays from 9:00 A.M. to 7:00 P.M. -[4]- Best of luck with your move here and I will see you on May 5. <br><br>Sincerely, <br>Joan Noonan <br>Human Resources",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What did Ms. Noonan sent with the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Telephone numbers",
+              "(B) A copy of the contract",
+              "(C) Contact information of company employees",
+              "(D) A schedule"
+            ]
+          },
+          "answer": {
+            "text": "(A) Telephone numbers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? <br> “Your laboratory manager will give you further details after the first day.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "The phrase “settle into” in the second paragraph is closest in meaning to:",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Look for",
+              "(B) Explore",
+              "(C)  Become comfortable in",
+              "(D) Navigate within"
+            ]
+          },
+          "answer": {
+            "text": "(C)  Become comfortable in",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why did Ms. Noonan send a letter to Mr. Jean?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To give him details about the job interview’s place and time",
+              "(B) To give him information about his first day of work",
+              "(C) To provide information about available places for rent",
+              "(D) To confirm whether he would accept the job"
+            ]
+          },
+          "answer": {
+            "text": "(B) To give him information about his first day of work",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c433a"
+    },
+    {
+      "question": {
+        "text": "Before you distribute the report, ask Ms. Burns to check that  _____  has all the necessary information.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) them",
+          "(B) our",
+          "(C) her",
+          "(D) it"
+        ]
+      },
+      "answer": {
+        "text": "(D) it",
+        "explanation": "The blank is before a verb 'has', so there is a missing subject in the 3rd singular. Of the answers, only D is suitable"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c433c"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">  Centerville County Shelter to Hold Marathon to Raise Money for the Homeless</h4>A walking marathon will be held in Centerville County next Saturday. All proceeds from the event will be donated to the Centerville County Shelter. It is a public institution that provides food, lodging, and support services to the homeless, the elderly, and anyone in need. <br>This will be the second time the event will be held, and organizers expect more participants than they had last year. This event is open to children and adults of all ages. However, children must be accompanied by an adult family member at all times. <br>Centerville County Shelter was founded in 1981 with the mission of alleviating the hardships of homelessness, poverty, and hunger.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the main goal of the Centerville County Shelter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To build affordable housing",
+              "(B) To provide basic necessities",
+              "(C) To train professional athletes",
+              "(D) To educate community members"
+            ]
+          },
+          "answer": {
+            "text": "(B) To provide basic necessities",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why most likely would someone register for the event?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To learn about staying fit",
+              "(B) To win a cash prize",
+              "(C) To apply for a job",
+              "(D) To contribute to the community"
+            ]
+          },
+          "answer": {
+            "text": "(D) To contribute to the community",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, who is not allowed to participate in the event?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Senior citizens",
+              "(B) Students with no student ID cards",
+              "(C) Unaccompanied children",
+              "(D) Foreign tourists"
+            ]
+          },
+          "answer": {
+            "text": "(C) Unaccompanied children",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4340"
+    },
+    {
+      "question": {
+        "text": "The non-profit organization released to the press several documents  _____  the largest donors and how much they contributed.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) detailed",
+          "(B) detail",
+          "(C) details",
+          "(D) detailing"
+        ]
+      },
+      "answer": {
+        "text": "(D) detailing",
+        "explanation": "This argument reduces active clause statements.\r\n<br>\"Detailing\" = \"which detail\"."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4342"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\"   border=0 cellspacing=10 cellpadding=10  style=border-collapse:collapse ><tr><td> <b> Molly </b> </td><td> Who wants to go to the victory parade tomorrow with me? </td> </tr><tr><td> <b> Susan</b></td> <td> I will! I have been following this team all season! The games have been the best. And maybe their quarterback is the best the school has ever had! It will be a great opportunity to network and promote our new brand of beer, Winner's Ale! </td></tr><tr> <td> <b> Jeff</b> </td><td> That might be fun. But I worry about our competitor and their contracts with the University and the stadium sponsorship. </td> </tr><tr> <td> <b> Molly</b></td>   <td> Ahhhhhhh.True, I didn't think of that... Well, we could do it \"off the record\"... Hahaha. </td> </tr><tr> <td> <b> Susan</b></td>  <td> Yeah right, if corporate finds out, we will be fired for sure... Or worse. </td> </tr><tr> <td> <b> Jeff</b> </td><td>   True true, but I still want to see the game and at least analyze our competitor's marketing strategy. </td></tr><tr> <td> <b> Susan </b></td>  <td> Good point Jeff; we will go but you better keep your mouth shut. </td> </tr><tr> <td> <b> Jeff </b> </td> <td> Thanks Susan, I will, so we'll all go and take notes right? </td> </tr> </table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What will the group most likely do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Report to corporate about Jeff",
+              "(B) Go to the victory parade",
+              "(C) See a movie",
+              "(D) Go dancing and drink Winner’s Ale"
+            ]
+          },
+          "answer": {
+            "text": "(B) Go to the victory parade",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Jeff?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He takes good notes.",
+              "(B) He likes to drink.",
+              "(C) He likes to talk.",
+              "(D) He loves parades."
+            ]
+          },
+          "answer": {
+            "text": "(C) He likes to talk.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Molly mean when she says, “off the record”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An unreleased song",
+              "(B) A record is being kept of their events.",
+              "(C) They won’t go and work officially.",
+              "(D) There is a clear recording of all events and they want it off."
+            ]
+          },
+          "answer": {
+            "text": "(C) They won’t go and work officially.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Winner’s Ale?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is an old variety of beer.",
+              "(B) People don’t know about it yet.",
+              "(C) It is delicious.",
+              "(D) It is cheap."
+            ]
+          },
+          "answer": {
+            "text": "(B) People don’t know about it yet.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4346"
+    },
+    {
+      "question": {
+        "text": "Many voters in this city are uninterested, and only about 15% of them are  _____  active.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) politically",
+          "(B) political",
+          "(C) politics",
+          "(D) politician"
+        ]
+      },
+      "answer": {
+        "text": "(A) politically",
+        "explanation": "The blank is before the adjective \"active\" \r\n=> Need an adv to modify for adj"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4348"
+    },
+    {
+      "question": {
+        "text": "19:01\r\n<br><b>Sylvia</b>: What movie are we going to?\r\n<br>19:08\r\n<br><b>Jason</b>: The one we agreed on last night!\r\n<br>19:08\r\n<br><b>Phyllis</b>: Yeah, it looks sooooo good! I love horror movies!\r\n<br>19:20\r\n<br><b>Bern</b>:!!! What do you mean?? I thought we decided on a comedy, the new one!\r\n<br>19:21\r\n<br><b>Sylvia</b>: That's right! The comedy with Ruffle Yellow Beard, the famous mime!\r\n<br>19:25\r\n<br><b>Jason</b>: Comedy? I thought horror too, but I do love Ruffle Yellow Beard. I'm in!\r\n<br>19:35\r\n<br><b>Phyllis</b>: OK, comedy it is. Meet you outside the theater at 10:00 P.M. SHARP!",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What kind of movie did Phyllis think the group was going to see?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Horror",
+              "(B) Sci-fi",
+              "(C) Comedy",
+              "(D) Romance"
+            ]
+          },
+          "answer": {
+            "text": "(A) Horror",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Jason mean when he texts, “I’m in!”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He wants to see the horror movie they agreed on.",
+              "(B) He wants to be in a comedy movie.",
+              "(C) He wants to be included in the group.",
+              "(D) He wants to stay in his house tonight."
+            ]
+          },
+          "answer": {
+            "text": "(C) He wants to be included in the group.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c434c"
+    },
+    {
+      "question": {
+        "text": "_____  the right environmental conditions, this tree will yield fresh fruit for most of the year.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) With",
+          "(B) About",
+          "(C) On",
+          "(D) As"
+        ]
+      },
+      "answer": {
+        "text": "(A) With",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>A"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c434e"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Lichtenberg Air </h4>September 24 <br> To our passengers: <br><br>Beginning October 1, Lichtenberg Air will ask passengers to pay an extra 20 percent in baggage fees. As you know, the reason for this increase is because of the rising fuel costs. We regret that the baggage fees have to be increased. <br>However, passengers are still allowed to have one carry-on bag free of charge. We would also like to emphasize that this has been the first increase in baggage fees for Lichtenberg Air in ten years. <br>As always, our goal is to provide safe and reliable transportation at a reasonable price. As the price of fuel lowers, we expect to eliminate the fee increase. <br>We thank you for choosing Lichtenberg Air.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the notice, what will happen when the price of fuel drops?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The stock price for Lichtenberg Air will increase.",
+              "(B) Passengers will be offered gift certificates.",
+              "(C) More flight attendants will be employed.",
+              "(D) The extra charge will be waived."
+            ]
+          },
+          "answer": {
+            "text": "(D) The extra charge will be waived.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Lichtenberg Air?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is asking passengers to keep a baggage limit.",
+              "(B) It is responding to customer complaints.",
+              "(C) It has not increased its baggage fees for a decade.",
+              "(D) It has added new destinations."
+            ]
+          },
+          "answer": {
+            "text": "(C) It has not increased its baggage fees for a decade.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about passengers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are allowed to bring electronics.",
+              "(B) They can take one bag onto the plane without any charge.",
+              "(C) They must pay the increased airline ticket price from October 1.",
+              "(D) They can get a 20-percent discount next month."
+            ]
+          },
+          "answer": {
+            "text": "(B) They can take one bag onto the plane without any charge.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4352"
+    },
+    {
+      "question": {
+        "text": "Brandy can make withdrawals from any Sails Bank branch, but she usually visits the  _____  one.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) closing",
+          "(B) closely",
+          "(C) closure",
+          "(D) closest"
+        ]
+      },
+      "answer": {
+        "text": "(D) closest",
+        "explanation": "The blank is before a noun and after an adjective\r\n=>  it is an adjective and in the superlative form."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4354"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Brixton Science Journal </h4>  On March 3, famed archeologist Douglas Price will be presenting on the results of his year-long excavation of ancient burial sites in Egypt. The presentation will be held at the Brixton Public Library beginning at 6:00 P.M. <br> Attendees are encouraged to come early in order to view some ancient Egyptian tools and instruments that will be on display. These precious items were retrieved by Mr. Price during his expedition to Egypt, and they are truly one of a kind. They are believed to have been used for farming by ancient Egyptian people. <br>Those who want to attend can reserve a seat by visiting www.brixtonlibrary.com. You can also find more information concerning Mr. Price’s most recent research on the website.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is mentioned about the event?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  It is sponsored by the Egyptian government.",
+              "(B) It will feature an artifact exhibition",
+              "(C) It will be held in Egypt.",
+              "(D) It is already sold out."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will feature an artifact exhibition",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What can be found on the library’s website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An events calendar",
+              "(B) A detailed map of the area",
+              "(C) Facts about ancient Egypt",
+              "(D) A guide to Egyptian food"
+            ]
+          },
+          "answer": {
+            "text": "(C) Facts about ancient Egypt",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4358"
+    },
+    {
+      "question": {
+        "text": "Heron Glassworks  _____  student groups of all ages for weekday tours of its warehouse and production floor.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) conveys",
+          "(B) preserves",
+          "(C) encloses",
+          "(D) welcomes"
+        ]
+      },
+      "answer": {
+        "text": "(D) welcomes",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>D"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c435a"
+    },
+    {
+      "question": {
+        "text": "<h4 align=\"center\">Blackrock Education Foundation</h4>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\" width=\"20%\">HOME</td>\r\n\t\t\t<td align=\"center\" width=\"20%\">ABOUT</td>\r\n\t\t\t<td align=\"center\" bgcolor=\"Lavender\" width=\"20%\"><b>NEWS </b></td>\r\n\t\t\t<td align=\"center\" width=\"20%\">RESOURCES</td>\r\n\t\t\t<td align=\"center\" width=\"20%\">CONTACT</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"5\" width=\"20%\">February 10<br />\r\n\t\t\t<br />\r\n\t\t\tLanguage Scholarship<br />\r\n\t\t\t<br />\r\n\t\t\tThe Blackrock Education Foundation would like to announce that we will begin taking applications for the 24th German Language Scholarship starting March 10 and ending on March 31. Applicants from diverse backgrounds are encouraged to apply. To qualify for the scholarship, applicants must:<br />\r\n\t\t\t<br />\r\n\t\t\t- be currently enrolled in a master&#39;s program<br />\r\n\t\t\t- prove advanced proficiency in the German language<br />\r\n\t\t\t- submit a complete health check<br />\r\n\t\t\t- submit a recommendation from a previous language instructor<br />\r\n\t\t\t<br />\r\n\t\t\tThe German Language scholarship is intended for students who already speak German at an advanced level. Therefore, this scholarship is for students who plan to use the German language to study in Germany in the near future.<br />\r\n\t\t\t<br />\r\n\t\t\tRecipients of the scholarship must complete monthly progress reports, submit all monthly expenses to the foundation, and maintain a B+ grade average.<br />\r\n\t\t\t<br />\r\n\t\t\tApplications can be downloaded under the RESOURCES tab on our website. Please submit all necessary materials to Mr. Hans Richter, Blackrock Education Foundation Director. The address is 459 Pearson Road, Chicago, IL 60616. The review and selection process will take approximately two weeks. Any application with incomplete or missing documents will be rejected without exception. Results will be released on April 15.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nTo: Clint Porter <cporter@umc.com><br />\r\nFrom: Hans Richter <richter@blackrockedu.com><br />\r\nDate: April 15<br />\r\nSubject: Blackrock Scholarship<br />\r\nAttachment: scholarship information<br />\r\n<br />\r\nDear Mr.Porter,<br />\r\n<br />\r\nI would like to congratulate you as a recipient of the 24th German Language Scholarship. As a recipient of the scholarship, your travel expenses to Germany, tuition fee, and living expenses will all be supplied for the duration of one year. Attached is a booklet containing information on scholarship regulations and requirements. Please make sure to read it carefully. If you have any questions or concerns, feel free to contact me. I will be e-mailing you within the next week with specific details for how to prepare for your upcoming studies.<br />\r\n<br />\r\nThanks,<br />\r\nHans Richter<br />\r\nDirector,\r\n<br> Blackrock Education Foundation <br>(/richter@blackrockedu.com/cporter@umc.com)",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "In the web page, the word “proficiency” in paragraph 1, line 6, is closet in meaning to?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) system",
+              "(B) practice",
+              "(C) experience",
+              "(D) mastery"
+            ]
+          },
+          "answer": {
+            "text": "(D) mastery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Mr. Porter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He worked at the Blackrock Foundation.",
+              "(B) He is an entrepreneur working in Germany.",
+              "(C) He has a good command of German.",
+              "(D) He wants to be a language instructor."
+            ]
+          },
+          "answer": {
+            "text": "(C) He has a good command of German.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the web page, what must scholarship recipients do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Keep track of monthly expenses",
+              "(B) Write a research paper",
+              "(C) Submit an annual report",
+              "(D) Take an entrance examination"
+            ]
+          },
+          "answer": {
+            "text": "(A) Keep track of monthly expenses",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of the email?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To confirm a departure date",
+              "(B) To schedule an interview",
+              "(C) To give some information to a scholarship winner",
+              "(D) To enroll in required courses in a university in Germany"
+            ]
+          },
+          "answer": {
+            "text": "(C) To give some information to a scholarship winner",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the scholarship applications?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be received by mid-April.",
+              "(B) They will be accepted only if requirements are met.",
+              "(C) They will be reviewed and selected by German professors.",
+              "(D) They must be submitted online."
+            ]
+          },
+          "answer": {
+            "text": "(B) They will be accepted only if requirements are met.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c435e"
+    },
+    {
+      "question": {
+        "text": "The projector borrowed by Ms. Reid is _____  back to the IT department by five o’clock.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) due",
+          "(B) set",
+          "(C) paid",
+          "(D) prompt"
+        ]
+      },
+      "answer": {
+        "text": "(A) due",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>A"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4360"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">  Sunny Day Cleaning</h4><p align =\"center\">  The only choice for your professional cleaning</p> <br> <table align =\"center\"  width=\"100%\" width=\"90%\" border=0 cellspacing= 10 cellpadding=10  style=border-collapse:collapse ><tr> <td> <b> Bill to</b> <br>.<br>.</td><td> Randall Auto Body<br>957 Pacific Trail Rd.<br>Troutdale, Oregon 97055</td><td> Invoice #: 2348</td><td> Date: March 3 </td> </tr></table> <br><table align =\"center\"  border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse ><tr><td align =\"center\"  ><b>  Date </b> </td><td align =\"center\"  > <b> Description of Service </td><td align =\"center\"  > <b> Amount </td></tr> <tr><td align =\"center\"  > February 5 </b> </td><td> Full-office cleaning (Including: 3 rooms, 2 bathrooms, windows, carpet deep clean, furniture)  </td><td align =\"center\"  > $95 </td></tr> <tr><td align =\"center\"  > February 5  </b> </td><td> Full-office cleaning (Including: 3 rooms, 2 bathrooms, windows, carpet deep clean, furniture)</td><td align =\"center\"  >  $95 </td></tr>  </table> <br><br><p align =\"center\"> Total: $190 </p><p align =\"center\"> *Payments received after April 1 will be subject to a $20 late charge.</p><h4 align =\"center\"> Sunny Day Cleaning </h4><p align =\"center\"> 283 Main St.</p><p align =\"center\"> Troutdale, Oregon 97055</p> <br><p align =\"center\">Questions or Additional Services: Please call 1-345-737-2209. </p> <br><br>===========================<br><br>March 8 <br> Dear Sunny Day Cleaning, <br><br>I received your invoice for the services we received in February, which 1 have to say were  excellent.  I see we were charged $95 dollars for each time you serviced our offices. This is what we had initially agreed upon and have been paying for your services since last j year at this time. However, Rod Sanford told me we’d be receiving a $5 discount each time you visited us because we have arranged for you to clean our other location just off 1 of Hwy. 26. He said that this new price would be starting in February. I have included a copy of the e-mail Rod Sanford sent me. Could you please adjust the price to reflect the new agreement and send US a new bill? I’d appreciate it. We look forward to seeing you  again. <br><br>Thank you for your assistance, <br><br>Patricia Collins<br>Manager <br>Randall Auto Body",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Ms. Collins write a letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The cleaning service missed an appointment.",
+              "(B) She was overcharged for a service.",
+              "(C) The cleaning service added an extra fee to her bill.",
+              "(D) She would like to renew her contract."
+            ]
+          },
+          "answer": {
+            "text": "(B) She was overcharged for a service.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the invoice, what amount is due by April 1 ?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $20",
+              "(B)$90",
+              "(C) $95",
+              "(D)$190"
+            ]
+          },
+          "answer": {
+            "text": "(D)$190",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did Ms. Collins send besides her letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A coupon for auto repairs",
+              "(B) A copy of an e-mail",
+              "(C) A signed contract",
+              "(D) A check for the amount due"
+            ]
+          },
+          "answer": {
+            "text": "(B) A copy of an e-mail",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is implied about Sunny Day Cleaning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They provide decent service.",
+              "(B) They are often late to appointments.",
+              "(C) They frequently overcharge their clients.",
+              "(D) They offer late payment options."
+            ]
+          },
+          "answer": {
+            "text": "(A) They provide decent service.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What service was NOT provided to Randall Auto Body?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Window care",
+              "(B) Floor care",
+              "(C) Furniture care",
+              "(D) Carpet care"
+            ]
+          },
+          "answer": {
+            "text": "(B) Floor care",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4364"
+    },
+    {
+      "question": {
+        "text": "_____   the parking lot is closed, both employees and customers will have to make use of street parking.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) As if",
+          "(B) Until",
+          "(C) So that",
+          "(D) While"
+        ]
+      },
+      "answer": {
+        "text": "(D) While",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>D"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4366"
+    },
+    {
+      "question": {
+        "text": "To: Ken Alberts <kalberts@emergentsolutions.com><br>From: Clarissa Pierce <cpierce@actionservices.com><br>Date: June 13<br>Subject:Shipping Contracts<br><br>Hello Mr. Alberts, <br><br>I am writing on behalf of my company, Action Services. Our company specializes in creating personalized flower arrangements, gift baskets, and novelty gifts. Recently we have been going over our books and realized we were paying too much to our current shipping company. We would be interested in offering you the opportunity to take over our account if you could provide US with some competitive rates. I have included a recent invoice of shipping costs with our current carrier, Express Corp. If you feel that you could beat their prices, we would like to try to work with you. Please let me know what you think. <br><br>Sincerely, <br>Clarissa Pierce<br>Account Manager, Action Services<br><br>==========================<br><br>To:Clarissa Pierce <cpierce@actionservices.com><br>From: Ken Alberts <kalberts@emergentsolutions.com><br>Date: June 14<br>Subject:Shipping Contracts<br><br> Dear Ms. Pierce, <br><br> Thank you for contacting US at Emergent Solutions. I have taken a look at your invoice from your last bill from Express Corp. and I believe that we can beat their prices. I would be happy to send over my account director to try to tailor a delivery package that is perfect for your needs. Since most of the shipping that you do is within the state and composed of relatively small items, I believe our express courier service will be perfect. We use fuel- efficient hybrid vehicles to run our small deliveries and are able to pass the savings on to our customers. As the Account Director, I look forward to working with Action Services in the future. <br><br> Sincerely, <br> Ken Alberts<br><br>=========================<br><br>To: Ken Alberts <kalberts@emergentsolutions.com><br> From: Clarissa Pierce <cpierce@actionservices.com><br> Date: June 16<br> Subject:Shipping Contracts<br><br> Mr. Alberts, <br><br> This sounds amazing! You have no idea how much it means to our company that you are using environmentally responsible transportation. Action Services was originally formed by a collection of Environmental Studies students at City College here. Everything we do is ethically sourced and recyclable. We can’t wait to meet with your team. <br><br> Best, <br> Clarissa Pierce<br>Account Manager, Action Services",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Action Services contact Emergent Solutions?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They needed new customers.",
+              "(B) They were spending too much on shipping.",
+              "(C) They wanted to expand their operation.",
+              "(D) They wanted to ship internationally."
+            ]
+          },
+          "answer": {
+            "text": "(B) They were spending too much on shipping.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Action Services?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They care about art.",
+              "(B) They are concerned about the environment.",
+              "(C) They need to sell more packages.",
+              "(D) Their old delivery service delivered packages to the wrong address."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are concerned about the environment.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What job does Mr. Alberts have?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) President",
+              "(B) HR manager",
+              "(C) CEO",
+              "(D) Account director"
+            ]
+          },
+          "answer": {
+            "text": "(D) Account director",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What kind of business is Action Services?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Technology consultants",
+              "(B) Leadership experts",
+              "(C) Hotel and resort specialists",
+              "(D) Florist and novelty suppliers"
+            ]
+          },
+          "answer": {
+            "text": "(D) Florist and novelty suppliers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the e-mails, what can you infer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Emergent Solutions offers cheaper shipping costs than Express Corp.",
+              "(B) Emergent Solutions will likely not be efficient.",
+              "(C) Emergent Solutions has a business ethics at odds with Action Services.",
+              "(D) Action Services is in debt."
+            ]
+          },
+          "answer": {
+            "text": "(A) Emergent Solutions offers cheaper shipping costs than Express Corp.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c436a"
+    },
+    {
+      "question": {
+        "text": "As a  _____  for making contracts with a lot of new clients, Mr. Skinner was given additional vacation days.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) reward",
+          "(B) progress",
+          "(C) solution",
+          "(D) routine"
+        ]
+      },
+      "answer": {
+        "text": "(A) reward",
+        "explanation": "Based on the meaning to choose the correct answer\r\n=>A"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c436c"
+    },
+    {
+      "question": {
+        "text": "To: Aaron Donald <adonald@acemail.com><br />\r\nFrom: James Holt <holtrain@zipnet.net><br />\r\nDate: Jan. 12<br />\r\nSubject:First Quarter Performance Review<br />\r\n<br />\r\nDear Aaron,<br />\r\n<br />\r\nI just wanted to give you a heads-up that the performance evaluations are going to be going forward as discussed. I know this was an area of stress for you in the fourth quarter of last year, so I wanted to give you plenty of advanced warning. You will need to bring your numbers up significantly if you want to pass the review. As you know, we have been struggling to make our sales goals over the past several years, and I am afraid Mr. Jones is determined to trim the staff if things don&#39;t change. I have far exceeded my target numbers, so I have included an attachment with some possible leads for sales. Give them a shot.<br />\r\n<br />\r\nGood luck,<br />\r\nJames<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nTo: James Holt <holtrain@zipnet.net><br />\r\nFrom: Aaron Donald <adonald@acemail.com><br />\r\nDate: Jan. 12<br />\r\nSubject: First Quarter Performance Review<br />\r\n<br />\r\nJames,<br />\r\n<br />\r\nThank you so much for the leads. I will get on them right away. I don&#39;t know why my sales are slumping so much lately in the technologies division. It seems like every sales technique 1 learned in school isn&#39;t working anymore. I am thinking about changing industries if I don&#39;t pass our review when it comes out in March. My sister is opening a beauty parlor and she was asking me to become a barber. Imagine that! Anyway, thank you again for the notice about the possible layoffs coming up. I will try to get my numbers up to standards, but I think that Mr. Jones may have already decided to let me go.<br />\r\n<br />\r\nAll the best,<br />\r\nAaron<br />\r\n<br />\r\n===========================<br />\r\n&nbsp;\r\n<div style=\"text-align: center;\"><strong>Possible Sales Leads for January</strong></div>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr bgcolor=\"lavender\">\r\n\t\t\t<td align=\"center\"><b>Name </b></td>\r\n\t\t\t<td align=\"center\"><b>Division </b></td>\r\n\t\t\t<td align=\"center\"><b>Account Potential </b></td>\r\n\t\t\t<td align=\"center\"><b>Rating </b></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Sally Jones</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$35,000-$50,000</td>\r\n\t\t\t<td align=\"center\">Silver</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Bod Knuddle</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$100,000 and up</td>\r\n\t\t\t<td align=\"center\">Gold</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Marquise Lee</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$12,000-$20,000</td>\r\n\t\t\t<td align=\"center\">Bronze/Silver</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</adonald@acemail.com></holtrain@zipnet.net></holtrain@zipnet.net></adonald@acemail.com>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is most likely true about James and Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are competitors.",
+              "(B) They are related.",
+              "(C) They are married.",
+              "(D) They are friends."
+            ]
+          },
+          "answer": {
+            "text": "(D) They are friends.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the job that Mr. Jones most likely has?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Human resources agent",
+              "(B) Sales executive",
+              "(C) Owner",
+              "(D) Associate secretary"
+            ]
+          },
+          "answer": {
+            "text": "(C) Owner",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the information provided, what is true about James?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has done very well at work.",
+              "(B) He needs more sales.",
+              "(C) He wants to work with Aaron.",
+              "(D) He will become a barber."
+            ]
+          },
+          "answer": {
+            "text": "(A) He has done very well at work.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is not very good at his job these days.",
+              "(B) The owner loves him.",
+              "(C) There are problems in the main office.",
+              "(D)  He will keep his job after the evaluations come in."
+            ]
+          },
+          "answer": {
+            "text": "(A) He is not very good at his job these days.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the problem with the sales leads James gave to Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are rated too highly.",
+              "(B) They are worth too much money.",
+              "(C) Aaron doesn’t know the contacts.",
+              "(D) They are in a field Aaron is struggling in."
+            ]
+          },
+          "answer": {
+            "text": "(D) They are in a field Aaron is struggling in.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4370"
+    },
+    {
+      "question": {
+        "text": "After investing heavily in Internet marketing campaigns, Bailey Coffee increased its annual profits  _____  fifteen percent.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) by",
+          "(B) among",
+          "(C) between",
+          "(D) on"
+        ]
+      },
+      "answer": {
+        "text": "(A) by",
+        "explanation": "The \"increase\" verb usually only comes with 2 prepositions \"to\" and \"by\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4372"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">  Respite for Commuters</h4> A new ride-sharing app in gaining in popularity as bus and taxi fees continue to rise and commuters continue to look for more efficient routers. Jordan Mills, a small business owner who commutes into downtown from his home in Brentwood has to transfer buses twice, then, take the subway to get to his workplace. Not only did he find the commute quite costly and uncomfortable in the rush-hour crowds, he found it time- consuming. But with the availability of the new app Freewheel, he found that he saved time and money with a quick ride available within 5 minutes of flagging for a ride from any location he was at. “This is definitely the future of transportation,” said Jordan. “I can’t get to work and back any other way now”.  <br>Jordan Mills isn't the only commuter who feels this way. An estimated 2000 new commuters in the city of Sherwood alone are expected to use the ride-sharing app within the next year and almost 500 new drivers have signed up to the program. <br>Freewheel is available for download at the Freewheel website and at Miniapp.com and Amacom.com. <br><br>===========================<br><br><p align =\"center\">  www.freewheel.com/history </p> <br>The idea for Freewheel began when Michael Owens and his co-workers first started a carpooling program at the company they worked at. Owens had to transfer the subway three times and the bus twice to get to work and although he could drive, the parking was limited. Fie managed the group by assigning different drivers and mapped out routes to each co-worker’s homes. Fie created an app that everyone could connect and communicate through so that the designated drivers and passengers could easily find each other. Five years later, Freewheel is now a major company with tens of thousands of users, both drivers and commuters around the country. <br>Freewheel is dedicated to keeping the cost of commuting down and the efficiency up. In time, it hopes to bring its services to people around the world. <br> <br> =============================== <br> <br><h4 align =\"center\">  Technology Initiatives </h4><p align =\"center\">  is proud to present the </p><p align =\"center\">  New Innovation Award to: </p><p align =\"center\">  Michael Owens, CEO of Freewheel</p> <br>This award recognizes the innovation and creativity of new talent in the technology industry. It also acknowledges the effort to help consumers through the use of technology with a novel idea that has transformed the transportation community. <br><br>Susan Vaneer<br><br>Exexutive Mananager, Technology Initiatives",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "The word “respite” in the title of the article is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Employment",
+              "(B) Immunity",
+              "(C) A refund",
+              "(D) A break"
+            ]
+          },
+          "answer": {
+            "text": "(D) A break",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Freewheel?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It started out small.",
+              "(B) It is an international company.",
+              "(C) It employs bus drivers.",
+              "(D) It is good for the environment."
+            ]
+          },
+          "answer": {
+            "text": "(A) It started out small.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How are Jordan Mills and Michael Owens similar?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Both started technology companies.",
+              "(B) Both wanted an efficient way to commute.",
+              "(C) Both were employed in public transportation.",
+              "(D) Both won awards for their achievements."
+            ]
+          },
+          "answer": {
+            "text": "(B) Both wanted an efficient way to commute.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the certificate awarding?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The best drivers",
+              "(B) Environmental efforts",
+              "(C) A good idea",
+              "(D) The highest-earning company"
+            ]
+          },
+          "answer": {
+            "text": "(C) A good idea",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is most likely true about Michael Owens?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He dislikes driving.",
+              "(B) He owns a taxi company.",
+              "(C) He wants to expand his business.",
+              "(D) He has met Jordan Mills."
+            ]
+          },
+          "answer": {
+            "text": "(C) He wants to expand his business.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c4376"
+    }
+  ],
+  "id": "626441d8eccc8cae769c437c"
+}

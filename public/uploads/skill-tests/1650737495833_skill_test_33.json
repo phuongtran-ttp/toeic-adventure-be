@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 33",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2138.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2138.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7b9"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Why do you go to this grocery store when there’s one closer to your house? <br><b> (A) This one has a wider selection. </b><br>(B) We live near each other. <br> (C) Did you get everything you needed?"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7be"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2234.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2234.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7c3"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Why did you order more office supplies? <br><b>  A) We’d run out</b><br>B) How old is he<br>C) No, I’m not surprised"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7c6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "259533155-1487581034279.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/259533155-1487581034279.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7c1"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Where did Ms. Sato go to the university? <br>A) That’s my next class<br>B) Her colleagues went there, too<br>*C) Somewhere in the north, I think"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7c8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2140.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2140.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7cb"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Is the employee appreciation dinner  going to be formal or informal? <br><b> (A) I was told that we could dress casually. </b><br>(B) I'm looking forward to it, too. <br>  (C) You're welcome to sit by me."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7d0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2235.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2235.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7ce"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Should I work on the report at home tonight, or can I finish it tomorrow? <br>A) We left at three<br><b> B) Whichever you prefer</b><br>C) Yes, she can"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7d5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2528.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2528.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7d2"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Why is Mr. Dean in such a good mood? <br>A) In order to finish early<br>*B) He just won a sales competition. <br>C) It’s the most acceptable decision"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7d7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2529.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2529.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7db"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Has Dr. Robinson’s office called you with the estimate for your dental work? <br>A) Our estimated arrival is 4 PM<br>B) Yes, I’m working hard this week<br>*C) No, they’re out on vacation"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7dd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2530.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2530.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7e0"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "This product was developed just last year. <br>*A) Given the short timeframe, its success is surprising<br>B) There are plans to start the development soon<br>C) Yes, a couple of biochemical engineers in Canada"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7e2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2531.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2531.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7e5"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Who’s in charge of making the director’s travel arrangements? <br>* A) That’s handled by his secretary. <br>B) Use the corporate credit card to pay<br>C) The travel department called about the charges"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7e7"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2532.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2532.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be7ea"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Will you be needing anything else, sir? <br>A. Sorry, I didn’t<br>B. Yes, you’ll need this<br>*C. I’d like a glass of water, please"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be7ec"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644157eccc8cae769be7ef"
+}

@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 121",
+  "questions": [
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/6429715_1562639996250.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0410.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c0777"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 Springdale Fitness Club has just expanded its swimming facilities to include a lap pool</b>. We are extremely excited to be able to build on our already impressive offerings of aquatic fitness! We'll be having a ribbon cutting ceremony this Saturday at noon, and to celebrate we will be holding a timed lap race! Because we created the lap pool for our members who are serious about training, we must enforce a policy that requires members to sign up for times to use the pool. <b> Q3 Additionally, the pool is not to be used for free style play</b>. Please come down to Springdale Fitness Club on Saturday and join us in the good time!"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Springdale Fitness Club?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They have a tennis court.",
+              "(B) They take pride in their customer service.",
+              "(C) They specialize in children’s pool parties.",
+              "(D) They have a variety of swimming facilities."
+            ]
+          },
+          "answer": {
+            "text": "(D) They have a variety of swimming facilities.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. What are the hours of the lap pool?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 8 A.M.-5 P.M.",
+              "(B) 9 A.M.-5 P.M.",
+              "(C) 9 A.M.-6 P.M.",
+              "(D) 8 A.M.-6 P.M."
+            ]
+          },
+          "answer": {
+            "text": "(B) 9 A.M.-5 P.M.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Springdale Fitness say about the new lap pool?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is Olympic size.",
+              "(B) It has four lanes.",
+              "(C) It is not for playing games and free swimming.",
+              "(D) It will host weekly races."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is not for playing games and free swimming.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c077b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c077f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, my name is Rick Dunn.<b> Q1 I was in your store today and I’m worried I may have left my wallet there</b>. Earlier today I was in the home furniture section looking at some couches. <b> Q2 I think my wallet may have slipped out of my pocket while sitting on one of the couches.</b> If you could please look for it, I would really appreciate it. <b> Q3 I’d like to stop by your store when you open it at 9:00 A.M. tomorrow</b>. I hope you have good news for me. My phone number is 023-555-6541. Thank you in advance."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the message probably for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A carpenter",
+              "(B) A store manager",
+              "(C) A furniture designer",
+              "(D) A bank teller"
+            ]
+          },
+          "answer": {
+            "text": "(B) A store manager",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, when does he think he lost his wallet?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When he used a dressing room",
+              "(B) When he visited a bookstore",
+              "(C) When he presented his ID card",
+              "(D) When he tried some furniture"
+            ]
+          },
+          "answer": {
+            "text": "(D) When he tried some furniture",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker plan to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Replace an item",
+              "(B) Call the police",
+              "(C) Go to a store again",
+              "(D) Stop by the listener's home"
+            ]
+          },
+          "answer": {
+            "text": "(C) Go to a store again",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c0783"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c0781"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 Amy, it is your responsibility to check that the store is clean and well-stocked for customers before we open for the day. Q2 Most importantly, I would like you to make sure that the proper price tags are displayed in front of their corresponding products</b>. Customers get really confused and upset when the price of a product is displayed incorrectly.<b> Q3 In the case that a customer ever does get displeased, please let me know right away so I can come and deal with the problem in person.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a theater",
+              "(B) At a car dealership",
+              "(C) At a retail store",
+              "(D) At a library"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a retail store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the listener asked to double-check?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Accurate prices",
+              "(B) Sales figures",
+              "(C) Business hours",
+              "(D) Name tags"
+            ]
+          },
+          "answer": {
+            "text": "(A) Accurate prices",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When should the listener contact the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) If an employee is late for work",
+              "(B) If a technical problem occurs",
+              "(C) If an item is out of stock",
+              "(D) If a customer is dissatisfied"
+            ]
+          },
+          "answer": {
+            "text": "(D) If a customer is dissatisfied",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c0785"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c0789"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome to the Gould Museum of Ancient Artifacts. <b> Q1 I’ll be your guide today for the Ancient Egypt exhibit. Q2 The majority of the artifacts you will see today are being put on public display for the first time </b>. In particular, this exhibit features the everyday objects used by ancient Egyptian people. These items include jewelry, pots, and kitchen utensils.<b> Q3 After this tour, you can purchase a book in our gift shop that includes photographs of the artifacts with more detailed background information explaining their origins.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A historian",
+              "(B) An artist",
+              "(C) An antique dealer",
+              "(D) A museum guide"
+            ]
+          },
+          "answer": {
+            "text": "(D) A museum guide",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about the exhibit?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is sponsored by the Egyptian government.",
+              "(B) Most of its artifacts had not been seen by the public.",
+              "(C) It will run until the end of the month.",
+              "(D) It includes works from modern Egyptian artists."
+            ]
+          },
+          "answer": {
+            "text": "(B) Most of its artifacts had not been seen by the public.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, how can listeners receive more information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By reading a sign",
+              "(B) By searching online",
+              "(C) By purchasing a publication",
+              "(D) By listening to a presentation"
+            ]
+          },
+          "answer": {
+            "text": "(C) By purchasing a publication",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c078d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c078b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 The town of Dayton is excited to announce the opening of a new community center</b>. The center provides daytime activities for kids and adults of all ages. <b> Q2 For the grand opening, the local band Summer Heat, led by Jim Neilson, will perform a show in half an hour. Q3 Afterwards, attendees are encouraged to fill out a survey meant to judge the needs of local citizens.</b> Thank you."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the announcement about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An opening of a public building",
+              "(B) A commemorative statue",
+              "(C) A singing contest",
+              "(D) A survey result"
+            ]
+          },
+          "answer": {
+            "text": "(A) An opening of a public building",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is Jim Neilson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A mayor",
+              "(B) An instructor",
+              "(C) A musician",
+              "(D) An architect"
+            ]
+          },
+          "answer": {
+            "text": "(C) A musician",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are attendees asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Reserve seats in advance",
+              "(B) Complete a survey",
+              "(C) Subscribe to a newsletter",
+              "(D) Contribute to a fundraiser"
+            ]
+          },
+          "answer": {
+            "text": "(B) Complete a survey",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c078f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c0793"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Attention, passengers. Our arrival in Chicago is expected to be somewhat behind schedule. <b> Q1 Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. Q2 Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M</b>. Although these circumstances are out of our control, we do apologize for any inconvenience it may cause you. <b> Q3 We would like to remind passengers that this bus offers a free Wi-Fi connection</b>. This is just one of the amenities that make riding with us more comfortable than with our competitors."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What has caused the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A traffic accident",
+              "(B) A heavy workload",
+              "(C) Inclement weather",
+              "(D) A vehicle malfunction"
+            ]
+          },
+          "answer": {
+            "text": "(C) Inclement weather",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, when is the bus scheduled to arrive at the destination?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 4:00 P.M.",
+              "(B) 5:00 P.M.",
+              "(C) 6:00 PM.",
+              "(D) 7:00 PM."
+            ]
+          },
+          "answer": {
+            "text": "(C) 6:00 PM.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the bus provide to passengers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Free Internet access",
+              "(B) A discounted ticket",
+              "(C) A complimentary meal",
+              "(D) A comfortable connecting bus service"
+            ]
+          },
+          "answer": {
+            "text": "(A) Free Internet access",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c0797"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c0795"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Good morning, everyone. <b> Q1 Welcome to a test screening of our pilot for a new daytime sitcom entitled Once Upon a Romance</b>. Your participation in this focus group is essential for assessing audience reception. <b> Q2 This television show is meant to appeal to middle- aged housewives, and that is why you have all been selected. Q3 After watching the pilot, we will take you to a meeting room where we will conduct an in-depth interview that will help us gather your feedback and responses</b>. Thank you again for your cooperation."
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A scholar",
+              "(B) A producer",
+              "(C) A pilot",
+              "(D) A programmer"
+            ]
+          },
+          "answer": {
+            "text": "(B) A producer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Potential investors",
+              "(B) Actors",
+              "(C) Housewives",
+              "(D) University students"
+            ]
+          },
+          "answer": {
+            "text": "(C) Housewives",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the listeners do in a meeting room?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Participate in a raffle",
+              "(B) Watch a video",
+              "(C) Enroll in a class",
+              "(D) Attend an interview"
+            ]
+          },
+          "answer": {
+            "text": "(D) Attend an interview",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c0799"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0404.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0404.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c079d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Good afternoon, dedicated listeners. You are listening to the weekly broadcast of World Table, the program that explores culinary traditions from all around the world. <b> Q1 On today’s show, our guest is Cindy Mills, a renowned documentary producer</b>. Ms. Mills is going to speak about her new documentary, Food and Life of China. <b> Q2 She produced the documentary while visiting traditional Chinese restaurants and interviewing chefs and restaurant patrons. Q3 If you visit the website at WWW. tmostation.com, you can view a trailer for the documentary.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is being introduced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A chef",
+              "(B) A backpacker",
+              "(C) A critic",
+              "(D) A producer"
+            ]
+          },
+          "answer": {
+            "text": "(D) A producer",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the documentary about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) World-famous restaurants",
+              "(B) Traditional Chinese cuisine",
+              "(C) A celebrity’s life",
+              "(D) Popular recipe books"
+            ]
+          },
+          "answer": {
+            "text": "(B) Traditional Chinese cuisine",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what can listeners find on the website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A review",
+              "(B) A menu",
+              "(C) A preview",
+              "(D) An interview"
+            ]
+          },
+          "answer": {
+            "text": "(C) A preview",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07a1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0404.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0404.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c079f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 This is a reminder that legendary soccer player Tommy Durant will be signing autographs at Dave’s Sport Shop at 1:00 P.M. tomorrow. Q2 You are encouraged to bring your own items, such as clothes or books, for Mr. Durant to autograph</b>. Also at this time, parents will be able to sign their children up for a summer soccer camp that will be run by Tommy Durant. <b> Q3 The camp is limited to twenty children, so anyone who is interested should sign up early.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the broadcast?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce the results of a soccer match",
+              "(B) To promote a store's grand opening",
+              "(C) To advertise a new product",
+              "(D) To inform the listeners of a special event"
+            ]
+          },
+          "answer": {
+            "text": "(D) To inform the listeners of a special event",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker suggest doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wearing comfortable clothing",
+              "(B) Exercising on a regular basis",
+              "(C) Bringing personal belongings",
+              "(D) Booking a ticket in advance"
+            ]
+          },
+          "answer": {
+            "text": "(C) Bringing personal belongings",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about the summer camp?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is free of charge.",
+              "(B) It will last three months.",
+              "(C) It has a restricted number of participants.",
+              "(D) It will be sponsored by Dave's Sport Shop."
+            ]
+          },
+          "answer": {
+            "text": "(C) It has a restricted number of participants.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07a3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0405.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0405.mp3",
+            "mime": "audio/mp3",
+            "id": "62644178eccc8cae769c07a7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Great news everybody! Quarterly profits are up 23%.<b> Q1 The introduction of our new range of body washes has exceeded all of our expectations</b>. Our other products have continued to sell well, particularly our facial creams and hand creams. <b> Q2 Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process</b>. This must have helped with our sales increase. We are expecting more media exposure in the following months, and the release of several new products. <b> Q3 How about that? I’m proud of all the work you have put into this quarter</b>. Let's keep it up!"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of products are being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Computer parts",
+              "(B) Hair products",
+              "(C) Beauty products",
+              "(D) Cell phones"
+            ]
+          },
+          "answer": {
+            "text": "(C) Beauty products",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what happened last month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sales went down.",
+              "(B) A product launch went better than expected.",
+              "(C) Their products were featured in a magazine.",
+              "(D) Another company took over their contract."
+            ]
+          },
+          "answer": {
+            "text": "(C) Their products were featured in a magazine.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman mean when she says “How about that?”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She doesn’t understand the situation.",
+              "(B) She expected a customer return policy.",
+              "(C) She wants to purchase some products.",
+              "(D) She is happy with the company’s progress."
+            ]
+          },
+          "answer": {
+            "text": "(D) She is happy with the company’s progress.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644178eccc8cae769c07ab"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "EASY",
+  "id": "62644178eccc8cae769c07b1"
+}

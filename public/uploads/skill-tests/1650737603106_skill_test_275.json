@@ -1,0 +1,661 @@
+{
+  "name": "Skill Test 275",
+  "questions": [
+    {
+      "question": {
+        "text": "Attention West Arragon Residents: <br>The West Arragon Business Directory has grown so large that it takes up a sizable portion of the neighborhood newsletter. As a result, we will no longer be printing the directory on paper and will offer it online instead. <br>The directory is not posted yet, but it will be found at www.westarragon.com in the next few weeks. When it becomes available, I suggest that you review your listing to make sure it is accurate. If you find that your listing is out of date or has a link that does not work, please let me know so that I can make the necessary changes. <br><br>Thanks, <br>Judy Lanster<br>West Arragon Neighborhood Council<br>555-0013",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What change will be made to the business directory?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will have shortened listings.",
+              "(B) It will be available only online.",
+              "(C) It be distributed on a different date.",
+              "(D) It will cover more than one neighborhood."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will be available only online.",
+            "explanation": "The information is given in: <i>”As a result, we will no longer be printing the directory on paper and will offer it online instead.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the notice, why might readers contact Ms. Lanster?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To request a correction",
+              "(B) To obtain an access code",
+              "(C) To subscribe to a newsletter",
+              "(D) To suggest changes in deadlines"
+            ]
+          },
+          "answer": {
+            "text": "(A) To request a correction",
+            "explanation": "You can see the information in: <i>” If you find that your listing is out of date or has a link that does not work, please let me know so that I can make the necessary changes.”</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b7a"
+    },
+    {
+      "question": {
+        "text": "<table align =\"center\" width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr><td colspan =\"2\" align =\"center\">  <b>Workshop: Team Building</b> <br> 17 April<br>9:15 A.M. to 4:30 PM. <br>£40 per person<br> </td></tr> <tr><td>9:15 A.M.：</td> <td> <b><i> First Steps</b></i> <br>Focus on important issues that small businesses face. Identify your company’s long- and short-term objectives as well as any areas in need of improvement. </td> </tr><tr><td>10:45 A.M.：</td> <td> <b><i> Fostering Fellowship</b></i> <br>Learn how to help create an atmosphere of cooperation rather than competition among your employees at all levels.</td> </tr><tr><td>12:15 P.M.：</td> <td> <b><i> Lunch Break</b></i> <br>Participants may choose between two complimentary entrees: grilled chicken sandwich with salad greens or pasta with vegetables. </td> </tr> <tr><td>1:30 P.M.：</td> <td> <b><i> Team Activities</b></i> <br>Experiment with team-building exercises for both small and large groups. Work with your fellow participants to get ideas that you can use with your own employees.</td> </tr><tr><td>3:00 P.M.：</td> <td> <b><i> Evaluation Techniques</b></i> <br>Learn about methods to determine whether team-building activities are having the intended effect. Get tips on how to use common office software to track progress at your company.</td> </tr></table>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the workshop most likely intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Business journalists",
+              "(B) Human resource experts",
+              "(C) Owners of small businesses",
+              "(D) New employees at small companies"
+            ]
+          },
+          "answer": {
+            "text": "(C) Owners of small businesses",
+            "explanation": "You can see the passage mentions about team building, fostering fellowship and team activities which are related to the job of a business manager"
+          }
+        },
+        {
+          "question": {
+            "text": "What session involves identifying goals?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) First Steps",
+              "(B) Fostering Fellowship",
+              "(C) Team Activities",
+              "(D) Evaluation Techniques"
+            ]
+          },
+          "answer": {
+            "text": "(A) First Steps",
+            "explanation": "The information is in: <i>”Identify your company’s long- and short-term objectives as well as any areas in need of improvement.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT indicated about the workshop?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It requires a fee to attend.",
+              "(B) It includes a meal.",
+              "(C) It is a one-day event.",
+              "(D) It will focus on new software."
+            ]
+          },
+          "answer": {
+            "text": "(D) It will focus on new software.",
+            "explanation": "(A) - £40 per person<br>(B) - Lunch Break Participants may choose between two complimentary entrees: grilled chicken sandwich with salad greens or pasta with vegetables.<br>(C) - 17 April 9:15 A.M. to 4:30 PM."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b7d"
+    },
+    {
+      "question": {
+        "text": "Local News <br><br>Monday, March 31<br>The Cloud Theater on Gordon Street will close at the end of this month, but this important piece of real estate won’t be closed for long. The building has been sold to the Lakehurst Cinema Society (LCS). According to LCS Executive Director Kartik Mai la, the group is planning to make some updates to the building before it reopens. He explained that the seats, screens, and sound systems will be replaced in all of the theaters. -[1]- <br> “However,” Mr Malla added, “we’ll be keeping one of the Cloud Theater’s old projectors so we can continue to show classic films in their original format” <br>Up to now, the Cloud Theater has played mainly art house, independent, and foreign films. -[2]-. The former owner, Mr. Eugene Saltier, who has now retired, always sought to make the Cloud Theater a haven for artistic films. He was successful for many years, but ticket sales have declined in recent years anti he decided it was time lo sell. -[3]- <br>“This was a hard decision to make，” said Mr. Saltier. “I will miss working at the theater. I am happy the LCS is going to bring new life to the old theater:’ <br>Under its new ownership, the theater will continue to show those artistic types of movies on special occasions. It will also show more mainstream movies that will appeal to families and children. <br>The society plans to reopen the theater to the public on July I. In addition, it will continue to serve as host for the classic film festival that begins the first weekend in August and continues for ten days. Everything about the festival will remain the same except for one thing. Formerly called the Gordon Street Film Festival, it will now be known as the Lakehurst Cinema Society Film Festival, -[4]-",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about the Cloud Theater?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will show mainly classic films.",
+              "(B) It will soon have new equipment installed.",
+              "(C) its ticket prices will increase.",
+              "(D) Its customers are not happy about changes that are planned."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will soon have new equipment installed.",
+            "explanation": "The information is in: <i>”According to LCS Executive Director Kartik Mai la, the group is planning to make some updates to the building before it reopens. He explained that the seats, screens, and sound systems will be replaced in all of the theaters.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, what was difficult for Mr. Sattler?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Securing suitable equipment",
+              "(B) Selecting a location for retirement",
+              "(C) Deciding to sell the theater",
+              "(D) Finding buyers for the theater"
+            ]
+          },
+          "answer": {
+            "text": "(C) Deciding to sell the theater",
+            "explanation": "The information can be inferred from: <i>”The former owner, Mr. Eugene Saltier, who has now retired, always sought to make the Cloud Theater a haven for artistic films. He was successful for many years, but ticket sales have declined in recent years anti he decided it was time lo sell.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What was renamed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A movie theater",
+              "(B) An executive position",
+              "(C) A film festival",
+              "(D) A Lakehurst street"
+            ]
+          },
+          "answer": {
+            "text": "(C) A film festival",
+            "explanation": "The information is in: <i>”Everything about the festival will remain the same except for one thing. Formerly called the Gordon Street Film Festival, it will now be known as the Lakehurst Cinema Society Film Festival.“</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?<br> \"The concession stand has also been eliminated.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": "Because the sentence before position [1] mentions about the selling of Lakehurst Lake Cinema Society."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b80"
+    },
+    {
+      "question": {
+        "text": "<h4>VENTURE SOLUTIONS</h4>As our corporate client, you<br>• gain access to cutting-edge technology<br>• pay only for what you use，thus reducing hardware and software expenses<br>• enjoy our streamlined, up-front, and ongoing billing <br><br>We provide<br>• customized software production and regular maintenance of on-site hardware (requires one-year contract) <br>• management and regular upgrades of applications and databases<br>• storage, backup, and data recovery<br>• an around-the-clock service center for fast resolution of issues<br>• access to our exclusive Venture Remote Monitoring (VRM) system",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is one of the services offered by Venture Solutions?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Legal advice",
+              "(B) Office accounting",
+              "(C) Building maintenance",
+              "(D) Software development"
+            ]
+          },
+          "answer": {
+            "text": "(D) Software development",
+            "explanation": "Based on the information given in the passage about the service they provide."
+          }
+        },
+        {
+          "question": {
+            "text": "What is mentioned about ongoing care of computer equipment?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It must be purchased for a minimum of one year",
+              "(B) It is recommended for older computer systems.",
+              "(C) It is performed by external consultants.",
+              "(D) It is not available to new customers."
+            ]
+          },
+          "answer": {
+            "text": "(A) It must be purchased for a minimum of one year",
+            "explanation": "The information can be inferred from: <i>”customized software production and regular maintenance of on-site hardware (requires one-year contract)”.</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b83"
+    },
+    {
+      "question": {
+        "text": "<h3 align =\"center\"> Your Online Job Finder</h3><h4 align =\"center\"><i> Work for the best!</i></h4>Other companies ask their salespeople to make countless calls to potential customers who are not expecting to be contacted. At AJQ Insurance, customers call us for their insurance needs! Our insurance sales associates take only inbound sales calls from interested potential policyholders. These positions are free from the pressure of selling on commission. <br>Complete our sales training while being paid a generous hourly rate. Take the exam to become a licensed insurance professional. If you succeed, you may be offered a salaried position. <br>We will consider education and experience in the salary offer. Some university work is useful' but motivated high school graduates will also be considered. Because we work with our customers twenty-four hours a day, seven days a week, we offer many shifts to choose from—with an additional 10% in pay for late-night and early-morning shifts. <br>Please click Apply Now ’ below to take advantage of this opportunity with youronlinejobfinder.com. You will need an active e-mail address and phone number to complete the process. Suitable candidates wil1 be contacted by phone or e-mail. Call 409-555-0123 if you  have any questions about the application process. We recommend that you become familiar with the company before applying by visiting our Web site at AJQinsurance.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What duty is mentioned as part of the job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Meeting safes commission targets",
+              "(B) Receiving calls from potential customers",
+              "(C) Working only during unconventional hours",
+              "(D) Calling people who are unfamiliar with the company"
+            ]
+          },
+          "answer": {
+            "text": "(B) Receiving calls from potential customers",
+            "explanation": "The information can be inferred from: <i>”d. At AJQ Insurance, customers call us for their insurance needs! Our insurance sales associates take only inbound sales calls from interested potential policyholders.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the advertisement, what is required for a salaried position?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sales experience",
+              "(B) A university degree",
+              "(C) Employer references",
+              "(D) An insurance license"
+            ]
+          },
+          "answer": {
+            "text": "(D) An insurance license",
+            "explanation": "The information is in: <i>”Take the exam to become a licensed insurance professional. If you succeed, you may be offered a salaried position.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the advertisement, why should applicants visit the AJQ Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To learn about AJQ Insurance",
+              "(B) To apply for the insurance sales job",
+              "(C) To ask questions about the process",
+              "(D) To find out about their application status"
+            ]
+          },
+          "answer": {
+            "text": "(A) To learn about AJQ Insurance",
+            "explanation": "You can find the information at: <i>”We recommend that you become familiar with the company before applying by visiting our Web site at AJQinsurance.com.”</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b86"
+    },
+    {
+      "question": {
+        "text": "<h4>A Long-Lasting Love for Books</h4> February 29 - Both in and around Pine Hill, Alfred Carlson，who has been teaching Russian literature at Pine Hill State University for twenty years, is probably best known as the owner of The Treasure Box, the town's oldest bookstore. The store has two unique features: it specializes in rare books and is open for business on Saturdays only. Evidently, walk-in sales make up only a small percentage of Mr. Carlson’s business; the bulk of the store’s revenue is generated by orders placed over the telephone or online by universities, museums, and private collectors. <br>On Sunday The Treasure Box will be celebrating its sixtieth anniversary. “When my mother, Willisa, opened the bookstore all those years ago on Green Edge Road, two blocks from here, she probably had no idea it would still be serving the public six decades later,” Mr. Carlson said. The store still  displays the original sign over the doorway. The interior <b> retains</b> the living-room atmosphere it always had, with its mismatched tables and chairs. One section of the store is filled with books about baseball, an abiding passion of the Carlson family. On Friday nights the store becomes an informal social club. Not surprisingly, members tend to enjoy conversation about rare books, literature, and baseball. <br>Later this month Mr. Carlson will mark another milestone: he will be retiring from his teaching position. His retirement does not mean, however, that The Treasure Box will see extended business hours; it will continue to be open once a week. “I am not retiring from one job just so that I can spend more time on another,” Mr. Carlson said. “Rather, the fact that I no longer will have to prepare for classes or grade students’ papers means that I will be able to dedicate more time to my children and grandchildren.”",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why most likely was the article written?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To attract members to a new book club",
+              "(B) To highlight the benefits of selling items that are unique",
+              "(C) To celebrate the achievements of a local business personality",
+              "(D) To announce the relocation of an established business"
+            ]
+          },
+          "answer": {
+            "text": "(C) To celebrate the achievements of a local business personality",
+            "explanation": "You can see the passage mentions about The Treasure Box as an achievement of Alfred Carlson."
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT suggested about Mr. Carlson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He will soon be ending his career as an instructor.",
+              "(B) He studies works written by Russian authors.",
+              "(C) He has lived in Pine Hill for almost ten years.",
+              "(D) He enjoys talking about baseball with others."
+            ]
+          },
+          "answer": {
+            "text": "(C) He has lived in Pine Hill for almost ten years.",
+            "explanation": "(A) - Later this month Mr. Carlson will mark another milestone: he will be retiring from his teaching position.<br>(B) - Both in and around Pine Hill, Alfred Carlson，who has been teaching Russian literature at Pine Hill State University<br>(D) -  One section of the store is filled with books about baseball, an abiding passion of the Carlson family. On Friday nights the store becomes an informal social club. Not surprisingly, members tend to enjoy conversation about rare books, literature, and baseball."
+          }
+        },
+        {
+          "question": {
+            "text": "The word “retains” in paragraph 2, is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) contributes to",
+              "(B) agrees with",
+              "(C) remembers",
+              "(D) keeps"
+            ]
+          },
+          "answer": {
+            "text": "(D) keeps",
+            "explanation": "<b>retain:</b>to keep or continue to have something"
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about The Treasure Box?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will be adding a section devoted to children’s books.",
+              "(B) It will maintain its current hours of operation.",
+              "(C) Its sales are expected to increase this year.",
+              "(D) Its sign will be replaced later in the month."
+            ]
+          },
+          "answer": {
+            "text": "(B) It will maintain its current hours of operation.",
+            "explanation": "The information is in: <i>“The Treasure Box will see extended business hours; it will continue to be open once a week</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b89"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/2238346_1563420291465.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "At 11:07 A.M., what does Mr. Volkov mean when he writes, “Of course\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He already knew that an e-mail had been received.",
+              "(B) He has received a signed contract",
+              "(C) He thinks the solution to a problem is obvious.",
+              "(D) He was happy to fulfill a request."
+            ]
+          },
+          "answer": {
+            "text": "(D) He was happy to fulfill a request.",
+            "explanation": "You can see Lucia Medrano says thanks to him for making those changes."
+          }
+        },
+        {
+          "question": {
+            "text": "Who most likely is Ms. Medrano?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A writer",
+              "(B) A lawyer",
+              "(C) A financial adviser",
+              "(D) A human resources manager"
+            ]
+          },
+          "answer": {
+            "text": "(A) A writer",
+            "explanation": "Based on the information given in: <i>“We’re always looking for goof material for our magazine.”</i>"
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b8c"
+    },
+    {
+      "question": {
+        "text": "To: Mercedes Salinas <msalinas@fithealthplanning.bm> <br>From: Leonard Cowden <lcowden@srhealthcenter.bm> <br>Subject: Bermuda Healthy Living Conference<br>Date: 16 April<br><br>Dear Ms. Salinas, <br>I m excited that you have agreed to be one of the speakers at our second annual Bermuda Healthy Living Conference on 12 May. I realize the invitation was last minute, and I truly appreciate your willingness to step in for Cara Branston. — [l] —. Your expertise as a dietitian will be greatly valued by our participants. The strong attendance at Ms. Branston’s session last year on vegetarian meal preparation reflected that, — [2] —. This year there is sure to be great interest in your unique approach to healthy eating. <br>If you would like to sell copies of your book, please ship them in advance to allow time for us to set up a display. — [3] —. Also, be sure to let me know if you’ll need access to a projector with a remote for your presentation. — [4] —. Lastly, could you send me a short biographical profile as soon as possible for inclusion in our conference program? Thanks again. <br><br>Regards, <br>Leonard Cowden",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Cowden most likely send the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To invite Ms. Salinas to an event",
+              "(B) To acknowledge Ms. Salinas’ acceptance of an offer",
+              "(C) To ask Ms. Salinas for a recommendation",
+              "(D) To propose that a session be rescheduled"
+            ]
+          },
+          "answer": {
+            "text": "(B) To acknowledge Ms. Salinas’ acceptance of an offer",
+            "explanation": "The information is in: <i>”I’m excited that you have agreed to be one of the speakers at our second annual Bermuda Healthy Living Conference on 12 May. I realize the invitation was last minute, and I truly appreciate your willingness to step in for Cara Branston.”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Ms. Branston?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She spoke at the conference last year.",
+              "(B) She wrote a popular book about nutrition.",
+              "(C) She is a colleague of Ms. Salinas.",
+              "(D) She is studying to be a dietitian."
+            ]
+          },
+          "answer": {
+            "text": "(A) She spoke at the conference last year.",
+            "explanation": "You can find the information at: <i>”The strong attendance at Ms. Branston’s session last year on vegetarian meal preparation reflected that, “</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? <br> \"It is no trouble at all to have visual equipment available,",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "The sentence before position [4] mention about the projector and remote which are equipment."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b8f"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/5457548_1563420305061.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of products does the store sell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Books",
+              "(B) Jewelry",
+              "(C) Flowers",
+              "(D) Appliances"
+            ]
+          },
+          "answer": {
+            "text": "(B) Jewelry",
+            "explanation": "The passage mentions about silver ring."
+          }
+        },
+        {
+          "question": {
+            "text": "What does the customer want to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Change an order",
+              "(B) Update a delivery address",
+              "(C) Receive a refund",
+              "(D) Choose a different shipping method"
+            ]
+          },
+          "answer": {
+            "text": "(A) Change an order",
+            "explanation": "The information can be inferred from: <i>“If not, the customer has asked us to add item #645A"
+          }
+        },
+        {
+          "question": {
+            "text": "Why does Mr. Hollis contact Ms. O’Dell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask if some work can be completed faster than usual",
+              "(B) To find out when an order will be shipped",
+              "(C) To find out when a meeting will be held",
+              "(D) To alert her to an error in a previous message"
+            ]
+          },
+          "answer": {
+            "text": "(A) To ask if some work can be completed faster than usual",
+            "explanation": "You can see the information in: <i>“Kim, can you do a rush job on a ring?”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:35, what does Ms. Ulrich most likely mean when she writes, \"that works\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She plans to interview someone for a job.",
+              "(B) She is pleased that the equipment is functioning properly.",
+              "(C) The customer will be satisfied if the item is engraved tomorrow.",
+              "(D) Some new items will be chosen for a catalog by the end of the day."
+            ]
+          },
+          "answer": {
+            "text": "(C) The customer will be satisfied if the item is engraved tomorrow.",
+            "explanation": "Because the customer wants to change his/her order."
+          }
+        }
+      ],
+      "id": "626441c2eccc8cae769c2b92"
+    },
+    {
+      "question": {
+        "text": "April 3 <br> Larry Martin <br> Kansas Neat & Tidy <br> 5448 Lakeside Drive <br> Arlington, Kansas 67514<br><br>Dear Mr. Martin, <br><br>We are interested in using your company’s cleaning services for this year’s Halley Valley Rock Festival. The festival will begin on Friday, June 14, and last the entire weekend, ending on the night of Sunday, June 16. However, unlike previous years, this year we would like your company to clean the festival grounds intermittently throughout the festival. Therefore, we will be providing your company with a temporary office trailer where your workers can take breaks from the heat. <br><br>We look forward to working with your company again this year. <br>Sincerely, <br>Karen Johnson<br>Festival Coordinator, Halley Valley Foundation",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is Mr. Martin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A musical performer",
+              "(B) A truck driver",
+              "(C) A cleaning company’s representative",
+              "(D) A festival coordinator"
+            ]
+          },
+          "answer": {
+            "text": "(C) A cleaning company’s representative",
+            "explanation": "The letter is sent to Mr. Martin and ít can be inferred from <i>\"We are interested in using your company’s cleaning services for this year’s Halley Valley Rock Festival\"</i> that \"your company’s cleaning services\" is Mr. Martin's"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the letter, what will be provided?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Food and water",
+              "(B) A sheltered area",
+              "(C) Musical equipment",
+              "(D) Cleaning supplies"
+            ]
+          },
+          "answer": {
+            "text": "(B) A sheltered area",
+            "explanation": "The information is in: <i>\"Therefore, we will be providing your company with a temporary office trailer where your workers can take breaks from the heat.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2b95"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c3eccc8cae769c2b98"
+}

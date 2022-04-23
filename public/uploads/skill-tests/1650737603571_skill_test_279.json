@@ -1,0 +1,696 @@
+{
+  "name": "Skill Test 279",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "994752605-1566792555285-1.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/994752605-1566792555285-1.png",
+            "mime": "image/png",
+            "id": "626441c3eccc8cae769c2c0e"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Khan complete the form?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask about a delivery policy",
+              "(B) To complain about a mattress he purchased",
+              "(C) To request a discounted price for mattress",
+              "(D) To find out the location of a factory"
+            ]
+          },
+          "answer": {
+            "text": "(A) To ask about a delivery policy",
+            "explanation": "Based on the message of Mr. Khan: \"Your Web site mentions that shipping charges are calculated based on the delivery destination. Could I pick up the mattress myself in order to avoid this fee?\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Mattress Mavens promise to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Reduce the shipping fee for small mattresses",
+              "(B) Respond to messages within one day",
+              "(C) Refer a truck-rental agency",
+              "(D) Repair any mattress that is damaged in transit"
+            ]
+          },
+          "answer": {
+            "text": "(B) Respond to messages within one day",
+            "explanation": "Sign: \"We will reply to your inquiry within 24 hours, seven days a week.\"\n"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c10"
+    },
+    {
+      "question": {
+        "text": "<div style=\"mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap: around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal: margin;mso-element-left:right;mso-element-top:2.8pt;mso-height-rule:exactly\"> <div>&nbsp;</div> <div style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>Deadline for Classified Advertisements</strong></span></span></div> <span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">&nbsp;<br /> The deadline for placing classified advertisements in the Skillington Weekly is Tuesday morning at 11:00, for publication on Wednesday. After initial text is received, changes will not be accepted. We reserve the right to edit any text.<br /> <br /> All ads are prepaid. Ads scheduled to run for more than one week may be canceled after the first week for future advertising credit only. Email the text of your ad to ads@skillingtonweekly.com. Discounts are available for multiple ads.<br /> &nbsp;<br /> Call 555-0163 for pricing.</span></span><br /> &nbsp;</div> <p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:107%\"><o:p></o:p></span></p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What will happen if an advertiser submits an ad on Wednesday morning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The ad will appear the following Wednesday.",
+              "(B) The ad will be published later that day.",
+              "(C) The ad will appear only in the online edition.",
+              "(D) The ad will cost the advertiser more money."
+            ]
+          },
+          "answer": {
+            "text": "(A) The ad will appear the following Wednesday.",
+            "explanation": "Sign: \"The deadline for placing classified advertisements in the Skillington Weekly is Tuesday morning at 11:00, <b>for publication on Wednesday.</b>\" => The schedule is on Wednesday"
+          }
+        },
+        {
+          "question": {
+            "text": "According to the notice, when do advertisers receive credit?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) When they place a full-page ad",
+              "(B) When they cancel an ad",
+              "(C) When the newspaper edits an ad",
+              "(D) When the newspaper misprints an ad"
+            ]
+          },
+          "answer": {
+            "text": "(B) When they cancel an ad",
+            "explanation": "Sign: \"Ads scheduled to run for more than one week <b>may be canceled</b> after the first week for future advertising credit only.\" "
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c13"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "200470651-1566794607754-2.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/200470651-1566794607754-2.png",
+            "mime": "image/png",
+            "id": "626441c3eccc8cae769c2c16"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Mr. Dolezych?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is Ms. Cunha's supervisor.",
+              "(B) He is an experienced translator.",
+              "(C) He regularly travels to other countries.",
+              "(D) He has already met the visiting partners."
+            ]
+          },
+          "answer": {
+            "text": "(D) He has already met the visiting partners.",
+            "explanation": "Sign: \"but they all spoke English to me when I went there last spring\""
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:26 A.M., what does Mr. Dolezych most likely mean when he writes, “No question about it\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He feels comfortable speaking German.",
+              "(B) He does not plan to ask the visitors any questions.",
+              "(C) The visitors will appreciate a warm welcome.",
+              "(D) The visitors should understand Ms. Cunha's e-mail."
+            ]
+          },
+          "answer": {
+            "text": "(C) The visitors will appreciate a warm welcome.",
+            "explanation": "Sign: \"it would be a nice gesture to welcome them in their own language.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c18"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "892014566-1566795081447-3.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/892014566-1566795081447-3.png",
+            "mime": "image/png",
+            "id": "626441c3eccc8cae769c2c1b"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "On the Web page, what does the SREC ask its individual supporters to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Help it attract more businesses to San Remo",
+              "(B) Volunteer to clean up the local environment",
+              "(C) Shop at certain stores on Tuesdays",
+              "(D) Suggest changes to its mission"
+            ]
+          },
+          "answer": {
+            "text": "(C) Shop at certain stores on Tuesdays",
+            "explanation": "Sign: \"why they allocate 5 percent of the net sales they generate <b>each Tuesday</b>\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the Web site, what is one benefit for businesses that partner with the SREC?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Discounts on products",
+              "(B) Positive publicity",
+              "(C) Free nature tours for staff",
+              "(D) Membership on the SREC board"
+            ]
+          },
+          "answer": {
+            "text": "(B) Positive publicity",
+            "explanation": "Sign: \"Participation in this program <b>provides businesses with an opportunity</b> to show the <b>community</b> that they <b>care about the environment</b>.\""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the following positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Should you notice that information is missing, please contact donors@srec.org.\"",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "Based on the information: \"Despite our best efforts to keep this list as current and accurate as possible, oversights may occasionally occur.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c1d"
+    },
+    {
+      "question": {
+        "text": "<div style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><strong>Welcome Bags Available</strong></span></span></div> <p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">The Fairmill Welcome Association (FWA) has decided on an exciting gift for new residents: a reusable shopping bag filled with information about the town of Fairmill. These cloth bags, which will have &ldquo;Celebrate Fairmill&rdquo; printed across the front, will be filled with community updates, coupons, and homebaked treats from association members. Local businesses interested in helping to fund this project can pay to have their logos printed on the back of the bags. Fairmill residents are encouraged to welcome their new neighbors by personally delivering these bags to each household. To sign up, please go online to visit our updated community Web site at fairmillwa.org</span></span></p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where would the article most likely appear?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a design magazine",
+              "(B) In a travel journal",
+              "(C) In a financial newspaper",
+              "(D) In a community newsletter"
+            ]
+          },
+          "answer": {
+            "text": "(D) In a community newsletter",
+            "explanation": "Sign: \"The Fairmill Welcome Association (FWA) has decided on an exciting gift <b>for new residents</b>\" "
+          }
+        },
+        {
+          "question": {
+            "text": "How can local businesses support the project?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By providing free samples",
+              "(B) By making reusable products",
+              "(C) By purchasing advertising space",
+              "(D) By offering free services"
+            ]
+          },
+          "answer": {
+            "text": "(C) By purchasing advertising space",
+            "explanation": "Sign: \"Local businesses interested in helping to fund this project can <b>pay to have their logos printed on the back of the bags</b>.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the article, what are Fairmill residents asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Distribute greeting materials",
+              "(B) Design a new town logo",
+              "(C) Shop at local stores",
+              "(D) Submit their favorite recipes"
+            ]
+          },
+          "answer": {
+            "text": "(A) Distribute greeting materials",
+            "explanation": "Sign: \"Fairmill residents are encouraged to <b>welcome their new neighbors by personally delivering these bags to each household</b>.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c20"
+    },
+    {
+      "question": {
+        "text": "<div style=\"text-align: center;\"><strong>Growing Your Business, Part 6: Using Social Media</strong></div>\r\n\r\n<div><em>by Rajiv Shrestha</em><br />\r\n<br />\r\nEveryone knows that social media is an excellent means to promote a company&#39;s brand and products. The speed of social media, as well as its relative inexpensiveness, make it an attractive option for small companies that can&#39;t rely on television or magazine advertising to reach new customers. And most sites can be managed without the help of a technology expert. For reaching larger, more general audiences, &mdash; [1]&mdash; .<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp; But even though social media offers many opportunities, you should not try to promote your business on as many outlets as possible. Managing information on several networks can quickly become a full-time job and can make it harder, not easier, to control your message. &mdash; [2]&mdash;. Therefore, it is important that you learn the benefits and limitations of each social media platform, and then decide which one or two are best suited to your target customers. &mdash; [3]&mdash; .<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Different platforms focus on different kinds of content, like photos, videos, short messages, or blogs. Some platforms need to be updated frequently, with customers expecting you to post new material every day. &mdash; [4]&mdash;. Certain platforms are better for reaching larger, more general audiences, while some allow you to focus on a specific group of customers. So before you set up accounts on every available platform, think about your business needs and your customer base.</div>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the article most likely intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A small business owner",
+              "(B) A human resources manager",
+              "(C) A network administrator",
+              "(D) A Web site designer"
+            ]
+          },
+          "answer": {
+            "text": "(A) A small business owner",
+            "explanation": "Sign: \"The speed of social media, as well as its relative inexpensiveness, make it an attractive option for <b>small companies</b>\" "
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a benefit of using social media?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It spreads information very quickly.",
+              "(B) It allows customers to give feedback.",
+              "(C) It costs less than more traditional media.",
+              "D) It requires little technical knowledge."
+            ]
+          },
+          "answer": {
+            "text": "(B) It allows customers to give feedback.",
+            "explanation": "The article mentions \"speed\", \"inexpensiveness\" and \"without the help of a technology expert\" => B isn't mentioned as a benefit of using social media"
+          }
+        },
+        {
+          "question": {
+            "text": "What advice does the article give about using social media?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Try as many sites as possible.",
+              "(B) Hire a full-time employee to manage accounts.",
+              "(C) Avoid posting personal information.",
+              "(D) Select platforms carefully."
+            ]
+          },
+          "answer": {
+            "text": "(D) Select platforms carefully.",
+            "explanation": "Sign: \", it is important that you learn the benefits and limitations of each social media platform, and then <b>decide which one or two are best suited</b> to your target customers\""
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?<br> \"Others require less maintenance.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(D) [4]",
+            "explanation": "Sign: \"Some platforms need to be updated frequently, with customers expecting you to post new material every day.\" => \"others\" refers to platforms"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c23"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "312880338-1566801641673-4.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/312880338-1566801641673-4.png",
+            "mime": "image/png",
+            "id": "626441c3eccc8cae769c2c26"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely do the writers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a restaurant",
+              "(B) At a sporting goods store",
+              "(C) At a medical center",
+              "(D) At an auto repair shop"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a restaurant",
+            "explanation": "Sign: \"My shift at the restaurant starts at 4:00\""
+          }
+        },
+        {
+          "question": {
+            "text": "What most likely is true about all the writers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are meeting for dinner tonight.",
+              "(B) They have the same manager.",
+              "(C) They drive to work together.",
+              "(D) They like to attend sporting events."
+            ]
+          },
+          "answer": {
+            "text": "(B) They have the same manager.",
+            "explanation": "Sign: \" If you can call Mr. Maki and tell him I'll be in a little late\""
+          }
+        },
+        {
+          "question": {
+            "text": "At 2:50 P.M., what does Ms. Gonzalez mean when she writes, “Mr. Maki's fine with it\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He will work her shift for her.",
+              "(B) He can drive her to an appointment.",
+              "(C) He has approved a schedule change.",
+              "(D) He has to pay a penalty."
+            ]
+          },
+          "answer": {
+            "text": "(C) He has approved a schedule change.",
+            "explanation": "Sign: \"He made it very clear at our last staff meeting that all shifts must be covered for the exact same hours.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Who will leave work tonight later than originally planned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. Gonzalez",
+              "(B) Mr. Krauss",
+              "(C) Ms. Chow",
+              "(D) Mr. Whitmore"
+            ]
+          },
+          "answer": {
+            "text": "(D) Mr. Whitmore",
+            "explanation": "Sign: Michael Whitmore said \" I'm supposed to leave at 3:30 but can stay an extra hour until Jason arrives.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c28"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "608213482-1566802136759-5.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/608213482-1566802136759-5.png",
+            "mime": "image/png",
+            "id": "626441c3eccc8cae769c2c2b"
+          }
+        ],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Chandra receive the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is applying to study geology.",
+              "(B) He is scheduled to give a lecture.",
+              "(C) He is a member of IAGS.",
+              "(D) He is organizing a lecture series."
+            ]
+          },
+          "answer": {
+            "text": "(C) He is a member of IAGS.",
+            "explanation": "Sign: \"The Indian Academy of Geological Sciences (TAGS) wants its members to be among the first to know about our academy-sponsored online lecture series.\" => Mr. Chandra received the e-mail"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the lectures?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They take place every month.",
+              "(B) They are focused on a specific profession.",
+              "(C) They are free of charge.",
+              "(D) They will take place at IAGS headquarters."
+            ]
+          },
+          "answer": {
+            "text": "(B) They are focused on a specific profession.",
+            "explanation": "Sign: \"about our academy-sponsored online lecture series\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as something that can be found on the IAGS Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The dates and times of the lectures",
+              "(B) A list of lecture topics",
+              "(C) Registration information",
+              "(D) Profiles of the lecturers"
+            ]
+          },
+          "answer": {
+            "text": "(D) Profiles of the lecturers",
+            "explanation": "Sign: \"There you will find the <b>dates, times, and topics</b> for this year's six lectures. You will also find <b>registration</b> and payment instructions, as well as <b>information on the technological requirements</b> for participation. \" => Profiles of the lecturers weren't mentioned"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c2d"
+    },
+    {
+      "question": {
+        "text": "<div style=\"text-align: center;\"><span style=\"font-size:14px;\"><strong>Metro-Edibles Corporation</strong><br /> <strong>Announces New Direction</strong></span></div> <p><span style=\"font-size:14px;\"><strong>May 7&mdash;</strong>Metro-Edibles Corporation has announced that it plans to develop a fastfood chain it is calling Soup and Salad Central. The new chain will be managed from Metro-Edibles&#39; Hong Kong headquarters, and the multinational corporation hopes to eventually introduce 200 Soup and Salad Central locations throughout Asia and Europe.<br /> &nbsp;&ldquo;The convenience food sector has shown worldwide growth over the last decade,&quot; remarked Louis Merkey, industry analyst at Businesstrend.com. &ldquo;Metro-Edibles is wisely taking advantage of this trend.&rdquo;<br /> A survey conducted by Metro-Edibles over the last year revealed that consumers are choosing to purchase more wholesome foods when eating out. Neha Ramisetty, Metro-Edibles&#39; top executive, noted that the industry in general is placing less emphasis on fried foods and focusing more on fresh ingredients and nutritional value.<br /> &ldquo;We are offering this approach too, at an average price of US $7.50 for a lunch or dinner, with cheaper options for breakfast and snacks,&quot; said Ms. Ramisetty. &ldquo;Furthermore, we will cater mostly to urban residents with faster-paced lifestyles. So we think that they will appreciate the convenience that our menu will offer.&rdquo;<br /> Metro-Edibles Corp. is optimistic that Soup and Salad Central, its newest subsidiary, will start to turn profits by its second year of operations. The corporation still carries some long-term debt from money it borrowed to start current enterprises.</span></p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is Mr. Merkey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A legal consultant for Metro-Edibles Corporation",
+              "(B) A Hong Kong bank officer",
+              "(C) A nutrition expert",
+              "(D) A food industry researcher"
+            ]
+          },
+          "answer": {
+            "text": "(D) A food industry researcher",
+            "explanation": "Sign: \" Louis Merkey, industry analyst at Businesstrend.com\". The industry mentioned is food industry"
+          }
+        },
+        {
+          "question": {
+            "text": "What is reported about Metro-Edibles Corporation?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It has hired a new leader.",
+              "(B) It has been affected by slow industry growth.",
+              "(C) It investigated people's dining preferences.",
+              "(D) It is planning to relocate its headquarters."
+            ]
+          },
+          "answer": {
+            "text": "(C) It investigated people's dining preferences.",
+            "explanation": "Sign: \"A survey conducted by Metro-Edibles over the last year revealed that <b>consumers are choosing to purchase more wholesome foods</b> when eating out.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Ms. Ramisetty NOT indicate about the meals at Soup and Salad Central?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will be less expensive than meals at similar restaurants.",
+              "(B) They will be available throughout the day.",
+              "(C) They will include healthful ingredients.",
+              "(D) They will be served quickly."
+            ]
+          },
+          "answer": {
+            "text": "(A) They will be less expensive than meals at similar restaurants.",
+            "explanation": "Sign: \"focusing more on <b>fresh ingredients</b> and nutritional value\", \"at an average price of US $7.50 for a lunch or dinner, with cheaper options for breakfast and snacks\", \"we will cater mostly to urban\nresidents with faster-paced lifestyles.\" => B, C, D were mentioned"
+          }
+        },
+        {
+          "question": {
+            "text": "What is suggested about Soup and Salad Central?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It replaces an unsuccessful Metro Edibles Corporation enterprise.",
+              "(B) It will offer recipes of its menu items to customers.",
+              "(C) It is not expected to be profitable immediately.",
+              "(D) It will open locations primarily in small towns."
+            ]
+          },
+          "answer": {
+            "text": "(C) It is not expected to be profitable immediately.",
+            "explanation": "Sign: \"will start to turn profits by its second year of operations.\""
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c30"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/8136368_1563420391639.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Hadi send the text message to Ms. Sorenson?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask if she found his power cord",
+              "(B) To request that she contact a customer",
+              "(C) To remind her to recharge a device",
+              "(D) To confirm the location of a sales appointment"
+            ]
+          },
+          "answer": {
+            "text": "(B) To request that she contact a customer",
+            "explanation": "The information is in:<i> “Could you call my next sales client and tell her I’ll be about 30 minutes late?”</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What will Mr. Hadi probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Look for his computer",
+              "(B) Return to his office",
+              "(C) Buy a power cord",
+              "(D) Call technical support"
+            ]
+          },
+          "answer": {
+            "text": "(B) Return to his office",
+            "explanation": "Because he said: <i>“Driving back to the office to get the cord now.”"
+          }
+        }
+      ],
+      "id": "626441c3eccc8cae769c2c33"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441c3eccc8cae769c2c36"
+}

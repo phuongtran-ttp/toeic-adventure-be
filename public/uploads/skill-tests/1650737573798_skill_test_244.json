@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 244",
+  "questions": [
+    {
+      "question": {
+        "text": "To:Janet Doe <br>From:Greenscape<br>Date:June 28<br>Subject:Inquiry<br><br>Ms. Doe, <br>We thank you for your inquiry. Greenscape has been the leading landscaper for businesses in  the greater downtown area for over 10 years.<b> (1) </b> _____ we specialize in gardens and Japanese- style landscape art, we also maintain lawns and fields. But to answer your question, yes, we even clear away thick shrubbery and trees. We can send a person to  <b> (2) </b> _____  the amount of time it will take and the approximate costs. Furthermore, if you<b> (3) </b> _____ to replace the dense shrubs with a lawn or garden, you can work with one of our designers to come up with a landscape you can be happy with. <br><b> (4) </b> _____ We are more than happy to serve you.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "<b> (1) </b> _____ we specialize in gardens and Japanese- style landscape art, we also maintain lawns and fields.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Although",
+              "(B) Because",
+              "(D) However",
+              "(c) Therefore"
+            ]
+          },
+          "answer": {
+            "text": "(A) Although",
+            "explanation": "Both \"Therefore\" and \"However\" are grammatically incorrect. Based on the meaning of sentence, choose \"although\""
+          }
+        },
+        {
+          "question": {
+            "text": "We can send a person to  <b> (2) </b> _____  the amount of time it will take and the approximate costs.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              " (A) conclude",
+              "(B) calculate",
+              "(C) estimate",
+              "(D) guess"
+            ]
+          },
+          "answer": {
+            "text": "(C) estimate",
+            "explanation": "\"the approximate costs\" => \"estimate\" is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "Furthermore, if you<b> (3) </b> _____ to replace the dense shrubs with a lawn or garden, you can work with one of our designers to come up with a landscape you can be happy with.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) wishing",
+              "(B) wish",
+              "(C) wished",
+              "(D) wishes"
+            ]
+          },
+          "answer": {
+            "text": "(B) wish",
+            "explanation": "Conditional sentence type I: If + S + V(present tense\", S + will/can/may/should/... + V-infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (4) </b> _____ We are more than happy to serve you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We welcome any business opportunity with you.",
+              "(B) Please don’t hesitate to email any questions you have.",
+              "(C) Please call US at 555-1245 if you are interested in a consultation.",
+              "(D) Visit our website for more information."
+            ]
+          },
+          "answer": {
+            "text": "(C) Please call US at 555-1245 if you are interested in a consultation.",
+            "explanation": "Based on the following sentence."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2672"
+    },
+    {
+      "question": {
+        "text": "<b>Florist Wanted</b> <br>  Do you love making people smile? Does the idea of <b> (1) </b> _____  your day being creative and  working with nature appeal to you? If so, we would like to encourage you to apply to join <br> our team at Wild Flowers Florists. <b> (2) </b> _____. We are looking for someone who is customer- <b> (3) </b> _____  first. Creativity is important, but it is secondary to the vision of the client. If you think <b> (4) </b> _____  have what it takes to make people smile, please fill out our online application form on our website, www.WildFlowersFlorists.com.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Does the idea of <b> (1) </b> _____  your day being creative and working with nature appeal to you?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) spend",
+              "(B) to spend",
+              "(C) spending",
+              "(D) spent"
+            ]
+          },
+          "answer": {
+            "text": "(C) spending",
+            "explanation": "The blank comes after \"of\" => use noun or Ving"
+          }
+        },
+        {
+          "question": {
+            "text": "If so, we would like to encourage you to apply to join our team at Wild Flowers Florists. <b> (2) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You must be good with animals.",
+              "(B) Our company is committed to providing the best floral arrangements for our clients, no matter what their needs.",
+              "(C) We use the best fabrics in our designs.",
+              "(D) All people love our commitment to safety."
+            ]
+          },
+          "answer": {
+            "text": "(B) Our company is committed to providing the best floral arrangements for our clients, no matter what their needs.",
+            "explanation": "The \"Florist\"'s business is about flowers => B is the most suitable."
+          }
+        },
+        {
+          "question": {
+            "text": "We are looking for someone who is customer- <b> (3) </b> _____  first.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) oriented",
+              "(B) prime",
+              "(C) located",
+              "(D) sourced"
+            ]
+          },
+          "answer": {
+            "text": "(A) oriented",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "If you think <b> (4) </b> _____  have what it takes to make people smile, please fill out our online application form on our website, www.WildFlowersFlorists.com.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) you",
+              "(B) I",
+              "(C) they",
+              "(D) we"
+            ]
+          },
+          "answer": {
+            "text": "(A) you",
+            "explanation": "Based on the meaning of sentence"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c266d"
+    },
+    {
+      "question": {
+        "text": "From:James Jones,Executive Manager <br>To:Sales Agents<br>Date:July 15<br>Subject: Policy Change<br><br>Dear Sales Agents, <br>There has been a recent change to our reimbursement policy. In the past, you simply had to pay out of pocket first then provide your receipts after renting vehicles, taking business trips, or <b>(1)</b> _____  other business expenses.<b>(2)</b> _____, now you will be required to fill out an application which will need to be approved by the accounting department first. <b>(3)</b> _____ If you spend beyond the amount given in the card, you will have to pay out of your own pocket and will not be reimbursed for that. <br>Please read the attachment to get further details on what expenses can and cannot be <b>(4)</b> _____  by the company.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "In the past, you simply had to pay out of pocket first then provide your receipts after renting vehicles, taking business trips, or <b>(1)</b> _____  other business expenses.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) incur",
+              "(B) incurred",
+              "(C) incurring",
+              "(D) to incur"
+            ]
+          },
+          "answer": {
+            "text": "(C) incurring",
+            "explanation": "In this sentence, the preposition \"or\" connects 3 gerunds (V-ing): renting vehicles, taking business trips, or _____ => use another gerund "
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(2)</b> _____, now you will be required to fill out an application which will need to be approved by the accounting department first.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However",
+              "(B) Therefore",
+              "(C) Furthermore",
+              "(D) Since"
+            ]
+          },
+          "answer": {
+            "text": "(A) However",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(3)</b> _____ If you spend beyond the amount given in the card, you will have to pay out of your own pocket and will not be reimbursed for that.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will not approve any card not authorized by a bank.",
+              "(B) You will have to spend from your own credit card.",
+              "(C) Then you will be provided with a company card which holds limited funds.",
+              "(D) They must decide whether our budget allows for our expenses."
+            ]
+          },
+          "answer": {
+            "text": "(C) Then you will be provided with a company card which holds limited funds.",
+            "explanation": "The following sentence mentions \"the card\" => This sentence is about \"a card\""
+          }
+        },
+        {
+          "question": {
+            "text": "Please read the attachment to get further details on what expenses can and cannot be <b>(4)</b> _____  by the company.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) certain",
+              "(B) acknowledged",
+              "(C) established",
+              "(D) approved"
+            ]
+          },
+          "answer": {
+            "text": "(D) approved",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2670"
+    },
+    {
+      "question": {
+        "text": "<p><strong>Black Hill Beans</strong><br /> Black Hill Beans is a Louisianan coffee company and the pioneer of the Louisiana coffee fruit. We oversee a vertically <b>(1)</b>_____ supply chain that starts with the highest quality coffee and coffee fruit from Black Hill, Louisiana. We <b>(2)</b>_______ three award-winning beans, Summer Harvest, Dark Southern, and Black Earth. All can be shipped to you <b>(3)</b>______ 24 hours anywhere in the continental U.S. Black Hill Beans&#39; coffee is also sold at every Launders Superstore in the U.S.</p> <p>Whether you&#39;re looking for excellent coffee or a bit of southern comfort, Black Hill Beans is the right choice for your coffee. <b>(4)</b>_____ It&#39;s nice to feel patriotic while you drink. Visit us online today to hear more about our story.</p> <p>www.blackhillbeans.com</p>\n",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "We oversee a vertically <b> (1) </b> _____  supply chain that starts with the highest quality coffee and coffee fruit from Black Hill, Louisiana.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) integrates",
+              "(B) to integrate",
+              "(C) integrated",
+              "(D) integration"
+            ]
+          },
+          "answer": {
+            "text": "(C) integrated",
+            "explanation": "The blank precedes a noun so we need an adjective to form a noun phrase, and the blank comes after an adverb \"vertically\" that modifies it => use an adjective in form of past participle. "
+          }
+        },
+        {
+          "question": {
+            "text": "We <b> (2) </b> _____ three award-winning beans, Summer Harvest, Dark Southern, and Black Earth",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) locate",
+              "(B) select",
+              "(C) evaluate",
+              "(D) produce"
+            ]
+          },
+          "answer": {
+            "text": "(D) produce",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "All can be shipped to you <b> (3) </b> _____ 24 hours anywhere in the continental U.S. Black Hill Beans’ coffee is also sold at every Launders Superstore in the U.S.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) within",
+              "(B) by",
+              "(C) until",
+              "(D) at"
+            ]
+          },
+          "answer": {
+            "text": "(A) within",
+            "explanation": "within + a time period; by, until and at + a point of time"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (4) </b> _____ It’s nice to feel patriotic while you drink.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Try the best-selling frozen beverage around.",
+              "(B) It’s American-made and organic.",
+              "(C)  Let us help you find the right supplier.",
+              "(D) This discount is only available through October 1"
+            ]
+          },
+          "answer": {
+            "text": "(B) It’s American-made and organic.",
+            "explanation": "Based on the following sentence."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2677"
+    },
+    {
+      "question": {
+        "text": "October 21 <br>Larry Mills <br>226 Highland Rivers <br>Fairbank, WA 20037<br><br>Dear Mr. Mills, <br>I am writing in reply to your complaint about the noise levels coming from the surrounding businesses around the apartment complex. <b> (1) </b>_____ , a few people living on the west wing of the building <b> (2) </b>_____  concern over the noise levels. The building committee has conducted meetings over this issue and we have talked to the businesses.<b> (3) </b>_____ . Because of this, we are also looking to fortify the windows with noise-proof glass for residences living on the west wing. Once we have agreed upon the proposals, we will post the announcement on our ulletin board and you may receive a call. Until then, we ask for your <b> (4) </b>_____ patience.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "<b> (1) </b>_____ , a few people living on the west wing of the building _____  concern over the noise levels.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) As a result",
+              "(B) Moreover",
+              "(C) On the other hand",
+              "(D) Unfortunately"
+            ]
+          },
+          "answer": {
+            "text": "(D) Unfortunately",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "_____ , a few people living on the west wing of the building <b> (2) </b>_____  concern over the noise levels.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is expressing",
+              "(B) have expressed",
+              "(C) expression",
+              "(D) be expressive"
+            ]
+          },
+          "answer": {
+            "text": "(B) have expressed",
+            "explanation": "The subject is \"a few people\" => B is the right form of verb"
+          }
+        },
+        {
+          "question": {
+            "text": "The building committee has conducted meetings over this issue and we have talked to the businesses. <b> (3) </b>_____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However, some of the noises are inevitable due to the nature of the businesses.",
+              "(B) They will fully cooperate with our committee.",
+              "(C) They have responded to our concerns and will work to keep noise levels low.",
+              "(D) However, they are losing money over this matter."
+            ]
+          },
+          "answer": {
+            "text": "(A) However, some of the noises are inevitable due to the nature of the businesses.",
+            "explanation": "Based on the previous sentence: \"The building committee has conducted meetings over this issue and we have talked to the businesses.\" but \"some of the noises are inevitable due to the nature of the businesses.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Until then, we ask for your <b> (4) </b>_____ patience.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) continue",
+              "(B) continues",
+              "(C) continued",
+              "(D) be continuing"
+            ]
+          },
+          "answer": {
+            "text": "(C) continued",
+            "explanation": "We need an adjective to modify the noun \"patience\""
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2679"
+    },
+    {
+      "question": {
+        "text": "<p><span style=\"font-size:14px;\">Come visit Wild Water Parks, your summer destination for family and friends of all ages. We have kiddie pools, we have outdoor pools, we have indoor pools, we have waves, and we have <b>(1)</b> _____ water slides, including our Death Fall, the largest slide in the state. We have everything for everyone in <b>(2)</b> _____group. Don&#39;t forget our delicious snack stands and restaurants. We also have gift shops and playgrounds. <b>(3)</b>_____ You can get tickets by calling 123-5555 or a season&#39;s pass for a <b>(4)</b> ______ &nbsp;of the price. Call now and experience the fun!</span></p>\n",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "we have <b>(1)</b> _____ water slides, including our Death Fall, the largest slide in the state.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) excite",
+              "(B) excited ",
+              "(C) exciting",
+              "(D) excitement"
+            ]
+          },
+          "answer": {
+            "text": "(C) exciting",
+            "explanation": "Use an adjective in form of present participle to modify the noun \"water slides\""
+          }
+        },
+        {
+          "question": {
+            "text": "We have everything for everyone in <b>(2)</b> _____group.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) their",
+              "(B) his",
+              "(C) our",
+              "(D) your"
+            ]
+          },
+          "answer": {
+            "text": "(D) your",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(3)</b>_____ You can get tickets by calling 123-5555",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The pools are the best place to stay.",
+              "(B) We even have a dog park for that furry companion of yours",
+              "(C) The chefs are top notch and the food is second to none.",
+              "(D) Hurry before the season is over and the promotion is finishes."
+            ]
+          },
+          "answer": {
+            "text": "(B) We even have a dog park for that furry companion of yours",
+            "explanation": "The entire passage is about \"park\" so B is the right answer. "
+          }
+        },
+        {
+          "question": {
+            "text": "You can get tickets by calling 123-5555 or a season’s pass for a <b>(4)</b>____ of the price.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) fraction",
+              "(B) section",
+              "(C) division",
+              "(D) total</p>"
+            ]
+          },
+          "answer": {
+            "text": "(A) fraction",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c267c"
+    },
+    {
+      "question": {
+        "text": "<b>Urgent! Journeyman Plumber Needed</b><br>Ace Plumbing is looking for an experienced plumber to join our <b> (1)</b> ______  business here in Columbia.  <b> (2)</b> ______   We have always been a family-owned-and-run business, but with the <b> (3)</b> ______   increase in Columbia’s population over the last three years, we have an opportunity to welcome in a new journeyman plumber. The candidate should have experience with all <b> (4)</b> ______   of plumbing, both commercial and residential. Please send your resume to aceplumbing@gmail.com and we will schedule an interview.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Ace Plumbing is looking for an experienced plumber to join our <b> (1)</b> ______  business here in Columbia.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) expanding",
+              "(B) expecting",
+              "(C) contracting",
+              "(D) controlling"
+            ]
+          },
+          "answer": {
+            "text": "(A) expanding",
+            "explanation": "\"Ace Plumbing is looking for an experienced plumber....\" to \"expand\" their business => \"expanding\" is the most suitable"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2)</b> ______   We have always been a family-owned-and-run business, but with the ______   increase in Columbia’s population over the last three years, we have an opportunity to welcome in a new journeyman plumber.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ace Plumbing has been servicing the Columbia area since 1954.",
+              "(B) We have little connection to the community.",
+              "(C) We have been struggling to pay our bills.",
+              "(D) Ace Plumbing is in financial trouble."
+            ]
+          },
+          "answer": {
+            "text": "(A) Ace Plumbing has been servicing the Columbia area since 1954.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "______   We have always been a family-owned-and-run business, but with the <b> (3)</b> ______   increase in Columbia’s population over the last three years, we have an opportunity to welcome in a new journeyman plumber.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) monstrous",
+              "(B) dramatic",
+              "(C) impossible",
+              "(D) insane"
+            ]
+          },
+          "answer": {
+            "text": "(B) dramatic",
+            "explanation": "Based on the meaning of sentence => \"dramatic increase\" is correct. "
+          }
+        },
+        {
+          "question": {
+            "text": "The candidate should have experience with all <b> (4)</b> ______   of plumbing, both commercial and residential.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) pieces",
+              "(B) flows",
+              "(D) types",
+              "(c) installations"
+            ]
+          },
+          "answer": {
+            "text": "(D) types",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2680"
+    },
+    {
+      "question": {
+        "text": "Learn social media marketing tactics only at Genius Marketing’s Power Conference<br>Are you ready to take your social media marketing to the next level? Then  <b> (1)</b> ______   Genius Marketing’s Power Conference and learn cutting-edge social media marketing tactics.  <b> (2)</b> ______   This could be the most educational two days of your year. <br>Genius Marketing will give you real-world tactics to boost your paid and organic social media marketing efforts.   <b> (3)</b> ______   you buy social media advertising or focus on organic social media engagement, Genius Marketing’s Power Conference is the conference you need to attend this year. You’ll be inspired by experts, meet others with your challenges, and get actionable tactics to drive traffic, increase sales and  <b> (4)</b> ______  customer satisfaction. <br>To apply, just click the link below. <br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Then  <b> (1)</b> ______   Genius Marketing’s Power Conference and learn cutting-edge social media marketing tactics.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) attend",
+              "(B) attends",
+              "(C) attended",
+              "(D) attending"
+            ]
+          },
+          "answer": {
+            "text": "(A) attend",
+            "explanation": "This is a imperative, so we need to use the infinitive \"attend\"."
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2)</b> ______   This could be the most educational two days of your year.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Guide people in the industry to great ness by joining today.",
+              "(B) The conference will be in Houston on May 3 and 4.",
+              "(C) Registration for this two-week course will be on November 20.",
+              "(D) Classes will be held throughout the month of March."
+            ]
+          },
+          "answer": {
+            "text": "(B) The conference will be in Houston on May 3 and 4.",
+            "explanation": "Based on the following sentence: \"This could be the most educational two days of your year.\"\n"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3)</b> ______   you buy social media advertising or focus on organic social media engagement, Genius Marketing’s Power Conference is the conference you need to attend this year.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Either",
+              "(B) Whether",
+              "(C) Rather",
+              "(D) Not only"
+            ]
+          },
+          "answer": {
+            "text": "(B) Whether",
+            "explanation": "Whether.... or"
+          }
+        },
+        {
+          "question": {
+            "text": "You’ll be inspired by experts, meet others with your challenges, and get actionable tactics to drive traffic, increase sales and  <b> (4)</b> ______",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) divide",
+              "(B) engage",
+              "(C) devalue",
+              "(D) endure"
+            ]
+          },
+          "answer": {
+            "text": "(B) engage",
+            "explanation": "Based on the meaning of sentence"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2683"
+    },
+    {
+      "question": {
+        "text": "To: Nancy Craft<br>From: Omar Patel<br>Date:January 16<br>Subject: Pre-shipping Procedures<br><br>At the manufacturing team meeting, <b> (1)</b> ______  was raised that inventory wasn’t always being properly stored before being shipped. <b> (2)</b> ______  that concern, the team decided to review the written procedure to determine if additional steps should be added.<b> (3)</b> ______  Please try to arrange the schedules of the team in the packaging and storage wing so a majority of the managers can attend this meeting. <br>I am confident that the packaging and storage team management <b> (4)</b> ______  that the written procedure leaves no room for any inventory to accidentally be improperly stored. Any suggestions made by the packaging and storage team will only enhance a superior checklist.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "At the manufacturing team meeting, <b> (1)</b> ______  was raised that inventory wasn’t always being properly stored before being shipped.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) understanding",
+              "(B) concern",
+              "(C) challenges",
+              "(D) patience"
+            ]
+          },
+          "answer": {
+            "text": "(B) concern",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2)</b> ______  that concern, the team decided to review the written procedure to determine if additional steps should be added.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) So",
+              "(B) Due to",
+              "(C) Regardless of",
+              "(D) Provided"
+            ]
+          },
+          "answer": {
+            "text": "(B) Due to",
+            "explanation": "The blank precedes a noun phrase (that concern), so we need to choose a preposition. Based on the meaning, we choose \"due to\"."
+          }
+        },
+        {
+          "question": {
+            "text": "<b>(3)</b> ______  Please try to arrange the schedules of the team in the packaging and storage wing so a majority of the managers can attend this meeting.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A meeting of the packaging and storage team has been set for Tuesday, January 23.",
+              "(B) All employees should be asked to review the procedure before starting work on Tuesday.",
+              "(C) The meeting will investigate the possibility of redundancies in the packaging process.",
+              "(D) Additional training sessions plan to be added sometime at the end of December."
+            ]
+          },
+          "answer": {
+            "text": "(A) A meeting of the packaging and storage team has been set for Tuesday, January 23.",
+            "explanation": "Based on the following sentence: \"Please try to arrange the schedules of the team in the packaging and storage wing so a majority of the managers can attend this meeting.\" => This sentence mentions \"a meeting\""
+          }
+        },
+        {
+          "question": {
+            "text": "I am confident that the packaging and storage team management <b> (4)</b> ______  that the written procedure leaves no room for any inventory to accidentally be improperly stored.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is discovering",
+              "(B) have been discovered",
+              "(C) will discover",
+              "(D) has discovered"
+            ]
+          },
+          "answer": {
+            "text": "(C) will discover",
+            "explanation": "This sentence indicates that \"manufacturing team decided to review the written procedure\" and asked the packaging and storage team to review for the upcoming meeting. He is confident that the procedure is adequate and the inventory will be properly stored => use future tense"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2686"
+    },
+    {
+      "question": {
+        "text": "June 3, 2016 <br>Yui Minakuchi <br>143 Dean St. Apt. 3 <br>Brooklyn, NY 10787<br><br>Dear Ms. Minakuchi, <br> It is my pleasure to inform you that Hannover Design would like<b> (1)</b> ______  you to interview for our summer intern program. We are only interviewing fifteen candidates this year for the six positions we have available. You will be pleased to know that you were selected out of a group of over 200 people <b> (2)</b> ______  applied for an interview. <br>We will be holding interviews on March 6 and 7 from 1:00 to 6:00 P.M. We would like for you to come on the 6th at 1:30 P.M. if you are able to. If not, we can <b> (3)</b> ______  for you to come on the 7th. <b> (4)</b> ______  If you have any questions, feel free to call our office (212-347-9919) and the human resources department will be able to assist you. We look forward to hearing from you soon. <br><br>Sincerely, <br><br>Max Wright <br>Office Manager <br>Hannover Design <br>212-326-1268<br>M.Wright@hannoverdesign.com",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "It is my pleasure to inform you that Hannover Design would like<b> (1)</b> ______  you to interview for our summer intern program.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to invite",
+              "(B) will invite",
+              "(C) has invited",
+              "(D) will be inviting"
+            ]
+          },
+          "answer": {
+            "text": "(A) to invite",
+            "explanation": "would like + to infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "You will be pleased to know that you were selected out of a group of over 200 people <b> (2)</b> ______  applied for an interview",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) whom",
+              "(B) that",
+              "(C) whose",
+              "(D) which"
+            ]
+          },
+          "answer": {
+            "text": "(B) that",
+            "explanation": "In the relative clause \"_____ applied for an interview\" modifies \"people\", we need to use the relative pronoun for people in the position of subject."
+          }
+        },
+        {
+          "question": {
+            "text": "We would like for you to come on the 6th at 1:30 P.M. if you are able to. If not, we can <b> (3)</b> ______  for you to come on the 7th.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) order",
+              "(B) arrange",
+              "(C) oblige",
+              "(D) attend"
+            ]
+          },
+          "answer": {
+            "text": "(B) arrange",
+            "explanation": "arrange + for somebody + to do something"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (4)</b> ______  If you have any questions, feel free to call our office (212-347-9919) and the human resources department will be able to assist you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) You will need to bring a completed application and some type of identification card.",
+              "(B) Please let us know as soon as possible if you will be able to attend.",
+              "(C) We wish we were able to accept your offer, but we must decline it.",
+              "(D) Please RSVP and indicate if you plan on bringing a guest."
+            ]
+          },
+          "answer": {
+            "text": "(B) Please let us know as soon as possible if you will be able to attend.",
+            "explanation": "In the previous sentence, the email sender gives Ms. Minakuchi options when to come for the interview so they need to know when Ms. Minakuchi will be able to attend => B is the right answer"
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c2689"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441a5eccc8cae769c268c"
+}

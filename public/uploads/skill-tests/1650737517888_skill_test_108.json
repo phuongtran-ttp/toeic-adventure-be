@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 108",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "739475969-1578541736063.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/739475969-1578541736063.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c032b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Hello, I saw an advertisement for your boat tours. Are there any at the end of September? <br>W-Am: Absolutely! <b> Q1 They’re actually crowded at that time of year because it’s the last of the nice weather. <br>M-Au: Well, I’m glad I called early, then. I’d like to reserve two seats. <br>W-Am: Uh... <b> Q2 all our reservations are done through our Web site. Q3 Look for the calendar on the left-hand side. You can’t miss it. Then you just choose the date you want. </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman say about tours in september?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are hired on weekends only.",
+              "(B)They are very popular.",
+              "(C)Their price will be increased.",
+              "(D)They have live music."
+            ]
+          },
+          "answer": {
+            "text": "(B)They are very popular.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman tell the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Make an online reservation",
+              "(B)View a brochure",
+              "(C)Provide photo identification",
+              "(D)Read some reviews"
+            ]
+          },
+          "answer": {
+            "text": "(A)Make an online reservation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman imply when she says, \"you can't miss it\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The tour is highly rated.",
+              "(B)A map should be used.",
+              "(C)The man must arrive on time.",
+              "(D)A calendar is easy to find."
+            ]
+          },
+          "answer": {
+            "text": "(D)A calendar is easy to find.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0330"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "171185836-1578891588163.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/171185836-1578891588163.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0335"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script:</b> <br> M-Cn: Hello, <b> Q1 I’m calling because my three P.M flight to Mumbai was canceled.</b> I’d like to check what other options you have. <br>W-Am: Sure. Let me take a look. <br>M-Cn: I’d like to depart today, if possible. <br>W-Am: It looks like the only seat available is on the same flight tomorrow – at three PM.<br> M-Cn: Hmm ... that’s too late, <b> Q2 I’m traveling to a conference, </b> and I need to get there sooner. I know Indian Airways has a flight at eleven P.M. Can you put me on that one?<br> W-Am: Unfortunately, I can’t book you with another carrier. However, <b> Q3 I could give you a full refund so you can book that flight directly with them </b><br>  M-Cn: That sounds good. <b> Q3 I’ll take the refund. </b> <br><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem is the man calling about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A flight cancellation",
+              "(B) A computer malfunction",
+              "(C) A billing error",
+              "(D) Lost luggage"
+            ]
+          },
+          "answer": {
+            "text": "(A) A flight cancellation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What event is the man planning to attend",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A training session",
+              "(B) A conference",
+              "(C) A grand opening",
+              "(D) A musical performance"
+            ]
+          },
+          "answer": {
+            "text": "(B) A conference",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Schedule a repair",
+              "(B) Check a receipt",
+              "(C) Issue a refund",
+              "(D) Make an announcement"
+            ]
+          },
+          "answer": {
+            "text": "(C) Issue a refund",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0338"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "50291165.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/50291165.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0333"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Am: Hello, <strong>Q1&amp;2&nbsp;this is Cindy Kato from Northern Builders. Your magazine printed an article about our company in the June issue, and I&#39;m calling to let you know there&#39;s a mistake in it.</strong><br /> M-Au: I&#39;m sorry to hear that, Ms. Kato. We work really hard to get all of our facts right, but occasionally, mistakes do get through. Could you tell me exactly what the problem is?<br /> W-Am: Yes. The article said that our firm recently built the sports stadium in Greensville - which is correct - but it was accompanied by a photograph of a different stadium.<br /> M-Au: I apologize - I&#39;m sure there was a mix-up at layout. <strong>Q3&nbsp;I&#39;ll find the right picture so that the magazine can publish a correction.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business is the woman calling from?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A construction company",
+              "(B)A sporting-goods manufacturer",
+              "(C)An advertising firm",
+              "(D)A printing shop"
+            ]
+          },
+          "answer": {
+            "text": "(A)A construction company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem is the woman calling about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An invoice showed the wrong amount.",
+              "(B)A printer did not produce enough copies.",
+              "(C)A magazine was sent to the wrong address.",
+              "(D)An article contained an error."
+            ]
+          },
+          "answer": {
+            "text": "(D)An article contained an error.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Approve a refund",
+              "(B)Arrange an interview",
+              "(C)Find a photograph",
+              "(D)Expedite a delivery"
+            ]
+          },
+          "answer": {
+            "text": "(C)Find a photograph",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c033a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "89997615-1578541779377.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/89997615-1578541779377.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c033d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: Akira, <b> Q1 do you have time to send an email to the staff this afternoon? I’d do it myself but the Board of Truestees meeting starts in ten minutes, and Q2 I’m presenting the opening report. <br>M-Cn: No problem at all. What would you like the memo to say? <br>W-Br: <b> Q3 The entire law office will close early on Friday, at three P.M. Some contractors are coming in to paint the conference room and lobby walls. </b> <br>M-Cn: OK, I’ll get that out right away. <br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Send an e-mail",
+              "(B)Revise a report",
+              "(C)Schedule a repair",
+              "(D)Hang a painting"
+            ]
+          },
+          "answer": {
+            "text": "(A)Send an e-mail",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman unable to complete the task?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has a computer problem.",
+              "(B)She has to consult with a coworker.",
+              "(C)She has to give a presentation.",
+              "(D)She has a business trip."
+            ]
+          },
+          "answer": {
+            "text": "(C)She has to give a presentation.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen on friday afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Some furniture will be installed.",
+              "(B)Some walls will be painted.",
+              "(C)A conference will begin.",
+              "(D)A luncheon will take place."
+            ]
+          },
+          "answer": {
+            "text": "(B)Some walls will be painted.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0342"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "42850945.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/42850945.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0344"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W-Br: Good evening. <strong>Q1&nbsp;I see that your restaurant&#39;s pretty busy right now. Do you have any available tables?</strong><br /> (M-Cn: We are busy, but we do have some free tables, so you won&#39;t have to wait.<br /> W-Br: Marvelous. There is one thing though - I&#39;m in a bit of a hurry. <strong>Q2&nbsp;I have tickets to see a play in an hour at the theater next door. </strong>Do you think that I&#39;ll be done in time?<br /> M-Cn: Our servers are used to having diners who are going to shows next door. <strong>Q3&nbsp;I&#39;ll let your waiter know that you&#39;re in a rush.</strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a movie theater",
+              "(B)At a furniture store",
+              "(C)At a restaurant",
+              "(D)At an outdoor concert"
+            ]
+          },
+          "answer": {
+            "text": "(C)At a restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman in a hurry?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)She has to go back to work.",
+              "(B)She has to catch a bus.",
+              "(C)She is meeting a friend shortly.",
+              "(D)She is going to see a show."
+            ]
+          },
+          "answer": {
+            "text": "(D)She is going to see a show.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he will do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Give the woman a discount",
+              "(B)Write up an order",
+              "(C)Speak with another employee",
+              "(D)Exchange a ticket"
+            ]
+          },
+          "answer": {
+            "text": "(C)Speak with another employee",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0349"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "703569240-1578896666844.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/703569240-1578896666844.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0340"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script:</b> <br> M-Au: <b> Q1 Nadia, since you work for me in Customer Service, </b> I wanted to talk to you about a position you might be interested in. We need an assistant customer service manager to help me with daily tasks. <br>W-Am: Oh! I didn’t know there was a position opening up. That would be great for my career, but I haven’t been here that long. <b> Q2 Do you think I’m really qualified for the position? </b><br>M-Au: You’ve done a great job handling customer inquiries, so yes, I think you’re ready to take on more responsibility, <b> Q3 Why don’t you take a look at this job description and see what you think? </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What department does the woman work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Marketing",
+              "(B) Customer Service",
+              "(C) Accounting",
+              "(D)  Product Development"
+            ]
+          },
+          "answer": {
+            "text": "(B) Customer Service",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Her qualifications for a position",
+              "(B) A lack of staff in her department",
+              "(C) A delayed product launch",
+              "(D) A customer complaint"
+            ]
+          },
+          "answer": {
+            "text": "(A) Her qualifications for a position",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Revising a resume",
+              "(B)  Looking at a job description",
+              "(C) Editing a report",
+              "(D) advertising in a professional journal"
+            ]
+          },
+          "answer": {
+            "text": "(B)  Looking at a job description",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0347"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "331147911-1578541973572.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/331147911-1578541973572.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c034b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Au: Hi, it’s Jeff from Personel calling. <b> Q1 I’ll be conducting the preliminary interviews for the project manager position in your division. Is there anything specific you want the candidates to be able to do? </b> <br>W-Am: Well, I know you ask about their education credentials and work experience. But <b> Q2 I really need someone who can travel as part of this position. </b> <br>M-Au: Yes, <b> Q2 I see frequent international and domestic travel in the job requirements. OK? I won’t invite anyone for a second interview who isn’t interested in that. </b> <br>W-Am: Exactly. Oh, by the way, <b> Q3 don’t forget that I’ll be out the week of sixth on holiday. Please don’t schedule suitable candidates to interview with me during that time. </b> <br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Interviewing job applicants",
+              "(B)Making promotion decisions",
+              "(C)Preparing for an urgent project",
+              "(D)Attracting international clients"
+            ]
+          },
+          "answer": {
+            "text": "(A)Interviewing job applicants",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say staff should be able to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Work on weekends",
+              "(B)Handle multiple accounts",
+              "(C)Speak a foreign language",
+              "(D)Travel frequently"
+            ]
+          },
+          "answer": {
+            "text": "(D)Travel frequently",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman remind the man about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Her letter of recommendation",
+              "(B)Her upcoming vacation",
+              "(C)A limited budget",
+              "(D)A contract deadline"
+            ]
+          },
+          "answer": {
+            "text": "(B)Her upcoming vacation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c034f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "98171941.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/98171941.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0351"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M-Cn: Sally, <strong>Q1&nbsp;l just finished preparing the catering order for the Kingsley Company. </strong>Could you help me load the food into the delivery van?<br /> W-Br: You haven&#39;t heard? <strong>Q2&nbsp;One of the vans broke down this morning, and Julia took the other one to make a delivery to the film festival in Brighton.</strong> She just left five minutes ago.<br /> M-Cn: That&rsquo;s not very long ago.<strong>&nbsp;Q3 I&#39;m going to call her and ask her to come back for this order. </strong>The food has to be there in an hour, and the Kingsley Company&#39;s right on her way to Brighton.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a mail-delivery service",
+              "(B)At a moving company",
+              "(C)At a catering business",
+              "(D)At a car rental agency"
+            ]
+          },
+          "answer": {
+            "text": "(C)At a catering business",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)No vehicles are available.",
+              "(B)A delivery was canceled.",
+              "(C)Some supplies are missing.",
+              "(D)An employee is late for work."
+            ]
+          },
+          "answer": {
+            "text": "(A)No vehicles are available.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Visit a customer",
+              "(B)Call a coworker",
+              "(C)Unload a shipment",
+              "(D)Repair a van"
+            ]
+          },
+          "answer": {
+            "text": "(B)Call a coworker",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0356"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "682051815-1578542018606.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/682051815-1578542018606.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0358"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Hi, <b> Q1 I need some help with this mobile phone that I bought at your shop. Whenever I make a call, I can hear the person on the other end, but that person can’t hear me. </b><br>W-Br: Hmm. It sounds like there might be something wrong with the microphone. <b> Q2 Have you dropped the phone recently? </b><br>M-Cn: No, I haven’t. In fact, I just bought it yesterday! <br>W-Br: Sometimes there’s a manufacturing defect. Let me take a look at your phone to see if that’s the case. If it is, <b> Q3 then we can give you a brand-new one at no cost. </b><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the man's problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)He cannot find a file.",
+              "(B)He is late for an appointment.",
+              "(C)His workplace is very noisy.",
+              "(D)His phone is not working properly."
+            ]
+          },
+          "answer": {
+            "text": "(D)His phone is not working properly.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Who is trying to contact",
+              "(B)When he made a purchase",
+              "(C)Whether he damaged a device",
+              "(D)What the model number of an item is"
+            ]
+          },
+          "answer": {
+            "text": "(C)Whether he damaged a device",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman offer to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Provide a replacement",
+              "(B)Give a discount",
+              "(C)Call a supervisor",
+              "(D)Check a storage room"
+            ]
+          },
+          "answer": {
+            "text": "(A)Provide a replacement",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c035d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "455733142-1578896865159.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/455733142-1578896865159.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0354"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script:</b> <br> W-Br: Hi, <b> Q1 I’m calling to get some information about your shipping services. </b> My company manufactures glassware, and we have clients in Mexico. Do you ship there? <br>M-Cn: Yes, we do. <b>44 With us you can send your products by air or by ground transport. </b><br>W-Br: Which of those two options would be safer to use? <b> Q2 I’m worried because the glassware is so fragile. </b><br>M-Cn: Either way is safe, but if you want, <b> Q3 you can vist our Web site, and it will figure out the exact arrival date for each method. </b> You can choose the one that best suits your clients<br><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the man work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a seaport",
+              "(B) At a travel agency",
+              "(C) At a shipping company",
+              "(D) At a security firm"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a shipping company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman concerned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Her employees did not receive training",
+              "(B) An airplane ticket is too expensive",
+              "(C) Some directions are unclear.",
+              "(D) Her products are easily breakable."
+            ]
+          },
+          "answer": {
+            "text": "(D) Her products are easily breakable.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say about the Web site?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It lists pricing details",
+              "(B) It calculates arrival dates",
+              "(C) It provides translations",
+              "(D) It includes packing tips"
+            ]
+          },
+          "answer": {
+            "text": "(B) It calculates arrival dates",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c035b"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264416deccc8cae769c0368"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 216",
+  "questions": [
+    {
+      "question": {
+        "text": "Mr. Benito received the notice ___ January 5.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)on",
+          "(B)in",
+          "(C)at",
+          "(D)to"
+        ]
+      },
+      "answer": {
+        "text": "(A)on",
+        "explanation": "(A) Use the idiomatic “on” with dates. Choice (B) means “inside”. Choice (C) indicates location. Choice (D) indicates destination."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20d1"
+    },
+    {
+      "question": {
+        "text": "Clients are ___ allowed to see the research department.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) rare",
+          "(B) ever",
+          "(C) never",
+          "(D) no time"
+        ]
+      },
+      "answer": {
+        "text": "(C) never",
+        "explanation": "(C) “Never” can come between the auxiliary and the verb. Choice (A) is an adjective and does not fit here. Choice (B) does not make sense. Choice (D) would fit if it were at no time."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20d5"
+    },
+    {
+      "question": {
+        "text": "This list of contributors is more ___ that one.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)current",
+          "(B)currently",
+          "(C)current than",
+          "(D)current as"
+        ]
+      },
+      "answer": {
+        "text": "(C)current than",
+        "explanation": "(C) The comparative “more” is followed by an adjective and than. Choice (A) omits “than”. Choice (B) is an adverb. Choice (D) is an incomplete as-as comparison."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20d7"
+    },
+    {
+      "question": {
+        "text": "The fax was not received ___ the fax number was wrong.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)until",
+          "(B)because",
+          "(C)although",
+          "(D)once"
+        ]
+      },
+      "answer": {
+        "text": "(B)because",
+        "explanation": "(B) “Because” establishes a cause-and-effect relationship. Choices (A), (C), and (D) are not logical."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20db"
+    },
+    {
+      "question": {
+        "text": "The ship’s captain requests that all passengers ___ emergency procedures.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)reviewing",
+          "(B)reviews",
+          "(C)review",
+          "(D)to review"
+        ]
+      },
+      "answer": {
+        "text": "(C)review",
+        "explanation": "(C) The causative “request” is followed by the simple form of the verb. Choice (A) is the gerund. Choice (B) is the present tense. Choice (D) is the infinitive."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20de"
+    },
+    {
+      "question": {
+        "text": "The person ___ lost a briefcase may claim it in the lobby.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)whose",
+          "(B)which",
+          "(C)whom",
+          "(D)who"
+        ]
+      },
+      "answer": {
+        "text": "(D)who",
+        "explanation": "(D) “Who” refers to the subject “person”. Choice (A) is possessive. Choice (B) refers to things. Choice (C) is objective."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20e1"
+    },
+    {
+      "question": {
+        "text": "This memo is ___ the previous one.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)as confusing",
+          "(B)confusing as",
+          "(C)as confusing as",
+          "(D)as confused as"
+        ]
+      },
+      "answer": {
+        "text": "(C)as confusing as",
+        "explanation": "(C) Equal comparisons use as + adjective + as; “the memo” is causing people to become confused, so the adjective must be the present participle. Choice (A) omits the second “as”. Choice (B) omits the first “as”. Choice (D.) uses the past participle."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20e4"
+    },
+    {
+      "question": {
+        "text": "Ms. Friel ___ about her promotion before it was announced.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)knew",
+          "(B)known",
+          "(C)is knowing",
+          "(D)has known"
+        ]
+      },
+      "answer": {
+        "text": "(A)knew",
+        "explanation": "(A) Since “know” happened before “was”, it must also be past tense. Choice (B) is the past participle. Choice (C) is the present progressive. Choice (D) is the past perfect."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20e7"
+    },
+    {
+      "question": {
+        "text": "Please ___ me any time if I can helpyou.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)are calling",
+          "(B)call",
+          "(C)'calls",
+          "(D)will call"
+        ]
+      },
+      "answer": {
+        "text": "(B)call",
+        "explanation": "(B) Commands are in the simple form of the verb. Choice (A) is the present progressive. Choice (C) is the present tense. Choice (D) is the future tense."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c20ea"
+    },
+    {
+      "question": {
+        "text": "Seating in the Bogor Stadium completely ___ the field so that all visitors are afforded excellent views of events.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)surround",
+          "(B)surrounds",
+          "(C)surrounded",
+          "(D)surrounding"
+        ]
+      },
+      "answer": {
+        "text": "(B)surrounds",
+        "explanation": "Because \"Seating\" is an uncountable noun and the reason clause uses simple present tense so the answer is \"surrounds\""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c20ed"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "62644195eccc8cae769c20f0"
+}

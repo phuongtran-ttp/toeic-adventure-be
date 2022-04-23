@@ -1,0 +1,508 @@
+{
+  "name": "Skill Test 268",
+  "questions": [
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Memo</strong></p> <p><br /> To: All Employees<br /> From: David Koch<br /> Subject: Important Information<br /> Date: May 22<br /> <br /> We will be holding our annual meeting for shareholders on June 3. I will be giving a short presentation during the opening ceremony, and I hope everyone can attend. Below is a basic schedule of the meeting.<br /> <br /> Opening ceremony: 1:00 P.M<br /> Annual report: 2:00 P.M<br /> Discussion: 4:00 P.M<br /> Dinner: 6:00 P.M</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the memo?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To remind employees of a project deadline",
+              "(B) To suggest revisions to an annual report",
+              "(C) To provide a schedule for an event",
+              "(D) To report to shareholders on annual"
+            ]
+          },
+          "answer": {
+            "text": "(C) To provide a schedule for an event",
+            "explanation": "<i>\"We will be holding our annual meeting for shareholders on June 3.... Below is a basic schedule of the meeting.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "At what time will David Koch speak?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  1:00 P.M",
+              "(B) 2:00 P.M",
+              "(C) 4:00 P.M",
+              "(D) 6:00 P.M"
+            ]
+          },
+          "answer": {
+            "text": "(A)  1:00 P.M",
+            "explanation": "Based on the information given in: <i>\"I will be giving a short presentation during the opening ceremony, and I hope everyone can attend.\"</i> and the opening ceremony is at 1:00 P.M."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a4f"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/9526827_1564544458226.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does Henderson Inc. sell?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Home appliances",
+              "(B) Office furniture",
+              "(C) Computer equipment",
+              "(D) Construction materials"
+            ]
+          },
+          "answer": {
+            "text": "(A) Home appliances",
+            "explanation": "Based on the items in the chart."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Ms. Ward?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She must pick up her items in person.",
+              "(B) She is eligible for a special discount.",
+              "(C) She will receive her deliveries at no charge.",
+              "(D) She paid with a check."
+            ]
+          },
+          "answer": {
+            "text": "(C) She will receive her deliveries at no charge.",
+            "explanation": "Because local customers are eligible for free shipping on purchases over 1000 dollars and her purchase is 2825.67 dollars."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a53"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Notice</strong></p> <p><br /> Crawford Apparel has refurbished dressing rooms where you can try on clothes before you make a purchase.<br /> - Please take only an item or two into a dressing room at a time.<br /> - You may leave your personal belongings such as a wallet or a purse with one of our clerks for safekeeping.<br /> - Any personal items left behind in a dressing room will be kept in the lost-and-found room near the entrance.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is the notice most likely intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Storekeepers",
+              "(B) Customers",
+              "(C) Designers",
+              "(D) Clerks"
+            ]
+          },
+          "answer": {
+            "text": "(B) Customers",
+            "explanation": "It can be inferred from: <i>\"Crawford Apparel has refurbished dressing rooms where you can try on clothes before you make a purchase.\"</i> that those who can try on clothes are the customers of Crawfood Apparel."
+          }
+        },
+        {
+          "question": {
+            "text": "According to the notice, where can missing items be found?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a police station",
+              "(B) In an information center",
+              "(C) In a storage area",
+              "(D) Behind a counter"
+            ]
+          },
+          "answer": {
+            "text": "(C) In a storage area",
+            "explanation": "The information is in: <i>\"Any personal items left behind in a dressing room will be kept in the lost-and-found room near the entrance.\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a51"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/2960405_1564544461107.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Ms. Berry?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She is eating a snack.",
+              "(B) She will be promoted.",
+              "(C) She is in the middle of meeting.",
+              "(D) She plans on cancelling a lunch appointment."
+            ]
+          },
+          "answer": {
+            "text": "(C) She is in the middle of meeting.",
+            "explanation": "When Dan Cooper asked her if she had finished the meeting and she said not yet, that means she was still in the meeting."
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:13, what does Ms. Berry mean when she writes, “Are you bailing on it?”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She’s asking if Mr. Cooper has finished his meeting.",
+              "(B) She’s inquiring if Mr. Cooper will be missing the appointment.",
+              "(C) She wants to know if Mr. Cooper will go to North Point.",
+              "(D) She would like Mr. Cooper to notify her when he leaves."
+            ]
+          },
+          "answer": {
+            "text": "(B) She’s inquiring if Mr. Cooper will be missing the appointment.",
+            "explanation": "Because Mr. Cooper mentioned if Ms. Berry would take the interns to lunch today."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a5a"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/7230505_1562639997364.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is suggested about Ms. Bates?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She works for Ms. Cruz.",
+              "(B) She is being held up by traffic.",
+              "(C) She is currently operating an automobile.",
+              "(D) She is frequently late."
+            ]
+          },
+          "answer": {
+            "text": "(C) She is currently operating an automobile.",
+            "explanation": "Melinda Cruz said to Linda Bates: <i>\"Drive carefully.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "At 7:02, what does Ms. Cruz mean when she writes, “Will do”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She will be waiting for Ms. Cruz.",
+              "(B) She plans to load the vehicle.",
+              "(C) She is frustrated by Ms. Bate’s tardiness.",
+              "(D) She has finished parking the van."
+            ]
+          },
+          "answer": {
+            "text": "(B) She plans to load the vehicle.",
+            "explanation": "Because Linda Bates asked her to make sure the van is loaded when she got there."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a5c"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/3618288_1562639933477.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why does Judy contact Nathan?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To get him to pay for the dinner",
+              "(B) To get information about company expenses",
+              "(C) To ask if he wanted to join the dinner",
+              "(D) To get recommendations for a good restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(A) To get him to pay for the dinner",
+            "explanation": "Based on Judy's first message that she wanted to know they would be able to charge the dinner gathering to the company credit card."
+          }
+        },
+        {
+          "question": {
+            "text": "At 10:14, what does Judy mean when she writes “we’ll have to split the bill”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They will charge the company.",
+              "(B) They will ask the accounting department.",
+              "(C) They will have to choose who will pay.",
+              "(D) They will each have to pay a portion of the cost."
+            ]
+          },
+          "answer": {
+            "text": "(D) They will each have to pay a portion of the cost.",
+            "explanation": "split is to divide into two or more parts, especially along a particular line => split the bill means Judy and Nathan are both responsible for the cost of the meal."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a58"
+    },
+    {
+      "question": {
+        "text": "To: Patricia Mueller patmueller@fine-mail.net <br>From: Mark Hutchings <mhutchings@grosvenoronline.com> <br>Date: June 4 <br>Subject: Re: Hotline<br><br>Dear Ms. Mueller, <br><br>Thank you for your feedback on our technical service hotline. We had not realized that calls were taking so long to connect to an operator, and we have managed to resolve the problem, which was caused by a glitch in the telephone switchboard software. As a gesture of goodwill, I would like to issue you a coupon for our online store for the value of $25. To redeem it, simply sign in to your store account at www.grosvenoronline.com and enter the coupon code H58K55 into the box on the main page. <br><br>Yours sincerely, <br><br>Mark Hutchings<br>Customer Service Representative, Grosvenor Online",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "Why did Mr. Hutchings send the e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To promote a special seasonal offer",
+              "(B) To confirm an address for an order",
+              "(C) To show appreciation for a comment",
+              "(D) To request further information about a problem"
+            ]
+          },
+          "answer": {
+            "text": "(C) To show appreciation for a comment",
+            "explanation": "The information can be inferred from: <i>\"Thank you for your feedback on our technical service hotline.... As a gesture of goodwill, I would like to issue you a coupon for our online store for the value of $25.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What will Ms. Mueller most likely do on her next visit to Grosvenor Online?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign up for a membership program",
+              "(B) Claim the value of a coupon",
+              "(C) Use the customer feedback form",
+              "(D) Update her billing information"
+            ]
+          },
+          "answer": {
+            "text": "(B) Claim the value of a coupon",
+            "explanation": "Because Maeek Hutchings sent her a coupon for the online store for the value of $25."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a63"
+    },
+    {
+      "question": {
+        "text": "January 19<br>Dear Mr. Peterson, <br><br>The results have come back from the blood test you had done. Please call us at your earliest convenience to reserve a time when you can meet with Dr. Herman. <br><br>We would like to remind you that due to changes in laws pertaining to health insurance, all patients are encouraged to make sure that their contact and insurance information is current and accurate. This can be done either by calling our customer service line at 555-6842 or stopping by the front desk on your next visit. <br><br>Sincerely, <br>Laura Linkerton<br><br>Superior Health Clinic",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What most likely will Mr. Peterson do in the near future?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Renew an insurance policy",
+              "(B) Schedule a doctor’s appointment",
+              "(C) Apply for a clerical position",
+              "(D) Run a blood test"
+            ]
+          },
+          "answer": {
+            "text": "(B) Schedule a doctor’s appointment",
+            "explanation": "Based on the information given in: <i>\"Please call us at your earliest convenience to reserve a time when you can meet with Dr. Herman.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is Mr. Peterson asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Submit an insurance form",
+              "(B) Reply to the letter",
+              "(C) Verify personal information",
+              "(D) Fill out a survey"
+            ]
+          },
+          "answer": {
+            "text": "(C) Verify personal information",
+            "explanation": "It can be inferred from: <i>\"We would like to remind you that due to changes in laws pertaining to health insurance, all patients are encouraged to make sure that their contact and insurance information is current and accurate.\"</i> that Mr. Peterson who is one of the patients must check his information is current and accurate due to changes in laws pertaining to health insurance."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a65"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Superbox Theaters</h4>Superbox Theaters is now offering reduced prices on matinee tickets this December. Use this early-bird special and pay half the price for the first matinee show. This offer applies to all movies, seven days a week, even including our new releases!<br>Group visits from schools and companies are encouraged. If you have a large group, you might want to reserve your tickets in advance.<br>Tickets can be purchased in person from theater staff or online at WWW. superboxtheaters.com and www.abcticketworld.com. Additionally, when buying tickets online, we offer the convenience of choosing your seat number. Information and reviews of current and upcoming films are also available on the website. Come on down to Superbox Theaters and take advantage of this great offer.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about Superbox Theaters?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It will screen fewer films this December.",
+              "(B) It is hiring part-timers.",
+              "(C) It will be adding a new theater location.",
+              "(D) It is providing lower prices on certain screenings."
+            ]
+          },
+          "answer": {
+            "text": "(D) It is providing lower prices on certain screenings.",
+            "explanation": "The information is in: <i>\"Superbox Theaters is now offering reduced prices on matinee tickets this December.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What are customers able to do on the website?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Demand a refund",
+              "(B) Select a seat location",
+              "(C) Sign up for a newsletter",
+              "(D) Renew their membership"
+            ]
+          },
+          "answer": {
+            "text": "(B) Select a seat location",
+            "explanation": "The information is in: <i>\"when buying tickets online, we offer the convenience of choosing your seat number>\"</i>"
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a61"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Shopping Local</strong></p> <p style=\"text-align: center;\"><strong>Seattle Business District Association</strong></p> <p><br /> Did you know?<br /> <b>&bull; Shopping local puts twice as much revenue into the economy than using chain retailers.<br /> &bull; Shopping local supports the city of Seattle through local taxes.<br /> &bull; Shopping local helps the environment. It saves gas and causes less air pollution.<br /> &bull; Shopping local creates more jobs in Seattle and improves living standards in the community.</b><br /> <br /> We would like to encourage all residents of Seattle to support their local communities by shopping at traditional local stores and markets.<br /> <br /> To find out more and learn about all the great shops and services available to local residents, visit the website of the Seattle Business District Association atwww.sbda.org.</p> <p>&nbsp;</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the flyer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To promote sustainable living",
+              "(B) To notify shoppers about a sale",
+              "(C) To announce a new business opening",
+              "(D) To influence shopping patterns"
+            ]
+          },
+          "answer": {
+            "text": "(D) To influence shopping patterns",
+            "explanation": "The information is in: <i>\"Did you know?\n• Shopping local puts twice as much revenue into the economy than using chain retailers.\n• Shopping local supports the city of Seattle through local taxes.\n• Shopping local helps the environment. It saves gas and causes less air pollution.\n• Shopping local creates more jobs in Seattle and improves living standards in the community.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a benefit of shopping local?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It facilitates a job market.",
+              "(B) It is environmentally friendly.",
+              "(C) It supports the local economy.",
+              "(D) It encourages foreign investments"
+            ]
+          },
+          "answer": {
+            "text": "(D) It encourages foreign investments",
+            "explanation": "(A) - Shopping local creates more jobs in Seattle and improves living standards in the community.<br>(B) - Shopping local helps the environment. It saves gas and causes less air pollution.<br>(C) - Shopping local puts twice as much revenue into the economy than using chain retailers."
+          }
+        }
+      ],
+      "id": "626441c0eccc8cae769c2a6c"
+    }
+  ],
+  "part": 7,
+  "difficultyLevel": "MEDIUM",
+  "id": "626441c0eccc8cae769c2a73"
+}

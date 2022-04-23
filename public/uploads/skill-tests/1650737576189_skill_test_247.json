@@ -1,0 +1,848 @@
+{
+  "name": "Skill Test 247",
+  "questions": [
+    {
+      "question": {
+        "text": "September 20 <br>Ms. Amy Ellerson <br>Belgore Insurance Group <br>126 Sunrise Road <br>Teaneck, NJ 07666<br><br>Dear Ms. Ellerson: <br>Thank you for your purchase of 25 cases of premium paper from Bernstein Paper Products. Your online order was received on September 18 and is ready for shipping. <b> (1) </b> ______.<br>We appreciate that you have chosen to make the switch to Bernstein Paper Products for your company's paper needs. To show our gratitude, we are applying a 5 percent discount to this <b> (2) </b> ______ order.  <b> (3) </b> ______, we are including a reimbursement of shipping charges. Enclosed please find the adjusted invoice and a check for $58.38. <br>Bernstein Paper Products is pleased <b> (4) </b> ______  you. We look forward to working with you in the future. <br><br>Sincerely, <br>Duri Yun<br>Lead Customer Service Representative <br> Enclosure",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Your online order was received on September 18 and is ready for shipping. <b> (1) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Your years of continued patronage are truly valued.",
+              "(B) However, it seems that you have overpaid on your order.",
+              "(C) You may expect to receive your order in 5-7 business days.",
+              "(D) Unfortunately, we are writing to inform you of a delay in delivery."
+            ]
+          },
+          "answer": {
+            "text": "(C) You may expect to receive your order in 5-7 business days.",
+            "explanation": "The previous sentence mentions \"Your online order was received on September 18 and is ready for shipping\" "
+          }
+        },
+        {
+          "question": {
+            "text": "To show our gratitude, we are applying a 5 percent discount to this <b> (2) </b> ______ order.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) upcoming",
+              "(B) complimentary",
+              "(C) initial",
+              "(D) sequential"
+            ]
+          },
+          "answer": {
+            "text": "(C) initial",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> ______, we are including a reimbursement of shipping charges. Enclosed please find the adjusted invoice and a check for $58.38.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) However",
+              "(B) In addition",
+              "(C) For instance",
+              "(D) Still"
+            ]
+          },
+          "answer": {
+            "text": "(B) In addition",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "Bernstein Paper Products is pleased <b> (4) </b> ______  you. We look forward to working with you in the future.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) welcomes",
+              "(B) welcoming",
+              "(C) to welcome",
+              "(D) having welcomed"
+            ]
+          },
+          "answer": {
+            "text": "(C) to welcome",
+            "explanation": "be + adjective + to infinitive"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26f2"
+    },
+    {
+      "question": {
+        "text": "Cecil Munrow, founder and president of Munrow's, Liverpool’s largest retail clothier, announced that he <b> (1) </b> _____  £4,000 to the city’s new community center.  The funds derive from the sale of tickets to a party held last night at his company’s  <b> (2) </b> _____  . Mr.Munrow will present a check to the center tomorrow at its opening ceremony. <br><b> (3) </b> _____ the past twenty years, Mr. Munrow has organized several fund-raising events for charitable institutions and community services  <b> (4) </b> _____ .",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Cecil Munrow, founder and president of Munrow's, Liverpool’s largest retail clothier, announced that he <b> (1) </b> _____  £4,000 to the city’s new community center.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) will donate",
+              "(B) donated",
+              "(C) might donate",
+              "(D) donating"
+            ]
+          },
+          "answer": {
+            "text": "(A) will donate",
+            "explanation": "\"announced that .....\" => use future tense"
+          }
+        },
+        {
+          "question": {
+            "text": "The funds derive from the sale of tickets to a party held last night at his company’s  <b> (2) </b> _____  .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) museum",
+              "(B) hotel",
+              "(C) factory",
+              "(D) store"
+            ]
+          },
+          "answer": {
+            "text": "(D) store",
+            "explanation": "It's mentioned that Munrow's is Liverpool’s largest retail clothier => \"store\" is correct"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> _____ the past twenty years, Mr. Munrow has organized several fund-raising events for charitable institutions and community services _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Despite",
+              "(B) Over",
+              "(C) Between",
+              "(D) Beneath"
+            ]
+          },
+          "answer": {
+            "text": "(B) Over",
+            "explanation": "over the past/last + time period"
+          }
+        },
+        {
+          "question": {
+            "text": "_____ the past twenty years, Mr. Munrow has organized several fund-raising events for charitable institutions and community services  <b> (4) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The opening ceremony will begin at 10:00 A.M.",
+              "(B) The community center offers classes for adults and children.",
+              "(C) Last night’s event was the most successful thus far.",
+              "(D) Mr. Munrow plans to open a new location in London next year."
+            ]
+          },
+          "answer": {
+            "text": "(C) Last night’s event was the most successful thus far.",
+            "explanation": "Based on the previous sentence"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26f5"
+    },
+    {
+      "question": {
+        "text": "On February 3 WXO Radio will celebrate its fiftieth anniversary. That’s half a century of stimulating <b> (1) </b> _____ . Over the years, we <b> (2) </b> _____   our listeners breaking news, thought-provoking stories, and popular music from around the world. Now we invite you to celebrate with us during an open house from 5:00 P.M. to 6:30 P.M. on February 3 at our Eighth Street studio. Take a tour and see some of the behind-the-scenes magic. Watch a demonstration of our digital audio equipment.  <b> (3) </b> _____ . The open house is free, but registration is required. We hope you can join us for this <b> (4) </b> _____  occasion",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "On February 3 WXO Radio will celebrate its fiftieth anniversary. That’s half a century of stimulating <b> (1) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) concerts",
+              "(B) discussions",
+              "(C) programming",
+              "(D) development"
+            ]
+          },
+          "answer": {
+            "text": "(C) programming",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Over the years, we <b> (2) </b> _____   our listeners breaking news, thought-provoking stories, and popular music from around the world.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) offers",
+              "(B) offering",
+              "(C) will offer",
+              "(D) have offered"
+            ]
+          },
+          "answer": {
+            "text": "(D) have offered",
+            "explanation": "The hint is \"over the years\" => use present perfect"
+          }
+        },
+        {
+          "question": {
+            "text": "Take a tour and see some of the behind-the-scenes magic. Watch a demonstration of our digital audio equipment.  <b> (3) </b> _____.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We plan to merge with another local radio station next year.",
+              "(B) You can even meet some of your favorite broadcasters.",
+              "(C) This is the first event in our February schedule.",
+              "(D) This station continues to be a vital part of your community."
+            ]
+          },
+          "answer": {
+            "text": "(B) You can even meet some of your favorite broadcasters.",
+            "explanation": "Based on the previous sentence."
+          }
+        },
+        {
+          "question": {
+            "text": "We hope you can join us for this <b> (4) </b> _____  occasion",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) special",
+              "(B) specialize",
+              "(C) especially",
+              "(D) specialization"
+            ]
+          },
+          "answer": {
+            "text": "(A) special",
+            "explanation": "We need an adjective to modify the noun \"occasion\""
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26f8"
+    },
+    {
+      "question": {
+        "text": "June 8—Today the Bratton City Council approved an agreement with KGRM Enterprises. Under the agreement, KGRM <b> (1) </b> _____   the 22-acre lot on Mueller Street. The proposal calls for building both offices and retail stores on the site. Bratton’s mayor, Keith Wercler, says he welcomes the <b> (2) </b> _____  opportunities this project will bring to the area. “We expect the project to create 700 permanent full-time jobs,” he said. \"I am glad it was finally approved after so many postponements.” <b> (3) </b> _____ . <br>KGRM spokesperson Katie Cornyn expects the project will take five years to complete, yet cautions that setbacks may still occur. \"We’ve provided the council our best <b> (4) </b> _____ , but it’s not possible to foresee all issues that may arise,\" Cornyn said.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Under the agreement, KGRM <b> (1) </b> _____   the 22-acre lot on Mueller Street.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to develop",
+              "(B) will develop",
+              "(C) has developed",
+              "(D) could have developed"
+            ]
+          },
+          "answer": {
+            "text": "(B) will develop",
+            "explanation": "The agreement was just approved => use future simple tense"
+          }
+        },
+        {
+          "question": {
+            "text": "Bratton’s mayor, Keith Wercler, says he welcomes the <b> (2) </b> _____  opportunities this project will bring to the area.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) economic",
+              "(B) unforeseen",
+              "(C) volunteer",
+              "(D) frequent"
+            ]
+          },
+          "answer": {
+            "text": "(A) economic",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "“We expect the project to create 700 permanent full-time jobs,” he said. \"I am glad it was finally approved after so many postponements.” <b> (3) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) While the city is anxious for work to get underway, delays are typical for major commercial endeavors such as this.",
+              "(B) Nearby tenants, however, have raised some valid concerns about the construction noise.",
+              "(C) Despite city officials’ promises to grant the company a long-term agreement, they now may have to reconsider.",
+              "(D) Council members will vote on three different proposals from the architects."
+            ]
+          },
+          "answer": {
+            "text": "(A) While the city is anxious for work to get underway, delays are typical for major commercial endeavors such as this.",
+            "explanation": "Based on the previous sentence: \"I am glad it was finally approved after so many <b>postponements</b>\""
+          }
+        },
+        {
+          "question": {
+            "text": "\"We’ve provided the council our best <b> (4) </b> _____ , but it’s not possible to foresee all issues that may arise,\" Cornyn said.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) argument",
+              "(B) background",
+              "(C) estimate",
+              "(D) combination"
+            ]
+          },
+          "answer": {
+            "text": "(C) estimate",
+            "explanation": "Based on \"it’s not possible to <b>foresee</b> all issues that may arise\" => choose estimate"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26fb"
+    },
+    {
+      "question": {
+        "text": "From: Customer Care <custcare@arttodaymag.ca><br>To: Karina Bhat <kbhat871@5mail.ca><br>Date: November 5 <br>Subject: Welcome to Art Today <br>Attachment: Form<br><br>Dear Ms. Bhat: <br>Thank you for subscribing to Art Today!  <b> (1) </b> _____  you will be among the first to know about exciting art exhibits, concerts, auctions, and festivals throughout Western Canada. Your first issue will arrive within the next few days, and then each issue will be sent at the beginning of the month. <b> (2) </b> _____ . Your subscription also allows you unlimited <b> (3) </b> _____   to articles, videos, and other multimedia on our Web site. All you need to do is log in using your subscriber number and password, which you will find <b> (4) </b> _____   the enclosed enrollment form. <br><br>Sincerely, <br>Ken Suzuki<br>Customer Representative",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "<b> (1) </b> _____  you will be among the first to know about exciting art exhibits, concerts, auctions, and festivals throughout Western Canada.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Now",
+              "(B) Afterward",
+              "(C) Then",
+              "(D) Meanwhile"
+            ]
+          },
+          "answer": {
+            "text": "(A) Now",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Your first issue will arrive within the next few days, and then each issue will be sent at the beginning of the month. <b> (2) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To place a subscription, call our service desk during business hours.",
+              "(B) If you do not receive your copy in a week, please contact us immediately.",
+              "(C) Artists are invited to submit descriptions of their work.",
+              "(D) The first concert is scheduled to take place in Vancouver in early October."
+            ]
+          },
+          "answer": {
+            "text": "(B) If you do not receive your copy in a week, please contact us immediately.",
+            "explanation": "Based on the previous sentence mentioning \"Your first issue will arrive within the next few days...\" => B makes the most sense"
+          }
+        },
+        {
+          "question": {
+            "text": "Your subscription also allows you unlimited <b> (3) </b> _____   to articles, videos, and other multimedia on our Web site.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) accessing",
+              "(B) accesses",
+              "(C) accessed",
+              "(D) access"
+            ]
+          },
+          "answer": {
+            "text": "(D) access",
+            "explanation": "The blank comes after an adjective => need a noun"
+          }
+        },
+        {
+          "question": {
+            "text": "All you need to do is log in using your subscriber number and password, which you will find <b> (4) </b> _____   the enclosed enrollment form.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) for",
+              "(B) about",
+              "(C) on",
+              "(D) at"
+            ]
+          },
+          "answer": {
+            "text": "(C) on",
+            "explanation": "find <b>on</b> .... form"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c26fe"
+    },
+    {
+      "question": {
+        "text": "To: All Staff <br>From: Michael Davis, Head Technician<br>Subject: Network Upgrade<br><br>We regret to inform the staff that as of next week, from Monday the 13th of November to sometime midweek, the employee key card system will not be active. In order to get into and out of the building, you will need to buzz security. In order to unlock, or lock, any door, you will <b> (1) </b> ______ assistance from the security team. <br>The old system was reviewed and many vulnerabilities were discovered.  <b> (2) </b> ______, the company has decided to replace the old system. This process should take three to four days. <br>As part of the process, new key cards will be issued to each member of the staff. Key cards will be available for you to pick up from Wednesday, the 15th of November, in the security office. Please, feel free to stop by any time <b> (3) </b> ______  the day to collect yours.  <b> (4) </b> ______.<br>We apologize for any inconvenience this may cause.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "In order to unlock, or lock, any door, you will <b> (1) </b> ______ assistance from the security team.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is requesting",
+              "(B) has requested",
+              "(C) have to request",
+              "(D) had to request"
+            ]
+          },
+          "answer": {
+            "text": "(C) have to request",
+            "explanation": "will + infinitive => only C is grammatically correct"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2) </b> ______, the company has decided to replace the old system. This process should take three to four days.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Unfortunately",
+              "(B) Therefore",
+              "(C) Regardless",
+              "(D) Finally"
+            ]
+          },
+          "answer": {
+            "text": "(B) Therefore",
+            "explanation": "Based on the meaning of conjunctions"
+          }
+        },
+        {
+          "question": {
+            "text": "Please, feel free to stop by any time <b> (3) </b> ______  the day to collect yours.  ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) upon",
+              "(B) during",
+              "(C) before",
+              "(D) at"
+            ]
+          },
+          "answer": {
+            "text": "(B) during",
+            "explanation": "during + a period of time"
+          }
+        },
+        {
+          "question": {
+            "text": "Please, feel free to stop by any time ______  the day to collect yours.  <b> (4) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The move from keys to keyless entry should make the facility more secure.",
+              "(B) We will be looking forward to seeing you sometime next week.",
+              "(C) The security office is open 24 hours a day.",
+              "(D) This is for product security."
+            ]
+          },
+          "answer": {
+            "text": "(C) The security office is open 24 hours a day.",
+            "explanation": "The previous sentence mentions \"a day\" => This sentence is about time"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c2701"
+    },
+    {
+      "question": {
+        "text": "<b> Music Teacher Needed</b> Mike’s Music School is <b> (1) </b> ______  seeking a new piano instructor for weekend and evening classes. Mike’s Music School has been operating in the Central district since 1992. <b> (2) </b> ______. Because of this, we hope to hire a long-time resident of Central to join our team. Applicants should be well versed in  <b> (3) </b> ______  teaching techniques. If you are interested in  <b> (4) </b> ______  for the position, we will be holding interviews and auditions this Saturday at 12:00 at our main studio on Elm street and Dupont Ave.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Mike’s Music School is <b> (1) </b> ______  seeking a new piano instructor for weekend and evening classes.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) active",
+              "(B) actived",
+              "(C) actively",
+              "(D) activated"
+            ]
+          },
+          "answer": {
+            "text": "(C) actively",
+            "explanation": "The blank is between \"is\" and \"seeking\" => need to use an adverb to modify the verb"
+          }
+        },
+        {
+          "question": {
+            "text": "Mike’s Music School has been operating in the Central district since 1992. <b> (2) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Our company tries to work with outside communities.",
+              "(B) Our commitment to the community is as important as our commitment to our students.",
+              "(C) Our company is unique and uses strange instruments.",
+              "(D) Our company is in a special location, next to the auto service center."
+            ]
+          },
+          "answer": {
+            "text": "(B) Our commitment to the community is as important as our commitment to our students.",
+            "explanation": "Based on the previous sentence. "
+          }
+        },
+        {
+          "question": {
+            "text": "Applicants should be well versed in  <b> (3) </b> ______  teaching techniques.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) contemporary",
+              "(B) unknown",
+              "(C) strange",
+              "(D) boring"
+            ]
+          },
+          "answer": {
+            "text": "(A) contemporary",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "If you are interested in  <b> (4) </b> ______  for the position, we will be holding interviews and auditions this Saturday at 12:00 at our main studio on Elm street and Dupont Ave.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) apply",
+              "(B) applied",
+              "(C) applying",
+              "(D) to apply"
+            ]
+          },
+          "answer": {
+            "text": "(C) applying",
+            "explanation": "be interested in + Ving/ something"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c2704"
+    },
+    {
+      "question": {
+        "text": "<p align=\"right\"><b>Saldesta</b></p> <p><strong>Rest Your Mind and Body</strong></p> <p>It&rsquo;s what you&rsquo;ve been dreaming of. Peaceful sleep without a struggle is what you need. That&rsquo;s what Saldesta <b> (1) </b> ______ . Saldesta helps people fall asleep quickly and stay asleep the entire night. It&rsquo;s the only non-narcotic sleeping aid, and it&rsquo;s <b> (2) </b> ______ for long-term use. <b> (3) </b> ______ Talk to your doctor first before using sleeping aids for extended periods. Tonight, just close your eyes, and leave everything else to Saldesta.<br /> Find out how to improve your sleep at www.saldesta.com. Or call 1-800-Saldesta.<br /> Important Safety Information: Saldesta works quickly and should be taken right <b> (4) </b> ______ bed. Be sure you have at least eight hours to devote to sleep before coming active. Do not use alcohol while taking Saldesta. Most sleep medication carries some risk of dependency.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "That’s what Saldesta  <b> (1) </b> ______  .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) offers",
+              "(B) sustains",
+              "(C) mitigates",
+              "(D) maintains"
+            ]
+          },
+          "answer": {
+            "text": "(A) offers",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "It’s the only non-narcotic sleeping aid, and it’s <b> (2) </b> ______ for long-term use.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to approve",
+              "(B) approves",
+              "(C) approving",
+              "(D) approved"
+            ]
+          },
+          "answer": {
+            "text": "(D) approved",
+            "explanation": "Passive form"
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (3) </b> ______  Talk to your doctor first before using sleeping aids for extended periods.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) So you can feel comfortable taking it night after night.",
+              "(B) Talk to your doctor today to see if it’s right for you.",
+              "(C) This is the only stimulant approved for prolonged use that is approved by the FDA.",
+              "(D) Enter this code for a free sample and discounts."
+            ]
+          },
+          "answer": {
+            "text": "(A) So you can feel comfortable taking it night after night.",
+            "explanation": "Based on the previous sentence: \"It’s the only non-narcotic sleeping aid...\" => A is the right answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Saldesta works quickly and should be taken right <b> (4) </b> ______  bed.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) during",
+              "(B) around",
+              "(C) before",
+              "(D) after"
+            ]
+          },
+          "answer": {
+            "text": "(C) before",
+            "explanation": "Based on the meaning of words"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c2707"
+    },
+    {
+      "question": {
+        "text": "Employee Message Board <br>Request for Feedback<br>Posted by James Frohm, Human Resources Director <br><br>Hello colleagues, <br>The holiday season is fast approaching and we need to<b> (1) </b> ______  our office party! There  have  been several  <b> (2) </b> ______  for locations and themes made to me directly, but I wanted to invite everyone in the office to give me their feedback. All ideas are welcome, but I must remind everyone that our office <b> (3) </b> ______ . Our party can include all forms of secular celebration, but out of respect for everyone, there may be no religious themes. Please respond to me directly by e-mail at jamesfrohm@ccn.net, so I can get started making plans. <b> (4) </b> ______. <br>Sincerely, <br>James",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "The holiday season is fast approaching and we need to <b> (1) </b> ______  our office party!",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) make",
+              "(B) plan",
+              "(C) conceive",
+              "(D) deliver"
+            ]
+          },
+          "answer": {
+            "text": "(B) plan",
+            "explanation": "Based on the meaning of verbs"
+          }
+        },
+        {
+          "question": {
+            "text": "There have been several <b>(2)</b> ______  for locations and themes made to me directly, but I wanted to invite everyone in the office to give me their feedback",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) comments",
+              "(B) suggestions",
+              "(C) spots",
+              "(D) suggested"
+            ]
+          },
+          "answer": {
+            "text": "(B) suggestions",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "All ideas are welcome, but I must remind everyone that our office <b> (3) </b> ______ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) is a safe space for all customs and cultures",
+              "(B) stays open late on Tuesday",
+              "(C) needs a new janitor",
+              "(D) will move next week"
+            ]
+          },
+          "answer": {
+            "text": "(A) is a safe space for all customs and cultures",
+            "explanation": "Based on the sentence's meaning. "
+          }
+        },
+        {
+          "question": {
+            "text": "Please respond to me directly by e-mail at jamesfrohm@ccn.net, so I can get started making plans. <b> (4) </b> ______.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) I look forward to your ideas and enthusiasm.",
+              "(B) I’m look forward to your ideas and enthusiasm.",
+              "(C) I look forward to your undivided attention.",
+              "(D) I hope you reply before its too late."
+            ]
+          },
+          "answer": {
+            "text": "(A) I look forward to your ideas and enthusiasm.",
+            "explanation": "The notice is about \"Request for Feedback\" and previously it is mentioned that \"All ideas are welcome\" => look forward to your ideas and enthusiasm"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c270a"
+    },
+    {
+      "question": {
+        "text": "<p><strong>International Goods Fair</strong></p> <p>If you want <b> (1) </b> _____ your packaged goods to an international audience, join the 8th annual International Goods Fair. The fair runs from March 5 to March 7 at the Galaxy Convention in downtown New York. With over 200 booths <b> (2) </b> _____ by companies from all over the world, you can make business connections while promoting your own products to interested customers and businesses. The products should be mainly packaged foods ranging <b> (3) </b> _____ desserts and snacks to canned meats and dried jerky. <b> (4) </b> _____ . Spots are limited and going fast.</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "If you want <b> (1) </b> _____  your packaged goods to an international audience, join the 8th annual International Goods Fair.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) promotion",
+              "(B) promoting",
+              "(C) to promote",
+              "(D) have promoted"
+            ]
+          },
+          "answer": {
+            "text": "(C) to promote",
+            "explanation": "want + to infinitive"
+          }
+        },
+        {
+          "question": {
+            "text": "With over 200 booths  <b> (2) </b> _____  by companies from all over the world, you can make business connections while promoting your own products to interested customers and businesses.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) represented",
+              "(B) expressed",
+              "(C) delivered",
+              "(D) revealed"
+            ]
+          },
+          "answer": {
+            "text": "(A) represented",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "The products should be mainly packaged foods ranging <b> (3) </b> _____  desserts and snacks to canned meats and dried jerky.  _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) to",
+              "(B) for",
+              "(C) from",
+              "(D) with"
+            ]
+          },
+          "answer": {
+            "text": "(C) from",
+            "explanation": "range (verb) from ..... to ....."
+          }
+        },
+        {
+          "question": {
+            "text": "The products should be mainly packaged foods ranging   _____  desserts and snacks to canned meats and dried jerky.  <b> (4) </b> _____ .",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ice creams will not be allowed on the premises.",
+              "(B) You can sample items as you browse.",
+              "(C) You’ll have a chance to promote your food of choice.",
+              "(D) Apply for a booth now before they’re all taken."
+            ]
+          },
+          "answer": {
+            "text": "(D) Apply for a booth now before they’re all taken.",
+            "explanation": "Based on the following sentence: \"Spots are limited and going fast.\" => use an imperative to prompt actions"
+          }
+        }
+      ],
+      "id": "626441a8eccc8cae769c270c"
+    }
+  ],
+  "part": 6,
+  "difficultyLevel": "DIFFICULT",
+  "id": "626441a8eccc8cae769c2710"
+}

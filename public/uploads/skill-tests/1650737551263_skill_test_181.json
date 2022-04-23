@@ -1,0 +1,218 @@
+{
+  "name": "Skill Test 181",
+  "questions": [
+    {
+      "question": {
+        "text": "Our staff will accept grant proposals ------- March 3 to April 3.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) past",
+          "(B) from",
+          "(C) sometime",
+          "(D) in"
+        ]
+      },
+      "answer": {
+        "text": "(B) from",
+        "explanation": "Based on structure from ... to ..."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1684"
+    },
+    {
+      "question": {
+        "text": "Payne Carpet's decorative rugs are made from a ___ of synthetic and natural materials.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)plan",
+          "(B)team",
+          "(C)blend",
+          "(D)shade"
+        ]
+      },
+      "answer": {
+        "text": "(C)blend",
+        "explanation": "Blend = Mixture = Combination"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1682"
+    },
+    {
+      "question": {
+        "text": "Please note that any changes to your reservation should be made at least three days prior to your ___ at the hotel.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)arrive",
+          "(B)arrival",
+          "(C)arrives",
+          "(D)arrived"
+        ]
+      },
+      "answer": {
+        "text": "(B)arrival",
+        "explanation": "The answer comes after \"your\" so we use a noun."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1680"
+    },
+    {
+      "question": {
+        "text": "Financial adviser Jenna Sotulo helps professionals devise a ------- for managing their finances.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)prediction",
+          "(B)gesture",
+          "(C)strategy",
+          "(D)request"
+        ]
+      },
+      "answer": {
+        "text": "(C)strategy",
+        "explanation": "Based on the meaning of words.\n"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c167e"
+    },
+    {
+      "question": {
+        "text": "Because of a ___ increase in profits this quarter, Tyro Sportswear employees will receive their first-ever year-end bonus.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)dramatically",
+          "(B)dramatize",
+          "(C)dramatic",
+          "(D)drama"
+        ]
+      },
+      "answer": {
+        "text": "(C)dramatic",
+        "explanation": "We are giving more information on the noun \"increase\" so we use an adjective."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1678"
+    },
+    {
+      "question": {
+        "text": "Duties have been divided ___ among the town council committee members.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)even",
+          "(B)evened",
+          "(C) evenly",
+          "(D) evenness"
+        ]
+      },
+      "answer": {
+        "text": "(C) evenly",
+        "explanation": "We are giving more information on the verb \"have been divided\" so we use an adverb."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c168e"
+    },
+    {
+      "question": {
+        "text": "Applications for the receptionist job have come in ___ over the past two weeks.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)openly",
+          "(B)greatly",
+          "(C)exactly",
+          "(D)steadily"
+        ]
+      },
+      "answer": {
+        "text": "(D)steadily",
+        "explanation": "Steadily = Consistently = Regularly"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1686"
+    },
+    {
+      "question": {
+        "text": "Each employee must coordinate with management so that ------- time off can be properly scheduled.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)alone",
+          "(B)individual",
+          "(C)isolating",
+          "(D)separated"
+        ]
+      },
+      "answer": {
+        "text": "(B)individual",
+        "explanation": "Based on the meaning of words.\n"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c169c"
+    },
+    {
+      "question": {
+        "text": "We are happy to ___ that the Annual Business Innovations Fair will be held at the Hervath Conference Center in Mayville.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)announce",
+          "(B)attract",
+          "(C)invite",
+          "(D)issue"
+        ]
+      },
+      "answer": {
+        "text": "(A)announce",
+        "explanation": "Announce that + clause"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c169a"
+    },
+    {
+      "question": {
+        "text": "Trains for Gruyville ___ at 9:00 A.M. Monday through Friday.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)depart",
+          "(B)is departed",
+          "(C)departs",
+          "(D)is departing"
+        ]
+      },
+      "answer": {
+        "text": "(A)depart",
+        "explanation": "We use only simple present tense in schedules. Because the subject is in plural form so we choose \"depart\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1692"
+    }
+  ],
+  "part": 5,
+  "difficultyLevel": "MEDIUM",
+  "id": "6264418feccc8cae769c16b0"
+}

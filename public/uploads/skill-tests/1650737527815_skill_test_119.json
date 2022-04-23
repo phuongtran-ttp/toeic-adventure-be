@@ -1,0 +1,748 @@
+{
+  "name": "Skill Test 119",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06d9"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Attention, conference attendees. Thank you for your patience while you wait for US to solve this delay. <b> Q1 Unfortunately, the computer that is to be used during the keynote speaker’s presentation is having problems</b>. As a result, we are currently transferring the necessary files onto a different computer. <b>  Q2 We plan to get  underway with the presentation in half an hour</b>. In the meantime, feel free to enjoy some of the refreshments provided near the entrance. <b> Q3 We will dim the lights in order to indicate that the presentation will be beginning</b>. Please return to your seats at that time."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is causing a delay?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Bad weather",
+              "(B) A canceled flight",
+              "(C) A scheduling error",
+              "(D) A technical difficulty"
+            ]
+          },
+          "answer": {
+            "text": "(D) A technical difficulty",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, after how long will the presentation begin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 5 minutes",
+              "(B) 30 minutes",
+              "(C) 45 minutes",
+              "(D) 60 minutes"
+            ]
+          },
+          "answer": {
+            "text": "(B) 30 minutes",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will happen when the listeners should return?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) An announcement will be made.",
+              "(B) Lighting will be adjusted.",
+              "(C) A keynote speaker will appear on the stage.",
+              "(D) Refreshments will be served."
+            ]
+          },
+          "answer": {
+            "text": "(B) Lighting will be adjusted.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06db"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06de"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome back to your local radio station WXFD 93.7 with the morning news update. <b> Q1 Yesterday, the Clinton Town Council passed a new law prohibiting pet owners from bringing their pets onto public beaches. Q2 Tim Kellerman, who was newly elected to the town council last month, justified the decision by arguing that pets can bother other beach- goers</b>. Those who violate the law will have to pay a fine of $300. <b> Q3 Up next, we will be taking calls from listeners to hear their reaction to this new measure.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the radio broadcast about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The opening of a pet store",
+              "(B) A newly introduced law",
+              "(C) A new council hall",
+              "(D) An upcoming election"
+            ]
+          },
+          "answer": {
+            "text": "(B) A newly introduced law",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what did Tim Kellerman do recently?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He ran for office.",
+              "(B) He won an award.",
+              "(C) He selected a pet.",
+              "(D) He paid a fine."
+            ]
+          },
+          "answer": {
+            "text": "(A) He ran for office.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will listeners most likely hear next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A weather forecast",
+              "(B) Some breaking news",
+              "(C) Community members’ opinions",
+              "(D) A telephone interview"
+            ]
+          },
+          "answer": {
+            "text": "(C) Community members’ opinions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06e0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test07_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test07_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06e5"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> <br> Are you feeling down this fall season? <b> Q1 Then come down to Kim’s Taekwondo Center and energize yourself with the healthy and exciting sport of Taekwondo. Q2 We are offering a special discounted membership to those with no prior experience</b>. So even if it’s your first time, don’t hesitate. Come sign up today. We are located on Main street. <b> Q3 You can also come by bus by getting off at the bus stop near Geller Bank</b>. Now is the time to refresh yourself with Taekwondo."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the advertisement about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A martial arts class",
+              "(B) An athletic contest",
+              "(C) A city tour bus",
+              "(D) A downtown festival"
+            ]
+          },
+          "answer": {
+            "text": "(A) A martial arts class",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is the special offer directed at?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Senior citizens",
+              "(B) Beginners",
+              "(C) Children",
+              "(D) Local residents"
+            ]
+          },
+          "answer": {
+            "text": "(B) Beginners",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about the advertised location?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is accessible by public transportation.",
+              "(B) It has no parking space available.",
+              "(C) It is near a train station.",
+              "(D) It is in the same building as Geller Bank."
+            ]
+          },
+          "answer": {
+            "text": "(A) It is accessible by public transportation.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06eb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0401.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0401.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06e7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hello, Ms. Grayson. <b> Q1 This is Michael Cook calling from Alliance Financial Bank. Q2 It has recently come to my attention that some clients who renewed their credit card this month were sent the wrong card</b>. We have had multiple calls from bank members saying that they were sent a credit card with someone else’s name on it. According to our records, you were also sent the wrong credit card. <b> Q3 We ask that you please dispose of the credit card by cutting it with a pair of scissors</b>. In the meantime, we will issue a new credit card and have it delivered by express mail. We apologize for the inconvenience."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a retail store",
+              "(B) At a bank",
+              "(C) At a gift shop",
+              "(D) At a shipping company"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a bank",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker apologize for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A delivery mistake",
+              "(B) An incorrect charge",
+              "(C) A scheduling error",
+              "(D) A defective product"
+            ]
+          },
+          "answer": {
+            "text": "(A) A delivery mistake",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker ask the listener to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Return a call",
+              "(B) Renew his credit card",
+              "(C) Get rid of the recently delivered card",
+              "(D) Sign an application form"
+            ]
+          },
+          "answer": {
+            "text": "(C) Get rid of the recently delivered card",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06ed"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06e3"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Welcome to our Holiday Sale here at Leeman’s Department store. We are currently running our Red Cart Savings Event. Pay just $100 for all the clothing that you can fit in a single red cart. <b> Q1 You can get a cart immediately inside the main entrance to the store</b>. Make sure to take advantage of this sale. It only happens once a year! <b> Q2 In order to accommodate the high volume of customers, we have extra staff located throughout the store. You can spot them easily because they are wearing green vests</b>. Also, you can enter your name into our raffle event by visiting the front desk. <b> Q3 I will announce the results at the end of the day.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where should listeners get carts?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In the parking lot",
+              "(B) At the entrance",
+              "(C) Near the lobby",
+              "(D) From a cashier"
+            ]
+          },
+          "answer": {
+            "text": "(B) At the entrance",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, who is wearing green vests?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Cashiers",
+              "(B) Store managers",
+              "(C) Additional staff",
+              "(D) Parking lot attendants"
+            ]
+          },
+          "answer": {
+            "text": "(C) Additional staff",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speaker most likely do at the end of the day?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Announce winners",
+              "(B) Collect donations",
+              "(C) Give a demonstration",
+              "(D) Purchase an item"
+            ]
+          },
+          "answer": {
+            "text": "(A) Announce winners",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06e9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06f4"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 Attention, all shoppers. The West Point Mall will be closing in 10 minutes</b>. We thank you for shopping with US and greatly appreciate your business. <b> Q2 To purchase items, please bring them to the cashier right now</b>. Also, we would like to inform you that a wallet that was found inside the store has been sent to the front desk. <b> Q3 If your name is Catherine Goya, please stop by the front desk to claim the wallet</b>. Once again, we will be closing in 10 minutes. Please finish your shopping immediately."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the announcement being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) In a subway station",
+              "(B) In a conference hall",
+              "(C) In a shopping mall",
+              "(D) In a baggage claim area"
+            ]
+          },
+          "answer": {
+            "text": "(C) In a shopping mall",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the listeners asked to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Proceed to the checkout immediately",
+              "(B) Register for a workshop",
+              "(C) Search for a missing item",
+              "(D) Visit a different location"
+            ]
+          },
+          "answer": {
+            "text": "(A) Proceed to the checkout immediately",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why should Ms. Goya go to the front desk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To pay a membership fee",
+              "(B) To recover a lost item",
+              "(C) To receive a voucher",
+              "(D) To return an item"
+            ]
+          },
+          "answer": {
+            "text": "(B) To recover a lost item",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06f8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test07_0402.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test07_0402.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06f2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> <br> <b> Q1 Welcome to the Museum of Electronics. </b> Here you can see some of the earliest televisions, radios, and telephones. This month, we have a special exhibition that focuses b developed during World War II. <b> Q2 George Butler, an expert in the field, will be giving a short talk describing the history behind this marvelous technology. Q3 There is also a workshop for students aged 13 to 19 where they can assemble their own radio transmitter</b>. It will be a good opportunity to learn a few basic principles of electronic engineering."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the introduction taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a school",
+              "(B) At a museum",
+              "(C) At a radio station",
+              "(D) At a community center"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a museum",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Who is George Butler?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A computer technician",
+              "(B) A mechanical engineer",
+              "(C) An electrician",
+              "(D) A technology expert"
+            ]
+          },
+          "answer": {
+            "text": "(D) A technology expert",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is offered for teenage students?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A hands-on experience",
+              "(B) A weekly after-school class",
+              "(C) A complimentary souvenir",
+              "(D) A discounted ticket price"
+            ]
+          },
+          "answer": {
+            "text": "(A) A hands-on experience",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06fa"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0404.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0404.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c06f6"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 If you’re looking for reasonable prices on ink toner, then stop by Quill Office Supplies in Rochester! </b>We have replacement ink toner to fit all models of printers and copy machines. <b> Q2 During the month of April, we will send a technician to your location at no charge to help you remove an old ink cartridge and install a new one. Q3 If you sign up for regular cartridge refills, you can receive a 5% discount on all of your purchases</b>. For more information, please visit our website at WWW.quill officesupplies.com."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What business is being advertised?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A computer retailer",
+              "(B) An electronics repair shop",
+              "(C) An office supply store",
+              "(D) A cosmetics store"
+            ]
+          },
+          "answer": {
+            "text": "(C) An office supply store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What service is available in April?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Installment payments",
+              "(B) Express shipping",
+              "(C) Online assistance",
+              "(D) Free installation"
+            ]
+          },
+          "answer": {
+            "text": "(D) Free installation",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Flow can listeners get a discount?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) By bringing a coupon",
+              "(B) By buying in bulk",
+              "(C) By becoming a regular customer",
+              "(D) By signing up for a newsletter"
+            ]
+          },
+          "answer": {
+            "text": "(C) By becoming a regular customer",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c06fd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0403.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0403.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c0700"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Thank you for calling Joyce Optical. If you are calling to check on the status of an order, press 1.<b> Q1 Remember, we are the only glasses store in town that offers the services of our opticians free of charge. Q2 That means you can get a complimentary eye examination as your vision changes. Q3 If you would like to meet with one of our opticians, press 2 now</b>. We appreciate you choosing Joyce Optical and we hope to see you soon."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What business created the message?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A glassware factory",
+              "(B) A pharmacy",
+              "(C) An eyeglasses store",
+              "(D) An insurance company"
+            ]
+          },
+          "answer": {
+            "text": "(C) An eyeglasses store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what service does the business offer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Free eye examinations",
+              "(B) Online purchases",
+              "(C) Special discounts for regular customers",
+              "(D) Free delivery on large orders"
+            ]
+          },
+          "answer": {
+            "text": "(A) Free eye examinations",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why would listeners press 2?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To cancel an order",
+              "(B) To change delivery information",
+              "(C) To schedule an appointment",
+              "(D) To leave a message"
+            ]
+          },
+          "answer": {
+            "text": "(C) To schedule an appointment",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c0705"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0405.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0405.mp3",
+            "mime": "audio/mp3",
+            "id": "62644177eccc8cae769c0707"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "Hi everyone, thanks for meeting with me today. <b> Q1 I’d like announce a few changes in our health and safety policy that are designed to conform to the new government regulations</b>. Firstly, we can no longer work a shift longer than six hours without taking a one-hour break. We’ll be using a clock-in system that is automated to send you a text message once you reach six hours. You will also wear a device that monitors your time on the shift. <b> Q2 It’s a very simple device, you just attach it to your work belt and it will do the rest, so you won’t need any training with that. Q3 Sharing helmets and work boots is also now prohibited. You will have to buy your own equipment</b>, and then later you can claim the money back on your tax return."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, why are changes ¥ being made?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The government took the company to court.",
+              "(B) To conform to government regulations",
+              "(C) To enact a new labor board",
+              "(D) To arrange lower paying contracts"
+            ]
+          },
+          "answer": {
+            "text": "(B) To conform to government regulations",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says, “It’s a very simple device, you just attach it to your work belt and it will do the rest, so you won’t need any training with that”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The new system requires no training.",
+              "(B) She doesn’t like the new system.",
+              "(C) There is no budget for staff uniforms.",
+              "(D) Everyone needs training."
+            ]
+          },
+          "answer": {
+            "text": "(A) The new system requires no training.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker tell the listeners they will have to start bringing to work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Extra pairs of work pants",
+              "(B) Other people’s helmets",
+              "(C) Their own boots and helmets",
+              "(D) A new financial plan"
+            ]
+          },
+          "answer": {
+            "text": "(C) Their own boots and helmets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "62644177eccc8cae769c070c"
+    }
+  ],
+  "part": 4,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62644177eccc8cae769c0714"
+}

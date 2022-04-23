@@ -1,0 +1,755 @@
+{
+  "name": "Skill Test 104",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "9287609_1557990440511.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/9287609_1557990440511.png",
+            "mime": "image/png",
+            "id": "6264416beccc8cae769c0203"
+          }
+        ],
+        "sound": [
+          {
+            "name": "924550291-1584093082229.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/924550291-1584093082229.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416beccc8cae769c0205"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Q1 Today, for your laboratory technician training, we'll discuss monitoring the thermostat batteries.</b>  If the power's too low, we won't know the exact temperature of the equipment. <br>M-Cn: <b> Q2 Do the thermostats in the lab have spare batteries or a backup power source just in case?</b><br>W-Br: No, there’s no backup. You’ll need to monitor the battery closely. Always check the display screen. <br>M-Cn: When do I change the batteries? <br>W-Br: In your trainee manual, you can see how the battery-power levels will appear on the display. <b> Q3 Replace batteries when they reach twenty-five percent</b>. We don’t want to replace them any earlier than we have to, but we can-t wait until they run out or we may lose valuable data."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What event is taking place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A training session",
+              "(B) A job interview",
+              "(C) A management meeting",
+              "(D) An award ceremony"
+            ]
+          },
+          "answer": {
+            "text": "(A) A training session",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Experiment results",
+              "(B) Alternative power sources",
+              "(C) Additional order requests",
+              "(D) Different model types"
+            ]
+          },
+          "answer": {
+            "text": "(B) Alternative power sources",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. According to the woman, how many bars will be displayed when the battery should be replaced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Three bars",
+              "(B) Two bars",
+              "(C) One bar",
+              "(D) Zero bars"
+            ]
+          },
+          "answer": {
+            "text": "(C) One bar",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416beccc8cae769c0207"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_331.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_331.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c020a"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: I&rsquo;m sorry, Mr. Singh, <strong>Q1&nbsp;we don&rsquo;t seem to have a reservation for you.</strong><br /> M: I confirmed it on Wednesday. <strong>Q1&nbsp;A single room with a bath.</strong><br /> W: Well, <strong>Q2&nbsp;we&rsquo;ve been having problems with the computer since Monday.</strong> Perhaps <strong>Q3&nbsp;you&rsquo;d like to get something to eat in the coffee shop </strong>while I talk to the manager?<br /> M: Yes, that would be good. I didn&rsquo;t eat anything on the plane.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) in a restaurant",
+              "(B) in a hotel",
+              "(C) in an airport",
+              "(D) in an office building"
+            ]
+          },
+          "answer": {
+            "text": "(B) in a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When did the computer problems begin?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Monday",
+              "(B) On Tuesday",
+              "(C) On Wednesday",
+              "(D) On Thursday"
+            ]
+          },
+          "answer": {
+            "text": "(A) On Monday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest that Mr. Singh do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Fix the computer",
+              "(B) Make a reservation",
+              "(C) Talk to the manager",
+              "(D) Go to the coffee shop"
+            ]
+          },
+          "answer": {
+            "text": "(D) Go to the coffee shop",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c020c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_332.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_332.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c020f"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: <strong>Q1&nbsp;Clara, Mr. Peterson is looking for you.</strong> He wanted to remind you not to miss this morning&rsquo;s marketing meeting since the director is going to be there today.<br /> W: I know, but <strong>Q2&nbsp;I wasn&rsquo;t able to reschedule my 10 o&rsquo;clock appointment with Dr. Kim. </strong>I guess Mr. Peterson didn&rsquo;t get my message.<br /> M: No, <strong>Q3&nbsp;he must have forgotten to check his messages</strong> before he went to the conference room.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is looking for Clara?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Dr. Kim",
+              "(B) Mr. Peterson",
+              "(C) The director",
+              "(D) The receptionist"
+            ]
+          },
+          "answer": {
+            "text": "(B) Mr. Peterson",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does Clara have to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make an appointment with Mr. Peterson",
+              "(B) Go to her office",
+              "(C) Meet Dr. Kim",
+              "(D) Write a report"
+            ]
+          },
+          "answer": {
+            "text": "(C) Meet Dr. Kim",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did Mr. Peterson most likely forget to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Schedule a doctor's appointment",
+              "(B) Reserve the conference room",
+              "(C) Meet with the director is",
+              "(D) Review his messages"
+            ]
+          },
+          "answer": {
+            "text": "(D) Review his messages",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0211"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_333.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_333.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0214"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: Are you going to the sales awards banquet Saturday night?<br /> M: No, <strong>Q1&nbsp;I&rsquo;m leaving for Bermuda on Thursday, </strong>and I won&rsquo;t be back until the tenth.<br /> W: Oh, are you going for a vacation? <strong>Q2&nbsp;My family and I go there every year.</strong><br /> M: No, <strong>Q3&nbsp;I have to meet with some new clients. </strong></p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "When is the man going on a trip?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) On Sunday",
+              "(B) On Tuesday",
+              "(C) On Thursday",
+              "(D) On Saturday"
+            ]
+          },
+          "answer": {
+            "text": "(C) On Thursday",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the 'woman imply?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She has been to Bermuda several times.",
+              "(B) She is notable to work overtime.",
+              "(C) She has family living in Bermuda.",
+              "(D) She will not attend the banquet."
+            ]
+          },
+          "answer": {
+            "text": "(A) She has been to Bermuda several times.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the man going to Bermuda?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To receive an award",
+              "(B) To see his family",
+              "(C) To meet some customers",
+              "(D) To have a vacation"
+            ]
+          },
+          "answer": {
+            "text": "(C) To meet some customers",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0216"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_334.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_334.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0219"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Good morning. <strong>Q1&nbsp;I&rsquo;m here from Marley&rsquo;s Flowers with a delivery </strong>for Donna Goodrich.<br /> W: Wow, these roses are really beautiful! Someone must have sent them for her birthday today. Unfortunately, <strong>Q2&nbsp;Ms. Goodrich is in a meeting </strong>right now.<br /> M: Oh, that&rsquo;s not a problem. I can leave them with you. <strong>Q3&nbsp;Just sign your name here,</strong> please.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the man doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Planting flowers",
+              "(B) Hanging a sign",
+              "(C) Making a delivery",
+              "(D) Taking an order"
+            ]
+          },
+          "answer": {
+            "text": "(C) Making a delivery",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where is Ms. Goodrich?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a party",
+              "(B) At a meeting",
+              "(C) At a flower show",
+              "(D) At lunch"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a meeting",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman probably do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign a form",
+              "(B) Call Ms. Goodrich",
+              "(C) Water some flowers",
+              "(D) Go shopping"
+            ]
+          },
+          "answer": {
+            "text": "(A) Sign a form",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c021b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_335.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_335.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c021e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: <strong>Q1&nbsp;I&rsquo;m here for the computer training session,</strong> but I&rsquo;m not sure where to go. Can you tell me how to get to the computer lab?<br /> M: <strong>Q2&nbsp;Are you signed up for the session on word processing or the one on our new e-mail system?</strong><br /> W: I&rsquo;m supposed to learn about the new email system and then show everyone in my department how to use it. I hope it&rsquo;s an informative class!<br /> M: Oh, I&rsquo;m sure it will be. <strong>Q3&nbsp;Ms. McGregor is an excellent teacher.</strong> The lab is down that hall; it&rsquo;s the third door on the right.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A new instructor",
+              "(B) A training session",
+              "(C) A computer problem",
+              "(D) An instruction manual"
+            ]
+          },
+          "answer": {
+            "text": "(B) A training session",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman ask the man to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) introduce her to Ms. McGregor",
+              "(B) Show her how to use e-mail",
+              "(C) Lead a training session",
+              "(D) Give her directions"
+            ]
+          },
+          "answer": {
+            "text": "(D) Give her directions",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Ms. McGregor is a good instructor.",
+              "(B) The training session has been canceled.",
+              "(C) The instruction manual is very thorough.",
+              "(D) There are 30 computers in the lab."
+            ]
+          },
+          "answer": {
+            "text": "(A) Ms. McGregor is a good instructor.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0220"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_337.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_337.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0223"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>W: <strong>Q1&amp;2&nbsp;Let&rsquo;s discuss the last person we interviewed before we see the next candidate. </strong>What did you think, Miles?<br /> M: <strong>Q3&nbsp;After reading his resume, I expected more from him. </strong>Although his experience looked relevant, he wasn&rsquo;t able to answer our basic questions.<br /> W: That&rsquo;s true. And I&rsquo;m afraid he wouldn&rsquo;t contribute much to our team.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are coworkers.",
+              "(B) They are job applicants.",
+              "(C) They are politicians.",
+              "(D) They are athletes."
+            ]
+          },
+          "answer": {
+            "text": "(A) They are coworkers.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is being discussed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A business presentation",
+              "(B) A job interview",
+              "(C) A training program",
+              "(D) A sporting event"
+            ]
+          },
+          "answer": {
+            "text": "(B) A job interview",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is Miles disappointed?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has to work late.",
+              "(B) He expected more from an applicant.",
+              "(C) His team lost a competition.",
+              "(D). His coworker is changing jobs."
+            ]
+          },
+          "answer": {
+            "text": "(B) He expected more from an applicant.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0225"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_338.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_338.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0228"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: So <strong>Q1&nbsp;what do you think about that office space we looked at?</strong> Should we take it?<br /> W: Well, <strong>Q2&nbsp;we&rsquo;d be in the same area, and the cost is right, but it does need some repairs.</strong><br /> M: Yes, you&rsquo;re right. It does need work, a lot in fact. And some storage compartments will have to be installed. But the size is perfect for our company.<br /> W: Well, <strong>Q3&nbsp;I suppose we could hire a contractor to help with the work.</strong> So, yes, let&rsquo;s consider renting it.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers is discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Repairing a house",
+              "(B) Building an apartment",
+              "(C) Renting an office",
+              "(D) Buying a store"
+            ]
+          },
+          "answer": {
+            "text": "(C) Renting an office",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the problem with the property?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It costs too much.",
+              "(B) It is far away.",
+              "(C) It is too big.",
+              "(D) It needs some repairs."
+            ]
+          },
+          "answer": {
+            "text": "(D) It needs some repairs.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Moving the furniture",
+              "(B) Hiring a contractor",
+              "(C) Arranging transportation",
+              "(D) Borrowing some money"
+            ]
+          },
+          "answer": {
+            "text": "(B) Hiring a contractor",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c022a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_341.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_341.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c022c"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: I heard, <strong>Q1&nbsp;you went to that new restaurant&nbsp;</strong>on Queen Street. What&rsquo;s the name of it again?<br /> W: It&rsquo;s called The Walnut Tree. It was great terrific food, fast service, pleasant setting.<br /> M: That&rsquo;s good to know. <strong>Q2&nbsp;I have some clients coming in from out of town next week and I&rsquo;d like to take them to someplace nice. </strong>How are the prices?<br /> W: Not bad at all. Oh, and here: I got <strong>Q3&nbsp;one of their business cards</strong> with their address and phone number. You can have it.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the man and woman talking about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A meeting",
+              "(B) A hotel",
+              "(C) A restaurant",
+              "(D) A client"
+            ]
+          },
+          "answer": {
+            "text": "(C) A restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the man planning to do next week?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Take some time off",
+              "(B) Travel out of town",
+              "(C) Meet with the woman",
+              "(D) Take some clients out to eat"
+            ]
+          },
+          "answer": {
+            "text": "(D) Take some clients out to eat",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman give the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A business card",
+              "(B)A meeting agenda",
+              "(C) An expense report",
+              "(D) A client’s phone number"
+            ]
+          },
+          "answer": {
+            "text": "(A) A business card",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c022f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_339.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_339.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416deccc8cae769c0231"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: Hi, <strong>Q1&nbsp;my physician called in a prescription to the pharmacy </strong>this morning for my allergy medication. My name is Allen Lee.<br /> W: Yes, here it is.<strong> Q2&nbsp;You should take two tablets once a day.</strong> Be sure to take the medicine with water after you have eaten.<br /> M: Thanks. I&rsquo;ll be glad to stop sneezing.<br /> W: <strong>Q3&nbsp;You might find that you experience some drowsiness</strong>, so take care if you&rsquo;re driving.</p>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A patient",
+              "(B) A nurse",
+              "(C) A pharmacist",
+              "(D) A driver"
+            ]
+          },
+          "answer": {
+            "text": "(C) A pharmacist",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "How many time each day should the man take the medication?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Once",
+              "(B) Twice",
+              "(C) Three times",
+              "(D) Four times"
+            ]
+          },
+          "answer": {
+            "text": "(A) Once",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What effect might the medication cause?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Hunger",
+              "(B) Weight loss",
+              "(C) Stomachache",
+              "(D) Tiredness"
+            ]
+          },
+          "answer": {
+            "text": "(D) Tiredness",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416deccc8cae769c0234"
+    }
+  ],
+  "part": 3,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6264416deccc8cae769c023b"
+}
