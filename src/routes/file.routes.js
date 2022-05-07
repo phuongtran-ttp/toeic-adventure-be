@@ -1,5 +1,6 @@
 const fileControllers = require('../controllers/file.controllers');
 const uploadMiddlewares = require('../middlewares/upload');
+const auth = require('../middlewares/auth');
 
 module.exports = {
   prefix: '/upload',
@@ -20,13 +21,13 @@ module.exports = {
       method: 'POST',
       path: '/',
       handler: fileControllers.uploads,
-      middlewares: [uploadMiddlewares],
+      middlewares: [auth('Admin'), uploadMiddlewares],
     },
     {
       method: 'DELETE',
       path: '/files/:id',
       handler: fileControllers.deleteOne,
-      middlewares: [],
+      middlewares: [auth('Admin')],
     }
   ],
 };

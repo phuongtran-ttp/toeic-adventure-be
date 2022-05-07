@@ -1,6 +1,7 @@
 const fullTestControllers = require('../controllers/fullTest.controllers');
 const validate = require('../middlewares/validate');
 const fullTestValidation = require('../validations/fullTest.validation');
+const auth = require('../middlewares/auth');
 
 module.exports = {
   prefix: '/full-tests',
@@ -27,19 +28,19 @@ module.exports = {
       method: 'POST',
       path: '/',
       handler: fullTestControllers.create,
-      middlewares: [validate(fullTestValidation.create)],
+      middlewares: [auth('Admin'), validate(fullTestValidation.create)],
     },
     {
       method: 'PUT',
       path: '/:id',
       handler: fullTestControllers.update,
-      middlewares: [validate(fullTestValidation.update)],
+      middlewares: [auth('Admin'), validate(fullTestValidation.update)],
     },
     {
       method: 'DELETE',
       path: '/:id',
       handler: fullTestControllers.deleteOne,
-      middlewares: [],
+      middlewares: [auth('Admin')],
     },
   ],
 };

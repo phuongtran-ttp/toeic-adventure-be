@@ -1,6 +1,7 @@
 const skillTestControllers = require('../controllers/skillTest.controllers');
 const validate = require('../middlewares/validate');
 const skillTestValidation = require('../validations/skillTest.validation');
+const auth = require('../middlewares/auth');
 
 module.exports = {
   prefix: '/skill-tests',
@@ -27,19 +28,19 @@ module.exports = {
       method: 'POST',
       path: '/',
       handler: skillTestControllers.create,
-      middlewares: [validate(skillTestValidation.create)],
+      middlewares: [auth('Admin'), validate(skillTestValidation.create)],
     },
     {
       method: 'PUT',
       path: '/:id',
       handler: skillTestControllers.update,
-      middlewares: [validate(skillTestValidation.updateSkillTest)],
+      middlewares: [auth('Admin'), validate(skillTestValidation.updateSkillTest)],
     },
     {
       method: 'DELETE',
       path: '/:id',
       handler: skillTestControllers.deleteOne,
-      middlewares: [],
+      middlewares: [auth('Admin')],
     },
   ],
 };

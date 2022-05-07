@@ -1,9 +1,11 @@
 require('dotenv').config();
-const db = require('./database');
-const server = require('./server');
+const dbConfig = require('./database');
+const serverConfig = require('./server');
+const emailConfig = require('./email');
 
 module.exports = {
-  server,
-  db,
+  server: serverConfig,
+  db: dbConfig,
+  email: emailConfig,
   env: process.env.NODE_ENV || 'development',
 }
