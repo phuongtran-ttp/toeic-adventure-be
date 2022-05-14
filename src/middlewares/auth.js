@@ -20,6 +20,10 @@ const auth = (...allowedRoles) => async (req, res, next) => {
       throw new Error('User not found');
     }
 
+    if (!user.isEmailVerified) {
+      throw new Error('Email not verified');
+    }
+
     if (!allowedRoles.includes(user.role.name)) {
       throw new Error('Forbidden');
     }
