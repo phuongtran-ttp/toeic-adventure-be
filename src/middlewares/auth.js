@@ -12,29 +12,25 @@ const auth = (...allowedRoles) => async (req, res, next) => {
 
   const token = authHeader.split(' ')[1];
   const { id } = await jwtUtils.verify(token);
-  try {
-    const user = await userServices.findById(id, {
-      populate: 'role',
-    });
-    if (!user) {
-      throw new Error('User not found');
-    }
-
-    if (!user.isEmailVerified) {
-      throw new Error('Email not verified');
-    }
-
-    if (!allowedRoles.includes(user.role.name)) {
-      throw new Error('Forbidden');
-    }
-
-    req.state = {};
-    req.state.user = user;
-    await next();
-  } catch (error) {
-    logger.error(error);
-    next(new ApiError(httpStatus.FORBIDDEN, 'Forbidden'));
+  const user = await userServices.findById(id, {
+    populate: 'role',
+  });
+  
+  if (!user) {
+    return next(new ApiError(httpStatus.UNAUTHORIZED, 'User not found'));
   }
+
+  if (!user.isEmailVerified) {
+    return next(new ApiError(httpStatus.UNAUTHORIZED, 'Email not verified'));
+  }
+
+  if (!allowedRoles.includes(user.role.name)) {
+    return next(new ApiError(httpStatus.FORBIDDEN, 'Forbidden'));
+  }
+
+  req.state = {};
+  req.state.user = user;
+  next();
 };
 
 module.exports = auth;

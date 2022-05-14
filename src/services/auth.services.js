@@ -91,7 +91,7 @@ const sendVerificationEmail = async (user) => {
     code: randomCode(),
     user: user.id,
     type: 'VERIFY_EMAIL',
-    expires: new Date(new Date().getTime() + 5*60000),
+    expires: new Date(new Date().getTime() + 1*60000),
   });
 
   return await emailServices.sendVerificationEmail(user.email, code);
@@ -115,7 +115,7 @@ const sendResetPasswordEmail = async (user) => {
     code: randomCode(),
     user: user.id,
     type: 'RESET_PASSWORD',
-    expires: new Date(new Date().getTime() + 5*60000),
+    expires: new Date(new Date().getTime() + 1*60000),
   });
 
   return await emailServices.sendResetPasswordEmail(user.email, code);
