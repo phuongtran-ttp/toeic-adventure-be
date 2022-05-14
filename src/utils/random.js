@@ -1,7 +1,5 @@
-const { nanoid } = require('nanoid');
-
 const randomCode = () => {
-  return nanoid(6).toUpperCase();
+  return Math.floor(Math.random() * 1000000).toString().padStart(6, '0');
 };
 
 module.exports = {
