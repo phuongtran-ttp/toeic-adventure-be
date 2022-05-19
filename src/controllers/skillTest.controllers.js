@@ -62,6 +62,50 @@ const count = async (req, res) => {
   return res.json(count);
 };
 
+const countByPart = async (req, res) => {
+  const [
+    part1,
+    part2,
+    part3,
+    part4,
+    part5,
+    part6,
+    part7,
+  ] = await Promise.all([
+    skillTestServices.count({
+      part: 1,
+    }),
+    skillTestServices.count({
+      part: 2,
+    }),
+    skillTestServices.count({
+      part: 3,
+    }),
+    skillTestServices.count({
+      part: 4,
+    }),
+    skillTestServices.count({
+      part: 5,
+    }),
+    skillTestServices.count({
+      part: 6,
+    }),
+    skillTestServices.count({
+      part: 7,
+    }),
+  ]);
+
+  return res.send({
+    part1,
+    part2,
+    part3,
+    part4,
+    part5,
+    part6,
+    part7,
+  });
+};
+
 module.exports = {
   find,
   findOne,
@@ -69,4 +113,5 @@ module.exports = {
   update,
   deleteOne,
   count,
+  countByPart,
 };

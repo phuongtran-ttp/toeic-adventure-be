@@ -8,6 +8,12 @@ module.exports = {
   routes: [
     {
       method: 'GET',
+      path: '/count-by-parts',
+      handler: skillTestControllers.countByPart,
+      middlewares: [],
+    },
+    {
+      method: 'GET',
       path: '/count',
       handler: skillTestControllers.count,
       middlewares: [],
