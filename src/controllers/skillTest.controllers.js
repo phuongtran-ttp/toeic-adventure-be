@@ -63,6 +63,7 @@ const count = async (req, res) => {
 };
 
 const countByPart = async (req, res) => {
+  const { difficultyLevel } = req.query;
   const [
     part1,
     part2,
@@ -74,24 +75,31 @@ const countByPart = async (req, res) => {
   ] = await Promise.all([
     skillTestServices.count({
       part: 1,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 2,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 3,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 4,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 5,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 6,
+      difficultyLevel,
     }),
     skillTestServices.count({
       part: 7,
+      difficultyLevel,
     }),
   ]);
 
