@@ -7,6 +7,18 @@ module.exports = {
   prefix: '/users',
   routes: [
     {
+      method: 'PUT',
+      path: '/profile',
+      handler: userControllers.updateProfile,
+      middlewares: [auth('Authenticated')],
+    },
+    {
+      method: 'GET',
+      path: '/profile',
+      handler: userControllers.getProfile,
+      middlewares: [auth('Authenticated')],
+    },
+    {
       method: 'GET',
       path: '/count',
       handler: userControllers.count,

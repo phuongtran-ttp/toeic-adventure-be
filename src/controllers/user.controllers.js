@@ -2,6 +2,8 @@ const getQueryParams = require('../utils/getQueryParams');
 const ApiError = require('../utils/ApiError');
 const httpStatus = require('http-status');
 const userServices = require('../services/user.services');
+const fullTestHistoryServices = require('../services/fullTestHistory.services');
+const skillTestHistoryServices = require('../services/skillTestHistory.services');
 
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
@@ -56,6 +58,54 @@ const count = async (req, res) => {
   return res.json(count);
 };
 
+const updateProfile = async (req, res) => {
+  const userId = req.state.user.id;
+
+  if (!userId) {
+    throw new ApiError(httpStatus.UNAUTHORIZED, 'Unauthorized');
+  }
+  
+  const user = await userServices.updateById(userId, req.body, {
+    populate: 'role avatar',
+  });
+
+  if (!user) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'User not found');
+  }
+  
+  return res.json(user.toJSON());
+};
+
+const getProfile = async (req, res) => {
+  const userId = req.state.user.id;
+
+  if (!userId) {
+    throw new ApiError(httpStatus.UNAUTHORIZED, 'Unauthorized');
+  }
+
+  const [user, fullTestCount, skillTestCount, predictedScore] = await Promise.all([
+    userServices.findById(userId, {
+      populate: 'role avatar',
+    }),
+    fullTestHistoryServices.countDoneTest(userId),
+    skillTestHistoryServices.countDoneTest(userId),
+    fullTestHistoryServices.predictScore(userId),
+  ]);
+
+  const joinDate = user.createAt;
+  const profile = {
+    ...user.toJSON(),
+    joinDate,
+    done: {
+      skillTest: skillTestCount,
+      fullTest: fullTestCount,
+    },
+    predictedScore,
+  };
+
+  return res.json(profile);
+};
+
 module.exports = {
   find,
   findOne,
@@ -63,4 +113,6 @@ module.exports = {
   update,
   deleteOne,
   count,
+  updateProfile,
+  getProfile,
 };

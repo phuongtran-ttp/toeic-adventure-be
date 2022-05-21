@@ -1,4 +1,5 @@
 const fullTestControllers = require('../controllers/fullTest.controllers');
+const historyControllers = require('../controllers/fullTestHistory.controllers');
 const validate = require('../middlewares/validate');
 const fullTestValidation = require('../validations/fullTest.validation');
 const auth = require('../middlewares/auth');
@@ -10,6 +11,12 @@ module.exports = {
       method: 'GET',
       path: '/count',
       handler: fullTestControllers.count,
+      middlewares: [],
+    },
+    {
+      method: 'GET',
+      path: '/:id/history',
+      handler: historyControllers.findOne,
       middlewares: [],
     },
     {

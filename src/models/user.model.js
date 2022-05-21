@@ -35,16 +35,7 @@ const userSchema = new Schema(
       type: Boolean,
       default: false,
     },
-    resetPasswordToken: {
-      type: String,
-      unique: true,
-      private: true,
-    },
-    verifyEmailToken: {
-      type: String,
-      unique: true,
-      private: true,
-    },
+    avatar: { type: Schema.Types.ObjectId, ref: 'File' },
   },
   { timestamps: true }
 );

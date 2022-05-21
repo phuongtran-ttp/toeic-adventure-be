@@ -18,7 +18,14 @@ const update = {
   }),
 };
 
+const updateProfile = {
+  body: Joi.object().keys({
+    avatar: Joi.string().custom(objectId),
+  }),
+};
+
 module.exports = {
   create,
-  update
+  update,
+  updateProfile
 };

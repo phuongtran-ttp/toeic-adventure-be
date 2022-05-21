@@ -1,4 +1,5 @@
 const skillTestControllers = require('../controllers/skillTest.controllers');
+const historyControllers = require('../controllers/skillTestHistory.controllers');
 const validate = require('../middlewares/validate');
 const skillTestValidation = require('../validations/skillTest.validation');
 const auth = require('../middlewares/auth');
@@ -16,6 +17,12 @@ module.exports = {
       method: 'GET',
       path: '/count',
       handler: skillTestControllers.count,
+      middlewares: [],
+    },
+    {
+      method: 'GET',
+      path: '/:id/history',
+      handler: historyControllers.findOne,
       middlewares: [],
     },
     {
