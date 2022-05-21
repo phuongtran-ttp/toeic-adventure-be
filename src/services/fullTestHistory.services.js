@@ -226,6 +226,10 @@ const predictScore = async (userId) => {
     { $group: { _id: null, average: { $avg: '$totalScore' } } },
   ]);
 
+  if (!result[0]) {
+    return null;
+  }
+
   const averageScore = result[0].average;
   const roundedScore = Math.round(averageScore / 5) * 5;
   return roundedScore;
