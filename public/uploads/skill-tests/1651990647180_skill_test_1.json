@@ -1,0 +1,358 @@
+{
+  "name": "Skill Test 1",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "634270_1562639747171.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/634270_1562639747171.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da00"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0101.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0101.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da02"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b> <br> <br> <b> (A) The plane is docked at the airport. </b><br>(B) There is luggage being put onto the plane. <br>(C) There are many people boarding the plane. <br>(D) There are maintenance workers fixing the plane."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da04"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "419301_1562639748639.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/419301_1562639748639.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da07"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0102.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0102.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da09"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b> <br><b>  (A) The woman is drinking a cup of coffee</b><br>(B) The woman is listening to music. <br>(C) The woman is talking on her cell phone. <br>(D) The woman is looking at the newspaper."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da0b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "5270312_1562639750094.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/5270312_1562639750094.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da0e"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0103.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0103.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da10"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b> <br> (A)She is fixing the wheel on her bike. <br><b> (B) She is changing the tire on her car. </b><br>(C) She is putting oil into her car. <br>(D) She is standing behind the windmill."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da12"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "999401_1562639751431.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/999401_1562639751431.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da15"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0104.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0104.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da17"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b> <br> (A)They are very close to the chairlift. <br>(B) They are making snow. <br><b> (C) The people are skiing down the mountain. </b><br>(D) All of the skiers are wearing helmets."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da19"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "2138816_1562639752778.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/2138816_1562639752778.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da1c"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0105.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0105.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da1e"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "<b>Transcript:</b> <br> (A)The people are drinking glasses of juice. <br>(B) She is giving a presentation about September’s sales figures. <br> (C) All of the women are sitting down. <br> <b>  (D) One of the women is giving a business presentation on a whiteboard. </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da20"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "711038_1562639754172.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/711038_1562639754172.png",
+            "mime": "image/png",
+            "id": "62776076bd5e2f61cca5da23"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test02_0106.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test02_0106.mp3",
+            "mime": "audio/mp3",
+            "id": "62776076bd5e2f61cca5da25"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b> <br> (A)The men are adjusting headsets. <br><b> (B) The women are wearing headsets. </b>  <br>(C) The men are using a mouse with the laptop. <br>(D) The women are talking to each other."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776076bd5e2f61cca5da27"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "6847287_1562639921616.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/6847287_1562639921616.png",
+            "mime": "image/png",
+            "id": "62776077bd5e2f61cca5da2a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0101.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0101.mp3",
+            "mime": "audio/mp3",
+            "id": "62776077bd5e2f61cca5da2c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b> <br>(A)The woman is looking at some menu. <br><b> (B) There is a measuring tape around her neck. </b><br>(C) She is holding a pair of scissors. <br>(D) She is making some curtains with her measuring tape."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776077bd5e2f61cca5da2e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "9223968_1562639922873.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/9223968_1562639922873.png",
+            "mime": "image/png",
+            "id": "62776077bd5e2f61cca5da31"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0102.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0102.mp3",
+            "mime": "audio/mp3",
+            "id": "62776077bd5e2f61cca5da33"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b> <br> <b> (A) She is looking at the laptop. </b><br>(B) The vegetables are behind the laptop. <br>(C) She is writing an email. <br>(D) She is cutting some cucumber and carrot."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776077bd5e2f61cca5da37"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "5656089_1562638419203.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/5656089_1562638419203.png",
+            "mime": "image/png",
+            "id": "62776077bd5e2f61cca5da35"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0101.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0101.mp3",
+            "mime": "audio/mp3",
+            "id": "62776077bd5e2f61cca5da39"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b> <br><b> (A) The woman is talking on the phone. </b><br>(B) The woman is using her cell phone. <br>(C) The woman is typing on the laptop. <br>(D) The woman is writing in her notebook."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776077bd5e2f61cca5da3c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "3683668_1562639924160.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/3683668_1562639924160.png",
+            "mime": "image/png",
+            "id": "62776077bd5e2f61cca5da3e"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0103.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0103.mp3",
+            "mime": "audio/mp3",
+            "id": "62776077bd5e2f61cca5da41"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b> <br> (A)All of the men are wearing glasses. <br>(B) All of the people are looking at the laptop. <br><b> (C) There are glasses of water on the table. </b><br>(D) All of the men are leaning over the table."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776077bd5e2f61cca5da45"
+    }
+  ],
+  "part": 1,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62776077bd5e2f61cca5da4c"
+}

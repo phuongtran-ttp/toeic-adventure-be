@@ -1,0 +1,358 @@
+{
+  "name": "Skill Test 20",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "73770304.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/73770304.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5e083"
+          }
+        ],
+        "sound": [
+          {
+            "name": "43083838.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/43083838.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5e085"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "A) He’s placing an item on the scale<br><b> B) He’s wearing protective clothing</b><br>C) He’s removing something from a jar<br>D) He’s walking to a laboratory"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5e087"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "72399632.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/72399632.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5e08a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "58069219.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/58069219.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5e08c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b> A) A work area has been roped off</b><br>B) Traffic cones are piled on top of one another<br>C) There is a ladder leaning against the building<br>D) The worker is closing the doors of the van."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5e08e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_141.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_141.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e091"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_141.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_141.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e093"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "A) He’s walking around the office<br>B) He’s putting on his jacket<br>* C) He’s working at his desk<br>D) He’s picking up a cup"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e095"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_142.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_142.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e098"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_142.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_142.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e09c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "A) The bicycles are lying on the ground<br>B) The people are driving their cars down the road<br>* C) The bicycles are parked in front of the buildings<br>D) The people are riding their bicycles along the Street"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0a0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_161.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_161.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e09a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "293104177-1486518975221.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/293104177-1486518975221.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e09e"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "A) They’re shaking hands <br>B) They’re waving to one another<br>C) They’re walking around a tree<br>* D) They’re walking side by side"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0a2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_143.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_143.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e0a6"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_143.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_143.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e0aa"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "A) The man is moving some chairs<br>* B) The people are eating in a restaurant<br> C) The waiter is serving some sandwiches<br>D) The woman is ordering her meal"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0ae"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_162.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_162.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e0a8"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_162.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_162.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e0ac"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "A) He’s riding a motorcycle<br>B) He’s walking to the bike shop<br>* C) He’s working in a repair shop<br>D) He’s getting a tool from a shelf"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0b0"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_144.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_144.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e0b4"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_144.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_144.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e0b8"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "*A) The stairs have been carpeted<br>B) The woman is going upstairs<br>C) The railing has been removed<br>D) The window is being cleaned"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0bc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_163.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_163.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e0b6"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_163.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_163.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e0ba"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "A) Customers are lined up to pay for their books<br>B) The people are standing at a table<br>C) There are boxes stacked on the table<br>*D) Many books are on display"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0be"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170111_145.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170111_145.jpg",
+            "mime": "image/png",
+            "id": "62776083bd5e2f61cca5e0c2"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170111_145.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_145.mp3",
+            "mime": "audio/mp3",
+            "id": "62776083bd5e2f61cca5e0c6"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "A) The swimmers are in the water<br>B) The boats are out to sea<br>C) The pedestrians are crossing the bridge<br>*D) Some people are standing on the shore"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "62776083bd5e2f61cca5e0ca"
+    }
+  ],
+  "part": 1,
+  "difficultyLevel": "DIFFICULT",
+  "id": "62776083bd5e2f61cca5e0d0"
+}

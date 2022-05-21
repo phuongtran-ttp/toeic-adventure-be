@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 28",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2221.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2221.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e381"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Where are you going on vacation? <br>A) For three months<br>B) I’m going by train<br><b> C) I’m just staying here</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e383"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2222.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2222.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e386"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Were you surprised when you heard about Joseph’s promotion? <br>A) In my new office<br><b>  B) No, I expected it</b><br>C) Just last week"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e388"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2223.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2223.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e38b"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Don’t you need a ticket for the show? <br><b> A) I already have one’</b><br>B) Yes, I think it might snow<br>C) I took the train"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e38d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2224.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2224.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e390"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Why don’t we take a taxi to the hotel? <br><b>  A) I’ll call for one on my phone</b><br>B) Thanks, I’m taking some<br>C) No, they don’t"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e392"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2225.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2225.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e395"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "I’ll be sharing this office, won’t I? <br>A) Their main office is in Hong Kong<br> B) I think Sue’s the committee chair<br><b> C) Yes, your desk is by the window</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e397"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2226.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2226.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e39a"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Our heating system is getting old? <br>A) Just two hours ago<br><b>  B) Yes, we need a new one</b><br>C) Mr. Lee’s older sister"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e39c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2227.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2227.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e39f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "What’s the price of this book? <br><b> A) Fifteen hundred yen</b><br>B) Yes, with steamed rice, please<br>C) From Northern Mexico"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3a1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2228.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2228.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3a4"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Should I return his call, or will he contact me? <br>A) A round-trip ticket, please<br>B) It’s down the hall<br><b> C) He said he’ll call back</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3a6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2229.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2229.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3a9"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Do you know who will be taking over after Claudia retires? <br>A) I’m not tired<br><b> B) We don’t know yet</b><br>C) In her office"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3ab"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2230.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2230.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3ae"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Could you tell me how often the bus leaves for Madrid? <br><b>  A) There’s one every hour</b><br>B) Only two pieces, please<br>C) No, she’s the trainer"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3b0"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6277608dbd5e2f61cca5e3b3"
+}

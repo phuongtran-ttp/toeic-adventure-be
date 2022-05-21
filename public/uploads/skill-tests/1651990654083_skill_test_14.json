@@ -1,0 +1,358 @@
+{
+  "name": "Skill Test 14",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_136.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_136.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de64"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_136.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_136.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de67"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "(A) Some people are riding bikes on a brick road. <br>(B) Some bikes are leaning against a wall. <br>* (C) Some bikes are parked in a long row. <br>(D) Some people are looking at bikes in a shop."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de6b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_172.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_172.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de69"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_172.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_172.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de6d"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) She's jumping over a net. <br>*(B) She's holding a racket. <br>(C) She's putting on her shoes. <br>(D) She's kicking a ball."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de70"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_173.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_173.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de73"
+          }
+        ],
+        "sound": [
+          {
+            "name": "614022512-1486372437346.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/614022512-1486372437346.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de75"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "*(A) A woman is reaching for a pen. <br>(B) A woman is wiping off a counter. <br>(C) Some people are standing in line. <br>(D) Some documents are being printed out."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de77"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_174.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_174.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de7a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_174.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_174.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de7c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) A man is diving off a boat. <br>*(B) Some boats are sailing on the water. <br>(C) Some people are fishing from a dock. <br>(D) People are watching a race from the shore."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de7e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_175.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_175.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de81"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_175.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_175.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de83"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) He's inspecting some tires. <br>(B) He's opening a car door. <br>(C) He's parking in a garage. <br>*(D) He's working on a vehicle."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de85"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_176.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_176.jpg",
+            "mime": "image/png",
+            "id": "6277607dbd5e2f61cca5de88"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_176.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_176.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607dbd5e2f61cca5de8a"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) Plants are sitting on a ledge. <br>(B) The women are looking out a window.<br>(C) One of the women is removing her glasses. <br>*(D) Some pictures have been placed against a wall."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607dbd5e2f61cca5de8c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_141.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_141.jpg",
+            "mime": "image/png",
+            "id": "6277607ebd5e2f61cca5de8f"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_141.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_141.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607ebd5e2f61cca5de91"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "(A) The men are putting on headphones. <br>(B) The men are getting up from their chairs. <br>*(C) The men are looking at a computer screen. <br>(D) The men are moving some furniture."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607ebd5e2f61cca5de93"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_142.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_142.jpg",
+            "mime": "image/png",
+            "id": "6277607ebd5e2f61cca5de96"
+          }
+        ],
+        "sound": [
+          {
+            "name": "819978523-1486371524146.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/819978523-1486371524146.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607ebd5e2f61cca5de98"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) A woman is typing on a keyboard. <br>*(B) A woman is pointing to a document. <br>(C) A woman is closing a binder. <br>(D) A woman is drawing in a notebook."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607ebd5e2f61cca5de9a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_143.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_143.jpg",
+            "mime": "image/png",
+            "id": "6277607ebd5e2f61cca5de9d"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_143.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_143.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607ebd5e2f61cca5de9f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) People are shopping in a grocery store. <br>(B) People are seated at tables. <br>(C) People are watching a performance. <br>* (D) People are walking on a crowded street."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607ebd5e2f61cca5dea1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_144.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_144.jpg",
+            "mime": "image/png",
+            "id": "6277607ebd5e2f61cca5dea4"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_144.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_144.mp3",
+            "mime": "audio/mp3",
+            "id": "6277607ebd5e2f61cca5dea6"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) She's stacking chairs near the door. <br>* (B) She's operating a machine. <br>(C) She's entering an office. <br>(D) She's placing files in a cabinet."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "6277607ebd5e2f61cca5dea8"
+    }
+  ],
+  "part": 1,
+  "difficultyLevel": "EASY",
+  "id": "6277607ebd5e2f61cca5deab"
+}

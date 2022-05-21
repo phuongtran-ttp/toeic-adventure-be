@@ -1,0 +1,351 @@
+{
+  "name": "Skill Test 16",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_186.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_186.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df07"
+          }
+        ],
+        "sound": [
+          {
+            "name": "719863489-1486372911251.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/719863489-1486372911251.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df09"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) Dresses are being sewn. <br>*(B) Garments are being displayed. <br>(C) Customers are being helped. <br>(D) Clothing is being folded."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df0d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_1105.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_1105.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df11"
+          }
+        ],
+        "sound": [
+          {
+            "name": "259858430-1486779204149.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/259858430-1486779204149.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df13"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) Metal bins are being emptied. <br>(B) A vehicle is being cleaned. <br>(C) A man is directing traffic. <br>*(D) A worker is sweeping the roadway."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df15"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_1106.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_1106.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df18"
+          }
+        ],
+        "sound": [
+          {
+            "name": "362198952-1486779222515.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/362198952-1486779222515.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df1a"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) Researchers have entered a library. <br>(B) Laboratory coats are hanging in a cabinet. <br>(C) Technicians are gathered around a screen. <br>*(D) Scientific equipment has been set on a counter."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df1c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "43582755.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/43582755.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df1f"
+          }
+        ],
+        "sound": [
+          {
+            "name": "46157857.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/46157857.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df21"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) A table has been set with dishes. <br>(B) The shelves of a bookcase are empty. <br>(C) Some pictures have been placed on the floor. <br>* (D) A couch has been pushed to one side of the room."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df23"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "34156945.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/34156945.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df26"
+          }
+        ],
+        "sound": [
+          {
+            "name": "8274902.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/8274902.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df28"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "(A) The man is removing his coat. <br>(B) The man is pushing a gate open. <br>(C) A suitcase has been left on the floor.<br>*(D) A cart has been loaded with luggage."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df2a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "85712693.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/85712693.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df2d"
+          }
+        ],
+        "sound": [
+          {
+            "name": "62918631.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/62918631.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df2f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "*(A) Spectators have gathered along the street. <br>(B) A sporting event is taking place in a stadium. <br>(C) The road has been blocked by some tires. <br>(D) Riders are getting on their bicycles."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df31"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "26748012.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/26748012.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df36"
+          }
+        ],
+        "sound": [],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) Some performers are on a stage. <br>*(B) An audience is seated in rows. <br>(C) Tickets are being collected. <br>(D) People are exiting a theater."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df3a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_191.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_191.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df34"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_191.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_191.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df38"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) They're cleaning a desk. <br>*(B) They're shaking hands. <br>(C) They're looking at a book. <br>(D) They're moving a chair."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df3c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "75306120.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/75306120.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df40"
+          }
+        ],
+        "sound": [
+          {
+            "name": "6675126.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/6675126.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df46"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) Some tents are being assembled. <br>*(B) The chairs are shaded by umbrellas. <br>(C) Tourists are relaxing on the beach. <br>(D) Towels have been spread out on the sand."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df4a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_192.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_192.jpg",
+            "mime": "image/png",
+            "id": "62776080bd5e2f61cca5df44"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_192.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_192.mp3",
+            "mime": "audio/mp3",
+            "id": "62776080bd5e2f61cca5df4c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "*(A) A truck is parked near an airplane. <br>(B) A worker is changing a tire. <br>(C) A truck is piled with luggage. <br>(D) An airplane is taking off."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62776080bd5e2f61cca5df51"
+    }
+  ],
+  "part": 1,
+  "difficultyLevel": "MEDIUM",
+  "id": "62776080bd5e2f61cca5df59"
+}

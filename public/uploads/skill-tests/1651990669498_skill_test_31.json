@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 31",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2318.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2318.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e438"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Why do you want to buy this printer and not that one? <br>A) I think you’re right<br><b> B) This one is less expensive</b><br>C) It hasn’t been printed out yet"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e43b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2422.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2422.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e43d"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "How did your lecture go yesterday? <br>A) He was out yesterday<br>*B) It couldn’t have been better<br>C) Yes, I’m ready"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e440"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2319.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2319.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e442"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Where will you be staying while you're in London? <br><b> A) With an old friend</b><br>B) Not at this time of year<br>C) It was a dinner invitation"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e445"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "283672903-1492567027428.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/283672903-1492567027428.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e447"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "I found the documents that were missing from the folder<br>A) I will hold a space for Ms. Smith<br>B) Yes, the folders are missing<br>*C) Please bring them with you to the meeting"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e44a"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "197690508-1493269670490.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/197690508-1493269670490.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e44c"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Does anybody have a comment on the presentation? <br><b> A) I thought it was well planned</b><br>B) Would you like to have it gift wrapped? <br>C) No, in the last conference room"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e44f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2424.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2424.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e451"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "When will the concert start? <br>A) The symphony is nearly an hour long<br>* B) As soon as everyone is seated<br>C) It was first performed ten years ago."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e454"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2321.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2321.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e456"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Do you know who’s in charge of training the new recruits? <br>A) Yes, it is right on time<br>B) Next week<br><b> C) I’m afraid I don’t know</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e459"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2425.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2425.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e45b"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Weren’t you surprised that Mr. Lee missed the Meeting<br>A) Very good<br>B) The top prize<br>*C) yes, I was"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e45e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2322.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2322.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e460"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "I’m returning Ron Stover’s call<br>A) We’ll see you again soon then. <br>B) I’ll be back on Wednesday<br><b> C) He’s not in, but may I take a message</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e463"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2427.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2427.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e465"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Where should I send the revised version of the contract? <br>A) He’s probably from the United States<br>*B) I think my home address would be great<br>C) Yes, the last page has five mistakes"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e468"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "DIFFICULT",
+  "id": "6277608dbd5e2f61cca5e46f"
+}

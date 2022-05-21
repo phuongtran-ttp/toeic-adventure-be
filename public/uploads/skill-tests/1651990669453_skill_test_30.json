@@ -1,0 +1,278 @@
+{
+  "name": "Skill Test 30",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2311.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2311.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3f5"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Where have you been? <br>A) No, not yet<br>B) It’s from Paris<br><b> C) The post office</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3f9"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2416.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2416.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3f7"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "When can you submit the report to Mr. Chang? <br>A) Today’s weather report<br>*B) By Tuesday afternoon at the earliest<br>C) Mr. Chang hasn’t called all day"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e3fb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2312.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2312.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e3ff"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Did you go to the sales convention? <br>A) The department store is having a sale<br>B) I’ll connect it tomorrow<br><b> C) No, I had to work</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e403"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2418.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2418.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e401"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Who left this memo on my desk? <br> A) I’ll find it for you<br>B) They have to be finished by tonight<br>*C) Ms. Kim did, while you were at lunch"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e405"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2313.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e409"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Why don’t we meet for lunch tomorrow? <br>A) It’s in the coffee shop<br>B) They’re working late today<br><b> C) Thanks, I’d love to</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e40d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2419.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2419.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e40b"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Excuse me, do you think you could turn the music down a little? <br> *A) Sorry, I didn’t know anyone was here<br>B) Turn right, and then left<br>C) I think I left that CD in my car"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e40f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "42589860-1492566990231.mp3",
+            "url": "https://storage.googleapis.com/loxo/sound/42589860-1492566990231.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e413"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "What time did the reception end? <br><b> A) Not too late</b><br>B) At the end of the line<br>C) Nine or ten people"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e417"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2420.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2420.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e415"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Have you seen my scissors? <br>A) Those scissors are sharp<br>B) I’ve never been there<br>*C) Look next to the printer"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e419"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2315.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2315.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e41d"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "I didn’t see your car parked outside this morning? <br><b> A) John gave me a ride today</b><br>B) The park is beautiful right now<br>C) It’s supposed to start at 8.30"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e421"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2421.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2421.mp3",
+            "mime": "audio/mp3",
+            "id": "6277608dbd5e2f61cca5e41f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "What did you think of Ms. Iwata’s presentation? <br>*A) I wasn’t able to attend<br>B) Yes, I plan to be there<br>C) It’s a beautiful gift"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6277608dbd5e2f61cca5e423"
+    }
+  ],
+  "part": 2,
+  "difficultyLevel": "MEDIUM",
+  "id": "6277608dbd5e2f61cca5e429"
+}
