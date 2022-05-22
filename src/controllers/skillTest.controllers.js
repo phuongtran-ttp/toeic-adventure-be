@@ -2,13 +2,38 @@ const getQueryParams = require('../utils/getQueryParams');
 const ApiError = require('../utils/ApiError');
 const httpStatus = require('http-status');
 const skillTestServices = require('../services/skillTest.services');
+const historyServices = require('../services/skillTestHistory.services');
 
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
   options.select = '-questions -jsonFile';
-  const resultPage = await skillTestServices.findPage(filter, options);
+  const userId = req.state.user.id;
 
-  return res.json(resultPage);
+  if (!userId) {
+    throw new ApiError(httpStatus.UNAUTHORIZED, 'Unauthorized');
+  }
+
+  const skillTests = await skillTestServices.find(filter, options);
+
+  const results = await Promise.all(skillTests.map(async (test) => {
+    const rs = test.toJSON();
+    let history = await historyServices.findOne(
+      {
+        test: rs.id,
+        user: userId,
+      },
+      {
+        sort: {
+          createdAt: -1,
+        },
+      }
+    );
+  
+    rs.score = history ? history.score : -1;
+    return rs;
+  }));
+
+  return res.json({ results });
 };
 
 const findOne = async (req, res) => {
