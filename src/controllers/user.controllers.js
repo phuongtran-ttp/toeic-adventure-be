@@ -92,7 +92,7 @@ const getProfile = async (req, res) => {
     fullTestHistoryServices.predictScore(userId),
   ]);
 
-  const joinDate = user.createAt;
+  const joinDate = user.createdAt;
   const profile = {
     ...user.toJSON(),
     joinDate,
