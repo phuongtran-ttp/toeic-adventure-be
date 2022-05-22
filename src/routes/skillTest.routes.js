@@ -35,7 +35,7 @@ module.exports = {
       method: 'GET',
       path: '/',
       handler: skillTestControllers.find,
-      middlewares: [],
+      middlewares: [auth('Authenticated')],
     },
     {
       method: 'POST',
