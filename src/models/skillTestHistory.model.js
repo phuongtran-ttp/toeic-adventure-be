@@ -8,6 +8,10 @@ const skillTestHistorySchema = new Schema(
       type: Number,
       required: true,
     },
+    totalSentences: {
+      type: Number,
+      required: true,
+    },
     score: {
       type: Number,
       required: true,

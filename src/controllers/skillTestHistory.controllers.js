@@ -37,7 +37,7 @@ const findOne = async (req, res) => {
 };
 
 const create = async (req, res) => {
-  const { correctSentences, test: testId } = req.body;
+  const { correctSentences, totalSentences, test: testId } = req.body;
   const userId = req.state.user.id;
 
   if (!userId) {
@@ -49,6 +49,7 @@ const create = async (req, res) => {
     score: correctSentences,
     user: userId,
     test: testId,
+    totalSentences,
   }
 
   const history = await historyServices.create(params);

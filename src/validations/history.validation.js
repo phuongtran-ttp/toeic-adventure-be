@@ -15,6 +15,7 @@ const createSkillTestHistory = {
   body: Joi.object().keys({
     correctSentences: Joi.number().required(),
     test: Joi.string().custom(objectId).required(),
+    totalSentences: Joi.number().required(),
   }),
 };
 

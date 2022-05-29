@@ -30,6 +30,7 @@ const find = async (req, res) => {
     );
   
     rs.score = history ? history.score : -1;
+    rs.totalSentences = history ? history.totalSentences : -1;
     return rs;
   }));
 
