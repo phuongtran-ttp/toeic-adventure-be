@@ -29,7 +29,7 @@ module.exports = {
       method: 'GET',
       path: '/',
       handler: fullTestControllers.find,
-      middlewares: [],
+      middlewares: [auth('Authenticate')],
     },
     {
       method: 'POST',
