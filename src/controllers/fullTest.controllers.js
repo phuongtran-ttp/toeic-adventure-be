@@ -29,7 +29,11 @@ const find = async (req, res) => {
       }
     );
   
-    rs.score = history ? history.score : -1;
+    rs.score = history ? history.totalScore : -1;
+    rs.detailScore = history ? history.score : {
+      listening: -1,
+      reading: -1,
+    };
     return rs;
   }));
 
