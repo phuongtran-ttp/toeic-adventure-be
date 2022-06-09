@@ -1,5 +1,8 @@
 const Vocabulary = require('../models/vocabulary.model');
 const VocabularyTheme = require('../models/vocabularyTheme.model');
+const https = require('https');
+const fs = require('fs');
+const path = require('path');
 
 /**
  * Create a vocabulary
@@ -150,6 +153,25 @@ const count = async (filter = {}) => {
   return await Vocabulary.count(filter);
 };
 
+const leechAudio = (word) => {
+  return new Promise((resolve, reject) => {
+    const file = fs.createWriteStream(`./public/uploads/audio/${word}.mp3`);
+    https.get(`https://vtudien.com/doc/anh/${word}.mp3`, function(res) {
+      if (res.statusCode !== 200) {
+        reject();
+      }
+
+      res.pipe(file);
+  
+      // after download completed close filestream
+      file.on('finish', () => {
+          file.close();
+          resolve();
+      });
+    });
+  });
+};
+
 module.exports = {
   create,
   createMany,
@@ -159,4 +181,5 @@ module.exports = {
   updateById,
   deleteById,
   count,
+  leechAudio,
 };

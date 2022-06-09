@@ -6,7 +6,7 @@ const create = {
     word: Joi.string().required(),
     meaning: Joi.string().required(),
     phonetic: Joi.string().required(),
-    audio: Joi.string().custom(objectId).required(),
+    audio: Joi.string().custom(objectId),
     theme: Joi.string().custom(objectId).required(),
   }),
 };

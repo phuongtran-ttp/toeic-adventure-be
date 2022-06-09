@@ -3,6 +3,7 @@ const ApiError = require('../utils/ApiError');
 const httpStatus = require('http-status');
 const vocabularyServices = require('../services/vocabulary.services');
 const vocabularyThemeServices = require('../services/vocabularyTheme.services');
+const fileServices = require('../services/file.services');
 
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
@@ -31,6 +32,18 @@ const create = async (req, res) => {
   if (!theme) {
     throw new ApiError(httpStatus.NOT_FOUND, 'Theme not found');
   }
+
+  if (!params.audio) {
+    await vocabularyServices.leechAudio(params.word);
+    const file = await fileServices.createFile({
+      name: `${params.word}.mp3`,
+      url: `/uploads/audio/${params.word}.mp3`,
+      mime: 'audio/mp3',
+    });
+
+    params.audio = file._id;
+  }
+  
   
   const vocabulary = await vocabularyServices.create(params, {
     populate: 'audio theme',
