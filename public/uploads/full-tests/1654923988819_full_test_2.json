@@ -1,0 +1,4754 @@
+{
+  "name": "Full Test 2",
+  "questions": [
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "7613083_1562639928534.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/7613083_1562639928534.png",
+            "mime": "image/png",
+            "id": "626441cfeccc8cae769c30cf"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0106.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0106.mp3",
+            "mime": "audio/mp3",
+            "id": "626441cfeccc8cae769c30d6"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b> <br> (A) She is at the supermarket. <br><b> (B) She is selecting a flowerpot. </b><br>(C) She is with her best friend. <br>(D) She is paying for a flowerpot."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "626441cfeccc8cae769c30dd"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "20170119_151.jpg",
+            "url": "https://storage.googleapis.com/kstoeic/images/20170119_151.jpg",
+            "mime": "image/png",
+            "id": "62644148eccc8cae769bde91"
+          }
+        ],
+        "sound": [
+          {
+            "name": "20170119_151.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_151.mp3",
+            "mime": "audio/mp3",
+            "id": "62644148eccc8cae769bde95"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "(A) The man's holding a wallet. <br>*(B) The man's painting a picture. <br>(C) The man's brushing his hair. <br> (D) The man's sweeping with a broom."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62644148eccc8cae769bde99"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "2740809_1562639985027.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/2740809_1562639985027.png",
+            "mime": "image/png",
+            "id": "62644145eccc8cae769bdc48"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0105.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0105.mp3",
+            "mime": "audio/mp3",
+            "id": "62644145eccc8cae769bdc4d"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b> <br> <b>  (A) They are running on the treadmills. </b>  <br>(B) They are using exercise bikes. <br>(C) All of the treadmills are being used. <br>(D) The man is pressing some buttons on the treadmill."
+      },
+      "difficultyLevel": "EASY",
+      "part": 1,
+      "childs": [],
+      "id": "62644145eccc8cae769bdc51"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "83864010.jpg",
+            "url": "https://storage.googleapis.comhttps://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/83864010.jpg",
+            "mime": "image/png",
+            "id": "6264414feccc8cae769be4a1"
+          }
+        ],
+        "sound": [
+          {
+            "name": "81200063.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/22/81200063.mp3",
+            "mime": "audio/mp3",
+            "id": "6264414feccc8cae769be4a3"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "A) The baskets are empty<br>* B) There are baked goods on shelves<br>C) The cabinets are being repaired<br>D) They’re buying some bread"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 1,
+      "childs": [],
+      "id": "6264414feccc8cae769be4a5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "7453752_1564545879719.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/7453752_1564545879719.png",
+            "mime": "image/png",
+            "id": "62644147eccc8cae769bde7a"
+          }
+        ],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0105.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0105.mp3",
+            "mime": "audio/mp3",
+            "id": "62644147eccc8cae769bde7e"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b> <br>  (A) She is repairing the shoes. <br>(B) There are other people in the store. <br><b> (C) They are trying on some shoes. </b> <br>(D) She has a sock on her left foot."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "62644147eccc8cae769bde82"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "2490207_1557990988425.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/2490207_1557990988425.png",
+            "mime": "image/png",
+            "id": "626441d7eccc8cae769c3f3e"
+          }
+        ],
+        "sound": [
+          {
+            "name": "714164249-1557991389588.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/714164249-1557991389588.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d7eccc8cae769c3f42"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)",
+          "(D)"
+        ]
+      },
+      "answer": {
+        "text": "(D)",
+        "explanation": "<b>Transcript:</b><br>(A) Some suitcases are being loaded onto a bus. <br>(B) Some people are crossing an intersection. <br>(C) Some buses are parked in a garage. <br><b>(D) Some people are lined up at the side of a road.</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 1,
+      "childs": [],
+      "id": "626441d7eccc8cae769c3f45"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2313.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415feccc8cae769bf90f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "How much do the theater tickets cost? <br>*(A) Only sixteen dollars. <br>(B) I'm sure they're not lost. <br>(C) There's a concert at the theater."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6264415feccc8cae769bf912"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2432.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2432.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415feccc8cae769bfbd8"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "Didn't you want to write the project summary? <br>(A) No, you should turn left. <br>(B) I remember that writer. <br>*(C) I did, but I could use your help."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6264415feccc8cae769bfbe8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0206.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0206.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d2eccc8cae769c3778"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Who’s welcoming our guest? <br>(A) I think it’s April 24. <br>(B) Please reserve a room. <br><b> (C) Mary is responsible for that. </b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "626441d2eccc8cae769c377b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "216340432-1578905120375.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/216340432-1578905120375.mp3",
+            "mime": "audio/mp3",
+            "id": "626441ddeccc8cae769c4943"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b> Script: </b> <br> W-Br: Will you stay after the show to meet the musicians? <br>M-Au: <br>(A)I think so too. <br>(B)Almost as long as the previous show. <br><b>(C)Don't they leave as soon as it's over?"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "626441ddeccc8cae769c4945"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2129.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2129.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415deccc8cae769bf508"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Aren't you supposed to be on holiday this week? <br>*(A) No, I had a scheduling conflict. <br>(B) I go there with my family. <br>(C) They used to be."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6264415deccc8cae769bf50d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "etstoeic_2020_0602.07.mp3",
+            "url": "https://storage.googleapis.com/kslearning/sound/etstoeic_2020_0602.07.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e6eccc8cae769c58f9"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> M-Cn We haven't received the electric bill yet, have we?<br> w-Br (A) Sure, I'll turn it on.<br>(B) No, not yet.<br>(C) A credit card"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "626441e6eccc8cae769c58fb"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "304491500-1578564048091.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/304491500-1578564048091.mp3",
+            "mime": "audio/mp3",
+            "id": "626441daeccc8cae769c45ac"
+          }
+        ],
+        "choices": [
+          "A.",
+          "B.",
+          "C."
+        ]
+      },
+      "answer": {
+        "text": "C.",
+        "explanation": "<b>Script</b><br>Would you like a room on the first floor or one of the upper floors? <br>(A) It's just around the corner. <br>(B) I like the floor plan. <br><b>(C) Either one is fine. <br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "626441daeccc8cae769c45b1"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2836.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2836.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769becfb"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "Mr. Chin from the central office paid us a visit last week? <br>* A) What did you talk about? <br>B) Around 43 euros<br>C) I’ve been there, too"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769becff"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "890194021-1578890861647.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/890194021-1578890861647.mp3",
+            "mime": "audio/mp3",
+            "id": "626441ddeccc8cae769c4b12"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> M-Au: Would you like to speak at the annual meeting? <br>W-Br: <br><b>(A) Oh, I'd love to do that.</b> <br>(B) He wasn't at the meeting. <br>(C) There's no annual fee. <br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "626441ddeccc8cae769c4b17"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "56483970-1584083722783.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/56483970-1584083722783.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769bed23"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Is this morning’s meeting on-site, or is it a teleconference? <br>(A) From ten to eleven. <br>(B) That’s what he said. <br><b> (C) The meeting invitation has the details. </b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769bed27"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2320.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2320.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415feccc8cae769bf9c1"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "When will the furniture for the lobby be delivered? <br>(A) At the service desk. <br>(B) Some blue chairs. <br>* (C) Probably tomorrow."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6264415feccc8cae769bf9c8"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "861819126-1578888796780.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/861819126-1578888796780.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415deccc8cae769bf5c0"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> W-Am: Who do I call if there's a problem? <br>W-Br: <br>(A) That's a good idea. <br><b>(B) The department manager.</b> <br>(C) Try after lunch. <br><br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "6264415deccc8cae769bf5d3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "etstoeic_2020_0602.17.mp3",
+            "url": "https://storage.googleapis.com/kslearning/sound/etstoeic_2020_0602.17.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e6eccc8cae769c592b"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br>M-Cn The parking area in front of the warehouse's been closed.<br>M-Au (A) There're more spaces in the back.<br>(B) Here's an extra uniform.<br>(C) No, just open the boxes."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "626441e6eccc8cae769c592d"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test01_0209.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test01_0209.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d5eccc8cae769c3a20"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> Have you considered building a fence? <br>(A) The house is for sale. <br><b> (B) Yes, we’re doing that next. </b><br>(C) His remarks caused offense."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "626441d5eccc8cae769c3a24"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "240967750-1584083117608.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/240967750-1584083117608.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415deccc8cae769bf79e"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Which factory produces these umbrellas? <br>(A) Probably next year. <br>(B) Yes, it’s going to rain, <br><b> (C) The one in Pottsville. </b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "6264415deccc8cae769bf7a2"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "882800819-1584084248916.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/882800819-1584084248916.mp3",
+            "mime": "audio/mp3",
+            "id": "62644159eccc8cae769bea6f"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> The speech shouldn't last longer than ten minutes, should it? <br><b> (A) No, it should be fairly brief. </b><br>(B) Yes, it was quite informative. <br>(C) No, you can walk there,"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644159eccc8cae769bea79"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "468803033-1584083672286.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/468803033-1584083672286.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415deccc8cae769bf4ef"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Did Carol give you the key to the warehouse? <br>(A) They work at the hardware store. <br>(B) She worn be home then. <br><b> (C) I thought you  had one. </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6264415deccc8cae769bf504"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "245720763-1584082587233.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/245720763-1584082587233.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d8eccc8cae769c3ff5"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> You can reschedule the event, can’t you? <br>(A) Don’t forget to sign up. <br><b> (B) The invitations have already been sent out.</b><br>(C) I attended that meeting."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "626441d8eccc8cae769c3ffa"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2622.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2622.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415feccc8cae769bf847"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "How much is this umbrella? <br> (A) It's going to rain.<br>*(B) Fifteen euros. <br>(C) It won't take long."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "6264415feccc8cae769bf849"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0203.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0203.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415beccc8cae769befe8"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "<b>Transcript:</b><br> Who will be responsible for interviewing new job applicants? <br>(A) Before the New Year. <br><b> (B) That’s Jenny’s duty. </b><br>(C) Just apply online."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6264415beccc8cae769beff5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test10_0219.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test10_0219.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415beccc8cae769bf260"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "<b>Transcript:</b><br> Where’s the nearest gas station? <br>(A) It’s toxic gas. <br>(B) He is at the car show. <br><b> (C) Just around the corner. </b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6264415beccc8cae769bf266"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_21021.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_21021.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415feccc8cae769bf8cf"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "The sun's finally come out. <br>(A) The weather report. <br>(B) Sunday at six o'clock. <br>*(C) Then let’s go for a walk."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "6264415feccc8cae769bf8d5"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_2229.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_2229.mp3",
+            "mime": "audio/mp3",
+            "id": "62644157eccc8cae769be732"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(B)",
+        "explanation": "Do you know who will be taking over after Claudia retires? <br>A) I’m not tired<br><b> B) We don’t know yet</b><br>C) In her office"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 2,
+      "childs": [],
+      "id": "62644157eccc8cae769be739"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test07_0221.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test07_0221.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415beccc8cae769bf0eb"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(A)",
+        "explanation": "<b>Transcript:</b><br> Did you say you were stopping by today or tomorrow? <br><b> (A) Actually, I said this weekend. </b><br>(B) A nice day for a walk. <br>(C) Yeah, I thought so too."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 2,
+      "childs": [],
+      "id": "6264415beccc8cae769bf0fa"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_2115.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_2115.mp3",
+            "mime": "audio/mp3",
+            "id": "6264415deccc8cae769bf314"
+          }
+        ],
+        "choices": [
+          "(A)",
+          "(B)",
+          "(C)"
+        ]
+      },
+      "answer": {
+        "text": "(C)",
+        "explanation": "How many clients will be visiting? <br>(A) Yes, they are. <br> (B) At two o'clock. <br>*. (C) About a dozen."
+      },
+      "difficultyLevel": "EASY",
+      "part": 2,
+      "childs": [],
+      "id": "6264415deccc8cae769bf318"
+    },
+    {
+      "question": {
+        "text": "@PS@/kstoeic/images/7389051_1564545884169.png@PE@",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test09_0313.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test09_0313.mp3",
+            "mime": "audio/mp3",
+            "id": "626441daeccc8cae769c44c2"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b><br> W: Hi, Harold. <b> Just wanted to let you know I’m nearly finished with all of Farnod Computing’s windows. I’m going to move up to the next floor in about twenty minutes. </b> Are you finished with Raptas’ window? <br> M:  Hi, Batty. Yeah, I have finished Raptas’ and I’m going upstairs to the next floor. The windows are already pretty clean up there so I think we can get the job done pretty soon. <br>W:  Great. Before you start on the 4th floor, can you please bring me some more window cleaner? I have run out. <br>M: Sure, I’ll be up in about twenty minutes. It will be good to see how clean your windows are compared to mine. <b>  When we are finished with the windows, we need to start on the carpets.</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Window cleaners",
+              "(B) Computer repair technicians",
+              "(C) Telephone operators",
+              "(D) Athletes"
+            ]
+          },
+          "answer": {
+            "text": "(A) Window cleaners",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Where is the woman going next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Raptas",
+              "(B) Farnod Computing",
+              "(C) Chaims & Son",
+              "(D) Hecadi Constructing"
+            ]
+          },
+          "answer": {
+            "text": "(C) Chaims & Son",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are the speakers probably going to do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Go home",
+              "(B) Eat lunch",
+              "(C) Clean the carpets",
+              "(D) Leave the building"
+            ]
+          },
+          "answer": {
+            "text": "(C) Clean the carpets",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441daeccc8cae769c44c6"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test07_0303.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test07_0303.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bffb8"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> <br> M: Ms. Simpson, can you tell me why you applied to work at our store? <b> Q1 Judging from your resume, it appears you have no retail experience. What do you think makes you qualified for selling apparel?</b><br>W:  You’re right. I previously worked as a secretary at a hospital. <b> Q2 At that time, I learned that I really enjoy working with people</b>. So I thought working in retail would be a good fit for me. <br>M: Yes, that is very important. Here at our store, we expect all employees to be kind and helpful with each and every customer. <b> Q3 Next, I’d like to ask about your availability during the week. </b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely does the man work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a hospitalV",
+              "(B) At a factory",
+              "(C) At a clothing store",
+              "(D) At a restaurant"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a clothing store",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the woman think she is qualified for the job?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She completed a training course.",
+              "(B) She has worked similar jobs before.",
+              "(C) She likes interacting with people.",
+              "(D) She majored in a related field."
+            ]
+          },
+          "answer": {
+            "text": "(C) She likes interacting with people.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the speakers discuss next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Work hours",
+              "(B) An annual salary",
+              "(C) Job qualifications",
+              "(D) Previous jobs"
+            ]
+          },
+          "answer": {
+            "text": "(A) Work hours",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bffbc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "194320712-1578902461122.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/194320712-1578902461122.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e1eccc8cae769c4f0d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: Sorry to bother you, but I’m wondering if either of you remember someone named James Pullman? <b>He worked here at the newspaper a few months ago. </b><br>M-Au: That name doesn’t sound familiar. Why? <br>W-Am: Someone from Colby Media called today. James applied for a job there, and he listed our newspaper agency as his last place of employment. <b>They asked for a recommendation, but I never actually worked with him. </b><br>M-Cn: James Pullman? I remember James. He was one of our staff photographers for about a year. He was very talented. <br>W-Am: Well, would you mind providing the recommendation then? <br>M-Cn: Sure, I’d be happy to, by I wish he had contacted one of us directly. That’s the usual procedure. <br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a radio station",
+              "(B) At a recording studio",
+              "(C) At an electronics manufacturer",
+              "(D) At a newspaper"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a newspaper",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why did colby media contact the speakers' workplace?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To offer a training workshop",
+              "(B) To promote some new products",
+              "(C) To request some photographs",
+              "(D) To ask for a reference"
+            ]
+          },
+          "answer": {
+            "text": "(D) To ask for a reference",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman imply when she says. \"I never actually worked with him\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She cannot fulfill a request.",
+              "(B) She would prefer to work alone.",
+              "(C) She is surprised a colleague is leaving.",
+              "(D) She is disappointed with an assignment."
+            ]
+          },
+          "answer": {
+            "text": "(A) She cannot fulfill a request.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441e1eccc8cae769c4f0f"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test08_0303.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test08_0303.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769bff49"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Transcript:</b><br> W: <b> Q1 Kevin, did you finish the billboard design for Frank’s Tires Plus yet?</b> They want the advertisement to be up in time for their big sale next week. <br>M: <b> Q2 I was just about to finish it this morning when my computer crashed suddenly.</b> Unfortunately, I lost some of my data, including the work I had done on the billboard design. <br>W: Oh, no. That’s a shame. <b> Q3 I’ll call Frank’s Tires Plus and ask for a few more days to complete the design</b>. In the meantime, I hope you can find a solution. <br>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the woman ask the man about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The status of a project",
+              "(B) The location of a store",
+              "(C) The list of clients",
+              "(D) The cause of a problem"
+            ]
+          },
+          "answer": {
+            "text": "(A) The status of a project",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why was the man unable to complete his work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He didn’t have enough time.",
+              "(B) His car wouldn’t start.",
+              "(C) He was busy with other projects.",
+              "(D) His computer malfunctioned."
+            ]
+          },
+          "answer": {
+            "text": "(D) His computer malfunctioned.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman planning to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Terminate a contract",
+              "(B) Ask for a deadline extension",
+              "(C) Meet with a company executive",
+              "(D) Hire a new designer"
+            ]
+          },
+          "answer": {
+            "text": "(B) Ask for a deadline extension",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769bff4c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test03_0305.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test03_0305.mp3",
+            "mime": "audio/mp3",
+            "id": "626441cfeccc8cae769c315d"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: <b> Stephanie, did you see the flyer hanging on the bulletin board in the hallway</b>? It says a yoga class will be available to all employees free of charge. Are you planning on signing up? <br>W: Yeah, I saw that. <b> It looks like a great opportunity, but the class is held on Wednesday nights and that’s the same day as my jazz dance class.</b><br>M: Oh, I didn’t know you took a dance class. You have so many talents I didn’t know about. I would love to see you dance sometime. <br>W: <b> Well, actually, we are putting on a performance next month at the Mond Theater</b>. I would be so happy if you and our team members came."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "How did the man find out about the yoga class?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) From a public posting",
+              "(B) From a co-worker",
+              "(C) From the woman",
+              "(D) From a company’s website"
+            ]
+          },
+          "answer": {
+            "text": "(A) From a public posting",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why can’t the woman attend the yoga class?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She hurt her back.",
+              "(B) She can’t afford the fee.",
+              "(C) She has to take care of her children.",
+              "(D) She attends a different class."
+            ]
+          },
+          "answer": {
+            "text": "(D) She attends a different class.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the woman do next month?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Apply for a new job",
+              "(B) Watch the man’s jazz dance",
+              "(C) Appear in a performance",
+              "(D) Register for a class"
+            ]
+          },
+          "answer": {
+            "text": "(C) Appear in a performance",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441cfeccc8cae769c3162"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "104378591-1568100556530-08.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/104378591-1568100556530-08.png",
+            "mime": "image/png",
+            "id": "626441deeccc8cae769c4cb8"
+          }
+        ],
+        "sound": [
+          {
+            "name": "130881290-1578897667560.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/130881290-1578897667560.mp3",
+            "mime": "audio/mp3",
+            "id": "626441deeccc8cae769c4cbc"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script:</b> <br> W-Br: <b> 68 Technical Support, may I help you?</b><br>W-Au: Yeah, I was trying to update a spreadsheet when error code 984 popped up. I don’t know what to do. <br>W-Br: We’ve had lots of calls about this lately. <b>69 Go ahead and send an error report</b>. We want the software developer to be aware of the problem, too. It’ll also save a copy of the report on your desktop for me to look at. I’ll be over to your office right away. <br>M-Au: Thanks. I’m in office 243. <b>70The project I’m working on is really important, so I’m worried about my data being arased.</b><br>W-Br: I should be able to correct the problem and recover any lost data for you. <br><br>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the woman?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A job applicant",
+              "(B) A financial analyst",
+              "(C) A software salesperson",
+              "(D) A computer technician"
+            ]
+          },
+          "answer": {
+            "text": "(D) A computer technician",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic which option should be the man select?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Option 1",
+              "(B) Option 2",
+              "(C) Option 3",
+              "(D) Option 4"
+            ]
+          },
+          "answer": {
+            "text": "(B) Option 2",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man say he is worried about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Locating a laptop",
+              "(B) Meeting sales goals",
+              "(C) Losing some data",
+              "(D) Missing a deadline"
+            ]
+          },
+          "answer": {
+            "text": "(C) Losing some data",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441deeccc8cae769c4cbf"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "64854316-1578622203967.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/64854316-1578622203967.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416aeccc8cae769c0052"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>M-Cn: Hi, Ms. Millet. <b> Q1 It’s Hector Diaz calling from Jackson Real Estate. </b> An apartment has jus been listed that I think you might be interested in. It’s a one-bedroom place that’s available immediately. But best of all, it’s near Fulbright Park. <br>W-Am: Near Fulbright Park? Oh, <b> Q2 that’s wonderful news. The park is very close to my office </b>– that’s exactly what I’d hoped for. <br>M-Cn: Would you like to look at the apartment? <b> Q3 We can get in to see it sometime tomorrow if you’re free. </b><br>W-Am: I’m busy in the morning, but <b>43the afternoon would be fine. </b>Let me write down where it is, and I can meet you there. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What type of business does the man work for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An architecture firm",
+              "(B)A construction company",
+              "(C)A real estate agency",
+              "(D)A bank"
+            ]
+          },
+          "answer": {
+            "text": "(C)A real estate agency",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman pleased?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An apartment is conveniently located.",
+              "(B)A job position is opening soon.",
+              "(C)Some funding has been approved.",
+              "(D)Some renovations have been completed."
+            ]
+          },
+          "answer": {
+            "text": "(A)An apartment is conveniently located.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman plan to do tomorrow afternoon?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Sign some documents",
+              "(B)View a property",
+              "(C)Attend a trade show",
+              "(D)Make a presentation"
+            ]
+          },
+          "answer": {
+            "text": "(B)View a property",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416aeccc8cae769c0054"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test04_0308.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test04_0308.mp3",
+            "mime": "audio/mp3",
+            "id": "626441cfeccc8cae769c3040"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "W:  Hi, Amos. This is Elizabeth Cox. <b> Last year you helped find some office space for my company and I was hoping you could help me find something in the same area.</b><br>M: Hi, Elizabeth. It’s good to hear from you. If I remember correctly, your office is in the Barnsbury area right? <br>W: Yes. <b> Actually, I recently left that company and I’ve opened my own legal firm</b>. I only have four staff members so we don’t need a big space. As long as it is in good condition and the location fine. <br>M:  No problem. I have a few in the area I think you would like. <b> What’s your afternoon like?>/b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the woman calling the man?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask a favor of him",
+              "(B) To order some flowers",
+              "(C) To find a rental property",
+              "(D) To rent a house"
+            ]
+          },
+          "answer": {
+            "text": "(C) To find a rental property",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman say she has done recently?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Been promoted at her company",
+              "(B) Closed down her business",
+              "(C) Got a new job",
+              "(D) Opened her own business"
+            ]
+          },
+          "answer": {
+            "text": "(D) Opened her own business",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the man say, “What’s your afternoon like?”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To figure out when they can meet",
+              "(B) To ask her to dinner",
+              "(C) To explain rental conditions",
+              "(D) To get some keys for the office"
+            ]
+          },
+          "answer": {
+            "text": "(A) To figure out when they can meet",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441cfeccc8cae769c3043"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "103151471-1584091650255.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/103151471-1584091650255.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d8eccc8cae769c3fee"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M-Cn: Hi, Eunice. <b> I called to get seats for the Play we wanted to take our colleagues from Paris to. but there weren't any tickets left</b>. Do you have any other ideas for activities? <br>W-Br: Oh, that’s too bad. Well, the weather is supposed to be really nice this weekend.<b> How about taking them out to dinner at Harbor View Restaurant? It's on a cruise ship</b> on the riverfront, and l’ve taken people there before. <br>M-Cn: I’ve heard of that ship, and the view of the city from the river is supposed to be spectacular. <b>Would you mind finding out how much the dinner cruise would cost?</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What problem does the man mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A reservation is incorrect.",
+              "(B) A business trip has been postponed",
+              "(C)  An event is sold out",
+              "(D) Credit cards are not accepted"
+            ]
+          },
+          "answer": {
+            "text": "(C)  An event is sold out",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman suggest  offering their colleagues?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A dinner on a boat",
+              "(B) A hotel upgrade",
+              "(C) Tickets to a sporting event",
+              "(D) Gift vouchers for a store"
+            ]
+          },
+          "answer": {
+            "text": "(A) A dinner on a boat",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man ask the woman to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Contact a travel agency",
+              "(B)  Research pricing information",
+              "(C)  Make a payment in advance",
+              "(D)  Arrange transportation"
+            ]
+          },
+          "answer": {
+            "text": "(B)  Research pricing information",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d8eccc8cae769c3ff3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test05_0304.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test05_0304.mp3",
+            "mime": "audio/mp3",
+            "id": "626441cfeccc8cae769c3273"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "M: Did you enjoy this afternoon’s training session for the new software? <b> I think it’ll really help us improve the quality of our graphic design work.</b><br> W: I thought it was very informative, but there are still a lot of details that I’m unsure about. <b> I wish the instructor had allowed some time for participants to ask questions.</b><br> M: Yeah, I agree with you. However, I heard that the instructor of the training session left his contact information with the human resources department. <b> Why don’t you try contacting him via e-mail?</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where most likely do the speakers work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a software company",
+              "(B) At a marketing firm",
+              "(C) At a travel agency",
+              "(D) At a graphic design company"
+            ]
+          },
+          "answer": {
+            "text": "(D) At a graphic design company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman’s complaint about the training session?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) There were not enough seats.",
+              "(B) The registration fee was too high.",
+              "(C) There was no time for inquiries.",
+              "(D) The instructor’s presentation was lengthy."
+            ]
+          },
+          "answer": {
+            "text": "(C) There was no time for inquiries.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the man suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Attending another training session",
+              "(B) Transferring to a new department",
+              "(C) Reviewing a training manual",
+              "(D) Contacting the instructor"
+            ]
+          },
+          "answer": {
+            "text": "(D) Contacting the instructor",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441cfeccc8cae769c3278"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "etstoeic_2020_0103.05.mp3",
+            "url": "https://storage.googleapis.com/kslearning/sound/etstoeic_2020_0103.05.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e2eccc8cae769c523b"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b><br>M- Cn Hi. 44 Welcome to Chesterton Bank. How can I help you?<br>W-Br Well, 45 l’d like to deposit my paycheck into my savings account.<br>M-Cn Of course. Have you thought about signing up for direct deposit? That way, your paycheck will go directly into your account, and you don’t have to come in to the branch to do the transaction.<br>W-Br That sounds great, actually.<br>M-Cn 4eYou just need to fill out some paperwork. I’ll go prepare that now so you can sign up today."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "Where are the speakers?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a department store",
+              "(B)At a medical clinic",
+              "(C)At a library",
+              "(D)At a bank"
+            ]
+          },
+          "answer": {
+            "text": "(D)At a bank",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the woman trying to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Pick up a prescription",
+              "(B)Join a rewards program",
+              "(C)Make a deposit",
+              "(D)Borrow a book"
+            ]
+          },
+          "answer": {
+            "text": "(C)Make a deposit",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will the man do next?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Speak to a manager",
+              "(B)Prepare some forms",
+              "(C)Refund a purchase",
+              "(D)Upgrade some software"
+            ]
+          },
+          "answer": {
+            "text": "(B)Prepare some forms",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441e2eccc8cae769c523e"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "52163324.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/11/01/52163324.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c0630"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Tape scripts</b><br>W: <b> Q1 I’m calling to change the date of my return flight. </b><br> M: Of course, Ms. Smith. I see that you are scheduled to return on November 15. When would you like me to change it to? <br> W: <b> Q2&3 I really have to come back a day early. I hope there is a flight available? </b><br> M: You’re in luck. There is a seat available on the 3-o’clock flight. Will that be okay?"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the woman doing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "A. Changing her flight schedule",
+              "B. Booking a hotel room",
+              "C. Making an appointment",
+              "D. Purchasing a book"
+            ]
+          },
+          "answer": {
+            "text": "A. Changing her flight schedule",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Why is the woman concerned?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "A. Her plane has been delayed",
+              "B. The book she wants is sold out",
+              "C. The hotel room is fully booked",
+              "D. She may not be able to come back early"
+            ]
+          },
+          "answer": {
+            "text": "D. She may not be able to come back early",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "When will the woman most likely come back?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "A. On November 13",
+              "B. On November 14",
+              "C. On November 15",
+              "D. On November 16"
+            ]
+          },
+          "answer": {
+            "text": "B. On November 14",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c0633"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "60599766.mp3",
+            "url": "https://storage.googleapis.com/https://storage.googleapis.com/eee-edu.appspot.com/elearning-react/2021/10/28/60599766.mp3",
+            "mime": "audio/mp3",
+            "id": "6264416feccc8cae769c0533"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>M: I think we should have the promotional material for the hotel updated before the start of the tourist season. The current materials don&rsquo;t list our new prices.<br /> W: I agree and, you know, <strong>Q1 the brochure needs to be redone, as well. It really should include new photos of the renovated rooms.</strong><br /> M: <strong>Q3 But do you think our budget can cover the additional expense? Printing a new brochure will be expensive.</strong><br /> W: Yes, but it&rsquo;ll help with our advertising, and that should get us more bookings.</p>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 3,
+      "childs": [
+        {
+          "question": {
+            "text": "What are the speakers mainly discussing?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Raising their prices",
+              "(B) Planning a conference",
+              "(C) Buying new furniture",
+              "(D) Printing new brochures"
+            ]
+          },
+          "answer": {
+            "text": "(D) Printing new brochures",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where do the speakers most likely work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)At a hotel",
+              "(B)At a library",
+              "(C) At a newspaper",
+              "(D) At an advertising agency"
+            ]
+          },
+          "answer": {
+            "text": "(A)At a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the man concerned about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The cost of advertising",
+              "(B)A conference schedule",
+              "(C)The quality of renovation work",
+              "(D)A deadline for a report"
+            ]
+          },
+          "answer": {
+            "text": "(A)The cost of advertising",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264416feccc8cae769c0537"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170111_431.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170111_431.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417feccc8cae769c0cd1"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p><strong>Q1 I&rsquo;d like to welcome you to the Blue Water Hotel! </strong>As advertised, we offer each guest a complimentary full breakfast for every day that you spend with us; lunch and dinner are not included. Each room is equipped for internet access. You just need to purchase a computer access card from the front desk. And&nbsp;<strong>Q2 remember that our special group rate includes free use of the hotel&rsquo;s fitness center, swimming pool, and free tickets to one of our nightly popular music concerts.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a hotel",
+              "(B) At a restaurant",
+              "(C) At an electronics store",
+              "(D) At a sports center"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a hotel",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated in the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Room service is available.",
+              "(B) Evening entertainment is provided.",
+              "(C) The fitness Center is closed.",
+              "(D) Free computer software is offered."
+            ]
+          },
+          "answer": {
+            "text": "(B) Evening entertainment is provided.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is included in the group rate?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) All meals",
+              "(B) Internet access",
+              "(C) A concert ticket",
+              "(D) Swim Thing lessons"
+            ]
+          },
+          "answer": {
+            "text": "(C) A concert ticket",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417feccc8cae769c0cd3"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "239383789-1578897817253.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/239383789-1578897817253.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c09c7"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> W-Br: Hi, this is Jane Smith. <b> Q1 I’m calling from Universal Construction Supplies</b>  for Rahim Ali. We received your application, and we’re interested in bringing you in for an interview. <b> Q2 We need someone who has experience managing a warehouse, </b>  and we see that you’re doing that at your current job. Are you available to come in Monday at three P.M for an interview? Although you’d be working in the construction supply warehouse, we’d interview you at our headquarters. <b> Q3 The office is a little tricky to find, </b>  so if you’re interested, call back and I can give you directions. The number is 555-0121. <br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the speaker work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a construction supply company",
+              "(B) At an appliance manufacturer",
+              "(C) At an engineering firm",
+              "(D) At a newspaper publisher"
+            ]
+          },
+          "answer": {
+            "text": "(A) At a construction supply company",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What job experience does the speaker mention?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Customer service",
+              "(B) Warehouse management",
+              "(C) Research and development",
+              "(D) Factory maintenance"
+            ]
+          },
+          "answer": {
+            "text": "(B) Warehouse management",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say about the company's headquarters?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is located in another city.",
+              "(B) It is closed on Saturdays.",
+              "(C) It is difficult to find.",
+              "(D) It is being remodeled"
+            ]
+          },
+          "answer": {
+            "text": "(C) It is difficult to find.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c09cf"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "20170119_4410.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/20170119_4410.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417deccc8cae769c0b06"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<p>(M-Cn): Thank you for coming to this afternoon&#39;s press conference. We&#39;re happy to announce that <strong>Q1&amp;2&nbsp;Meadowbrook Hospital has completed the first phase of a 50-million-dollar expansion project.We&#39;ve doubled the number of our patient rooms, </strong>which means that we&#39;re now equipped to provide medical care to significantly more people. But our work is only half completed. Construction is already underway on a state-of-the-art medical training facility, the second phase of our expansion project. <strong>Q3&nbsp;When that facility opens next year, we&#39;ll be able to offer cutting-edge training programs for all types of medical professionals.</strong></p>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To recognize a staff member",
+              "(B)To discuss a construction project",
+              "(C)To welcome professionals to a training seminar",
+              "(D)To request funding for medical equipment"
+            ]
+          },
+          "answer": {
+            "text": "(B)To discuss a construction project",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what has changed at Meadowbrook Hospital?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The duties of medical staff",
+              "(B)The budget for a research project",
+              "(C)The admissions procedure",
+              "(D)The number of patient rooms"
+            ]
+          },
+          "answer": {
+            "text": "(D)The number of patient rooms",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the hospital plan to do next year?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Open a training center",
+              "(B)Start a fund-raising campaign",
+              "(C)Expand a parking area",
+              "(D)Hire more physicians"
+            ]
+          },
+          "answer": {
+            "text": "(A)Open a training center",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417deccc8cae769c0b12"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "501538507-1578561244674.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/501538507-1578561244674.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0819"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Br: <b> Q1 Thanks for coming to this product development meeting. As you know, we’ve recently reduced the amount of packaging we use for our Tucker Treats snack bags, in order to be more ecofriendly. But Q2 customers aren’t happy because our new packaging now offers smaller quantities of Tucker Treats at their original prices, which means they’re paying more and less food. Our president, Young-Soo Lee, has approved changing the size of the packaging to offer larger quantities of snacks at the original prices. So, Q3 your next task is to come up with a new package design to hold the larger quantities, while still using less plastic. </b> <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What department does the speaker most likely work in?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Product development",
+              "(B)Advertising",
+              "(C)Legal affairs",
+              "(D)Finance"
+            ]
+          },
+          "answer": {
+            "text": "(A)Product development",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What are customer's complaints about tucker treats?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The ingredient list is inaccurate.",
+              "(B)The food amount has decreased.",
+              "(C)The packaging is hard to open.",
+              "(D)The new flavor does not taste good."
+            ]
+          },
+          "answer": {
+            "text": "(B)The food amount has decreased.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What task does the speaker assign to the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Creating some designs",
+              "(B)Conducting market research",
+              "(C)Demonstrating a procedure",
+              "(D)Find potential vendors"
+            ]
+          },
+          "answer": {
+            "text": "(A)Creating some designs",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c081b"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "eco2018_Test07_0405.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/eco2018_Test07_0405.mp3",
+            "mime": "audio/mp3",
+            "id": "626441d3eccc8cae769c38bc"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b> <br> Hi, everyone, let’s start the weekly work meeting. <b> Firstly, I want you to know that I’ve hired five more staff for the main factory room. I know that you are all overworked;</b> I'm trying hard to push for funding to get two more people in over the next few months. The new staff will be here on Monday morning, so I want everyone to go out of their way to train them as quickly as possible. To do this efficiently, I’m going to have each of you train the new staff in a particular section of the factory. <b> Please prepare some instructions and email them to me </b> so I can double-check them."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely are the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Factory workers",
+              "(B) Lawyers",
+              "(C) Accountants",
+              "(D) Web developers"
+            ]
+          },
+          "answer": {
+            "text": "(A) Factory workers",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the woman mean when she says, “I know that you are all overworked”?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She recognizes the listeners concerns.",
+              "(B) She doesn’t really mind what they think",
+              "(C) She wants them to work less.",
+              "(D) She is inviting them to a meeting."
+            ]
+          },
+          "answer": {
+            "text": "(A) She recognizes the listeners concerns.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What task does the speaker assign to the listeners?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Prepare some instructions",
+              "(B) Prepare a new budget",
+              "(C) Revise some training materials",
+              "(D) Hire new staff"
+            ]
+          },
+          "answer": {
+            "text": "(A) Prepare some instructions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441d3eccc8cae769c38be"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "etstoeic_2020_0504.08.mp3",
+            "url": "https://storage.googleapis.com/kslearning/sound/etstoeic_2020_0504.08.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e4eccc8cae769c550e"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b><br>M-Au Hello, Ms. Morris, 92l'm calling about the estimate you requested. It looks like the renovations you want me to do for your kitchen will cost at least 10,000 dollars. 93l know that's a little more than you were planning to spend. Now —94one way we could cut down on the immediate cost is to break the renovation up into different stages. It'll take longer but if 11 cost less up front, and you can decide after each stage if you want to continue. Either way, call me back and let me know what you think"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Who most likely is the speaker?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An accountant",
+              "(B)An attorney",
+              "(C)A real estate agent",
+              "(D)A building contractor"
+            ]
+          },
+          "answer": {
+            "text": "(D)A building contractor",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the speaker, what is the problem?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)An estimate is higher than expected.",
+              "(B)Some work is behind schedule.",
+              "(C)A staff member is away.",
+              "(D)Some materials are unavailable."
+            ]
+          },
+          "answer": {
+            "text": "(A)An estimate is higher than expected.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What  solution does the speaker suggest?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Hiring a smallerteam",
+              "(B)Paying with a credit card",
+              "(C)Completing a project in stages",
+              "(D)Buying a different property"
+            ]
+          },
+          "answer": {
+            "text": "(C)Completing a project in stages",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441e4eccc8cae769c5515"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "885165_1557990288207.png",
+            "url": "https://storage.googleapis.com/kstoeic/images/885165_1557990288207.png",
+            "mime": "image/png",
+            "id": "6264417aeccc8cae769c08fb"
+          }
+        ],
+        "sound": [
+          {
+            "name": "159388237-1584094397125.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/159388237-1584094397125.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0900"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "I’d  like to start off today's meeting by thanking you for taking our survey. <b> Q1 Here at R&M Auto Factory, we're committed to employee satisfaction.</b> We received a lot of suggestions for improving our factory’s cafeteria, so let’s take a look at those results now. As you can see, we’d all like a larger dining area, but we just can’t afford an expansion right now. <b> Q2 We can, however, address the second most popular suggestion, so we’ll start working on that immediately</b>. And, as a token of our thanks, <b> Q3 everyone who filled out the survey will receive a voucher for a free lunch.</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Where does the talk take place?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a restaurant",
+              "(B) At a factory",
+              "(C) At a supermarket",
+              "(D) At a repair shop"
+            ]
+          },
+          "answer": {
+            "text": "(B) At a factory",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which suggestion will the company begin to work on?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Lower prices",
+              "(B) Better equipment",
+              "(C) Larger menu",
+              "(D) More seating"
+            ]
+          },
+          "answer": {
+            "text": "(C) Larger menu",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What will employees receive for completing the survey?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A complimentary meal",
+              "(B) A company shirt",
+              "(C) A store gift card",
+              "(D) A cash prize"
+            ]
+          },
+          "answer": {
+            "text": "(A) A complimentary meal",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0904"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "etstoeic_2020_0104.01.mp3",
+            "url": "https://storage.googleapis.com/kslearning/sound/etstoeic_2020_0104.01.mp3",
+            "mime": "audio/mp3",
+            "id": "626441ddeccc8cae769c49da"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Transcript:</b><br>M-Au OK, let’s get the monthly staff meeting started. First off, <b>this Saturday is the annual holiday parade</b>. And as many of you know, the parade goes right down our street. <b> It’s always one of our busiest days... lots of people will stop by for lunch, and the line can get quite long. </b> So we’ll need a few extra cooks and servers, and everyone who works that day'll get overtime pay. Let me know soon if you are able to work on Saturday. Oh... and <b>I strongly recommend taking the bus or train if you can. </b> Remember that it’ll be very difficult to park on Saturday during the event."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the speaker, what will take place on Saturday?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A retirement party",
+              "(B) A holiday parade",
+              "(C) A business workshop",
+              "(D) Acompany picnic"
+            ]
+          },
+          "answer": {
+            "text": "(B) A holiday parade",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Where do the listeners work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At a bank",
+              "(B) At an amusement park",
+              "(C) At a restaurant",
+              "(D) At a police station"
+            ]
+          },
+          "answer": {
+            "text": "(C) At a restaurant",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker suggest that the listeners do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Wear warm clothing",
+              "(B) Use public transportation",
+              "(C) Pack a lunch",
+              "(D) Bring identitication"
+            ]
+          },
+          "answer": {
+            "text": "(B) Use public transportation",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441ddeccc8cae769c49dc"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [],
+        "sound": [
+          {
+            "name": "817369360-1578897963767.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/817369360-1578897963767.mp3",
+            "mime": "audio/mp3",
+            "id": "6264417aeccc8cae769c0a09"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b> Script: </b> <br> W-Am: <b> Q1 Harper Electronics welcomes you here for a tour of our Innovation Labs, where you’ll see how we develop new products. </b>  We’ll start with a brief video on the history of the company. Then, you’ll visit the labs to see the projects we’re currently working on. <b> Q2 The labs themselves are a restricted area, which means no photographs. At 11:00 A.M, we’ll move to a special visitors conference room. </b>  That isn’t a restricted area. <b> Q3 There, you’ll meet one of Harper Electronics’ lead engineers. She’ll answer any questions you have to finish up our morning together. </b><br><br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the talk?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To introduce a tour",
+              "(B) To announce a new procedure",
+              "(C) To describe a new product",
+              "(D) To welcome an employee"
+            ]
+          },
+          "answer": {
+            "text": "(A) To introduce a tour",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker imply when she says, \"That isn't a restricted area\"?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Listeners will not need a badge.",
+              "(B) Listeners may take pictures.",
+              "(C) Security staff are not on duty.",
+              "(D) Product samples will not be provided."
+            ]
+          },
+          "answer": {
+            "text": "(B) Listeners may take pictures.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the speaker say will happen at the end of the morning?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Refreshments will be provided.",
+              "(B) Guests will visit a company gift shop",
+              "(C) There will be a discussion with an employee.",
+              "(D) Surveys will be distributed."
+            ]
+          },
+          "answer": {
+            "text": "(C) There will be a discussion with an employee.",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "6264417aeccc8cae769c0a0c"
+    },
+    {
+      "question": {
+        "text": "",
+        "image": [
+          {
+            "name": "745189000-1567148160775-95.png",
+            "url": "https://storage.googleapis.comcomaiphuong-edu-media/images/745189000-1567148160775-95.png",
+            "mime": "image/png",
+            "id": "626441e1eccc8cae769c4f4f"
+          }
+        ],
+        "sound": [
+          {
+            "name": "691255653-1578561322656.mp3",
+            "url": "https://storage.googleapis.com/kstoeic/sound/691255653-1578561322656.mp3",
+            "mime": "audio/mp3",
+            "id": "626441e1eccc8cae769c4f51"
+          }
+        ],
+        "choices": []
+      },
+      "answer": {
+        "explanation": "<b>Script</b><br>W-Am: Hi Elizabeth, it’s Becca. Thanks a lot for agreeing to water my plants and get the mail at my jewelry store while I’m in Singapore. 95This is my first buying trip, and I’m excited about finding new materials for my jewelry. I left the keys in an envelope under your door. 96The key to my store is the longest one with the square top, and the smallest one is for the mailbox. 97I e-mailed instructions about caring for each of the plants. Don’t worry, though – I only have a few. Thanks again for your help, and see you next week. <br>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 4,
+      "childs": [
+        {
+          "question": {
+            "text": "Why is the speaker traveling to singapore?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To see family",
+              "(B)To go sightseeing",
+              "(C)To purchase supplies",
+              "(D)To meet overseas clients"
+            ]
+          },
+          "answer": {
+            "text": "(C)To purchase supplies",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "Look at the graphic. Which key is for the store?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Key #1",
+              "(B)Key #2",
+              "(C)Key #3",
+              "(D)Key #4"
+            ]
+          },
+          "answer": {
+            "text": "(C)Key #3",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What did the speaker send in an e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Special care instructions",
+              "(B)A travel itinerary",
+              "(C)Store blueprints",
+              "(D)A technology article"
+            ]
+          },
+          "answer": {
+            "text": "(A)Special care instructions",
+            "explanation": ""
+          }
+        }
+      ],
+      "id": "626441e1eccc8cae769c4f53"
+    },
+    {
+      "question": {
+        "text": "Baggage will not be ___ for check-in more than three hours before the departure of any Blue Skies Airline flight.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)accepted",
+          "(B)accepts",
+          "(C)accepting",
+          "(D)acceptingly"
+        ]
+      },
+      "answer": {
+        "text": "(A)accepted",
+        "explanation": "Accept st for st  <br> No noun comes after the verb so we are using passive voice."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c204a"
+    },
+    {
+      "question": {
+        "text": "Buying a home for the first time can be complicated and even  _____  without help from a licensed real estate agent.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) nervous",
+          "(B) risky",
+          "(C) decreased",
+          "(D) initial"
+        ]
+      },
+      "answer": {
+        "text": "(B) risky",
+        "explanation": "Based on the meaning of words\r\n=>Choose B"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d5eccc8cae769c3bf3"
+    },
+    {
+      "question": {
+        "text": "When picking up identification badges, employees need to show  _____  of employment at Ekmekci Associates.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) process",
+          "(B) analysis",
+          "(C) proof",
+          "(D) basis"
+        ]
+      },
+      "answer": {
+        "text": "(C) proof",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=>C"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d5eccc8cae769c3e26"
+    },
+    {
+      "question": {
+        "text": "Mr. Kang started ___ printing business 25 years ago in Pusan, South Korea.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)he",
+          "(B)him",
+          "(C)his",
+          "(D)himself"
+        ]
+      },
+      "answer": {
+        "text": "(C)his",
+        "explanation": "The answer comes before a noun so we use \"his\"."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c162c"
+    },
+    {
+      "question": {
+        "text": "Panjan Air, an airline  ______ in Singapore, is offering budget flights to Bangkok and Jakarta.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) stored",
+          "(B) stayed",
+          "(C) based",
+          "(D) moved"
+        ]
+      },
+      "answer": {
+        "text": "(C) based",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> C"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c41e3"
+    },
+    {
+      "question": {
+        "text": "Edward's Plumbing has six company-owned vehicles, two of ------- are now in the repair shop.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) whose",
+          "(B) which",
+          "(C) either",
+          "(D) other"
+        ]
+      },
+      "answer": {
+        "text": "(B) which",
+        "explanation": "This is a question of relative clause theory. There is a lack of relative pronouns for \"vehicles\" here. Among the answers given, there is 'which' is a suitable relative pronoun in place of an object"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441e2eccc8cae769c5312"
+    },
+    {
+      "question": {
+        "text": "The non-profit organization released to the press several documents  _____  the largest donors and how much they contributed.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) detailed",
+          "(B) detail",
+          "(C) details",
+          "(D) detailing"
+        ]
+      },
+      "answer": {
+        "text": "(D) detailing",
+        "explanation": "Reduced relative clause in active form; \"detailing = which detail\"<br><b>=> Choose D</b>"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418deccc8cae769c1504"
+    },
+    {
+      "question": {
+        "text": "Employees are asked to ___ their work objectives with a supervisor before submitting the final copies to headquarters.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)confer",
+          "(B)review",
+          "(C)reject",
+          "(D)control"
+        ]
+      },
+      "answer": {
+        "text": "(B)review",
+        "explanation": "Review = Examine = Check"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1851"
+    },
+    {
+      "question": {
+        "text": "The ------ technology used in pts by Claypol Housewares keeps the handles from getting too hot to touch.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)warm",
+          "(B)frequent",
+          "(C)unattached",
+          "(D)innovative"
+        ]
+      },
+      "answer": {
+        "text": "(D)innovative",
+        "explanation": "Questions about vocabulary. need to rely on meaning to choose the correct answer."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441e2eccc8cae769c51ed"
+    },
+    {
+      "question": {
+        "text": "The advertising budget is divided ___ among the three divisions in the marketing department.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)equal",
+          "(B)equals",
+          "(C)equality",
+          "(D)equally"
+        ]
+      },
+      "answer": {
+        "text": "(D)equally",
+        "explanation": "We are giving more information on the verb \"is divided\" so we use an adverb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1d14"
+    },
+    {
+      "question": {
+        "text": "___ the last decade, Louellen Hospital has been recognized for exemplary patient care and progressive technology.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)Throughout",
+          "(B)Along",
+          "(C)Toward",
+          "(D)Beside"
+        ]
+      },
+      "answer": {
+        "text": "(A)Throughout",
+        "explanation": "\"Along\" goes with \"with\" at the start of a sentence. <br> Beside = Next to <br>We do not use present perfect tense with \"toward + time period\". <br> Therefore, we choose \"throughout\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1868"
+    },
+    {
+      "question": {
+        "text": "_____ making structural changes to a house must first apply for a building permit.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) Our",
+          "(B) Who",
+          "(C) Them",
+          "(D) Anyone"
+        ]
+      },
+      "answer": {
+        "text": "(D) Anyone",
+        "explanation": "We need a subject => anyone is correct<br><b>=> Choose D</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418beccc8cae769c0fcc"
+    },
+    {
+      "question": {
+        "text": "After the president's welcoming remarks, sales manager Tonya Nero will lead a ___ on product promotion strategies.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)situation",
+          "(B)discussion",
+          "(C)selection",
+          "(D)delivery"
+        ]
+      },
+      "answer": {
+        "text": "(B)discussion",
+        "explanation": "Lead a discussion = Manage a discussion"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644193eccc8cae769c1f52"
+    },
+    {
+      "question": {
+        "text": "The monthly staff dinners give employees from different departments the chance to interact with  _____  on a personal level.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) other",
+          "(B) neither",
+          "(C) every",
+          "(D) each other"
+        ]
+      },
+      "answer": {
+        "text": "(D) each other",
+        "explanation": "There's no nouns after the blank so \"each other\" is correct answer<br><b>=> Choose D</b>"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418beccc8cae769c103d"
+    },
+    {
+      "question": {
+        "text": "Ms. Yi of Lakesview Catering says that five trays of appetizers are more than  _____for fifty  guests.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) able",
+          "(B) numerous",
+          "(C) sure",
+          "(D) enough"
+        ]
+      },
+      "answer": {
+        "text": "(D) enough",
+        "explanation": "The phrase “more than enough”"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418ceccc8cae769c1165"
+    },
+    {
+      "question": {
+        "text": "Funds raised by the local preservation society have helped ___ the historic Jasenville train station.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)restoring",
+          "(B)to restore",
+          "(C)restored",
+          "(D)is restored"
+        ]
+      },
+      "answer": {
+        "text": "(B)to restore",
+        "explanation": "Help do/to do st"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c174f"
+    },
+    {
+      "question": {
+        "text": "If you___your reservations earlier, you would have gotten on the flight you wanted.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)made",
+          "(B)had made",
+          "(C)have made",
+          "(D)would have made"
+        ]
+      },
+      "answer": {
+        "text": "(B)had made",
+        "explanation": "(B) The past tense unreal conditional uses the past perfect form of the verb in the if clause. Choice (A) is simple past tense. Choice (C) is present perfect. Choice (D) is conditional, the form required for the main clause."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c2374"
+    },
+    {
+      "question": {
+        "text": "The education center provides training classes in key skills _____ that the unemployed can find jobs more easily.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) so",
+          "(B) ever",
+          "(C) only",
+          "(D) as"
+        ]
+      },
+      "answer": {
+        "text": "(A) so",
+        "explanation": "Based on the relation of 2 clauses<br><b>=> Choose A</b>"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "6264418beccc8cae769c106a"
+    },
+    {
+      "question": {
+        "text": "The results of the traveler preference survey are___.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)surprised",
+          "(B)surprises",
+          "(C)surprise",
+          "(D)surprising"
+        ]
+      },
+      "answer": {
+        "text": "(D)surprising",
+        "explanation": "(D) The “results” surprise others; it is active, so the present participle is used. Choice (A) is the past participle. Choice (B) is the present tense. Choice (C) is the base form of the verb."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "62644195eccc8cae769c23f6"
+    },
+    {
+      "question": {
+        "text": "Event coordinators should include receipts for ___ above 25 dollars in their reports.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)itself",
+          "(B)anything",
+          "(C)another",
+          "(D)whatever"
+        ]
+      },
+      "answer": {
+        "text": "(B)anything",
+        "explanation": "\"Itself\" and \"another\" go with a noun. <br>\"whatever\" go with a verb. <br>Therefore, we choose \"anything\"."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1885"
+    },
+    {
+      "question": {
+        "text": "Due to congestion on the roads, an increasing number of manufacturers  _____  transport their goods by train.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) either",
+          "(B) very",
+          "(C) now",
+          "(D) rather"
+        ]
+      },
+      "answer": {
+        "text": "(C) now",
+        "explanation": "Based on the meaning of the word to choose the correct answer\r\n=> C"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441d0eccc8cae769c339f"
+    },
+    {
+      "question": {
+        "text": "Although Oliver Rodriguez’ books have shaped the way that businesses handle staff relations, he does not consider ___ an expert on the subject.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)he",
+          "(B)him",
+          "(C)his",
+          "(D)himself"
+        ]
+      },
+      "answer": {
+        "text": "(D)himself",
+        "explanation": "Consider myself/himself/herself/yourself/oursleves/themselves + N/Adj"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1c68"
+    },
+    {
+      "question": {
+        "text": "Three of the new chemists, who   _____  developed the material, will be recognized by the CEO at Saturday’s ceremony.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) collaborating",
+          "(B) collaborate",
+          "(C) collaboratively",
+          "(D) collaborative"
+        ]
+      },
+      "answer": {
+        "text": "(C) collaboratively",
+        "explanation": "The blank is before a verb <br>=> so need an adverb  to modify for verb."
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "626441d8eccc8cae769c4293"
+    },
+    {
+      "question": {
+        "text": "Neither of the ……………………… in the debate was willing to take a stand on the riverfront development controversy.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)politicians",
+          "(B)politicize",
+          "(C)political",
+          "(D)politically"
+        ]
+      },
+      "answer": {
+        "text": "(A)politicians",
+        "explanation": "After the \"the\" article you need to fill in a noun\r\n=> A"
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "626441e4eccc8cae769c57e8"
+    },
+    {
+      "question": {
+        "text": "Mr. Takei attended one business conference in April and plans to attend two more conferences ___ in the year.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)then",
+          "(B)later",
+          "(C)long",
+          "(D)ever"
+        ]
+      },
+      "answer": {
+        "text": "(B)later",
+        "explanation": "Later + Future time"
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1d04"
+    },
+    {
+      "question": {
+        "text": "Please print your airline ticket once ------ of your credit card payment has been received.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) confirmation",
+          "(B) confirmed",
+          "(C) confirms",
+          "(D) confirm"
+        ]
+      },
+      "answer": {
+        "text": "(A) confirmation",
+        "explanation": "We see behind the word \"once\" in this sentence is a clause with an incomplete subject. So there is a missing Noun before \"of\""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441e1eccc8cae769c4f8d"
+    },
+    {
+      "question": {
+        "text": "Because of a ___ increase in profits this quarter, Tyro Sportswear employees will receive their first-ever year-end bonus.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)dramatically",
+          "(B)dramatize",
+          "(C)dramatic",
+          "(D)drama"
+        ]
+      },
+      "answer": {
+        "text": "(C)dramatic",
+        "explanation": "We are giving more information on the noun \"increase\" so we use an adjective."
+      },
+      "difficultyLevel": "EASY",
+      "part": 5,
+      "childs": [],
+      "id": "6264418feccc8cae769c1678"
+    },
+    {
+      "question": {
+        "text": "All passengers should present their ___ documents at the check-in counter.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)boarded",
+          "(B)boarding",
+          "(C)to board",
+          "(D)boards"
+        ]
+      },
+      "answer": {
+        "text": "(B)boarding",
+        "explanation": "We can use a gerund verb with a noun to make a noun phrase."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644191eccc8cae769c1b39"
+    },
+    {
+      "question": {
+        "text": "Ms. Ripola is___an accountant when totaling the receipts.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A)careful as",
+          "(B)as careful",
+          "(C)as careful as",
+          "(D)careful than"
+        ]
+      },
+      "answer": {
+        "text": "(C)as careful as",
+        "explanation": "(C) Equal comparisons require as on both sides of the adjective. Choice (A) omits the first “as”. Choice (B) omits the second “as”. Choice (D) uses “than”."
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "62644196eccc8cae769c2492"
+    },
+    {
+      "question": {
+        "text": "_____  the candidate’s official announcement that he will run for office, he met privately with his advisors.",
+        "image": [],
+        "sound": [],
+        "choices": [
+          "(A) In advance of",
+          "(B) As long as",
+          "(C) On behalf of",
+          "(D) So as to"
+        ]
+      },
+      "answer": {
+        "text": "(A) In advance of",
+        "explanation": "<br>As long as + Clause => B is wrong\r\n<br> Among 3 option A,C, D: Based on the meaning of words\r\n<br>=>Choose A"
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 5,
+      "childs": [],
+      "id": "626441d5eccc8cae769c3c8e"
+    },
+    {
+      "question": {
+        "text": "<br>To: Lathifah Suryani - lsuryani@cmail.com<br> From: Jabari Evers - eversj@pems.com<br>Date: May 18<br>Subject: Text Messages<br>Dear Ms. Suryani,<br>In order to ……..1………our patients as effectively and reliably as possible, we are now offering them the option of receiving appointment reminders and other relevant information Via our text-messaging System. You are currently registered to receive our materials Via e-mail.-----2 ------. If you would like to add text messaging to your mode of communication with us or would like to change your ………3……….. from e-mail to text messaging, please let us know at your earliest convenience………..4……………… goal is to give you relevant and usetul information about your health and about the Products and Services we offer in a timely tashion.<br>Jabari Evers<br>Customer Care Representative Protessional Eye Care Management Services",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)serve",
+              "(B)care",
+              "(C)work",
+              "(D)provide"
+            ]
+          },
+          "answer": {
+            "text": "(A)serve",
+            "explanation": "Based on the meaning to choose the answer"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)You have not been in our office recently.",
+              "(B)No action is required if you like your current Service.",
+              "(C)We have great Products you can buy.",
+              "(D)E-mail messages are not available to ali patients."
+            ]
+          },
+          "answer": {
+            "text": "(B)No action is required if you like your current Service.",
+            "explanation": "Based on the previous sentence to choose,  they are all about \"current service\"."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)prefer",
+              "(B)preferential",
+              "(C)preferred",
+              "(D)preference"
+            ]
+          },
+          "answer": {
+            "text": "(D)preference",
+            "explanation": "Choose by word type\n\n<br>Your + N"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Their",
+              "(B)My",
+              "(C)Your",
+              "(D)Our"
+            ]
+          },
+          "answer": {
+            "text": "(D)Our",
+            "explanation": "Based on the meaning to choose the answer"
+          }
+        }
+      ],
+      "id": "626441aceccc8cae769c280c"
+    },
+    {
+      "question": {
+        "text": "Pizza Chef Wanted<br>Papa Gino’s is hiring, and all <b> (1) </b> _____ applicants will be considered. <b> (2) </b> _____ Even if you have no experience, training will be provided if you meet our requirements. To meet our requirements, you must have a <b> (3) </b> _____ health card, reliable transportation, and be able to work evenings and weekends. Please apply in person at Papa Gino’s on state and Pine, <b> (4) </b> _____ look forward to meeting you.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "Papa Gino’s is hiring, and all <b> (1) </b> _____ applicants will be considered.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) qualify",
+              "(B) qualifying",
+              "(C) qualified",
+              "(D) to qualify"
+            ]
+          },
+          "answer": {
+            "text": "(C) qualified",
+            "explanation": "In the clause \"all _____ applicants will be considered\" the subject is the noun phrase \"all _____ applicants\". In this noun phrase, the main noun of the phrase is \"applicants\", so a modifier should be filled in the blank for this main noun => choose the adjective \"qualified\""
+          }
+        },
+        {
+          "question": {
+            "text": "<b> (2) </b> _____ Even if you have no experience, training will be provided if you meet our requirements.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) We are looking for candidates that have some experience in Italian food.",
+              "(B) We are looking for candidates that have experience fishing.",
+              "(C) We are looking for people who can fish.",
+              "(D) We are looking for people who want to practice."
+            ]
+          },
+          "answer": {
+            "text": "(A) We are looking for candidates that have some experience in Italian food.",
+            "explanation": "This job posting is hiring a pizza chef and pizza is an Italian food, so it makes the most sense for them to find a candidate with experience in Italian food.\n"
+          }
+        },
+        {
+          "question": {
+            "text": "To meet our requirements, you must have a<b> (3) </b> _____ health card, reliable transportation, and be able to work evenings and weekends.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) valid",
+              "(B) working",
+              "(C) effective",
+              "(D) strong"
+            ]
+          },
+          "answer": {
+            "text": "(A) valid",
+            "explanation": "Based on the meaning of words"
+          }
+        },
+        {
+          "question": {
+            "text": "Please apply in person at Papa Gino’s on state and Pine, <b> (4) </b> _____ to look forward meeting you.",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) She",
+              "(B) They",
+              "(C) We",
+              "(D) He"
+            ]
+          },
+          "answer": {
+            "text": "(C) We",
+            "explanation": "Based on the meaning of pronouns."
+          }
+        }
+      ],
+      "id": "626441a5eccc8cae769c264b"
+    },
+    {
+      "question": {
+        "text": "Questions 139-142 refer to the following advertisement. <br>Timbi Construction Shelters<br>If you work in the construction industry, you know how frustrating (139.) ------- can be when unexpected rain forces you to halt work on a project. Not only do you risk inconveniencing your client when a deadline is missed, but you may have to postpone other planned projects as well. <br>Timbi Construction Shelters provide the (140.) ------- you need to continue the job! These temporary structures (141.) ------- installed directly at your work site. They remain intact for the duration of your project, enabling your crew members to work uninterrupted in rain or sunshine. They also ensure that all equipment and materials are kept dry, eliminating the risk of water and mold damage. (142.) ------- Visit www.timbishelters.com for more information!",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "(139).",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) it",
+              "(B) one",
+              "(C) they",
+              "(D) some"
+            ]
+          },
+          "answer": {
+            "text": "(A) it",
+            "explanation": "The pronoun \"it\" here does not refer specifically to who / what it is but a false subject, like when we use the structures \"How far is it\", \"It is sunny\"."
+          }
+        },
+        {
+          "question": {
+            "text": "(140).",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) workers",
+              "(B) financing",
+              "(C) advice",
+              "(D) protection"
+            ]
+          },
+          "answer": {
+            "text": "(D) protection",
+            "explanation": "Based on the meaning to select the answer that fits the context"
+          }
+        },
+        {
+          "question": {
+            "text": "(141).",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) can be",
+              "(B) are being",
+              "(C) have been",
+              "(D) would have been"
+            ]
+          },
+          "answer": {
+            "text": "(A) can be",
+            "explanation": "There is no specific timeline in the sentence for using the present continuous or present perfect. In addition, the sentence content is only a general description, so the answer selected is (A) can be."
+          }
+        },
+        {
+          "question": {
+            "text": "(142).",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Make sure to explain which repairs are most critical.",
+              "(B) You will never have to delay work because of rain again.",
+              "(C) We will send a professional to your facility right away.",
+              "(D) How much time a project requires is difficult to predict."
+            ]
+          },
+          "answer": {
+            "text": "(B) You will never have to delay work because of rain again.",
+            "explanation": "Can see that the contents of the options A, C and D are completely inconsistent with the whole paragraph. Only option B is appropriate."
+          }
+        }
+      ],
+      "id": "626441e1eccc8cae769c4fbd"
+    },
+    {
+      "question": {
+        "text": "<br>Turn Your Scuba Diving Dreams into a Reality!<br>The Estrella Diving Center’s summer certification courses will begin at our Playa Del Carmen facility on June 2. No prior ---1--- is necessary because our trainers will cover all the basic techniques for beginner students. ---2---. As always, enrollees must have no existing medical conditions and be at least 13 years old. Those who cannot satisfy ---3--- of these requirements will be unable to sign up.<br>All equipment will be provided, and training will be delivered in three ---4--- sessions. Held on the same day, each lesson will last an hour with short breaks in between. Enrollment opens on Monday, May 3.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 6,
+      "childs": [
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  negotiation",
+              "(B) compensation",
+              "(C) instruction",
+              "(D) registration"
+            ]
+          },
+          "answer": {
+            "text": "(C) instruction",
+            "explanation": "Based on the meaning of words."
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Certain criteria must be met before taking the course.",
+              "(B) Divers have stated that they agree with the new rule.",
+              "(C) Such challenges are not easily overcome.",
+              "(D) Diving instructor applicants will be contacted shortly."
+            ]
+          },
+          "answer": {
+            "text": "(A) Certain criteria must be met before taking the course.",
+            "explanation": "Based on the previous sentence"
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) either",
+              "(B) whatever",
+              "(C) extra",
+              "(D) couple"
+            ]
+          },
+          "answer": {
+            "text": "(A) either",
+            "explanation": "The previous sentence mentions 2 requirements \"have no existing medical conditions\" and \"be at least 13 years old\"\n=> choose \"either\""
+          }
+        },
+        {
+          "question": {
+            "text": "",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) coincidental",
+              "(B) inadequate",
+              "(C) remote",
+              "(D) consecutive"
+            ]
+          },
+          "answer": {
+            "text": "(D) consecutive",
+            "explanation": "Based on the meaning of words."
+          }
+        }
+      ],
+      "id": "626441b1eccc8cae769c2930"
+    },
+    {
+      "question": {
+        "text": "From: aviera@e-last.com<br>To: hrniyakawa@e-last.com<br>Subjiect: Repair crews<br>Date: May 10<bR><BR>Dear Mr. Miyakawa,<bR><br>The executive committee met this morning to discuss some complaints from our residential Internet subscribers. More and more of them are being asked to wait a week or longer for service from a repair crew. It seems that our customer base has expanded more quickly than projected, and technical support requests have increased by about 30 percent. This means that the number of technicians available to assist customers is now insuffcient.<bR><bR>The committee feels an expansion of the repair team is necessary to restore customer satisfaction. We are expecting even more customers to have our equipment installed in their homes, and with the present number of technical crews, we may not be able to handle their service needs. The committee has authorized you to recruit five more people who have the appropriate training.<bR><br>Best regards,<br>Adelina Viera, Personnel Director<br> E-last Internet, Inc.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "For whom is this message probably intended?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)A repair technician",
+              "(B)A hiring supervisor",
+              "(C)An Internet subscriber",
+              "(D)A customer service representative"
+            ]
+          },
+          "answer": {
+            "text": "(B)A hiring supervisor",
+            "explanation": "Based on some information like: \"The executive committee met this morning to discuss some complaints from our residential Internet subscribers.\", \"The committee has authorized you to recruit five more people who have the appropriate training.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What problem have customers been reporting?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)  Frequent disconnections",
+              "(B) A high subscription charge",
+              "(C) Low speeds on the Internet",
+              "(D) A long wait for repairs"
+            ]
+          },
+          "answer": {
+            "text": "(D) A long wait for repairs",
+            "explanation": "Information in the sentence: \"More and more of them are being asked to wait a week or longer for service from a repair crew.\""
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c8eccc8cae769c2df1"
+    },
+    {
+      "question": {
+        "text": "@PS@kstoeic/images/8137316_1484793077701.png@PE@",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is being announced?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Job opportunities in sales",
+              "(B) Expanded store hours",
+              "(C) The relocation of a furniture store",
+              "(D) Events to celebrate new stores"
+            ]
+          },
+          "answer": {
+            "text": "(D) Events to celebrate new stores",
+            "explanation": "Information in the sentence: \"We are pleased to announce the opening of two additional Murata stores.\""
+          }
+        },
+        {
+          "question": {
+            "text": "Why are readers asked to call Murata Furniture?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To receive a discount",
+              "(B) To make an appointment",
+              "(C) To enter a contest",
+              "(D) To order a product"
+            ]
+          },
+          "answer": {
+            "text": "(B) To make an appointment",
+            "explanation": "Information in the sentence: \"To arrange a meeting with a member of our sales staff, please call in advance\""
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c9eccc8cae769c2ece"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Attention All Manning & Murdoch Employees</h4>The staff kitchen will be closed from August 15 to August 19. During this period, the kitchen will be painted and a new dishwasher and refrigerator will be installed. Please do not enter the kitchen during this time for any reason, including to make tea or coffee. A temporary beverage station will be set up for your use in the office foyer. Thank you for your cooperation.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the notice?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To advertise the opening of a company cafe",
+              "(B) To ask employees to keep the kitchen clean",
+              "(C) To notify employees about upcoming renovations",
+              "(D) To announce that a building will be closed temporarily"
+            ]
+          },
+          "answer": {
+            "text": "(C) To notify employees about upcoming renovations",
+            "explanation": "Sign: \"During this period, <b>the kitchen will be painted and a new dishwasher and refrigerator will be installed</b>.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What will be available in the office foyer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A catered lunch",
+              "(B) A sign-up sheet",
+              "(C) Snacks for purchase",
+              "(D) Tea and coffee"
+            ]
+          },
+          "answer": {
+            "text": "(D) Tea and coffee",
+            "explanation": "Sign: \"A temporary <b>beverage</b> station will be set up for your use in the office foyer.\""
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c6eccc8cae769c2d3d"
+    },
+    {
+      "question": {
+        "text": "<p align=\"center\"><strong>Shopping Local</strong></p> <p style=\"text-align: center;\"><strong>Seattle Business District Association</strong></p> <p><br /> Did you know?<br /> <b>&bull; Shopping local puts twice as much revenue into the economy than using chain retailers.<br /> &bull; Shopping local supports the city of Seattle through local taxes.<br /> &bull; Shopping local helps the environment. It saves gas and causes less air pollution.<br /> &bull; Shopping local creates more jobs in Seattle and improves living standards in the community.</b><br /> <br /> We would like to encourage all residents of Seattle to support their local communities by shopping at traditional local stores and markets.<br /> <br /> To find out more and learn about all the great shops and services available to local residents, visit the website of the Seattle Business District Association atwww.sbda.org.</p> <p>&nbsp;</p>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the flyer?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To promote sustainable living",
+              "(B) To notify shoppers about a sale",
+              "(C) To announce a new business opening",
+              "(D) To influence shopping patterns"
+            ]
+          },
+          "answer": {
+            "text": "(D) To influence shopping patterns",
+            "explanation": "The information is in: <i>\"Did you know?\n• Shopping local puts twice as much revenue into the economy than using chain retailers.\n• Shopping local supports the city of Seattle through local taxes.\n• Shopping local helps the environment. It saves gas and causes less air pollution.\n• Shopping local creates more jobs in Seattle and improves living standards in the community.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as a benefit of shopping local?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It facilitates a job market.",
+              "(B) It is environmentally friendly.",
+              "(C) It supports the local economy.",
+              "(D) It encourages foreign investments"
+            ]
+          },
+          "answer": {
+            "text": "(D) It encourages foreign investments",
+            "explanation": "(A) - Shopping local creates more jobs in Seattle and improves living standards in the community.<br>(B) - Shopping local helps the environment. It saves gas and causes less air pollution.<br>(C) - Shopping local puts twice as much revenue into the economy than using chain retailers."
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c0eccc8cae769c2a6c"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\"> Re-Fit Closing Stores </h4> February 9-Nemway Group has announced that 80 Re-Fit stores will be closing down around the country in the next six months with 100 more to follow within the year. - [1] - However, the last ten years has seen a steady decline in sales as consumers turned to other clothing retailers such as Zanas and HRM. - [2] - \"I don’t know, I just found the clothing to be outdated,” says a former customer. “They should have updated the styles and offered non-sporty options.”<br> CEO Derrick Greenwich agrees, “We focused so much on particular styles of sportswear that we lost sight of the changing tastes of consumers. We’re working on restructuring the company and offering consumers what they want. We’ll come back bigger than ever.” - [3] -<br> An internal review of the losses will continue to be conducted as nervous shareholders consider their next moves. - [4] - Nemway is hoping that a good portion of the Re-Fit stores will remain in operation as the company struggles to reinvent the brand.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "The phrase “lost sight of” in the second paragraph is closest in meaning to:",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Restricted",
+              "(B) Were not blinded by",
+              "(C) Ignored",
+              "(D) Selected"
+            ]
+          },
+          "answer": {
+            "text": "(C) Ignored",
+            "explanation": "\"lose sight of\" means \"not to see, not to notice\", so it means most with \"ignore\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the Re-Fit brand? 157. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? <br> “The clothing store, best known for its affordable but trendy sportswear, was very popular in the 90’s and early 2000’s.”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(A) [1]",
+            "explanation": "This sentence is referring to the past by Re-Fit, so it could be inferred that it should be at the beginning, close to the saying that it's less popular right now."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about the Re-Fit brand?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Its popularity has dropped dramatically.",
+              "(B) It specializes in sports gear.",
+              "(C) The CEO is renaming the company.",
+              "(D) The brand has a 100-year history."
+            ]
+          },
+          "answer": {
+            "text": "(A) Its popularity has dropped dramatically.",
+            "explanation": "Information in the sentence “However, the last ten years has seen a steady decline in sales”"
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441d8eccc8cae769c4288"
+    },
+    {
+      "question": {
+        "text": "<h3 align = \"center\"> Announcement from Acreton City Council </h3><p align = \"right\"> April 3</p> Acreton City Council will be creating a new task force charged with reducing unnecessary spending over the next fiscal year. The team of twelve people will be comprised of local business leaders, union representatives, civil servants, and financial consultants. Group members are due to be selected by the end of this month and will begin work almost immediately the following month planning ways to reduce annual local government costs by 10% over the next year by eliminating waste.<br>Applications for a position are being accepted at this time. Please contact the city council at admin@acretoncc.gov for any information about getting yourself or your organization involved in the project.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the announcement mainly about?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The formation of a new employment union",
+              "(B) The creation of a financial oversight committee",
+              "(C) The launch of a recruitment effort",
+              "(D) The start of a change in local legislation"
+            ]
+          },
+          "answer": {
+            "text": "(B) The creation of a financial oversight committee",
+            "explanation": "The information iss in: <i>\"Acreton City Council will be creating a new task force charged with reducing unnecessary spending over the next fiscal year. The team of twelve people will be comprised of local business leaders, union representatives, civil servants, and financial consultants,\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "When is the group due to begin work?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) At the beginning of May",
+              "(B) At the end of the year",
+              "(C) At the beginning of the summer",
+              "(D) At the end of this month"
+            ]
+          },
+          "answer": {
+            "text": "(A) At the beginning of May",
+            "explanation": "It can be inferred from: <i>\"Group members are due to be selected by the end of this month and will begin work almost immediately the following month..\" that the following month is May."
+          }
+        },
+        {
+          "question": {
+            "text": "What should interested parties do to get involved?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Sign a petition",
+              "(B) Attend a meeting",
+              "(C) Send an e-mail",
+              "(D) Fill out a form"
+            ]
+          },
+          "answer": {
+            "text": "(C) Send an e-mail",
+            "explanation": "The information iss in: <i>\"Please contact the city council at admin@acretoncc.gov for any information about getting yourself or your organization involved in the project.\"</i>"
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c0eccc8cae769c2ac6"
+    },
+    {
+      "question": {
+        "text": "<h3>Lo Wai Books</h3><i>Hong Kong’s largest provider<br>of books in English</i><br><br> <p align =\"center\">Shipping for International Orders </p>We accept orders from overseas. To purchase products from Lo Wai Books, please use the online order form. After an order has been placed, you may print the form as a record itemizing the products and quantities purchased, prices, and an estimated shipping date. <br><br> Because each region of the world requires different shipping rates, the shipping charges will be calculated separately. Please note that any extra charges resulting from shipping rates in individual regions will be listed in an e-mail sent to you once your order has been processed. Online orders take up to three days to process. <br><br> Although Lo Wai Books offers shipping by sea for large orders, we prefer to send overseas orders by air. Please select ‘‘International Orders: Air Freight” to have your order shipped by air. Please note that methods other than air freight can delay your order by as much as three months.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is NOT included on the order form?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Prices of individual products",
+              "(B)Overseas shipping charges",
+              "(C)An approximate shipping date",
+              "(D)The quantities of ordered items"
+            ]
+          },
+          "answer": {
+            "text": "(B)Overseas shipping charges",
+            "explanation": "Information in the sentence: \"After an order has been placed, you may print the form as a record itemizing the products and quantities purchased, prices, and an estimated shipping date.\" => Eliminate A, C & D"
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated about online orders?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)They are processed in three days or less",
+              "(B)They should be confirmed by the buyer in an e-mail message.",
+              "(C)They are preferred in the case of large orders.",
+              "(D)They allow the buyer a lower shipping rate."
+            ]
+          },
+          "answer": {
+            "text": "(A)They are processed in three days or less",
+            "explanation": "Information in the sentence: \"Online orders take up to three days to process.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What does the company recommend that customers do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Review shipping charges on the company Web site",
+              "(B)Request that orders be shipped by air",
+              "(C)Expect delays in all international shipments",
+              "(D)Watch for special discount offers"
+            ]
+          },
+          "answer": {
+            "text": "(B)Request that orders be shipped by air",
+            "explanation": "The information in the sentence: \"Although Lo Wai Books offers shipping by sea for large orders, we prefer to send overseas orders by air.\""
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c6eccc8cae769c2ca1"
+    },
+    {
+      "question": {
+        "text": "<p align =\"center\"> <b> Crockett Center for Community Dewetopment </b> <br>28 Freeney Avenue <br> Austin, TX 73301</p> <br> <br>May 16 <br><br> Dathan Shaw, Urban Outreach Director <br> Integral Harvest <br> 184 Van Buren Street <br> Denver, CO 80210 <br><br>Dear Mr. Shaw: <br><br>I enjoyed our meeting last week. I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crocket Center working with Integral Harvest. <br><br>As you know, the Crockett Center has recently turned its attention to urban gardening. On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them. Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents. If you will let me know your representatives' availability for teaching the classes and also the range of topics they will cover, I can prepare a class schedule and generate interest in it among residents. My assistant, Cindy Reed, will call you shortly for this information. <br><br>As for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule. <br><br>I am sure that, if our two organizations work together, we can do much to promote urban gardening as a rewarding and healthful endeavor. <br><br>Yours sincerely, <br><br>Letitia Price, Executive Director<br>Crockett Center for Community Development",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To arrange a joint project between two organizations",
+              "(B)To inquire about future job openings",
+              "(C)To provide a schedule of gardening classes",
+              "(D)To finalize a merger of two organizations"
+            ]
+          },
+          "answer": {
+            "text": "(A)To arrange a joint project between two organizations",
+            "explanation": "Based on the information given in: <i>\"I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crocket Center working with Integral Harvest.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What is stated as one of the Crockett Center's goals?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To find gardens located outside Austin",
+              "(B)To increase attendance at gardening club meetings",
+              "(C)To establish new community gardens",
+              "(D)To sell produce at neighborhood markets"
+            ]
+          },
+          "answer": {
+            "text": "(C)To establish new community gardens",
+            "explanation": "The information is in: <i>\"On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "What subject was most likely discussed when Mr. Shaw and Ms. Price met?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Integral Harvest's reputation among gardeners",
+              "(B)Attitudes toward all-natural agriculture",
+              "(C)A government proposal to build new schools",
+              "(D)Gardening classes for Austin residents"
+            ]
+          },
+          "answer": {
+            "text": "(D)Gardening classes for Austin residents",
+            "explanation": "The information can be inferred from: <i>\"Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents.\"</i>"
+          }
+        },
+        {
+          "question": {
+            "text": "Why will Ms. Reed contact Mr. Shaw?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)To give him contact information for school administrators",
+              "(B)To postpone a meeting until the following week",
+              "(C)To determine the availability of instructors",
+              "(D)To ask him about a new gardening method"
+            ]
+          },
+          "answer": {
+            "text": "(C)To determine the availability of instructors",
+            "explanation": "The information can be inferred from: <i>\"As for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule.\"</i>"
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c2eccc8cae769c2b23"
+    },
+    {
+      "question": {
+        "text": "<h3 style=\"text-align: center;\"> Tips for Your Photographs </h3> <br>Maintaining the quality and integrity of photographs is important because photographs are our visual record of the past. By following a few important guidelines, you can ensure that your photographs last a lifetime. <br><br>If photographs are to be displayed, make sure they are placed in frames that have ultraviolet-resistant glass. Exposure to the Sun’s ultraviolet rays can cause colors to fade and can cause black-and-white photographs to turn yellow. In addition, they should be placed in frames that allow space between the glass and the top surface of the photograph. The surface of the photograph can deteriorate if it is in constant contact with glass. <br><br>When storing photographs in albums, make sure the albums contain acid-free paper. Colored paper or magnetic pages should never be used. To store photographs in boxes, use boxes made of metal or acid-free cardboard. Store albums and boxes in a dry environment, as humidity can quickly destroy photographs. <br><br>Finally, be careful when <u>handling</u> photographs, especially historic ones. If you must touch a photograph, your hands should be clean. Skin naturally produces oil, which can be harmful to photographs. You should pick up photographs only by the edges  and should wear clean cotton gloves.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What does the information mainly discuss?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Submitting photographs for a competition",
+              "(B)Displaying photographs",
+              "(C)  Restoring damaged photographs",
+              "(D) Preserving photographs"
+            ]
+          },
+          "answer": {
+            "text": "(D) Preserving photographs",
+            "explanation": "Information can be inferred from: \"Maintaining the quality and integrity of photographs is important because photographs are our visual record of the past.\""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the information, what should be avoided?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)Stacking old photographs in boxes",
+              "(B)Developing photographs outdoors",
+              "(C)Mounting photographs on acid-free paper",
+              "(D)Placing glass directly on a photograph"
+            ]
+          },
+          "answer": {
+            "text": "(D)Placing glass directly on a photograph",
+            "explanation": "Information in the sentence: \"The surface of the photograph can deteriorate if it is in constant contact with glass.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as being harmful to photographs?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)The sun",
+              "(B)Metal frames",
+              "(C)Colored paper",
+              "(D)Humidity"
+            ]
+          },
+          "answer": {
+            "text": "(B)Metal frames",
+            "explanation": "Exposure to the Sun’s ultraviolet rays can cause colors to fade and can cause black-and-white photographs to turn yellow. => Eliminate A<br>Colored paper or magnetic pages should never be used. => Eliminate C <br>Store albums and boxes in a dry environment, as humidity can quickly destroy photographs. => Eliminate D\n"
+          }
+        },
+        {
+          "question": {
+            "text": "The word \"handling\" is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A)managing",
+              "(B)examining",
+              "(C)touching",
+              "(D)producing"
+            ]
+          },
+          "answer": {
+            "text": "(C)touching",
+            "explanation": "Based on the meaning to choose the correct answer"
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441c8eccc8cae769c2e59"
+    },
+    {
+      "question": {
+        "text": "As I'm sure you're aware, this week we must decide if we want to continue working with cc Wheel Delivery. After yesterday's meeting, it's clear that they are being sued for the accident that happened last week. - [1] - We all agreed that the whole company shouldn't be liable for the mistakes of a few careless workers. But, that was a conversation we had before we had really thought about the ramifications of our decision. - [2] - Unfortunately, the situation is escalating and there is about to be a lot of bad press. - [3] - It's true that many of them are our friends. But, we must protect our company. We can't handle anything that could alter our sales. For the last four months, we've been operating with a very thin margin for error. If our sales drop even the slightest, it could be detrimental. So, I'm suggesting that, as a means of protecting ourselves from any negative backlash, we cut our ties with cc Wheel Delivery. Maybe later, if they're able to rehabilitate their name, we'll work with them again. - [4] - I propose we vote one more time on whether or not to work with them.",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is indicated about the company that the speaker works for?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It is financially insecure.",
+              "(B) It has recently been created.",
+              "(C) It will be closing.",
+              "(D) It is a delivery company."
+            ]
+          },
+          "answer": {
+            "text": "(A) It is financially insecure.",
+            "explanation": "Information lies in two sentences “For the last four months, we've been operating with a very thin margin for error. If our sales drop even the slightest, it could be detrimental"
+          }
+        },
+        {
+          "question": {
+            "text": "In which of the marked positions [1], [2], [3], or [4] does this sentence best belong? <br> “Yes, we’ve worked with them for a long time”",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) [1]",
+              "(B) [2]",
+              "(C) [3]",
+              "(D) [4]"
+            ]
+          },
+          "answer": {
+            "text": "(C) [3]",
+            "explanation": "\"Yes, we have been working with them for a long time\" <br> We see the sentence after position [3] has the same content as \"It's true that many of them are our friends\" ( It is true that a lot of them are our friends). <br> So, these 2 sentences are giving objective information about the relationship between the two companies, but then conclude that it is still necessary to stop cooperating."
+          }
+        },
+        {
+          "question": {
+            "text": "Why does the man wish to stop working with cc Wheel Delivery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To protect his company from financial damage",
+              "(B) To cut production costs over the next four months",
+              "(C) To lower the price of an individual product",
+              "(D) To avoid legal trouble in the future"
+            ]
+          },
+          "answer": {
+            "text": "(A) To protect his company from financial damage",
+            "explanation": "Information lies in the sentence “So, I'm suggesting that, as a means of protecting ourselves from any negative backlash, we cut our ties with CC Wheel Delivery"
+          }
+        },
+        {
+          "question": {
+            "text": "What is true about cc Wheel Delivery?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) A contract of theirs has just been canceled.",
+              "(B) Legal action is being taken against them.",
+              "(C) The president of cc Wheel Delivery has stepped down.",
+              "(D) Two of their trucks were in an accident."
+            ]
+          },
+          "answer": {
+            "text": "(B) Legal action is being taken against them.",
+            "explanation": "Can be inferred from 2nd sentence “they are being sued for the accident that happened last week”"
+          }
+        }
+      ],
+      "isSinglePara": true,
+      "id": "626441d5eccc8cae769c3d92"
+    },
+    {
+      "question": {
+        "text": "May 12<br />\r\nDear Mr. Gray,<br />\r\nYou are a long-time member of the Georgian Society of Architects (GSA). We would like to inform you that we are adding some changes to the services provided to members this year. Specifically, we will be adding a new Gold Class level membership that will give privileged members access to more resources than ever before. We are excited to tell you that you meet all of the qualifications for this special membership offer and may sign up immediately. You should be receiving a brochure in the mail soon that will provide more information. We hope that you decide to join this amazing Gold Class membership.<br />\r\nAs you know, the GSA&rsquo;s annual members&rsquo; conference will be held on June 14 at the Stargate Conference Center in Atlanta, Georgia. We noticed you have already registered your attendance. We can&rsquo;t wait to see you there. If you need any further assistance making arrangements, don&rsquo;t hesitate to call our offices at (124) 555-5251.<br />\r\n<br />\r\nYours truly,<br />\r\nJoan ROSS<br />\r\nGeorgian Society of Architects<br />\r\n<br />\r\n=========================<br />\r\n&nbsp;\r\n<h3 align=\"center\"><strong>Georgian Society of Architects</strong></h3>\r\n&nbsp;\r\n\r\n<h4 align=\"center\">GOLD CLASS MEMBERSHIP</h4>\r\n<br />\r\n<br />\r\nIn order to quality for this special membership, applicants must have at least 20 years of experience in the field as well as hold a degree in architecture from an accredited university.<br />\r\nBenefits include: instantly expand your contacts through access to our database of over 50,000 practicing colleague, pay half the regular price when registering for conferences hosted by GSA, and receive our monthly newsletter, which contains the latest market research and economic analysis to help your business.<br />\r\nGold Class members will also be eligible to apply for professional liability insurance coverage offered exclusively to our Gold Class members.<br />\r\nTo apply, simply fill out the form attached to this brochure and mail it to our headquarters. The $40.00 application fee can either be paid by check or credit card by calling our accountant at (124) 555-5253.<br />\r\n<br />\r\n============================<br />\r\n&nbsp;\r\n<h3 align=\"center\">STARGATE CONVENTION CENTER SCHEDULE OF EVENTS</h3>\r\n\r\n<h4 align=\"center\">JUNE 14</h4>\r\n\r\n<h4 align=\"center\">GEORGIAN SOCIETY OF ARCHITECTS</h4>\r\n&nbsp;\r\n\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 236px; text-align: center;\">9:00 A.M - 9:45 A.M</td>\r\n\t\t\t<td style=\"width: 365px; text-align: center;\">Sign at the desk in the lobby</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 236px; text-align: center;\">9:00 A.M - 9:45 A.M</td>\r\n\t\t\t<td style=\"width: 365px; text-align: center;\">Guest Speaker Jerry Jenkins Jr. in Conference Room A</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 236px; text-align: center;\">12:00 P.M.-1:30 P.M</td>\r\n\t\t\t<td style=\"width: 365px; text-align: center;\">Lunch in the Diamond Room</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 236px; text-align: center;\">2:00 P.M.-4:00 P.M.</td>\r\n\t\t\t<td style=\"width: 365px; text-align: center;\">Regional Presentations in Conference Room A</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 236px; text-align: center;\">6:00 P.M.-9:00 P.M.</td>\r\n\t\t\t<td style=\"width: 365px; text-align: center;\">Dinner and cocktails in the Sapphire Lounge</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<div style=\"text-align: center;\"><br />\r\n<em>Please remember to bring your Society ID to ensure a smooth registration for the day&#39;s events!</em></div>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the letter?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To publicize a conference",
+              "(B) To advertise a new membership",
+              "(C) To confirm an appointment",
+              "(D) To attract a new member"
+            ]
+          },
+          "answer": {
+            "text": "(B) To advertise a new membership",
+            "explanation": "- The first paragraph:\r\n\r\n\"You are a long-time member of the Georgian Society of Architects (GSA). We would like to inform you that we are adding some changes to the services provided to members this year. Specifically, we will be adding a new Gold Class level membership that will give privileged members access to more resources than ever before.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What is Mr. Gray encouraged to do?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Register for a conference",
+              "(B) Reschedule an appointment",
+              "(C) Upgrade his service",
+              "(D) Pay by credit card"
+            ]
+          },
+          "answer": {
+            "text": "(C) Upgrade his service",
+            "explanation": "- Combine skimming the whole letter => the information in 3 answers A, B & D is not mentioned => answer C is most suitable"
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Mr. Gray?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has worked as an architect for over two decades.",
+              "(B) He spoke at last year’s GSA members’ conference.",
+              "(C) He contributes to an architecture journal.",
+              "(D) He forgot to pay his membership fee in April."
+            ]
+          },
+          "answer": {
+            "text": "(A) He has worked as an architect for over two decades.",
+            "explanation": "- The first line of the brochure :\r\n\r\n\"In order to qualify for this special membership, you must have at least 20 years of experience in the field as well as hold a degree in architecture from an accredited university.\""
+          }
+        },
+        {
+          "question": {
+            "text": "What time should Mr. Gray sign in on the day of the conference?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) 8:45 A.M.-10:00 A.M.",
+              "(B) 9:00 A.M. exactly",
+              "(C) Anytime",
+              "(D) 9:00 A.M.-9:45 A.M."
+            ]
+          },
+          "answer": {
+            "text": "(D) 9:00 A.M.-9:45 A.M.",
+            "explanation": "- The first item information:\r\n\r\n9:00 AM - 9:45 AM: Sign-in at the desk in the lobby => Select answer D"
+          }
+        },
+        {
+          "question": {
+            "text": "How many meals are included in the event?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Breakfast, lunch, and dinner",
+              "(B) Brunch and dinner",
+              "(C) Dinner and cocktails",
+              "(D) Lunch and dinner"
+            ]
+          },
+          "answer": {
+            "text": "(D) Lunch and dinner",
+            "explanation": "<p><font><font>- Information about meals in the itinerary:</font></font></p>\r\n\r\n<p><font><font>+ Lunch in the Diamond Room&nbsp;</font></font></p>\r\n\r\n<p><font><font>+ Dinner and cocktails in the Sapphire Lounge&nbsp;</font></font><br />\r\n<font><font>&nbsp;</font></font><font><font>=&gt; choose answer D is the most suitable</font></font></p>"
+          }
+        }
+      ],
+      "isSinglePara": false,
+      "id": "626441d3eccc8cae769c396a"
+    },
+    {
+      "question": {
+        "text": "To: Aaron Donald <adonald@acemail.com><br />\r\nFrom: James Holt <holtrain@zipnet.net><br />\r\nDate: Jan. 12<br />\r\nSubject:First Quarter Performance Review<br />\r\n<br />\r\nDear Aaron,<br />\r\n<br />\r\nI just wanted to give you a heads-up that the performance evaluations are going to be going forward as discussed. I know this was an area of stress for you in the fourth quarter of last year, so I wanted to give you plenty of advanced warning. You will need to bring your numbers up significantly if you want to pass the review. As you know, we have been struggling to make our sales goals over the past several years, and I am afraid Mr. Jones is determined to trim the staff if things don&#39;t change. I have far exceeded my target numbers, so I have included an attachment with some possible leads for sales. Give them a shot.<br />\r\n<br />\r\nGood luck,<br />\r\nJames<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nTo: James Holt <holtrain@zipnet.net><br />\r\nFrom: Aaron Donald <adonald@acemail.com><br />\r\nDate: Jan. 12<br />\r\nSubject: First Quarter Performance Review<br />\r\n<br />\r\nJames,<br />\r\n<br />\r\nThank you so much for the leads. I will get on them right away. I don&#39;t know why my sales are slumping so much lately in the technologies division. It seems like every sales technique 1 learned in school isn&#39;t working anymore. I am thinking about changing industries if I don&#39;t pass our review when it comes out in March. My sister is opening a beauty parlor and she was asking me to become a barber. Imagine that! Anyway, thank you again for the notice about the possible layoffs coming up. I will try to get my numbers up to standards, but I think that Mr. Jones may have already decided to let me go.<br />\r\n<br />\r\nAll the best,<br />\r\nAaron<br />\r\n<br />\r\n===========================<br />\r\n&nbsp;\r\n<div style=\"text-align: center;\"><strong>Possible Sales Leads for January</strong></div>\r\n\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\" >\r\n\t<tbody>\r\n\t\t<tr bgcolor=\"lavender\">\r\n\t\t\t<td align=\"center\"><b>Name </b></td>\r\n\t\t\t<td align=\"center\"><b>Division </b></td>\r\n\t\t\t<td align=\"center\"><b>Account Potential </b></td>\r\n\t\t\t<td align=\"center\"><b>Rating </b></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Sally Jones</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$35,000-$50,000</td>\r\n\t\t\t<td align=\"center\">Silver</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Bod Knuddle</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$100,000 and up</td>\r\n\t\t\t<td align=\"center\">Gold</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td align=\"center\">Marquise Lee</td>\r\n\t\t\t<td>Technologies</td>\r\n\t\t\t<td align=\"center\">$12,000-$20,000</td>\r\n\t\t\t<td align=\"center\">Bronze/Silver</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</adonald@acemail.com></holtrain@zipnet.net></holtrain@zipnet.net></adonald@acemail.com>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is most likely true about James and Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are competitors.",
+              "(B) They are related.",
+              "(C) They are married.",
+              "(D) They are friends."
+            ]
+          },
+          "answer": {
+            "text": "(D) They are friends.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the job that Mr. Jones most likely has?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Human resources agent",
+              "(B) Sales executive",
+              "(C) Owner",
+              "(D) Associate secretary"
+            ]
+          },
+          "answer": {
+            "text": "(C) Owner",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "According to the information provided, what is true about James?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He has done very well at work.",
+              "(B) He needs more sales.",
+              "(C) He wants to work with Aaron.",
+              "(D) He will become a barber."
+            ]
+          },
+          "answer": {
+            "text": "(A) He has done very well at work.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) He is not very good at his job these days.",
+              "(B) The owner loves him.",
+              "(C) There are problems in the main office.",
+              "(D)  He will keep his job after the evaluations come in."
+            ]
+          },
+          "answer": {
+            "text": "(A) He is not very good at his job these days.",
+            "explanation": ""
+          }
+        },
+        {
+          "question": {
+            "text": "What is the problem with the sales leads James gave to Aaron?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are rated too highly.",
+              "(B) They are worth too much money.",
+              "(C) Aaron doesn’t know the contacts.",
+              "(D) They are in a field Aaron is struggling in."
+            ]
+          },
+          "answer": {
+            "text": "(D) They are in a field Aaron is struggling in.",
+            "explanation": ""
+          }
+        }
+      ],
+      "isSinglePara": false,
+      "id": "626441d8eccc8cae769c4370"
+    },
+    {
+      "question": {
+        "text": "<div style=\"text-align: center;\"><strong>Stark Bank</strong>\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:160px;\"><u><strong>Announcements</strong></u></td>\r\n\t\t\t<td style=\"width:160px;\">My Accounts</td>\r\n\t\t\t<td style=\"width:160px;\">Transfer</td>\r\n\t\t\t<td style=\"width:160px;\">Loan</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<br />\r\n&nbsp;</div>\r\n\r\n<div style=\"text-align: center;\">\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:638px;\"><strong>Overdraft Fee</strong>\r\n\r\n\t\t\t<div style=\"text-align: left;\">On the date of June 3, you withdrew $100.00 from an ATM in Jacksonville, Florida, exceeding the limit of your debit card account. Therefore, you will be charged an overdraft fee of $30.00. This may have resulted from an accumulation of account withdrawals that were in process at the time you withdrew money from the ATM. We regret to have to make this charge whenever a member&rsquo;s debit card transactions exceed his or her funds.<br />\r\n\t\t\tIn the future, this mistake can be avoided by signing up for our stark Bank mobile banking service. This service only costs $2 a month. Using your smartphone, you can access your accounts no matter where you are. You can check the amount of money in your accounts, your history of deposits and withdrawals, and most importantly, pending transactions. To sign up, please e-mail US at customerservice@starkbank.com or call us at 904-555-4514.</div>\r\n\t\t\t&nbsp;</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nTo:Customer Service - customerservice@starkbank.com&gt;<br -=\"\" from:suzie=\"\" ssummers=\"\" summers=\"\" />\r\n<br fee=\"\" overdraft=\"\" subject:=\"\" />\r\nDate:June 5<br />\r\n<br />\r\nI am concerned that someone may have illegally accessed my account and made a withdrawal. I lost my debit card on June 2, and upon noticing the next day, I immediately froze all of my accounts. Considering these unfortunate circumstances, I politely ask that the bank refrain from charging the fee for this unforeseen overdraft.<br />\r\nI would like to sign up for the banking service you recommended. It sounds like a useful service that can help me manage my finances in a more efficient manner.<br />\r\nThank you for your assistance.<br />\r\nSuzie Summers<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\nTo: Suzie Summers - ssummers@zippynet.com<br -=\"\" customer=\"\" customerservice=\"\" from:=\"\" service=\"\" />\r\nDate:June 6<br />\r\nDear Ms. Summers,<br />\r\n<br />\r\nI am sorry to hear of your misfortunes. According to our account data, we see that you did contact us and freeze your accounts, though it looks like it was too late to prevent the withdrawal and subsequent overdraft of your account. It is a little bit unusual that the transaction that caused the overdraft was at an ATM machine a day after you say that you lost your card. Have you given your access pin to anybody recently? I would be happy to pass your request for overdraft relief on to our fraud department, but you will need to file a police report and then send us the case number that the investigating officer gives you. Once we receive this number, we can proceed with our review of your case.<br />\r\nThank you and good day,<br />\r\n<br />\r\nLaura Massey,<br />\r\nCustomer Service Specialist, Stark Bank /customerservice@starkbank.com / ssummers@zippynet.com / ssummers@zippynet.com / customerservice@starkbank.com",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "MEDIUM",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "What is the purpose of the web page information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To announce a new company policy",
+              "(B) To explain an upcoming relocation",
+              "(C) To inform a user about a charge",
+              "(D) To notify a user of phishing attempts"
+            ]
+          },
+          "answer": {
+            "text": "(C) To inform a user about a charge",
+            "explanation": "Appearing right at the first part, the second sentence: \"             \r\n\r\nTherefore, you will be charged an overdraft fee of $ 30.00 ”"
+          }
+        },
+        {
+          "question": {
+            "text": "What is NOT mentioned as being checked using the mobile banking service?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Account balances",
+              "(B) Interest rates",
+              "(C) Unresolved transactions",
+              "(D) Account history"
+            ]
+          },
+          "answer": {
+            "text": "(B) Interest rates",
+            "explanation": "The second paragraph in the information section “Using your phone, ... you can check the amount of money in your accounts, your history of deposits and withdrawals, and most importantly, pending transactions"
+          }
+        },
+        {
+          "question": {
+            "text": "What request does Ms. Summers make?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) That her accounts be frozen",
+              "(B) That her contact information be updated",
+              "(C) That her extra fee be waived",
+              "(D) That her withdrawal limit be increased"
+            ]
+          },
+          "answer": {
+            "text": "(C) That her extra fee be waived",
+            "explanation": "Summers' email \"I politely ask that the bank refrain from charging the fee for this unforeseen overdraft. ”"
+          }
+        },
+        {
+          "question": {
+            "text": "In the customer service’s e-mail to Suzie Summers, what does Laura Massey think is odd about Suzie’s story?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Suzie didn’t have very much money in her account.",
+              "(B) Suzie didn’t file a police report.",
+              "(C) Suzie lost her wallet on June 2 but her card was used at an ATM machine on June 3.",
+              "(D) Suzie does not live in Florida."
+            ]
+          },
+          "answer": {
+            "text": "(C) Suzie lost her wallet on June 2 but her card was used at an ATM machine on June 3.",
+            "explanation": "“It is a little bit unusual that the transaction that caused the overdraft was at an ATM machine a day after you say that you lost your card”"
+          }
+        },
+        {
+          "question": {
+            "text": "What does Laura Massey instruct Suzie Summers to do if she wants to get relief from the overdraft fee?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Write to the fraud department of stark Bank",
+              "(B) File a police report and give the case number to stark Bank",
+              "(C) File a claim against the criminals in the court and give the court number to stark Bank",
+              "(D) File a case number with the fraud department of stark Bank"
+            ]
+          },
+          "answer": {
+            "text": "(B) File a police report and give the case number to stark Bank",
+            "explanation": "“.. You will need to file a police report and then send us the case number that the investigating officer gives you”"
+          }
+        }
+      ],
+      "isSinglePara": false,
+      "id": "626441d2eccc8cae769c35fa"
+    },
+    {
+      "question": {
+        "text": "<h4 align =\"center\">Red Rock Leather Goods</h4> Thank you for purchasing a leather product from Red Rock Leather Goods. We manufacture all of our products to meet the highest quality standards and pride ourselves on excellent customer service. All of our products are individually and meticulously made by skillful craftsmen. We offer a lifetime guarantee that covers all defects in craftsmanship except normal wear and tear. We will repair or replace any pieces due to our fault for as long as you own your Red Rock product. <br><br> If your Red Rock product is not under warranty, we offer repairs at the following rates: <br> <table align =\"center\" border=1 cellspacing=1 cellpadding=1  style=border-collapse:collapse ><tr><td> </td> <td align =\"center\"><b>  Wallets </b> </td><td align =\"center\"> <b> Handbags</td> <td align =\"center\"> <b>Jackets </td></tr><tr><td align =\"center\"> Missing button repair </b> </td><td align =\"center\">  $10 </td><td align =\"center\"> $15 </td> <td align =\"center\"> $20</td></tr></tr><tr><td align =\"center\"> Zipper repair replacement</td><td align =\"center\"> $20 </td><td align =\"center\"> $30</td> <td align =\"center\"> $40</td> </tr><tr><td align =\"center\"> Seam repair and stitching </td><td align =\"center\"> $40</td><td align =\"center\"> $50  </td> <td align =\"center\"> $60</td></tr> </table><br> The warranty is non-transferable and covers only the original purchaser. Additionally, the sales receipt is necessary to validate your warranty and receive service. This warranty does not apply to products purchased from second-hand stores or unauthorized dealers. <br><br> ==============================<br><br><h4 align =\"center\" > Red Rock Leather Goods</h4><p align =\"center\" > <b>Repair Request Form </b></p>Name: Melisa Perkins <br>Date: February 28<br>Address: 458 Center Circle Drive, Chicago, IL<br>Product: Coco TX Handbag<br><br>Description of repairs to be made: <br><i> I bought this item last year from a Red Rock Leather Goods store in Chicago, IL. However, after just six months, fine zipper became jammed and no longer opens or doses. Because this is a manufacturing defect, Ĩ assume it will be covered by the warranty. I have been a regular customer of Fed Rock Leather Goods for 12 years, and this is the first time I have had a problem. </i><br><br>I have read and agree to all the terms concerning returns and repairs. I certify that this product was purchased at an official Red Rock Leather Goods store and that I am the original purchaser of this product. <br>Signature: Melisa Perkins<br>Date: February 28<br><br>Note: It may take some time for your product to be returned to you. If you have any questions, please call US at 812-555-8541. <br><br>===========================<br><br> Dear Melisa Perkins, <br>Thank you for submitting your request for repairs to your Red Rock Leather Goods Coco TX Handbag. We have received and inspected your item and documents and concluded that it falls within our warranty. It is scheduled to go in for repair this coming week. Once it has been returned to working order, we will express mail it to the address you provided in your Repair Request Form. I would like to thank you on behalf of Red Rock Leather Goods for your 12 years of patronage and apologize for any inconvenience the failure of your Coco TX Handbag has caused you. <br><br>Sincerely, <br>Cheryl Timmins<br>Customer Service Specialist<br>Red Rock Leather Goods<br>",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "DIFFICULT",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "In the letter to Melisa Perkins, the word “patronage” in line 7 is closest in meaning to",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Marketing",
+              "(B) Support",
+              "(C) Competition",
+              "(D) Investment"
+            ]
+          },
+          "answer": {
+            "text": "(B) Support",
+            "explanation": "Based on meaning to choose the correct answer"
+          }
+        },
+        {
+          "question": {
+            "text": "Why did Ms. Perkins fill out a form?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To receive a cash refund on a product",
+              "(B) To report a defective item",
+              "(C) To file a customer service complaint",
+              "(D) To extend a warranty contract"
+            ]
+          },
+          "answer": {
+            "text": "(B) To report a defective item",
+            "explanation": "We can see right from the title of the \"Repair Request Form\", \"Repair Request Form\". Therefore Ms. Perkin Filling is able to report the most defective product."
+          }
+        },
+        {
+          "question": {
+            "text": "What can you infer from the letter to Melisa Perkins approving her request for warranty coverage?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) It was a manufacturing defect.",
+              "(B) Red Rock Leather Goods is a quality brand.",
+              "(C) Melisa Perkins included her receipt of sale from an authorized Red Rock Leather Goods store.",
+              "(D) Melisa Perkins included $30 for zipper repair to her Coco TX Handbag."
+            ]
+          },
+          "answer": {
+            "text": "(C) Melisa Perkins included her receipt of sale from an authorized Red Rock Leather Goods store.",
+            "explanation": "In turn notices and letters read: “Also, the sales receipt is necessary to validate your warranty and receive service. ” <br> “I certify that this product was purchased at an official Red Rock Leather Goods store”  <br> “We have received and inspected your item and documents and concluded that it falls within our warranty.”  <br> Ms. Melisa Perkins is covered by warranty, which means she has given a receipt sales from authorized stores."
+          }
+        },
+        {
+          "question": {
+            "text": "What is indicated about Red Rock Leather Goods’ products?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They are sold nationwide.",
+              "(B) They are relatively expensive.",
+              "(C) They are made by hand.",
+              "(D) They come in a variety of colors."
+            ]
+          },
+          "answer": {
+            "text": "(C) They are made by hand.",
+            "explanation": "Infomation in the phrase \"All of our products are individually and meticulously made by skillful craftsmen.\""
+          }
+        },
+        {
+          "question": {
+            "text": "How much would Ms. Perkins be charged if her item was purchased at a second-hand store?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) $15",
+              "(B) $20",
+              "(C) $30",
+              "(D) $45"
+            ]
+          },
+          "answer": {
+            "text": "(C) $30",
+            "explanation": "In loneliness Perkins says her bag is locked, and check the price list This error will cost 30 $."
+          }
+        }
+      ],
+      "isSinglePara": false,
+      "id": "626441d5eccc8cae769c3d36"
+    },
+    {
+      "question": {
+        "text": "<em>Mr. John Morris<br />\r\n1423 Bernard Avenue<br />\r\nMillville, CA 90117</em><br />\r\n<br />\r\nDear Mr. Morris,<br />\r\n24/7 Fitness is the most successful workout facility in the United States. With over 3 million members nationwide, our franchise has become known as a reputable and trustworthy brand. Our success is a result of great relationships between US the franchiser and our franchisees.<br />\r\n<br />\r\nYou are receiving this mailing because you expressed interest in partnering with 24/7 Fitness in order to open a new location in your town. According to our preliminary research, your town has a large population of young, single people working in the professional field. This is our target demographic, and it means the business outlook for your 24/7 Fitness location is positive in your town. If you would like more information about the specific terms and regulations when partnering with 24/7 Fitness, please don&#39;t hesitate to call me at 347-555-3363. Additionally, if you would like to talk to another franchise owner, that information can be supplied by one of our associates.<br />\r\n<br />\r\nSincerely,<br />\r\n<br />\r\nLori Swanson<br />\r\nChief Operating Officer<br />\r\n<br />\r\n==========================<br />\r\n<br />\r\n<em>To: Zack Carter - zcarter@zenmail.com<br />\r\nFrom: John Morris - jmorris@cbnet.com<br />\r\nSubject: 24/7 Fitness<br />\r\nDate: March 6</em><br />\r\n<br />\r\nDear Mr. Carter,<br />\r\nMy name is John Morris and I am a small business owner living in the Millville area. I am currently in negotiations with 24/7 Fitness to open my own location here in Millville. As someone who works with 24/7 Fitness, you would help me a lot by sharing your opinions.<br />\r\n<br />\r\nI am interested in how you assess 24/7 Fitness as a franchiser. I operated several franchises in the past, and I always found that trust and honesty are the most important factors in a successful relationship. More importantly, I was also wondering what kind of support is provided by the parent company. Before opening your location, did you receive adequate training to allow you to smoothly begin operating your business? Any advice you can give me would be much appreciated.<br />\r\n<br />\r\nSincerely,<br />\r\nJohn Morris<br />\r\n<br />\r\n===========================<br />\r\n<br />\r\n<em>To: John Morris&nbsp; - jmorris@cbnet.com<br />\r\nFrom: Zack Carter - zcarter@zenmail.com<br />\r\nSubject: 24/7 Fitness<br />\r\nDate: March 7</em><br />\r\n<br />\r\nDear Mr. Morris,<br />\r\nI am happy to provide some insight into the operation of a 24/7 Fitness franchise. I have been working with 24/7 Fitness as a franchise owner for 10 years now. I actually run three different branches now. I completely agree with you that trust and honesty are the two most important aspects of any business relationship. On that count, I believe the fact that I own three franchises is testament to my faith in the franchiser.<br />\r\n<br />\r\nLet me put your mind at ease. First off, 24/7 Fitness has a very specific way that they want their brand to develop no matter who owns the branch. The parent company will not only provide training, but they insist on controlling the actual layout of the facilities from the locker rooms to the free weights. They want any of their 3 million members to be able to walk into any one of their gyms and feel at home. Until you have been operating for one full year, you must make monthly reports to corporate headquarters detailing all aspects of sales, membership, and a flow chart describing the usage of the facilities. It really is hands on until they have confidence you can represent the brand. I hope this helps you decide to join the 24/7 Fitness team!<br />\r\n<br />\r\nAll the best,<br />\r\nZack Carter",
+        "image": [],
+        "sound": [],
+        "choices": []
+      },
+      "answer": {
+        "explanation": ""
+      },
+      "difficultyLevel": "EASY",
+      "part": 7,
+      "childs": [
+        {
+          "question": {
+            "text": "According to the letter, what is the key to 24/7 Fitness’ success?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) Effective communication with regional owners",
+              "(B) Rapid nationwide expansion",
+              "(C) A team of experienced researchers",
+              "(D) Comprehensive training of employees"
+            ]
+          },
+          "answer": {
+            "text": "(A) Effective communication with regional owners",
+            "explanation": "Our success is a result of great relationships and our franchiser giữa franchisees"
+          }
+        },
+        {
+          "question": {
+            "text": "Where did Mr. Morris most likely get Mr. Carter’s contact information?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) From a 24/7 Fitness representative",
+              "(B) From 24/7 Fitness’s website",
+              "(C) From Mr. Carter’s blog",
+              "(D) From Mr. Carter’s employee"
+            ]
+          },
+          "answer": {
+            "text": "(A) From a 24/7 Fitness representative",
+            "explanation": "I currently in negotiations with 24/7 Fitness to open my own location here in Millville. As someone who works with 24/7 Fitness, you would help me a lot by sharing your opinions."
+          }
+        },
+        {
+          "question": {
+            "text": "What concerns Mr. Morris most about 24/7 Fitness?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) The reputation of its band",
+              "(B) The financial status",
+              "(C) The types of assistance",
+              "(D) The mandatory regulations"
+            ]
+          },
+          "answer": {
+            "text": "(C) The types of assistance",
+            "explanation": "I was also wondering what kind of support is provided by the parent company. Before opening your location, did you receive adequate training to allow you to smoothly begin operating your business?"
+          }
+        },
+        {
+          "question": {
+            "text": "What is the purpose of Zack Carter’s e-mail?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) To ask for information about a franchise",
+              "(B) To tell John Morris about 24/7 Fitness and the training they provide",
+              "(C) To persuade John Morris to avoid becoming an owner of a 24/7 Fitness franchise",
+              "(D) To remind 24/7 Fitness of their responsibility to their franchisees"
+            ]
+          },
+          "answer": {
+            "text": "(B) To tell John Morris about 24/7 Fitness and the training they provide",
+            "explanation": "I am happy to provide some insight into the operation of a 24/7 Fitness franchise."
+          }
+        },
+        {
+          "question": {
+            "text": "In Zack Carter’s e-mail, what is indicated about 24/7 Fitness?",
+            "image": [],
+            "sound": [],
+            "choices": [
+              "(A) They want all of their fitness centers to be nearly identical.",
+              "(B) They would like their franchisees to personalize their locations.",
+              "(C) They would like to sell more supplements and memberships next year.",
+              "(D) They require their franchisees to send quarterly reports about usage."
+            ]
+          },
+          "answer": {
+            "text": "(A) They want all of their fitness centers to be nearly identical.",
+            "explanation": "The parent company will not only provide training, but they insist on controlling the actual layout of the facilities from the lock rooms to the free weights."
+          }
+        }
+      ],
+      "isSinglePara": false,
+      "id": "626441d2eccc8cae769c3861"
+    }
+  ],
+  "testCollection": "628798b8b0b1613b5b2a574a",
+  "id": "62a422d07b5e34f85c54bb2e"
+}
