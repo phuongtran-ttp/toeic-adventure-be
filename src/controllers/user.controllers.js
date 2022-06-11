@@ -100,7 +100,7 @@ const getProfile = async (req, res) => {
       skillTest: skillTestCount,
       fullTest: fullTestCount,
     },
-    predictedScore,
+    predictedScore: predictedScore || -1,
   };
 
   return res.json(profile);
