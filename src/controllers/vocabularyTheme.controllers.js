@@ -5,8 +5,8 @@ const vocabularyThemeServices = require('../services/vocabularyTheme.services');
 
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
-  const resultPage = await vocabularyThemeServices.findPage(filter, options);
-  return res.json(resultPage);
+  const results = await vocabularyThemeServices.find(filter, options);
+  return res.json({ results });
 };
 
 const findOne = async (req, res) => {

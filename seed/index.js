@@ -3,12 +3,17 @@ const config = require('../src/config');
 const logger = require('../src/utils/logger');
 const seedSkillTest = require('./seedSkillTest');
 const seedFullTest = require('./seedFullTest');
+const createFullTest = require('./createFullTest');
 
 const mongoDbConfig = config.db.mongoose;
 
 const seedData = async () => {
-  await seedSkillTest();
-  await seedFullTest();
+  const promises = [];
+  for (let i = 0; i < 30; i ++) {
+    promises.push(createFullTest())
+  }
+
+  await Promise.all(promises);
 };
 
 mongoose

@@ -61,6 +61,7 @@ const questionSchema = new Schema(
       type: String,
       private: true,
     },
+    isSinglePara: Boolean,
   },
   { timestamps: true }
 );

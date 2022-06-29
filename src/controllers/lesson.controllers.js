@@ -7,8 +7,8 @@ const lessonTopicServices = require('../services/lessonTopic.services');
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
   options.populate = 'topic';
-  const resultPage = await lessonServices.findPage(filter, options);
-  return res.json(resultPage);
+  const results = await lessonServices.find(filter, options);
+  return res.json({ results });
 };
 
 const findOne = async (req, res) => {

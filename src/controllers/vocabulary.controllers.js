@@ -8,8 +8,8 @@ const fileServices = require('../services/file.services');
 const find = async (req, res) => {
   const { filter, options } = getQueryParams(req);
   options.populate = 'audio theme';
-  const resultPage = await vocabularyServices.findPage(filter, options);
-  return res.json(resultPage);
+  const results = await vocabularyServices.find(filter, options);
+  return res.json({ results });
 };
 
 const findOne = async (req, res) => {
